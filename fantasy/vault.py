@@ -44,7 +44,14 @@ def load_refresh_tokens(state_dir: str) -> list:
     out = []
     for name in ("auth.enc", "auth.prev.enc"):
         p = os.path.join(state_dir, name)
-        if os.path.exists(p):
-            with open(p, "rb") as f:
-                out.append(decrypt(f.read()))
+        if not os.path.exists(p):
+            continue
+        with open(p, "rb") as f:
+            blob = f.read()
+        try:
+            out.append(decrypt(blob))
+        except VaultError:
+            if name == "auth.enc":
+                raise
+            # el backup puede estar cifrado con una clave anterior: se ignora
     return out
