@@ -1,0 +1,65 @@
+# Límites y perfil del gestor autónomo. Edita, commitea y el siguiente run los aplica.
+# Perfil actual: agresivo (Rafa, sept 2026).
+league_id: "017900934"
+timezone: Europe/Madrid
+profile: agresivo
+
+money:
+  reserve: 0                      # saldo mínimo que se conserva tras pujas/cláusulas
+  allow_negative: false           # la API de LaLiga no lo permite hasta que se verifique lo contrario
+  max_spend_per_run: 60000000     # pujas nuevas + cláusulas pagadas por run
+  max_pending_bids: 6
+  max_bids_per_player: 1
+
+bids:
+  markup_default: 1.10            # puja = fair_value x markup
+  markup_critical: 1.30           # solo huecos críticos (no se puede alinear 11 disponibles)
+  hard_cap_ratio: 1.49            # nunca >= 1.5x valor de mercado (además hay tope fijo en código)
+  min_gain_points: 0.8            # puntos esperados/jornada que debe aportar un fichaje al once
+  cancel_if_gain_below: 0.3       # cancelar puja si el jugador ya no aporta esto
+  max_new_bids_per_run: 3
+
+sales:
+  bench_list_ratio: 1.08          # precio de listado de sobrantes = fair_value x ratio
+  starter_min_ratio: 0.97         # nunca listar/vender un titular por debajo de esto (guard)
+  accept_offer_ratio_bench: 0.97  # aceptar oferta por un suplente si >= fair_value x ratio
+  accept_offer_ratio_starter: 0.97  # solo si lo listamos nosotros (financiar fichaje / sobrante)
+  fund_list_ratio: 1.02           # precio de listado cuando vendemos para financiar un fichaje
+  trend_sell_threshold: -0.04     # tendencia 7 días <= -4% -> candidato a venta
+  withdraw_after_hours: 48        # retirar listado sin oferta útil pasado este tiempo
+  max_new_listings_per_run: 2
+
+clauses:
+  pay_cap_ratio: 1.50             # pagar cláusula solo si cláusula <= valor x ratio
+  pay_min_gain_points: 1.5
+  max_pays_per_run: 1
+  raise_when_ratio_below: 1.30    # subir cláusula de mis mejores si cláusula/valor < esto
+  raise_target_ratio: 1.80
+  raise_max_spend_per_run: 10000000
+  raise_top_n: 4
+
+squad:
+  min_size: 11
+  max_size: 26
+  min_per_pos: {POR: 1, DEF: 3, MED: 3, DEL: 1}   # mínimos para poder alinear alguna formación
+  target_per_pos: {POR: 2, DEF: 5, MED: 5, DEL: 3}
+
+lineup:
+  min_improvement: 0.3            # pts esperados de mejora para cambiar el once
+  status_factor: {ok: 1.0, doubtful: 0.6, injured: 0.0, suspended: 0.0, out_of_league: 0.0, unknown: 0.85}
+  probable_min_factor: 0.4        # factor = min + (1-min) * probabilidad
+  fixture_range: [0.85, 1.15]
+  home_bonus: 0.04
+  min_games_for_full_weight: 5
+  prior_ppg_by_pos: {POR: 3.0, DEF: 3.2, MED: 4.0, DEL: 4.3}
+
+probable:
+  cache_hours: 72
+  request_delay: 1.0
+
+run:
+  max_actions_per_run: 8
+  max_requests_per_run: 90
+  quiet_when_idle: true
+  daily_summary_hour_local: 21
+  rivals_cache_hours: 6
