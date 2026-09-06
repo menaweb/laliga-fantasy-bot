@@ -29,7 +29,7 @@ jobs:
       DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && (inputs.dry_run && 'true' || 'false') || (vars.DRY_RUN || 'true') }}
       KILL_SWITCH: ${{ vars.KILL_SWITCH || 'false' }}
       ENABLED_WRITES: ${{ vars.ENABLED_WRITES || '' }}
-      LALIGA_TOKEN_FILE: ${{ runner.temp }}/tokens.json
+      LALIGA_TOKEN_FILE: /tmp/tokens.json
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
