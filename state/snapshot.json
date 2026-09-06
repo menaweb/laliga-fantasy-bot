@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-06T20:27:32+0000",
+ "fetched_at": "2026-09-06T20:37:40+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -435,8 +435,8 @@
    "nickname": "Miguel Sierra",
    "positionId": 4,
    "marketValue": 2922220,
-   "points": 19,
-   "averagePoints": 4.75,
+   "points": 18,
+   "averagePoints": 4.5,
    "playerStatus": "ok"
   },
   {
@@ -771,8 +771,8 @@
    "nickname": "Nuñez",
    "positionId": 2,
    "marketValue": 9504029,
-   "points": 17,
-   "averagePoints": 4.25,
+   "points": 16,
+   "averagePoints": 4.0,
    "playerStatus": "ok"
   },
   {
@@ -807,28 +807,28 @@
  "standing": [
   {
    "position": 1,
-   "points": 209,
+   "points": 208,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 309951672
   },
   {
    "position": 2,
-   "points": 178,
+   "points": 180,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 228443521
   },
   {
    "position": 3,
-   "points": 169,
+   "points": 168,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 244404391
   },
   {
    "position": 4,
-   "points": 161,
+   "points": 162,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 178020317
