@@ -212,6 +212,7 @@ def cmd_push_token():
     subprocess.run(["git", "add", state_dir], check=True)
     if subprocess.run(["git", "diff", "--cached", "--quiet"]).returncode != 0:
         subprocess.run(["git", "commit", "-m", "state: refresh token renovado"], check=True)
+        subprocess.run(["git", "pull", "--rebase", "--autostash"], check=True)
         subprocess.run(["git", "push"], check=True)
         print("state/auth.enc actualizado y subido")
     else:
