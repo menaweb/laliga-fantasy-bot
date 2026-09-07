@@ -1,6 +1,14 @@
 {
  "bids": [],
- "listings": [],
+ "listings": [
+  {
+   "market_id": "17211270",
+   "player_id": "2040",
+   "price": 17913339,
+   "listed_at": "2026-09-07T10:34:50+0000",
+   "reason": "financiar fichaje de M. Román (run 12:33, recuperado a mano tras KeyError)"
+  }
+ ],
  "handled_offers": [
   "83167330"
  ],

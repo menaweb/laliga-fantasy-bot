@@ -50,9 +50,11 @@ class Executor:
             self.ledger.remove_bid(p["market_id"])
             return ""
         if a.kind == "sell":
+            # se apunta ANTES de llamar: si la API responde y luego algo falla, el listado sigue siendo nuestro
+            self.ledger.add_listing(None, a.player_id, p["sale_price"])
             r = self.c.sell(lid, p["player_team_id"], p["sale_price"])
             mid = (r or {}).get("id") if isinstance(r, dict) else None
-            self.ledger.add_listing(mid, p["player_id"], p["sale_price"])
+            self.ledger.listings[-1]["market_id"] = str(mid) if mid else None
             return f"market_id={mid}"
         if a.kind == "withdraw":
             self.c.withdraw(lid, p["market_id"])

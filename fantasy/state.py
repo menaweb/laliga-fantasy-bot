@@ -320,8 +320,16 @@ class Ledger:
                 kept.append({"market_id": mid, "player_id": m["player_id"], "money": m["money"], "bid_id": m["id"],
                              "placed_at": None, "reason": "detectada en el mercado"})
         self.bids = kept
-        on_sale = {str((s["onSale"] or {}).get("id")) for s in snap.squad() if s["onSale"]}
-        self.listings = [l for l in self.listings if str(l.get("market_id")) in on_sale]
+        on_sale = {str((s["onSale"] or {}).get("id")): s["player"]["id"] for s in snap.squad() if s["onSale"]}
+        kept = []
+        for l in self.listings:
+            if l.get("market_id") is None:   # apuntado antes de la llamada: completar con el id real si el jugador está en venta
+                mid = next((m for m, pid in on_sale.items() if pid == str(l.get("player_id"))), None)
+                if mid:
+                    l["market_id"] = mid
+            if str(l.get("market_id")) in on_sale:
+                kept.append(l)
+        self.listings = kept
 
     def pending_bid_total(self) -> int:
         return sum(int(b.get("money") or 0) for b in self.bids)
