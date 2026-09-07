@@ -115,7 +115,7 @@ def run_once(cfg, now: datetime | None = None) -> dict:
     text = notify.format_run(run)
     idle = not run["results"] and not run["errors"]
     if not (idle and cfg.run.quiet_when_idle and local.hour != cfg.run.daily_summary_hour_local):
-        notify.send(text)
+        print("telegram enviado:", notify.send(text))
     else:
         print(text)
     if run["errors"] and ledger.consecutive_failures() == 3:
