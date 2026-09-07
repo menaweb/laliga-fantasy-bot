@@ -18,8 +18,15 @@ def send(text: str) -> bool:
         chunk = text[i:i + MAX]
         try:
             r = requests.post(API.format(token=token), json={"chat_id": chat, "text": chunk, "disable_web_page_preview": True}, timeout=15)
+            if not r.ok:
+                try:
+                    desc = r.json().get("description")
+                except ValueError:
+                    desc = r.text[:120]
+                print(f"telegram error {r.status_code}: {desc}")   # nunca incluye el token
             ok = ok and r.ok
-        except requests.RequestException:
+        except requests.RequestException as e:
+            print(f"telegram error de red: {type(e).__name__}")
             ok = False
     return ok
 
