@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-07T10:33:35+0000",
+ "fetched_at": "2026-09-07T10:47:43+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -144,7 +144,7 @@
    "playerStatus": "ok",
    "buyoutClause": 41843318,
    "lockedEnd": "2026-08-19T00:06:12+0200",
-   "onSale": false
+   "onSale": true
   },
   {
    "ptid": "29138175",
@@ -438,6 +438,21 @@
    "marketValue": 6142321,
    "points": 5,
    "averagePoints": 1.25,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2040",
+   "discr": "marketPlayerTeam",
+   "salePrice": 17913339,
+   "expirationDate": "2026-09-10T12:34:50+02:00",
+   "numberOfBids": null,
+   "seller": "37682094",
+   "myBid": null,
+   "nickname": "Jauregizar",
+   "positionId": 3,
+   "marketValue": 17913339,
+   "points": 7,
+   "averagePoints": 1.75,
    "playerStatus": "ok"
   },
   {

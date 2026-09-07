@@ -72,6 +72,13 @@
    "ts": "2026-09-07T10:33:34.557662+00:00",
    "mode": "LIVE",
    "error": "bug: 'player_id'"
+  },
+  {
+   "ts": "2026-09-07T10:47:42.235271+00:00",
+   "mode": "LIVE",
+   "actions": 0,
+   "spend": 0,
+   "requests": 24
   }
  ],
  "live_writes_seen": []
