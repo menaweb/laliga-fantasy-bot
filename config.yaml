@@ -58,6 +58,11 @@ probable:
   cache_hours: 72
   request_delay: 1.0
 
+reward:
+  enabled: false                  # recompensa diaria: la API exige un rewardedAd que valida el servidor (anuncio).
+  rewarded_ad_type: null          # rellenar cuando se capture la petición real desde la web/app
+  rewarded_ad: null
+
 run:
   max_actions_per_run: 8
   max_requests_per_run: 90

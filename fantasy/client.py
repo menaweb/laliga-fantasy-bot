@@ -166,7 +166,8 @@ class FantasyClient:
         return self._write("PUT", f"{CMP}/teams/{team_id}/lineup", lineup_payload)
 
     def claim_daily_reward(self, league_id, team_id, body=None):
-        """Recompensa diaria (100.000 €). Body verificado en verify-writes; por defecto {"teamId": id}."""
+        """Recompensa diaria (100.000 €). La API exige rewardedAdType + rewardedAd válidos (ligados a un anuncio).
+        El body se toma de config.yaml (reward.*) cuando se conozca; verify-writes prueba variantes."""
         return self._write("POST", f"{CMP}/league/{league_id}/team/daily-reward", body or {"teamId": int(team_id)})
 
     def direct_offer(self, league_id, player_id, money):

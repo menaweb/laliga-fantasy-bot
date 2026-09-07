@@ -68,15 +68,18 @@ def run_once(cfg, now: datetime | None = None) -> dict:
         v = Valuer(snap, history, probable, cfg, today)
 
         actions = []
-        try:
-            chk = c.check_daily_reward(snap.league_id, snap.team_id) or {}
-            if isinstance(chk, dict) and int(chk.get("dailyRewardsRedeemed") or 0) == 0:
-                actions.append(Action("daily_reward", None, "Recompensa diaria", 0, "100.000 € sin reclamar hoy",
-                                      {"league_id": snap.league_id, "team_id": snap.team_id}))
-        except ApiError as e:
-            if "429" in str(e):
-                raise
-            run["notes"].append(f"recompensa diaria: no se pudo comprobar ({str(e)[-60:]})")
+        rw = cfg.get("reward") or {}
+        if rw.get("enabled") and rw.get("rewarded_ad_type") and rw.get("rewarded_ad") is not None:
+            try:
+                chk = c.check_daily_reward(snap.league_id, snap.team_id) or {}
+                if isinstance(chk, dict) and int(chk.get("dailyRewardsRedeemed") or 0) == 0:
+                    body = {"teamId": int(snap.team_id), "rewardedAdType": rw["rewarded_ad_type"], "rewardedAd": rw["rewarded_ad"]}
+                    actions.append(Action("daily_reward", None, "Recompensa diaria", 0, "100.000 € sin reclamar hoy",
+                                          {"league_id": snap.league_id, "team_id": snap.team_id, "body": body}))
+            except ApiError as e:
+                if "429" in str(e):
+                    raise
+                run["notes"].append(f"recompensa diaria: no se pudo comprobar ({str(e)[-60:]})")
         a, why = plan_lineup(snap, v, cfg, now)
         if a:
             actions.append(a)

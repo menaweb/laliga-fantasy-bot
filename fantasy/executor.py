@@ -69,7 +69,7 @@ class Executor:
             self.c.pay_clause(lid, p["player_team_id"], p["amount"])
             return ""
         if a.kind == "daily_reward":
-            r = self.c.claim_daily_reward(lid, p["team_id"])
+            r = self.c.claim_daily_reward(lid, p["team_id"], p.get("body"))
             return str(r)[:80] if r else ""
         if a.kind == "clause_raise":
             self.c.raise_clause(lid, p["player_team_id"], p["factor"], p["value_to_increase"])
