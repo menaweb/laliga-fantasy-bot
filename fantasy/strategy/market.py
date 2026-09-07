@@ -70,8 +70,12 @@ def plan_sales(snap, valuer, cfg, ledger, now: datetime, fund: dict | None = Non
     for e in entries:
         if not e["onSale"]:
             continue
-        listed = parse_dt(e["onSale"].get("expirationDate"))
-        listed_at = (listed - timedelta(hours=24)) if listed else None
+        mid = str(e["onSale"].get("id"))
+        ours = next((l for l in ledger.listings if str(l.get("market_id")) == mid), None)
+        listed_at = parse_dt(ours.get("listed_at")) if ours and ours.get("listed_at") else None
+        if not listed_at:
+            exp = parse_dt(e["onSale"].get("expirationDate"))
+            listed_at = (exp - timedelta(hours=cfg.sales.listing_hours)) if exp else None
         offers = snap.offers.get(e["ptid"], []) or []
         if listed_at and now - listed_at > timedelta(hours=cfg.sales.withdraw_after_hours) and not offers:
             actions.append(Action("withdraw", e["player"]["id"], e["player"]["nickname"], 0,
