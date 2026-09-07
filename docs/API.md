@@ -72,14 +72,14 @@ Fuente: app oficial, vía github.com/Externoak/LaLigaApp (`src/services/api.js`)
 | Pujar | `POST {CMP}/league/{leagueId}/market/{marketId}/bid` | `{"money": N}` |
 | Modificar puja | `PUT .../market/{marketId}/bid/{bidId}` | `{"money": N}` |
 | Cancelar puja | `DELETE .../market/{marketId}/bid/{bidId}/cancel` | — |
-| Vender | `POST {CMP}/league/{leagueId}/market/sell` | `{"playerId", "salePrice"}` |
+| Vender | `POST {CMP}/league/{leagueId}/market/sell` | `{"playerId": playerTeamId, "salePrice"}` (**playerTeamId**, no el id del jugador; si no: 400 "player is not in your team anymore") |
 | Retirar del mercado | `DELETE .../market/{marketId}/delete` | — |
 | Aceptar oferta | `POST .../market/{marketId}/offer/{offerId}/accept` | `{"offerMoney": N}` (obligatorio) |
 | Rechazar oferta | `POST .../market/{marketId}/offer/{offerId}/reject` | sin body |
 | Alineación | `PUT {CMP}/teams/{teamId}/lineup` | `{"goalkeeper": playerTeamId, "defender": [ptid…], "midfield": [ptid…], "striker": [ptid…], "tactical_formation": [4,4,2]}` |
 | Cancelar oferta | `DELETE .../market/{marketId}/offer/{offerId}/cancel` | — |
 | Oferta directa | `POST {CMP}/league/{leagueId}/market/direct-offer` | `{"playerId", "money"}` |
-| Subir cláusula | `PUT {CMP}/league/{leagueId}/buyout/player` | `{"playerId","factor","valueToIncrease"}` |
-| Pagar cláusula | `POST {CMP}/league/{leagueId}/buyout/{playerId}/pay` | `{"buyoutClauseToPay": N}` |
+| Subir cláusula | `PUT {CMP}/league/{leagueId}/buyout/player` | `{"playerId": playerTeamId, "factor": 2, "valueToIncrease": 2×pago}` |
+| Pagar cláusula | `POST {CMP}/league/{leagueId}/buyout/{playerTeamId}/pay` | `{"buyoutClauseToPay": N}` (playerTeamId del jugador en la plantilla rival) |
 
 Mínimo de puja = `max(marketValue, salePrice)`.

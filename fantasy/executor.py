@@ -50,7 +50,7 @@ class Executor:
             self.ledger.remove_bid(p["market_id"])
             return ""
         if a.kind == "sell":
-            r = self.c.sell(lid, p["player_id"], p["sale_price"])
+            r = self.c.sell(lid, p["player_team_id"], p["sale_price"])
             mid = (r or {}).get("id") if isinstance(r, dict) else None
             self.ledger.add_listing(mid, p["player_id"], p["sale_price"])
             return f"market_id={mid}"
@@ -66,9 +66,9 @@ class Executor:
             self.ledger.handled_offers.append(p["offer_id"])
             return ""
         if a.kind == "clause_pay":
-            self.c.pay_clause(lid, p["player_id"], p["amount"])
+            self.c.pay_clause(lid, p["player_team_id"], p["amount"])
             return ""
         if a.kind == "clause_raise":
-            self.c.raise_clause(lid, p["player_id"], p["factor"], p["value_to_increase"])
+            self.c.raise_clause(lid, p["player_team_id"], p["factor"], p["value_to_increase"])
             return ""
         raise ApiError(f"acción desconocida {a.kind}")

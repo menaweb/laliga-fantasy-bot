@@ -254,7 +254,7 @@ def cmd_verify_writes():
     if cand:
         price = int(cand["player"]["marketValue"] * 1.45)
         if ask(f"3) Poner en venta a {cand['player']['nickname']} a {price:,} (1.45x, nadie lo compra) y retirarlo?".replace(",", ".")):
-            r = c.sell(lid, cand["player"]["id"], price); print("   sell ->", r)
+            r = c.sell(lid, cand["ptid"], price); print("   sell ->", r)
             mid = (r or {}).get("id") if isinstance(r, dict) else None
             if not mid:
                 t2 = c.team(lid, tid)

@@ -144,9 +144,10 @@ class FantasyClient:
     def cancel_bid(self, league_id, market_id, bid_id):
         return self._write("DELETE", f"{CMP}/league/{league_id}/market/{market_id}/bid/{bid_id}/cancel")
 
-    def sell(self, league_id, player_id, sale_price):
+    def sell(self, league_id, player_team_id, sale_price):
+        # OJO: la API espera el playerTeamId (id del jugador EN TU EQUIPO), no el id del jugador.
         return self._write("POST", f"{CMP}/league/{league_id}/market/sell",
-                           {"playerId": player_id, "salePrice": sale_price})
+                           {"playerId": player_team_id, "salePrice": sale_price})
 
     def withdraw(self, league_id, market_id):
         return self._write("DELETE", f"{CMP}/league/{league_id}/market/{market_id}/delete")
@@ -168,10 +169,12 @@ class FantasyClient:
     def cancel_offer(self, league_id, market_id, offer_id):
         return self._write("DELETE", f"{CMP}/league/{league_id}/market/{market_id}/offer/{offer_id}/cancel")
 
-    def pay_clause(self, league_id, player_id, amount):
-        return self._write("POST", f"{CMP}/league/{league_id}/buyout/{player_id}/pay",
+    def pay_clause(self, league_id, player_team_id, amount):
+        # playerTeamId del jugador en la plantilla RIVAL
+        return self._write("POST", f"{CMP}/league/{league_id}/buyout/{player_team_id}/pay",
                            {"buyoutClauseToPay": amount})
 
-    def raise_clause(self, league_id, player_id, factor, value_to_increase):
+    def raise_clause(self, league_id, player_team_id, factor, value_to_increase):
+        # playerTeamId del jugador en MI plantilla; valueToIncrease = factor x lo que se paga
         return self._write("PUT", f"{CMP}/league/{league_id}/buyout/player",
-                           {"playerId": player_id, "factor": factor, "valueToIncrease": value_to_increase})
+                           {"playerId": player_team_id, "factor": factor, "valueToIncrease": value_to_increase})

@@ -42,7 +42,7 @@ def plan_clause_pays(snap, valuer, cfg, now: datetime, budget: int) -> list:
         p = r["player"]
         actions.append(Action("clause_pay", p["id"], p["nickname"], cl,
                               f"clausulazo a {r['manager']} · cláusula {cl:,} = {cl / p['marketValue']:.2f}×valor · +{g:.1f} pts al once".replace(",", "."),
-                              {"league_id": snap.league_id, "player_id": p["id"], "amount": cl}, market_value=p["marketValue"]))
+                              {"league_id": snap.league_id, "player_team_id": r["ptid"], "amount": cl}, market_value=p["marketValue"]))
         spent += cl
         n += 1
     return actions
@@ -72,7 +72,7 @@ def plan_clause_raises(snap, valuer, cfg, now: datetime, budget: int) -> list:
             continue
         actions.append(Action("clause_raise", p["id"], p["nickname"], cost,
                               f"cláusula {cl:,} = {ratio:.2f}×valor -> +{increase:,} (coste {cost:,})".replace(",", "."),
-                              {"league_id": snap.league_id, "player_id": p["id"], "factor": RAISE_FACTOR, "value_to_increase": increase},
+                              {"league_id": snap.league_id, "player_team_id": e["ptid"], "factor": RAISE_FACTOR, "value_to_increase": increase},
                               market_value=p["marketValue"]))
         spent += cost
     return actions

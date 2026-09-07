@@ -99,7 +99,7 @@ def plan_sales(snap, valuer, cfg, ledger, now: datetime, fund: dict | None = Non
         price = max(int(ev["fair"] * cfg.sales.bench_list_ratio), e["player"]["marketValue"])
         actions.append(Action("sell", e["player"]["id"], e["player"]["nickname"], 0,
                               f"sobrante ({', '.join(reasons)}) · {ev['exp']:.1f} pts esp · precio {price:,}".replace(",", "."),
-                              {"league_id": snap.league_id, "player_id": e["player"]["id"], "sale_price": price},
+                              {"league_id": snap.league_id, "player_team_id": e["ptid"], "sale_price": price},
                               market_value=e["player"]["marketValue"]))
         n += 1
     # venta para financiar: hay un fichaje claro que no cabe en caja -> listar al peor valor que lo financie
@@ -125,7 +125,7 @@ def plan_sales(snap, valuer, cfg, ledger, now: datetime, fund: dict | None = Non
             price = max(int(ev["fair"] * cfg.sales.fund_list_ratio), e["player"]["marketValue"])
             actions.append(Action("sell", e["player"]["id"], e["player"]["nickname"], 0,
                                   f"financiar fichaje de {fund['player']} (faltan {need_liquidity:,}) · {ev['exp']:.1f} pts esp · precio {price:,}".replace(",", "."),
-                                  {"league_id": snap.league_id, "player_id": e["player"]["id"], "sale_price": price, "fund": fund["player"]},
+                                  {"league_id": snap.league_id, "player_team_id": e["ptid"], "sale_price": price, "fund": fund["player"]},
                                   market_value=e["player"]["marketValue"]))
     return actions
 

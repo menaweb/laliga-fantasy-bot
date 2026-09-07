@@ -39,4 +39,5 @@ def test_fund_sale_when_upgrade_unaffordable(snap, valuer, cfg, ledger, now):
         acts = plan_sales(snap, valuer, cfg, ledger, now, fund=fund)
         sells = [a for a in acts if a.kind == "sell"]
         assert len(sells) == 1 and sells[0].market_value >= fund["missing"]
+        assert sells[0].params["player_team_id"] in {e["ptid"] for e in snap.squad()}
         assert valuer.exp(next(e["player"] for e in snap.squad() if e["player"]["id"] == sells[0].player_id)) < fund["exp"]
