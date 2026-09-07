@@ -8,6 +8,15 @@ def test_bid_price_cap_and_overprice(cfg):
     assert bid_price(fair=12_000_000, mv=10_000_000, sale_price=10_000_000, markup=1.30, cfg=cfg) <= 14_900_000
 
 
+def test_offer_kind_for_manager_items(snap, valuer, cfg, ledger, now):
+    snap.money = 60_000_000
+    acts, _ = plan_bids(snap, valuer, cfg, ledger, now)
+    by_id = {str(it["id"]): it for it in snap.market}
+    for a in acts:
+        expected = "offer" if by_id[a.params["market_id"]]["discr"] == "marketPlayerTeam" else "bid"
+        assert a.kind == expected
+
+
 def test_plan_bids_respects_budget_and_no_duplicates(snap, valuer, cfg, ledger, now):
     acts, info = plan_bids(snap, valuer, cfg, ledger, now)
     assert sum(a.amount for a in acts) <= snap.money
@@ -22,7 +31,7 @@ def test_plan_bids_skips_already_bid(snap, valuer, cfg, ledger, now):
     for a in acts:
         ledger.add_bid(a.params["market_id"], a.player_id, a.amount)
     again, _ = plan_bids(snap, valuer, cfg, ledger, now)
-    assert not any(x.kind == "bid" and x.params["market_id"] in {a.params["market_id"] for a in acts} for x in again)
+    assert not any(x.kind in ("bid", "offer") and x.params["market_id"] in {a.params["market_id"] for a in acts} for x in again)
 
 
 def test_offers_starter_not_ours_rejected(snap, valuer, cfg, ledger):

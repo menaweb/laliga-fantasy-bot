@@ -50,7 +50,7 @@ class Guard:
         if a.kind in SPENDING_KINDS:
             if not isinstance(a.amount, int) or a.amount <= 0:
                 return Verdict(False, "importe inválido")
-            if a.kind in ("bid", "modify_bid", "clause_pay"):
+            if a.kind in ("bid", "modify_bid", "offer", "modify_offer", "clause_pay"):
                 if a.market_value <= 0:
                     return Verdict(False, "sin valor de mercado")
                 if a.amount >= a.market_value * ABSOLUTE_CAP:
@@ -87,6 +87,8 @@ class Guard:
         if len(self.squad) >= self.cfg.squad.max_size:
             return Verdict(False, "plantilla llena")
         return Verdict(True)
+
+    _check_offer = _check_bid
 
     def _check_clause_pay(self, a):
         if a.player_id in self.by_pid:

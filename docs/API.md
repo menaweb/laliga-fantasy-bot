@@ -72,7 +72,9 @@ Fuente: app oficial, vía github.com/Externoak/LaLigaApp (`src/services/api.js`)
 ## Escritura (bloqueada en client.py salvo allow_writes=True)
 | Acción | Ruta | Body |
 |---|---|---|
-| Pujar | `POST {CMP}/league/{leagueId}/market/{marketId}/bid` | `{"money": N}` |
+| Pujar (jugador de LaLiga, `marketPlayerLeague`) | `POST {CMP}/league/{leagueId}/market/{marketId}/bid` | `{"money": N}` |
+| Ofertar (jugador de un mánager, `marketPlayerTeam`) | `POST {CMP}/league/{leagueId}/market/{marketId}/offer` | `{"money": N}` (usar `/bid` en estos devuelve 404, verificado 7/9/2026) |
+| Modificar oferta | `PUT .../market/{marketId}/offer/{offerId}` | `{"money": N}` |
 | Modificar puja | `PUT .../market/{marketId}/bid/{bidId}` | `{"money": N}` |
 | Cancelar puja | `DELETE .../market/{marketId}/bid/{bidId}/cancel` | — |
 | Vender | `POST {CMP}/league/{leagueId}/market/sell` | `{"playerId": playerTeamId, "salePrice"}` (**playerTeamId**, no el id del jugador; si no: 400 "player is not in your team anymore") |

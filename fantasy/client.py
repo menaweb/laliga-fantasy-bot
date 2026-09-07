@@ -141,6 +141,13 @@ class FantasyClient:
     def bid(self, league_id, market_id, money):
         return self._write("POST", f"{CMP}/league/{league_id}/market/{market_id}/bid", {"money": money})
 
+    def offer(self, league_id, market_id, money):
+        """Oferta por un jugador que vende OTRO mánager (discr marketPlayerTeam). Los de LaLiga van por bid()."""
+        return self._write("POST", f"{CMP}/league/{league_id}/market/{market_id}/offer", {"money": money})
+
+    def modify_offer(self, league_id, market_id, offer_id, money):
+        return self._write("PUT", f"{CMP}/league/{league_id}/market/{market_id}/offer/{offer_id}", {"money": money})
+
     def modify_bid(self, league_id, market_id, bid_id, money):
         return self._write("PUT", f"{CMP}/league/{league_id}/market/{market_id}/bid/{bid_id}", {"money": money})
 

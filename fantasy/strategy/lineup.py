@@ -29,7 +29,7 @@ def plan_lineup(snap, valuer, cfg, now: datetime) -> tuple[Action | None, str]:
 
     best = best_xi(entries, valuer, snap.formations or ["4,4,2"], locked_in=locked_in, excluded=excluded)
     if not best:
-        return None, "no hay once válido con la plantilla actual"
+        return None, "no se puede completar el once con los jugadores no bloqueados (jornada en juego)" if started else "no hay once válido con la plantilla actual"
     cur_total = sum(valuer.exp(e["player"]) for e in entries if e["ptid"] in cur_set)
     unavailable = [e for e in entries if e["ptid"] in cur_set and valuer.availability(e["player"]) <= 0]
     same = xi_set(best) == cur_set and list(best["formation"]) == list(current.get("formation") or [])

@@ -34,19 +34,21 @@ class Executor:
         if a.kind == "lineup":
             self.c.set_lineup(p["team_id"], p["payload"])
             return ""
-        if a.kind == "bid":
-            r = self.c.bid(lid, p["market_id"], p["money"])
+        if a.kind in ("bid", "offer"):
+            fn = self.c.bid if a.kind == "bid" else self.c.offer
+            r = fn(lid, p["market_id"], p["money"])
             bid_id = (r or {}).get("id") if isinstance(r, dict) else None
-            self.ledger.add_bid(p["market_id"], a.player_id, p["money"], bid_id, a.reason)
-            return f"bid_id={bid_id}"
+            self.ledger.add_bid(p["market_id"], a.player_id, p["money"], bid_id, a.reason, kind=a.kind)
+            return f"id={bid_id}"
         if a.kind == "modify_bid":
             self.c.modify_bid(lid, p["market_id"], p["bid_id"], p["money"])
             b = self.ledger.bid_for(p["market_id"])
             if b:
                 b["money"] = p["money"]
             return ""
-        if a.kind == "cancel_bid":
-            self.c.cancel_bid(lid, p["market_id"], p["bid_id"])
+        if a.kind in ("cancel_bid", "cancel_offer"):
+            fn = self.c.cancel_bid if a.kind == "cancel_bid" else self.c.cancel_offer
+            fn(lid, p["market_id"], p["bid_id"])
             self.ledger.remove_bid(p["market_id"])
             return ""
         if a.kind == "sell":

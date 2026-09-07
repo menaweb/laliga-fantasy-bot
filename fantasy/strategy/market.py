@@ -155,7 +155,7 @@ def plan_bids(snap, valuer, cfg, ledger, now: datetime) -> tuple[list, dict]:
             continue
         g = gain_of(m["player"])
         if g < cfg.bids.cancel_if_gain_below and b.get("bid_id"):
-            actions.append(Action("cancel_bid", m["player"]["id"], m["player"]["nickname"], 0,
+            actions.append(Action("cancel_offer" if b.get("kind") == "offer" else "cancel_bid", m["player"]["id"], m["player"]["nickname"], 0,
                                   f"ya no aporta ({g:+.1f} pts)", {"league_id": snap.league_id, "market_id": m["market_id"], "bid_id": b["bid_id"]},
                                   market_value=m["player"]["marketValue"]))
 
@@ -184,8 +184,16 @@ def plan_bids(snap, valuer, cfg, ledger, now: datetime) -> tuple[list, dict]:
         if price is None:
             continue
         scored.append((is_gap, g / max(price, 1) * 1e6, g, price, m))
-    scored.sort(key=lambda t: (-int(t[0]), -t[1]))
-    for is_gap, score, g, price, m in scored:
+    # Orden: primero UN candidato por posición crítica (el de más mejora que quepa), luego el resto por mejora/precio.
+    ordered, used = [], set()
+    for pos in critical:
+        best = max((t for t in scored if POS_NAMES[t[4]["player"]["positionId"]] == pos and t[3] <= projected - cfg.money.reserve),
+                   key=lambda t: t[2], default=None)
+        if best:
+            ordered.append(best)
+            used.add(best[4]["market_id"])
+    ordered += sorted((t for t in scored if t[4]["market_id"] not in used), key=lambda t: (-int(t[0]), -t[1]))
+    for is_gap, score, g, price, m in ordered:
         if n_new >= cfg.bids.max_new_bids_per_run or len(ledger.bids) + n_new >= cfg.money.max_pending_bids:
             break
         if room - n_new <= 0:
@@ -193,7 +201,8 @@ def plan_bids(snap, valuer, cfg, ledger, now: datetime) -> tuple[list, dict]:
         if projected - spent - price < cfg.money.reserve:
             continue
         p = m["player"]
-        actions.append(Action("bid", p["id"], p["nickname"], price,
+        kind = "offer" if m["discr"] == "marketPlayerTeam" else "bid"
+        actions.append(Action(kind, p["id"], p["nickname"], price,
                               f"{'HUECO ' + POS_NAMES[p['positionId']] + ' ' if is_gap else ''}+{g:.1f} pts al once · {valuer.evaluate(p)['reason']}",
                               {"league_id": snap.league_id, "market_id": m["market_id"], "money": price},
                               market_value=p["marketValue"]))

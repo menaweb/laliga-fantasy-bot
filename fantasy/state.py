@@ -168,17 +168,18 @@ class Snapshot:
 
     @property
     def projected_money(self) -> int:
-        """Saldo menos pujas pendientes (la API no descuenta las pujas de teamMoney)."""
-        return self.money - self.investment
+        """Saldo menos pujas/ofertas pendientes (la API no las descuenta de teamMoney)."""
+        return self.money - max(self.investment, getattr(self, "pending_ledger", 0))
 
     def my_bids(self) -> dict:
         """{market_id: {id, money, status}} de mis pujas según el propio mercado."""
         out = {}
         for it in self.market:
-            b = it.get("bid")
-            if isinstance(b, dict) and b.get("status") in (None, "pending"):
-                out[str(it.get("id"))] = {"id": str(b.get("id")), "money": int(b.get("money") or 0),
-                                          "player_id": str((it.get("playerMaster") or {}).get("id"))}
+            for key, kind in (("bid", "bid"), ("offer", "offer")):
+                b = it.get(key)
+                if isinstance(b, dict) and b.get("status") in (None, "pending"):
+                    out[str(it.get("id"))] = {"id": str(b.get("id")), "money": int(b.get("money") or 0), "kind": kind,
+                                              "player_id": str((it.get("playerMaster") or {}).get("id"))}
         return out
 
     def rival_squads(self) -> list:
@@ -307,19 +308,22 @@ class Ledger:
     def reconcile(self, snap: Snapshot):
         """Sincroniza las pujas con lo que dice el mercado (campo `bid`) y limpia listados vendidos."""
         mine = snap.my_bids()
+        market_ids = {str(it.get("id")) for it in snap.market}
         kept = []
         for b in self.bids:
             m = mine.get(str(b.get("market_id")))
-            if not m:
-                continue  # resuelta, cancelada o expirada
-            b["bid_id"], b["money"] = m["id"], m["money"]
-            kept.append(b)
+            if m:
+                b["bid_id"], b["money"] = m["id"], m["money"]
+                kept.append(b)
+            elif str(b.get("market_id")) in market_ids and b.get("kind") == "offer":
+                kept.append(b)   # el ítem no expone mis ofertas: se conserva mientras el ítem siga en el mercado
         known = {str(b["market_id"]) for b in kept}
         for mid, m in mine.items():   # pujas hechas fuera del bot (app) o perdidas del ledger
             if mid not in known:
                 kept.append({"market_id": mid, "player_id": m["player_id"], "money": m["money"], "bid_id": m["id"],
-                             "placed_at": None, "reason": "detectada en el mercado"})
+                             "kind": m.get("kind", "bid"), "placed_at": None, "reason": "detectada en el mercado"})
         self.bids = kept
+        snap.pending_ledger = self.pending_bid_total()
         on_sale = {str((s["onSale"] or {}).get("id")): s["player"]["id"] for s in snap.squad() if s["onSale"]}
         kept = []
         for l in self.listings:
@@ -337,8 +341,8 @@ class Ledger:
     def bid_for(self, market_id):
         return next((b for b in self.bids if str(b.get("market_id")) == str(market_id)), None)
 
-    def add_bid(self, market_id, player_id, money, bid_id=None, reason=""):
-        self.bids.append({"market_id": str(market_id), "player_id": str(player_id), "money": int(money),
+    def add_bid(self, market_id, player_id, money, bid_id=None, reason="", kind="bid"):
+        self.bids.append({"market_id": str(market_id), "player_id": str(player_id), "money": int(money), "kind": kind,
                           "bid_id": bid_id, "placed_at": datetime.now(timezone.utc).strftime(ISO), "reason": reason})
 
     def remove_bid(self, market_id):
