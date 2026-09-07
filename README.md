@@ -26,8 +26,8 @@ cp .env.example .env                 # cuenta Google: no hace falta contraseña
 1. Repo privado con este código. `gh auth login` en el Mac.
 2. `python main.py login` y luego `python main.py push-token --set-key` (genera `STATE_KEY`, la sube como secret y
    commitea `state/auth.enc`).
-3. Telegram: crea un bot con @BotFather, escríbele un mensaje, saca tu chat id (p.ej. con @userinfobot) y:
-   `gh secret set TELEGRAM_BOT_TOKEN` · `gh secret set TELEGRAM_CHAT_ID`.
+3. Telegram: crea un bot con @BotFather, pon su token en `.env` como `TELEGRAM_BOT_TOKEN`, escribe `/start` al bot
+   y ejecuta `python main.py telegram` (valida el token, detecta tu chat id, envía prueba y sube los secrets).
 4. Variables del repo (`gh variable set NOMBRE --body VALOR`):
    - `DRY_RUN`: `true` (fase 1) → `false`
    - `ENABLED_WRITES`: `` → `lineup` → `lineup,market` → `lineup,market,clauses`

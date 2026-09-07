@@ -10,6 +10,7 @@ Uso:
   python main.py push-token [--set-key] -> cifra el refresh token en state/auth.enc y lo sube al repo
   python main.py verify-writes  -> Fase 0: escrituras de verificación una a una, con confirmación
   python main.py scrub      -> copia data/raw_* a tests/fixtures anonimizando mánagers
+  python main.py telegram   -> comprueba el bot, saca tu chat id, envía prueba y sube los secrets a GitHub
 """
 import json
 import os
@@ -274,6 +275,45 @@ def cmd_verify_writes():
     print(f"\nHecho ({c.request_count} peticiones).")
 
 
+def cmd_telegram():
+    """Con TELEGRAM_BOT_TOKEN en .env: valida el token, detecta el chat id, envía prueba y sube secrets."""
+    import subprocess
+    import requests
+    token = (os.getenv("TELEGRAM_BOT_TOKEN") or "").strip()
+    if not token:
+        sys.exit("Pon TELEGRAM_BOT_TOKEN=<token de @BotFather> en .env y vuelve a ejecutar.")
+    if ":" not in token or len(token) < 40:
+        sys.exit("El token no tiene la forma esperada (123456789:AAAA...). Cópialo entero de @BotFather.")
+    api = f"https://api.telegram.org/bot{token}"
+    r = requests.get(f"{api}/getMe", timeout=15)
+    if not r.ok:
+        sys.exit(f"Telegram rechaza el token ({r.status_code}). Revísalo en @BotFather (/mybots -> API Token).")
+    name = r.json()["result"].get("username")
+    print(f"Bot válido: @{name}")
+    chat = (os.getenv("TELEGRAM_CHAT_ID") or "").strip()
+    if not chat:
+        ups = requests.get(f"{api}/getUpdates", timeout=15).json().get("result", [])
+        chats = {}
+        for u in ups:
+            m = u.get("message") or u.get("edited_message") or {}
+            c = m.get("chat") or {}
+            if c.get("id"):
+                chats[str(c["id"])] = c.get("username") or c.get("first_name") or c.get("title")
+        if not chats:
+            sys.exit(f"No hay mensajes: abre Telegram, escribe /start a @{name} y vuelve a ejecutar este comando.")
+        chat = list(chats)[-1]
+        print(f"Chat detectado: {chat} ({chats[chat]})")
+        with open(".env", "a", encoding="utf-8") as f:
+            f.write(f"\nTELEGRAM_CHAT_ID={chat}\n")
+    r = requests.post(f"{api}/sendMessage", json={"chat_id": chat, "text": "✅ Bot de LaLiga Fantasy conectado."}, timeout=15)
+    if not r.ok:
+        sys.exit(f"No se pudo enviar al chat {chat}: {r.json().get('description', r.status_code)}")
+    print("Mensaje de prueba enviado.")
+    subprocess.run(["gh", "secret", "set", "TELEGRAM_BOT_TOKEN", "--body", token], check=True)
+    subprocess.run(["gh", "secret", "set", "TELEGRAM_CHAT_ID", "--body", chat], check=True)
+    print("Secrets TELEGRAM_BOT_TOKEN y TELEGRAM_CHAT_ID actualizados en GitHub.")
+
+
 def cmd_scrub():
     import glob, re, shutil
     dirs = sorted(glob.glob("data/raw_*"))
@@ -305,7 +345,8 @@ def cmd_scrub():
 
 if __name__ == "__main__":
     cmds = {"login": cmd_login, "token": cmd_token, "ligas": cmd_ligas, "informe": cmd_informe, "raw": cmd_raw,
-            "run": cmd_run, "push-token": cmd_push_token, "verify-writes": cmd_verify_writes, "scrub": cmd_scrub}
+            "run": cmd_run, "push-token": cmd_push_token, "verify-writes": cmd_verify_writes, "scrub": cmd_scrub,
+            "telegram": cmd_telegram}
     arg = sys.argv[1] if len(sys.argv) > 1 else "informe"
     if arg not in cmds:
         sys.exit(__doc__)
