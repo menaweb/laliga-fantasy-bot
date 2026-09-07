@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-07T19:04:46+0000",
+ "fetched_at": "2026-09-07T19:18:39+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -11,10 +11,10 @@
   "openingWeekDate": "2026-09-04T21:00:00+02:00",
   "closingWeekDate": "2026-09-08T03:00:00+02:00"
  },
- "money": 5050118,
+ "money": 22875117,
  "investment": 0,
  "team": {
-  "teamValue": 182056928,
+  "teamValue": 165705483,
   "teamPoints": 72,
   "position": 9,
   "playersNumber": 13
@@ -35,17 +35,31 @@
    "onSale": true
   },
   {
-   "ptid": "49305697",
-   "id": "2609",
-   "nickname": "Valentín Gómez",
+   "ptid": "50459068",
+   "id": "2680",
+   "nickname": "A. Castrín",
    "positionId": 2,
-   "teamId": "5",
-   "marketValue": 1799610,
+   "teamId": "17",
+   "marketValue": 3830386,
+   "points": 11,
+   "averagePoints": 2.75,
+   "playerStatus": "ok",
+   "buyoutClause": 5000000,
+   "lockedEnd": "2026-09-10T20:08:12+0200",
+   "onSale": false
+  },
+  {
+   "ptid": "66953203",
+   "id": "3026",
+   "nickname": "Pablo Ramón",
+   "positionId": 2,
+   "teamId": "49",
+   "marketValue": 1557922,
    "points": 13,
    "averagePoints": 3.25,
    "playerStatus": "ok",
-   "buyoutClause": 3887943,
-   "lockedEnd": "2026-09-09T23:52:47+0200",
+   "buyoutClause": 1557922,
+   "lockedEnd": "2026-09-21T21:05:53+0200",
    "onSale": false
   },
   {
@@ -77,17 +91,17 @@
    "onSale": false
   },
   {
-   "ptid": "50459068",
-   "id": "2680",
-   "nickname": "A. Castrín",
+   "ptid": "49305697",
+   "id": "2609",
+   "nickname": "Valentín Gómez",
    "positionId": 2,
-   "teamId": "17",
-   "marketValue": 3830386,
-   "points": 11,
-   "averagePoints": 2.75,
+   "teamId": "5",
+   "marketValue": 1799610,
+   "points": 13,
+   "averagePoints": 3.25,
    "playerStatus": "ok",
-   "buyoutClause": 5000000,
-   "lockedEnd": "2026-09-10T20:08:12+0200",
+   "buyoutClause": 3887943,
+   "lockedEnd": "2026-09-09T23:52:47+0200",
    "onSale": false
   },
   {
@@ -105,20 +119,6 @@
    "onSale": false
   },
   {
-   "ptid": "37055594",
-   "id": "2991",
-   "nickname": "D. Villares",
-   "positionId": 3,
-   "teamId": "26",
-   "marketValue": 1520701,
-   "points": 5,
-   "averagePoints": 1.25,
-   "playerStatus": "ok",
-   "buyoutClause": 2393361,
-   "lockedEnd": "2026-09-01T20:08:29+0200",
-   "onSale": false
-  },
-  {
    "ptid": "16810003",
    "id": "3077",
    "nickname": "Edu Expósito",
@@ -133,18 +133,18 @@
    "onSale": false
   },
   {
-   "ptid": "16810000",
-   "id": "2040",
-   "nickname": "Jauregizar",
+   "ptid": "37055594",
+   "id": "2991",
+   "nickname": "D. Villares",
    "positionId": 3,
-   "teamId": "3",
-   "marketValue": 17909367,
-   "points": 7,
-   "averagePoints": 1.75,
+   "teamId": "26",
+   "marketValue": 1520701,
+   "points": 5,
+   "averagePoints": 1.25,
    "playerStatus": "ok",
-   "buyoutClause": 41843318,
-   "lockedEnd": "2026-08-19T00:06:12+0200",
-   "onSale": true
+   "buyoutClause": 2393361,
+   "lockedEnd": "2026-09-01T20:08:29+0200",
+   "onSale": false
   },
   {
    "ptid": "29138175",
@@ -219,7 +219,6 @@
    "50459068"
   ],
   "midfield": [
-   "16810000",
    "16810003",
    "29138175",
    "37055594"
@@ -271,8 +270,8 @@
    "nickname": "Marcos Alonso",
    "positionId": 2,
    "marketValue": 27535320,
-   "points": 24,
-   "averagePoints": 6.0,
+   "points": 26,
+   "averagePoints": 6.5,
    "playerStatus": "ok"
   },
   {
@@ -286,8 +285,8 @@
    "nickname": "Carreira",
    "positionId": 2,
    "marketValue": 6386303,
-   "points": 16,
-   "averagePoints": 3.2,
+   "points": 17,
+   "averagePoints": 3.4,
    "playerStatus": "ok"
   },
   {
@@ -376,8 +375,8 @@
    "nickname": "Zaid Romero",
    "positionId": 2,
    "marketValue": 31435773,
-   "points": 21,
-   "averagePoints": 5.25,
+   "points": 22,
+   "averagePoints": 5.5,
    "playerStatus": "suspended"
   },
   {
@@ -438,21 +437,6 @@
    "marketValue": 6140621,
    "points": 5,
    "averagePoints": 1.25,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2040",
-   "discr": "marketPlayerTeam",
-   "salePrice": 17913339,
-   "expirationDate": "2026-09-10T12:34:50+02:00",
-   "numberOfBids": null,
-   "seller": "37682094",
-   "myBid": null,
-   "nickname": "Jauregizar",
-   "positionId": 3,
-   "marketValue": 17909367,
-   "points": 7,
-   "averagePoints": 1.75,
    "playerStatus": "ok"
   },
   {
@@ -1216,8 +1200,8 @@
    "nickname": "M. Román",
    "positionId": 3,
    "marketValue": 8754270,
-   "points": 27,
-   "averagePoints": 5.4,
+   "points": 29,
+   "averagePoints": 5.8,
    "playerStatus": "ok"
   }
  ],
@@ -1252,14 +1236,14 @@
   },
   {
    "position": 5,
-   "points": 158,
+   "points": 159,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 235202732
   },
   {
    "position": 6,
-   "points": 142,
+   "points": 144,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 201714937
@@ -1273,17 +1257,17 @@
   },
   {
    "position": 8,
-   "points": 124,
+   "points": 126,
    "team_id": "37681066",
    "manager": "Miguel Canuelo",
-   "teamValue": 185557576
+   "teamValue": 183999654
   },
   {
    "position": 9,
    "points": 96,
    "team_id": "37682094",
    "manager": "menaweb",
-   "teamValue": 182056928
+   "teamValue": 165705483
   }
  ]
 }
