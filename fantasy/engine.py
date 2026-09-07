@@ -102,6 +102,23 @@ def run_once(cfg, now: datetime | None = None) -> dict:
         guard = Guard(cfg, snap, ledger, now)
         ex = Executor(c, guard, ledger, dry_run=cfg.dry_run)
         run["results"] = ex.run(actions)
+        # El dinero de una venta aceptada entra al instante: releer saldo/plantilla y pujar en este mismo run.
+        money_moved = any(r.status == "OK" and r.action.kind in ("accept_offer", "clause_pay", "cancel_bid") for r in run["results"])
+        if money_moved and not cfg.dry_run:
+            m = c.money(snap.team_id)
+            snap.money = int(m.get("teamMoney", 0)) if isinstance(m, dict) else int(m or 0)
+            snap.investment = int(m.get("teamInvestment", 0) or 0) if isinstance(m, dict) else 0
+            snap.team = c.team(snap.league_id, snap.team_id) or snap.team
+            snap.market = c.market(snap.league_id) or snap.market
+            ledger.reconcile(snap)
+            guard.refresh(snap)
+            bids2, info2 = plan_bids(snap, v, cfg, ledger, now)
+            if bids2:
+                run["notes"].append(f"replanificación con saldo actualizado ({snap.projected_money:,} €)".replace(",", "."))
+                run["results"] += ex.run(bids2)
+            info["projected"] = snap.projected_money
+            if info2.get("unaffordable_best"):
+                run["notes"].append(f"sigue sin caber {info2['unaffordable_best']['player']} (faltan {info2['unaffordable_best']['missing']:,} €)".replace(",", "."))
         run.update({"week": snap.week_number, "live": snap.is_live, "money": snap.money, "projected": info["projected"],
                     "position": snap.team.get("position"), "points": snap.team.get("teamPoints"), "requests": c.request_count})
         first_live = [r.action.group for r in run["results"] if r.status == "OK" and r.action.group not in ledger.live_writes_seen]

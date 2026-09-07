@@ -29,6 +29,16 @@ class Guard:
         self.projected = snap.projected_money
         self.market_bids = snap.my_bids()
 
+    def refresh(self, snap):
+        """Tras ventas/cláusulas en el mismo run: recalcular saldo y plantilla conservando los contadores del run."""
+        self.s = snap
+        self.squad = snap.squad()
+        self.by_ptid = {e["ptid"]: e for e in self.squad}
+        self.by_pid = {e["player"]["id"]: e for e in self.squad}
+        self.xi = xi_set(snap.current_xi())
+        self.projected = snap.projected_money
+        self.market_bids = snap.my_bids()
+
     def check(self, a: Action) -> Verdict:
         c = self.cfg
         if c.kill_switch:
