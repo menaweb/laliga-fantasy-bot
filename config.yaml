@@ -43,6 +43,7 @@ squad:
   min_size: 11
   max_size: 26
   min_per_pos: {POR: 1, DEF: 3, MED: 3, DEL: 1}   # mínimos para poder alinear alguna formación
+  weak_starter_exp: 1.5           # un titular por debajo de esto convierte su posición en hueco crítico (prioridad + markup_critical)
   target_per_pos: {POR: 2, DEF: 5, MED: 5, DEL: 3}
 
 lineup:

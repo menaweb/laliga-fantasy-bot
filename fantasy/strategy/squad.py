@@ -56,10 +56,19 @@ def count_by_pos(entries: list, available_only=False, valuer=None) -> dict:
     return out
 
 
-def gaps(entries: list, valuer, cfg) -> list:
-    """Posiciones críticas: con los disponibles no se alcanza el mínimo para alinear."""
+def gaps(entries: list, valuer, cfg, xi: dict | None = None) -> list:
+    """Posiciones críticas: no se alcanza el mínimo con disponibles, o un titular del once es muy flojo
+    (p.ej. portero suplente en su club)."""
     avail = count_by_pos(entries, available_only=True, valuer=valuer)
-    return [pos for pos, n in cfg.squad.min_per_pos.items() if avail.get(pos, 0) < n]
+    out = [pos for pos, n in cfg.squad.min_per_pos.items() if avail.get(pos, 0) < n]
+    if xi:
+        weak = float(cfg.squad.get("weak_starter_exp", 0) or 0)
+        in_xi = xi_set(xi)
+        for e in entries:
+            pos = POS_NAMES.get(e["player"]["positionId"])
+            if e["ptid"] in in_xi and pos and pos not in out and valuer.exp(e["player"]) < weak:
+                out.append(pos)
+    return out
 
 
 def weakest_in_xi(entries: list, xi: dict, valuer, position_id: int):

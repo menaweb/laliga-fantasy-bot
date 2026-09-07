@@ -160,7 +160,7 @@ def plan_bids(snap, valuer, cfg, ledger, now: datetime) -> tuple[list, dict]:
                                   market_value=m["player"]["marketValue"]))
 
     projected = snap.projected_money
-    critical = gaps(entries, valuer, cfg)
+    critical = gaps(entries, valuer, cfg, xi)
     squad_size = len(snap.squad())
     room = cfg.squad.max_size - squad_size
     spent, n_new = 0, 0
