@@ -161,6 +161,7 @@ def plan_bids(snap, valuer, cfg, ledger, now: datetime) -> tuple[list, dict]:
 
     projected = snap.projected_money
     critical = gaps(entries, valuer, cfg, xi)
+    count_gaps = gaps(entries, valuer, cfg)        # faltan cuerpos: cualquier disponible ayuda
     squad_size = len(snap.squad())
     room = cfg.squad.max_size - squad_size
     spent, n_new = 0, 0
@@ -174,7 +175,9 @@ def plan_bids(snap, valuer, cfg, ledger, now: datetime) -> tuple[list, dict]:
         g = gain_of(p)
         pos = POS_NAMES[p["positionId"]]
         is_gap = pos in critical
-        if g < cfg.bids.min_gain_points and not is_gap:
+        if g < cfg.bids.min_gain_points and pos not in count_gaps:
+            continue   # un hueco por titular flojo solo se cubre con alguien que mejore el once de verdad
+        if pos not in count_gaps and valuer.exp(p) < float(cfg.squad.get("weak_starter_exp", 0) or 0):
             continue
         markup = cfg.bids.markup_critical if is_gap else cfg.bids.markup_default
         price = bid_price(valuer.fair(p), p["marketValue"], m["salePrice"], markup, cfg)
