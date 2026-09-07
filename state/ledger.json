@@ -87,6 +87,13 @@
    "actions": 0,
    "spend": 0,
    "requests": 24
+  },
+  {
+   "ts": "2026-09-07T12:20:48.481528+00:00",
+   "mode": "LIVE",
+   "actions": 0,
+   "spend": 0,
+   "requests": 24
   }
  ],
  "live_writes_seen": []
