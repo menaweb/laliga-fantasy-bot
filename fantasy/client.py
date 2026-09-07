@@ -131,6 +131,9 @@ class FantasyClient:
     def received_offers(self, league_id, player_team_id):
         return self._get(f"{CMP}/league/{league_id}/playerTeam/{player_team_id}/offer")
 
+    def check_daily_reward(self, league_id, team_id):
+        return self._get(f"{CMP}/league/{league_id}/team/{team_id}/check-daily-reward")
+
     def check_shield(self, league_id, player_team_id):
         return self._get(f"{CMP}/league/{league_id}/player-team/{player_team_id}/check-shield")
 
@@ -161,6 +164,10 @@ class FantasyClient:
 
     def set_lineup(self, team_id, lineup_payload):
         return self._write("PUT", f"{CMP}/teams/{team_id}/lineup", lineup_payload)
+
+    def claim_daily_reward(self, league_id, team_id, body=None):
+        """Recompensa diaria (100.000 €). Body verificado en verify-writes; por defecto {"teamId": id}."""
+        return self._write("POST", f"{CMP}/league/{league_id}/team/daily-reward", body or {"teamId": int(team_id)})
 
     def direct_offer(self, league_id, player_id, money):
         return self._write("POST", f"{CMP}/league/{league_id}/market/direct-offer",

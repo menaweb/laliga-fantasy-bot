@@ -81,6 +81,7 @@ Fuente: app oficial, vía github.com/Externoak/LaLigaApp (`src/services/api.js`)
 | Rechazar oferta | `POST .../market/{marketId}/offer/{offerId}/reject` | sin body |
 | Alineación | `PUT {CMP}/teams/{teamId}/lineup` | `{"goalkeeper": playerTeamId, "defender": [ptid…], "midfield": [ptid…], "striker": [ptid…], "tactical_formation": [4,4,2]}` |
 | Cancelar oferta | `DELETE .../market/{marketId}/offer/{offerId}/cancel` | — |
+| Recompensa diaria | `POST {CMP}/league/{leagueId}/team/daily-reward` | body pendiente de verificar (probable `{"teamId": N}`) · comprobar: `GET {CMP}/league/{leagueId}/team/{teamId}/check-daily-reward` → `{teamId, dailyRewardsRedeemed}` |
 | Oferta directa | `POST {CMP}/league/{leagueId}/market/direct-offer` | `{"playerId", "money"}` |
 | Subir cláusula | `PUT {CMP}/league/{leagueId}/buyout/player` | `{"playerId": playerTeamId, "factor": 2, "valueToIncrease": 2×pago}` |
 | Pagar cláusula | `POST {CMP}/league/{leagueId}/buyout/{playerTeamId}/pay` | `{"buyoutClauseToPay": N}` (playerTeamId del jugador en la plantilla rival) |

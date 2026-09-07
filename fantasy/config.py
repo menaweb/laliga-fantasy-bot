@@ -4,7 +4,7 @@ import yaml
 
 ABSOLUTE_CAP = 1.5  # nunca pagar >= 1.5x valor de mercado, pase lo que pase en config.yaml
 POS_NAMES = {1: "POR", 2: "DEF", 3: "MED", 4: "DEL", 5: "ENT"}
-WRITE_GROUPS = ("lineup", "market", "clauses")
+WRITE_GROUPS = ("lineup", "market", "clauses", "reward")
 
 
 class Section(dict):

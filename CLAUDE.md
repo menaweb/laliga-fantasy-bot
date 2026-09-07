@@ -30,7 +30,7 @@ duros y avisa por Telegram. Objetivo: ganar la liga. Claude Code se usa para des
 ## Reglas de seguridad (NO negociables)
 - Las escrituras SOLO pasan por `Executor` + `Guard`. Nunca llamar a métodos de escritura del cliente desde estrategia, scripts sueltos o el chat.
 - `FantasyClient(allow_writes=True)` solo en `engine.run_once` (cuando no es dry-run ni kill switch) y en `main.py verify-writes` (interactivo, confirmación por acción).
-- Parar todo: variable de repo `KILL_SWITCH=true`. Limitar: `ENABLED_WRITES` (`lineup` / `lineup,market` / `lineup,market,clauses`). `DRY_RUN=true` simula.
+- Parar todo: variable de repo `KILL_SWITCH=true`. Limitar: `ENABLED_WRITES` (grupos `lineup`, `market`, `clauses`, `reward`). `DRY_RUN=true` simula.
 - Nunca leer ni imprimir `.env`, `tokens.json` ni el contenido descifrado de `state/auth.enc`. Nunca pedir contraseñas por chat.
 - Ritmo humano: ~2 req/s, tope de peticiones por run, sin polling en bucle, sin pujas de último segundo. Ante 429: el run aborta, no reintenta.
 - Solo en ligas privadas sin premios (las bases de ligas con premios prohíben automatizar).

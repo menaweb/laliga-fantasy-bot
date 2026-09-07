@@ -7,6 +7,7 @@ KIND_GROUP = {
     "bid": "market", "modify_bid": "market", "cancel_bid": "market",
     "sell": "market", "withdraw": "market", "accept_offer": "market", "reject_offer": "market",
     "clause_pay": "clauses", "clause_raise": "clauses",
+    "daily_reward": "reward",
 }
 # kinds que gastan dinero de verdad (para presupuesto del run)
 SPENDING_KINDS = {"bid", "modify_bid", "clause_pay", "clause_raise"}

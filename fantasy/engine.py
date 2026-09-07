@@ -11,6 +11,7 @@ from . import notify, vault
 from .auth import AuthError, refresh_for_ci, get_bearer, _load as load_local_tokens
 from .client import ApiError, FantasyClient
 from .executor import Executor
+from .models import Action
 from .guard import Guard
 from .probable import fetch_probables
 from .state import DecisionLog, Ledger, Snapshot, ValueHistory, load_cache, save_cache, save_snapshot
@@ -67,6 +68,15 @@ def run_once(cfg, now: datetime | None = None) -> dict:
         v = Valuer(snap, history, probable, cfg, today)
 
         actions = []
+        try:
+            chk = c.check_daily_reward(snap.league_id, snap.team_id) or {}
+            if isinstance(chk, dict) and int(chk.get("dailyRewardsRedeemed") or 0) == 0:
+                actions.append(Action("daily_reward", None, "Recompensa diaria", 0, "100.000 € sin reclamar hoy",
+                                      {"league_id": snap.league_id, "team_id": snap.team_id}))
+        except ApiError as e:
+            if "429" in str(e):
+                raise
+            run["notes"].append(f"recompensa diaria: no se pudo comprobar ({str(e)[-60:]})")
         a, why = plan_lineup(snap, v, cfg, now)
         if a:
             actions.append(a)

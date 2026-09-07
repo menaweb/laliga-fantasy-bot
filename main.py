@@ -263,6 +263,15 @@ def cmd_verify_writes():
                 mid = (it.get("playerMarket") or {}).get("id")
             if mid and ask(f"   retirar listado {mid}?"):
                 print("   withdraw ->", c.withdraw(lid, mid))
+    if ask("5) Reclamar la recompensa diaria (100.000 €) probando el body del POST?"):
+        print("   check ->", c.check_daily_reward(lid, tid))
+        for body in ({"teamId": int(tid)}, {"teamId": tid}, {"teamId": int(tid), "rewardedAdType": "Recompensa diaria", "rewardedAd": 1}, {}):
+            try:
+                print(f"   POST body={body} ->", c.claim_daily_reward(lid, tid, body if body else {"_": 0}) if body else c._write("POST", f"/v1/competition/1/league/{lid}/team/daily-reward"))
+                break
+            except ApiError as e:
+                print(f"   POST body={body} -> {str(e).split('->')[-1][:120]}")
+        print("   check ->", c.check_daily_reward(lid, tid), "| money ->", c.money(tid))
     t = load_tokens() or {}
     if t.get("refresh_token") and ask("4) Refrescar dos veces con el mismo refresh token (¿invalida el anterior?)"):
         from fantasy.auth import refresh
