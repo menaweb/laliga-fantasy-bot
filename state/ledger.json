@@ -1,7 +1,9 @@
 {
  "bids": [],
  "listings": [],
- "handled_offers": [],
+ "handled_offers": [
+  "83167330"
+ ],
  "runs": [
   {
    "ts": "2026-09-06T20:27:32.422208+00:00",
@@ -65,6 +67,11 @@
    "actions": 0,
    "spend": 0,
    "requests": 23
+  },
+  {
+   "ts": "2026-09-07T10:33:34.557662+00:00",
+   "mode": "LIVE",
+   "error": "bug: 'player_id'"
   }
  ],
  "live_writes_seen": []
