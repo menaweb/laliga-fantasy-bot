@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-07T19:22:33+0000",
+ "fetched_at": "2026-09-07T21:58:37+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -12,7 +12,7 @@
   "closingWeekDate": "2026-09-08T03:00:00+02:00"
  },
  "money": 22875117,
- "investment": 0,
+ "investment": 22749945,
  "team": {
   "teamValue": 165705483,
   "teamPoints": 72,
@@ -181,8 +181,8 @@
    "positionId": 4,
    "teamId": "16",
    "marketValue": 60596241,
-   "points": 22,
-   "averagePoints": 5.5,
+   "points": 25,
+   "averagePoints": 5.0,
    "playerStatus": "ok",
    "buyoutClause": 91332677,
    "lockedEnd": "2026-08-20T20:08:11+0200",
@@ -255,8 +255,8 @@
    "nickname": "Matarazzo",
    "positionId": 5,
    "marketValue": 1810436,
-   "points": 5,
-   "averagePoints": 1.6666666666666667,
+   "points": 10,
+   "averagePoints": 2.5,
    "playerStatus": "ok"
   },
   {
@@ -751,7 +751,7 @@
    "positionId": 2,
    "marketValue": 845391,
    "points": 2,
-   "averagePoints": 0.5,
+   "averagePoints": 0.4,
    "playerStatus": "ok"
   },
   {
@@ -855,8 +855,8 @@
    "nickname": "Sucic",
    "positionId": 3,
    "marketValue": 6509254,
-   "points": 16,
-   "averagePoints": 4.0,
+   "points": 27,
+   "averagePoints": 5.4,
    "playerStatus": "ok"
   },
   {
@@ -950,36 +950,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "3110",
-   "discr": "marketPlayerTeam",
-   "salePrice": 1727938,
-   "expirationDate": "2026-09-09T13:41:40+02:00",
-   "numberOfBids": null,
-   "seller": "37679249",
-   "myBid": null,
-   "nickname": "C. Pérez",
-   "positionId": 4,
-   "marketValue": 716764,
-   "points": 0,
-   "averagePoints": 0.0,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3191",
-   "discr": "marketPlayerTeam",
-   "salePrice": 1750979,
-   "expirationDate": "2026-09-09T13:42:12+02:00",
-   "numberOfBids": null,
-   "seller": "37679249",
-   "myBid": null,
-   "nickname": "Á. Padilla",
-   "positionId": 4,
-   "marketValue": 738884,
-   "points": 0,
-   "averagePoints": 0.0,
-   "playerStatus": "ok"
-  },
-  {
    "id": "3108",
    "discr": "marketPlayerTeam",
    "salePrice": 716200530,
@@ -1020,8 +990,8 @@
    "nickname": "M. Dituro",
    "positionId": 1,
    "marketValue": 9156511,
-   "points": 8,
-   "averagePoints": 2.6666666666666665,
+   "points": 10,
+   "averagePoints": 2.5,
    "playerStatus": "ok"
   },
   {
@@ -1140,8 +1110,8 @@
    "nickname": "Zubeldia",
    "positionId": 2,
    "marketValue": 9289397,
-   "points": 10,
-   "averagePoints": 2.5,
+   "points": 12,
+   "averagePoints": 2.4,
    "playerStatus": "ok"
   },
   {
@@ -1218,6 +1188,36 @@
    "points": 29,
    "averagePoints": 5.8,
    "playerStatus": "ok"
+  },
+  {
+   "id": "1775",
+   "discr": "marketPlayerTeam",
+   "salePrice": 67552456,
+   "expirationDate": "2026-09-10T21:48:31+02:00",
+   "numberOfBids": null,
+   "seller": "37675747",
+   "myBid": null,
+   "nickname": "Pau Cubarsí",
+   "positionId": 2,
+   "marketValue": 67552456,
+   "points": 18,
+   "averagePoints": 4.5,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3074",
+   "discr": "marketPlayerTeam",
+   "salePrice": 20011579,
+   "expirationDate": "2026-09-10T22:48:30+02:00",
+   "numberOfBids": null,
+   "seller": "37679249",
+   "myBid": null,
+   "nickname": "Germán V.",
+   "positionId": 3,
+   "marketValue": 16011579,
+   "points": 11,
+   "averagePoints": 2.75,
+   "playerStatus": "ok"
   }
  ],
  "standing": [
@@ -1237,21 +1237,21 @@
   },
   {
    "position": 3,
-   "points": 171,
+   "points": 182,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 247322348
   },
   {
    "position": 4,
-   "points": 167,
+   "points": 170,
    "team_id": "37679249",
    "manager": "RamónBético",
-   "teamValue": 177435241
+   "teamValue": 175979593
   },
   {
    "position": 5,
-   "points": 159,
+   "points": 161,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 235202732
@@ -1265,7 +1265,7 @@
   },
   {
    "position": 7,
-   "points": 129,
+   "points": 127,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 241782579
@@ -1279,7 +1279,7 @@
   },
   {
    "position": 9,
-   "points": 96,
+   "points": 99,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 165705483
