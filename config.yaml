@@ -56,8 +56,9 @@ lineup:
   prior_ppg_by_pos: {POR: 3.0, DEF: 3.2, MED: 4.0, DEL: 4.3}
 
 probable:
-  cache_hours: 72
-  request_delay: 1.0
+  cache_hours: 72                 # caché válida como respaldo si el scraping falla
+  refresh_hours: 3                # no rescrapear un club si su caché tiene menos de esto (acorta el run)
+  request_delay: 0.7
 
 reward:
   enabled: false                  # recompensa diaria: la API exige un rewardedAd que valida el servidor (anuncio).

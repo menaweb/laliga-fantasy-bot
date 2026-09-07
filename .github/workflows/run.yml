@@ -1,8 +1,7 @@
 name: fantasy-run
 on:
   schedule:
-    - cron: "7 * * * *"              # cada hora (UTC)
-    - cron: "37 10-22 * * 5,6,0,1"   # media hora extra en días de jornada (vie-lun)
+    - cron: "7,37 * * * *"           # cada media hora (UTC). GitHub descarta runs bajo carga: más disparos = más aciertos
   workflow_dispatch:
     inputs:
       dry_run:

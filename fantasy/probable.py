@@ -108,10 +108,16 @@ def fetch_probables(snap, cfg, cache_path: str, clubs: set, now: datetime) -> tu
     if os.path.exists(cache_path):
         with open(cache_path, encoding="utf-8") as f:
             cache = json.load(f)
-    result, ok, failed = {}, 0, []
+    result, ok, failed, cached = {}, 0, [], 0
+    refresh_h = float(cfg.probable.get("refresh_hours", 0) or 0)
     for tid in sorted(clubs):
         slug = FF_SLUGS.get(str(tid)) or (snap.teams_master.get(str(tid)) or {}).get("slug")
         if not slug:
+            continue
+        c = cache.get(str(tid))
+        if c and refresh_h and now - datetime.fromisoformat(c["at"]) < timedelta(hours=refresh_h):
+            result.update(c["data"])
+            cached += 1
             continue
         club_players = [p for p in snap.players.values() if p["teamId"] == str(tid) and p["playerStatus"] != "out_of_league"]
         rows = fetch_team(slug)
@@ -130,5 +136,5 @@ def fetch_probables(snap, cfg, cache_path: str, clubs: set, now: datetime) -> tu
     os.makedirs(os.path.dirname(cache_path) or ".", exist_ok=True)
     with open(cache_path, "w", encoding="utf-8") as f:
         json.dump(cache, f, ensure_ascii=False)
-    summary = f"probables: {ok}/{len(clubs)} clubes" + (f" (caído: {', '.join(failed)})" if failed else "")
+    summary = f"probables: {ok}/{len(clubs)} clubes" + (f", {cached} de caché" if cached else "") + (f" (caído: {', '.join(failed)})" if failed else "")
     return result, summary
