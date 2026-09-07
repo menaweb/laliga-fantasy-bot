@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-07T19:18:39+0000",
+ "fetched_at": "2026-09-07T19:22:33+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -200,7 +200,7 @@
    "playerStatus": "doubtful",
    "buyoutClause": 10652802,
    "lockedEnd": "2026-08-31T20:08:13+0200",
-   "onSale": false
+   "onSale": true
   }
  ],
  "xi": {
@@ -663,6 +663,21 @@
    "points": 38,
    "averagePoints": 9.5,
    "playerStatus": "ok"
+  },
+  {
+   "id": "3112",
+   "discr": "marketPlayerTeam",
+   "salePrice": 4315508,
+   "expirationDate": "2026-09-10T21:19:03+02:00",
+   "numberOfBids": null,
+   "seller": "37682094",
+   "myBid": null,
+   "nickname": "Endrick",
+   "positionId": 4,
+   "marketValue": 4315508,
+   "points": 0,
+   "averagePoints": 0.0,
+   "playerStatus": "doubtful"
   },
   {
    "id": "2995",
