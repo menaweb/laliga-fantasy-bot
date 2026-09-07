@@ -265,12 +265,15 @@ def cmd_verify_writes():
                 print("   withdraw ->", c.withdraw(lid, mid))
     if ask("5) Reclamar la recompensa diaria (100.000 €) probando el body del POST?"):
         print("   check ->", c.check_daily_reward(lid, tid))
-        for body in ({"teamId": int(tid)}, {"teamId": tid}, {"teamId": int(tid), "rewardedAdType": "Recompensa diaria", "rewardedAd": 1}, {}):
+        # La API exige rewardedAdType + rewardedAd. Se prueban tipos plausibles (máx. 6 intentos, cada fallo es un 400 inocuo).
+        for t in ("RecompensaDiaria", "DailyReward", "Daily", "Recompensa", "Reward", "Dinero"):
+            body = {"teamId": int(tid), "rewardedAdType": t, "rewardedAd": 1}
             try:
-                print(f"   POST body={body} ->", c.claim_daily_reward(lid, tid, body if body else {"_": 0}) if body else c._write("POST", f"/v1/competition/1/league/{lid}/team/daily-reward"))
+                print(f"   POST rewardedAdType={t!r} ->", c.claim_daily_reward(lid, tid, body))
+                print("   >>> FUNCIONA. Dime este tipo y lo fijo en el cliente.")
                 break
             except ApiError as e:
-                print(f"   POST body={body} -> {str(e).split('->')[-1][:120]}")
+                print(f"   POST rewardedAdType={t!r} -> {str(e).split('->')[-1][:100]}")
         print("   check ->", c.check_daily_reward(lid, tid), "| money ->", c.money(tid))
     t = load_tokens() or {}
     if t.get("refresh_token") and ask("4) Refrescar dos veces con el mismo refresh token (¿invalida el anterior?)"):
