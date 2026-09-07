@@ -10,7 +10,9 @@
   }
  ],
  "handled_offers": [
-  "83167330"
+  "83167330",
+  "85986806",
+  "85986825"
  ],
  "runs": [
   {
@@ -94,7 +96,18 @@
    "actions": 0,
    "spend": 0,
    "requests": 24
+  },
+  {
+   "ts": "2026-09-07T19:04:45.209950+00:00",
+   "mode": "LIVE",
+   "actions": 3,
+   "spend": 1557922,
+   "requests": 27
   }
  ],
- "live_writes_seen": []
+ "live_writes_seen": [
+  "market",
+  "market",
+  "clauses"
+ ]
 }
