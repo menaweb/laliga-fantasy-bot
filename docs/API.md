@@ -54,9 +54,10 @@ Fuente: app oficial, vía github.com/Externoak/LaLigaApp (`src/services/api.js`)
 - Plantilla (`teams/{id}`): `players[i] = {playerMaster{id, name, nickname, slug, positionId, playerStatus, marketValue, points, averagePoints, team{id,name,slug}},
   buyoutClause, buyoutClauseLockedEndTime, isShielded, playerTeamId, managerId, playerMarket?{id, salePrice, expirationDate, numberOfOffers, directOffer}}`.
   En plantilla el club es `playerMaster.team.id` (no `teamId`).
-- Dinero: `{teamMoney, teamInvestment}`. Pendiente verificar si descuenta pujas activas (Fase 0, `verify-writes`).
+- Dinero: `{teamMoney, teamInvestment}`. **Verificado 7/9/2026**: `teamMoney` NO baja al pujar; `teamInvestment` = suma de pujas pendientes. Saldo real = `teamMoney - teamInvestment`.
+- Pujar devuelve `{id, buyerTeam, money, status: pending, createdAt}`; cancelar devuelve lo mismo con `status: canceled`. El ítem de mercado pasa a traer `numberOfBids` y **`bid: {id, money, status}`** con MI puja.
 - Mercado: 42 ítems. `numberOfBids` solo en ítems de LaLiga; los de mánager traen `playerTeam{buyoutClause, buyoutClauseLockedEndTime, isShielded, manager}`,
-  `sellerTeam{id, manager, teamValue}`, `numberOfOffers`, `directOffer`. `status: on_sale`. **No aparece mi puja en el ítem**: se lleva en `state/ledger.json`.
+  `sellerTeam{id, manager, teamValue}`, `numberOfOffers`, `directOffer`. `status: on_sale`. Si he pujado, el ítem trae `bid{id, money, status}` (ver arriba).
 - Ofertas recibidas: `[{id, money, status: pending, isFromMarket, createdAt, expirationDate}]`. LaLiga hace oferta automática (~0.99× valor) a los listados.
 - Jornada: `{weekNumber, isLive, nextWeek, previousWeek, openingWeekDate, closingWeekDate}`.
 - Calendario: `[{id, matchDate, localId, visitorId, matchState (1 = pendiente, 4 = en juego, 7 = terminado), localScore, visitorScore}]`.

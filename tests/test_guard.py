@@ -28,8 +28,15 @@ def test_absolute_cap(snap, cfg, ledger, now):
 def test_budget_floor(snap, cfg, ledger, now):
     g = Guard(cfg, snap, ledger, now)
     assert g.check(_bid(snap, amount=snap.money + 1, mv=10**9)).rule == "saldo insuficiente"
-    ledger.add_bid("1", "1", snap.money)   # todo el dinero comprometido en pujas
+    snap.investment = snap.money   # todo el dinero comprometido en pujas (teamInvestment)
     assert not Guard(cfg, snap, ledger, now).check(_bid(snap)).ok
+    snap.investment = 0
+
+
+def test_duplicate_detected_from_market(snap, cfg, ledger, now):
+    snap.market[0]["bid"] = {"id": "1", "money": 100, "status": "pending"}
+    assert Guard(cfg, snap, ledger, now).check(_bid(snap, mid=str(snap.market[0]["id"]))).rule == "puja duplicada"
+    snap.market[0].pop("bid")
 
 
 def test_max_spend_and_actions(snap, cfg, ledger, now):

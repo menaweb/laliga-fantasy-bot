@@ -155,7 +155,7 @@ def plan_bids(snap, valuer, cfg, ledger, now: datetime) -> tuple[list, dict]:
                                   f"ya no aporta ({g:+.1f} pts)", {"league_id": snap.league_id, "market_id": m["market_id"], "bid_id": b["bid_id"]},
                                   market_value=m["player"]["marketValue"]))
 
-    projected = snap.money - ledger.pending_bid_total()
+    projected = snap.projected_money
     critical = gaps(entries, valuer, cfg)
     squad_size = len(snap.squad())
     room = cfg.squad.max_size - squad_size

@@ -26,7 +26,8 @@ class Guard:
         self.by_ptid = {e["ptid"]: e for e in self.squad}
         self.by_pid = {e["player"]["id"]: e for e in self.squad}
         self.xi = xi_set(snap.current_xi())
-        self.projected = snap.money - ledger.pending_bid_total()
+        self.projected = snap.projected_money
+        self.market_bids = snap.my_bids()
 
     def check(self, a: Action) -> Verdict:
         c = self.cfg
@@ -69,7 +70,7 @@ class Guard:
     def _check_bid(self, a):
         if a.player_id in self.by_pid:
             return Verdict(False, "jugador propio")
-        if self.ledger.bid_for(a.params.get("market_id")):
+        if self.ledger.bid_for(a.params.get("market_id")) or str(a.params.get("market_id")) in self.market_bids:
             return Verdict(False, "puja duplicada")
         if len(self.ledger.bids) >= self.cfg.money.max_pending_bids:
             return Verdict(False, "max_pending_bids")
