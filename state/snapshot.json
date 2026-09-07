@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-07T00:56:02+0000",
+ "fetched_at": "2026-09-07T06:00:25+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -318,7 +318,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 8366026,
    "expirationDate": "2026-09-07T20:08:00+02:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "nickname": "M. Román",
    "positionId": 3,
