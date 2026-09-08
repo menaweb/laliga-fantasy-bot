@@ -209,10 +209,25 @@ def plan_bids(snap, valuer, cfg, ledger, now: datetime) -> tuple[list, dict]:
         spent += price
         n_new += 1
     info = {"projected": projected, "critical": critical, "candidates": len(scored), "unaffordable_best": None}
-    # ¿hay un upgrade claro que no cabe en caja? -> pedir liquidez a plan_sales
-    for is_gap, score, g, price, m in scored:
-        if price > projected - spent and g >= cfg.bids.min_gain_points:
-            info["unaffordable_best"] = {"player": m["player"]["nickname"], "price": price, "gain": g,
-                                         "missing": price - (projected - spent), "exp": valuer.exp(m["player"])}
-            break
+    # ¿Hay un upgrade claro que no cabe en caja pero que SÍ podríamos financiar vendiendo lo prescindible
+    # y con tiempo para que la venta se complete? Solo entonces se reserva caja y se pide liquidez a plan_sales.
+    in_xi = xi_set(xi)
+    lead = timedelta(hours=float(cfg.sales.get("fund_lead_hours", 30)))
+    bench_value = sum(e["player"]["marketValue"] for e in entries if e["ptid"] not in in_xi)
+    for is_gap, score, g, price, m in sorted(scored, key=lambda t: -t[2]):
+        missing = price - (projected - spent)
+        if missing <= 0 or g < cfg.bids.min_gain_points:
+            continue
+        if m["expiration"] and m["expiration"] - now < lead:
+            continue
+        target_exp = valuer.exp(m["player"])
+        weak_starters = [e["player"]["marketValue"] for e in entries
+                         if e["ptid"] in in_xi and valuer.exp(e["player"]) <= target_exp - cfg.bids.min_gain_points]
+        fundable = bench_value + (max(weak_starters) if weak_starters else 0)
+        if missing > fundable:
+            continue
+        hours = (m["expiration"] - now).total_seconds() / 3600 if m["expiration"] else None
+        info["unaffordable_best"] = {"player": m["player"]["nickname"], "price": price, "gain": g, "missing": missing,
+                                     "exp": target_exp, "hours_left": hours}
+        break
     return actions, info

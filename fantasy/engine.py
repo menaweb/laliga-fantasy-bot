@@ -95,7 +95,9 @@ def run_once(cfg, now: datetime | None = None) -> dict:
         if not info.get("unaffordable_best"):
             actions += plan_clause_raises(snap, v, cfg, now, budget_left - sum(x.amount for x in actions if x.kind == "clause_pay"))
         else:
-            run["notes"].append(f"caja reservada para {info['unaffordable_best']['player']} (faltan {info['unaffordable_best']['missing']:,} €)".replace(",", "."))
+            ub = info["unaffordable_best"]
+            run["notes"].append((f"caja reservada para {ub['player']} (faltan {ub['missing']:,} €, +{ub['gain']:.1f} pts"
+                                 + (f", caduca en {ub['hours_left']:.0f}h" if ub.get("hours_left") else "") + ")").replace(",", "."))
         if info.get("critical"):
             run["notes"].append(f"huecos críticos: {', '.join(info['critical'])}")
 
