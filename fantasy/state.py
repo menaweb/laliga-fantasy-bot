@@ -300,13 +300,19 @@ class Ledger:
         self.handled_offers = d.get("handled_offers", [])
         self.runs = d.get("runs", [])
         self.live_writes_seen = d.get("live_writes_seen", [])
+        self.vetoed = d.get("vetoed", {})          # player_id -> ISO hasta cuándo no se puede listar
 
     def save(self):
         _write_json(self.path, {"bids": self.bids, "listings": self.listings, "handled_offers": self.handled_offers[-200:],
-                                "runs": self.runs[-500:], "live_writes_seen": self.live_writes_seen})
+                                "runs": self.runs[-500:], "live_writes_seen": self.live_writes_seen, "vetoed": self.vetoed})
 
-    def reconcile(self, snap: Snapshot):
-        """Sincroniza las pujas con lo que dice el mercado (campo `bid`) y limpia listados vendidos."""
+    def is_vetoed(self, player_id, now=None) -> bool:
+        until = parse_dt(self.vetoed.get(str(player_id)))
+        return bool(until) and until > (now or datetime.now(timezone.utc))
+
+    def reconcile(self, snap: Snapshot, veto_days: int = 7):
+        """Sincroniza las pujas con lo que dice el mercado (campo `bid`) y limpia listados vendidos.
+        Detecta retiradas manuales de listados nuestros y veta al jugador durante veto_days."""
         mine = snap.my_bids()
         market_ids = {str(it.get("id")) for it in snap.market}
         kept = []
@@ -325,8 +331,15 @@ class Ledger:
         self.bids = kept
         snap.pending_ledger = self.pending_bid_total()
         on_sale = {str((s["onSale"] or {}).get("id")): s["player"]["id"] for s in snap.squad() if s["onSale"]}
+        in_squad = {s["player"]["id"] for s in snap.squad()}
         kept = []
         for l in self.listings:
+            # listado nuestro que ya no está en venta pero el jugador sigue en plantilla = retirada manual de Rafa -> veto
+            if l.get("market_id") and str(l["market_id"]) not in on_sale and str(l.get("player_id")) in in_squad:
+                until = datetime.now(timezone.utc) + timedelta(days=int(veto_days or 0))
+                if veto_days:
+                    self.vetoed[str(l["player_id"])] = until.strftime(ISO)
+                continue
             if l.get("market_id") is None:   # apuntado antes de la llamada: completar con el id real si el jugador está en venta
                 mid = next((m for m, pid in on_sale.items() if pid == str(l.get("player_id"))), None)
                 if mid:

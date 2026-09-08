@@ -26,6 +26,9 @@ sales:
   accept_offer_ratio_starter: 0.97  # solo si lo listamos nosotros (financiar fichaje / sobrante)
   fund_list_ratio: 1.02           # precio de listado cuando vendemos para financiar un fichaje
   fund_lead_hours: 30             # solo se reserva caja para un fichaje si su listado dura al menos esto (vender tarda ~24h)
+  protect_top_n: 3                # los 3 mejores por puntos esperados y los 2 más valiosos nunca se venden para financiar
+  protect_top_value: 2
+  manual_withdraw_veto_days: 7    # si Rafa retira un listado del bot, ese jugador no se vuelve a listar en N días
   trend_sell_threshold: -0.04     # tendencia 7 días <= -4% -> candidato a venta
   withdraw_after_hours: 48        # retirar listado sin oferta útil pasado este tiempo
   listing_hours: 72               # duración de un listado en el mercado (verificado: expira a los 3 días)

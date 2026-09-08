@@ -59,7 +59,7 @@ def run_once(cfg, now: datetime | None = None) -> dict:
         save_snapshot(state_dir, snap)
         history = ValueHistory(state_dir)
         history.record_today(snap.players, today)
-        ledger.reconcile(snap)
+        ledger.reconcile(snap, veto_days=int(cfg.sales.get("manual_withdraw_veto_days", 7)))
 
         next_week = snap.week_number + 1 if snap.is_live else snap.week_number
         clubs = {str(m["localId"]) for m in snap.matches(next_week)} | {str(m["visitorId"]) for m in snap.matches(next_week)}

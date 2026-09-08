@@ -59,6 +59,13 @@ def plan_offers(snap, valuer, cfg, ledger) -> list:
     return actions
 
 
+def protected_ids(entries: list, valuer, cfg) -> set:
+    """Jugadores intocables para ventas de financiación: los mejores por puntos esperados y los más valiosos."""
+    by_exp = sorted(entries, key=lambda e: -valuer.exp(e["player"]))[: int(cfg.sales.get("protect_top_n", 3))]
+    by_val = sorted(entries, key=lambda e: -e["player"]["marketValue"])[: int(cfg.sales.get("protect_top_value", 2))]
+    return {e["player"]["id"] for e in by_exp} | {e["player"]["id"] for e in by_val}
+
+
 def plan_sales(snap, valuer, cfg, ledger, now: datetime, fund: dict | None = None) -> list:
     """Listar sobrantes, vender para financiar un upgrade claro y retirar listados viejos sin oferta.
     fund = info['unaffordable_best'] de plan_bids: {player, price, gain, missing, exp}."""
@@ -66,9 +73,16 @@ def plan_sales(snap, valuer, cfg, ledger, now: datetime, fund: dict | None = Non
     entries = [e for e in snap.squad() if e["player"]["positionId"] in (1, 2, 3, 4)]
     xi = best_xi(entries, valuer, snap.formations or ["4,4,2"]) or snap.current_xi()
     need_liquidity = int(fund["missing"]) if fund else 0
-    # retirar listados caducos sin oferta útil
+    protected = protected_ids(entries, valuer, cfg)
+    # retirar: listados nuestros de jugadores protegidos (regla nueva o error) y listados caducos sin oferta útil
     for e in entries:
         if not e["onSale"]:
+            continue
+        mid = str(e["onSale"].get("id"))
+        if e["player"]["id"] in protected and any(str(l.get("market_id")) == mid for l in ledger.listings):
+            actions.append(Action("withdraw", e["player"]["id"], e["player"]["nickname"], 0,
+                                  "jugador protegido (top por puntos/valor): no se vende para financiar",
+                                  {"league_id": snap.league_id, "market_id": mid}, market_value=e["player"]["marketValue"]))
             continue
         mid = str(e["onSale"].get("id"))
         ours = next((l for l in ledger.listings if str(l.get("market_id")) == mid), None)
@@ -86,7 +100,7 @@ def plan_sales(snap, valuer, cfg, ledger, now: datetime, fund: dict | None = Non
     n = 0
     cands = surplus(entries, xi, valuer)
     for e in sorted(cands, key=lambda e: valuer.exp(e["player"])):
-        if e["onSale"] or n >= cfg.sales.max_new_listings_per_run:
+        if e["onSale"] or n >= cfg.sales.max_new_listings_per_run or ledger.is_vetoed(e["player"]["id"], now):
             continue
         ev = valuer.evaluate(e["player"])
         trend = ev["trend"]
@@ -112,7 +126,13 @@ def plan_sales(snap, valuer, cfg, ledger, now: datetime, fund: dict | None = Non
         cands = []
         for e in entries:
             p = e["player"]
-            if e["onSale"] or p["marketValue"] < need_liquidity or valuer.exp(p) > target_exp - cfg.bids.min_gain_points:
+            if e["onSale"] or p["marketValue"] < need_liquidity or p["id"] in protected or ledger.is_vetoed(p["id"], now):
+                continue
+            # ganancia NETA: lo que aporta el fichaje menos lo que se pierde al vender a este (su exp menos la del mejor suplente de su posición)
+            bench_same = [x for x in entries if x["player"]["positionId"] == p["positionId"] and x["ptid"] not in xi_set(xi) and x["ptid"] != e["ptid"]]
+            replacement = max((valuer.exp(x["player"]) for x in bench_same), default=0.0)
+            loss = valuer.exp(p) - replacement if e["ptid"] in xi_set(xi) else 0.0
+            if float(fund.get("gain") or 0) - loss < cfg.bids.min_gain_points:
                 continue
             rest = [x for x in entries if x["ptid"] != e["ptid"]]
             cnt = {"POR": 0, "DEF": 0, "MED": 0, "DEL": 0}
