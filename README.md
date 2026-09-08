@@ -34,6 +34,12 @@ cp .env.example .env                 # cuenta Google: no hace falta contraseña
    - `KILL_SWITCH`: `false`; ponlo a `true` para parar todo en el siguiente run.
 5. Lanza a mano: Actions → fantasy-run → Run workflow (dry_run). Después corre solo cada hora.
 
+## Disparo externo (el cron de GitHub descarta muchos runs)
+Token fine-grained con permiso Actions: read/write solo sobre este repo, y en cron-job.org un job cada 30 min:
+`POST https://api.github.com/repos/menaweb/laliga-fantasy-bot/dispatches` con cabeceras
+`Authorization: Bearer <token>`, `Accept: application/vnd.github+json`, `Content-Type: application/json`
+y cuerpo `{"event_type":"tick"}`. El run usa las variables del repo (DRY_RUN, ENABLED_WRITES, KILL_SWITCH).
+
 ## Fases
 0. `verify-writes` en local con la app abierta. 1. Dry-run en CI ≥ 4 días. 2. `ENABLED_WRITES=lineup`.
 3. `lineup,market`. 4. `lineup,market,clauses`. Marcha atrás en cualquier momento con `KILL_SWITCH=true`.
