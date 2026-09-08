@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 from ..config import ABSOLUTE_CAP, POS_NAMES
 from ..models import Action, norm_player
 from ..state import parse_dt
-from .squad import LINES, best_xi, gaps, surplus, weakest_in_xi, xi_set
+from .squad import LINES, best_xi, can_field_without, gaps, surplus, weakest_in_xi, xi_set
 
 
 def _market_entry(it: dict) -> dict:
@@ -102,6 +102,8 @@ def plan_sales(snap, valuer, cfg, ledger, now: datetime, fund: dict | None = Non
     for e in sorted(cands, key=lambda e: valuer.exp(e["player"])):
         if e["onSale"] or n >= cfg.sales.max_new_listings_per_run or ledger.is_vetoed(e["player"]["id"], now):
             continue
+        if not can_field_without(entries, e["ptid"], snap.formations, spare=True):
+            continue
         ev = valuer.evaluate(e["player"])
         trend = ev["trend"]
         squad_full = len(snap.squad()) >= cfg.squad.max_size
@@ -127,6 +129,8 @@ def plan_sales(snap, valuer, cfg, ledger, now: datetime, fund: dict | None = Non
         for e in entries:
             p = e["player"]
             if e["onSale"] or p["marketValue"] < need_liquidity or p["id"] in protected or ledger.is_vetoed(p["id"], now):
+                continue
+            if not can_field_without(entries, e["ptid"], snap.formations, spare=True):
                 continue
             # ganancia NETA: lo que aporta el fichaje menos lo que se pierde al vender a este (su exp menos la del mejor suplente de su posición)
             bench_same = [x for x in entries if x["player"]["positionId"] == p["positionId"] and x["ptid"] not in xi_set(xi) and x["ptid"] != e["ptid"]]

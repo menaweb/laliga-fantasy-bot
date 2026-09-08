@@ -8,7 +8,7 @@ from datetime import datetime
 from .config import ABSOLUTE_CAP, POS_NAMES
 from .models import Action, SPENDING_KINDS
 from .strategy.lineup import started_clubs
-from .strategy.squad import count_by_pos, xi_set
+from .strategy.squad import can_field_without, count_by_pos, xi_set
 
 
 @dataclass
@@ -130,6 +130,9 @@ class Guard:
         pos = POS_NAMES.get(e["player"]["positionId"])
         if pos and cnt.get(pos, 0) < self.cfg.squad.min_per_pos.get(pos, 0):
             return Verdict(False, f"mínimo de {pos}")
+        entries = [x for x in self.squad if x["player"]["positionId"] in (1, 2, 3, 4)]
+        if not can_field_without(entries, e["ptid"], self.s.formations, spare=True):
+            return Verdict(False, f"sin suplente de {pos}: no quedaría formación alineable con reserva")
         return Verdict(True)
 
     def _check_lineup(self, a):

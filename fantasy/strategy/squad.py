@@ -71,6 +71,29 @@ def gaps(entries: list, valuer, cfg, xi: dict | None = None) -> list:
     return out
 
 
+UNAVAILABLE = {"injured", "suspended", "out_of_league"}
+
+
+def can_field_without(entries: list, ptid: str, formations: list, spare: bool = True) -> bool:
+    """¿Tras quitar a `ptid` queda alguna formación alineable con jugadores no lesionados/sancionados,
+    y (si spare) con al menos un suplente en la posición del que se va?"""
+    gone = next((e for e in entries if e["ptid"] == ptid), None)
+    remaining = [e for e in entries if e["ptid"] != ptid and e["player"].get("playerStatus") not in UNAVAILABLE]
+    counts = {1: 0, 2: 0, 3: 0, 4: 0}
+    for e in remaining:
+        if e["player"]["positionId"] in counts:
+            counts[e["player"]["positionId"]] += 1
+    gone_pos = gone["player"]["positionId"] if gone else None
+    for f in formations or ["4,4,2"]:
+        need = parse_formation(f)
+        ok = all(counts[pos] >= n for pos, n in need.items())
+        if ok and spare and gone_pos in need:
+            ok = counts[gone_pos] >= need[gone_pos] + 1
+        if ok:
+            return True
+    return False
+
+
 def weakest_in_xi(entries: list, xi: dict, valuer, position_id: int):
     """Titular más flojo de esa posición (candidato a ser desplazado por un fichaje)."""
     ids = set(xi.get(LINES[position_id], []))
