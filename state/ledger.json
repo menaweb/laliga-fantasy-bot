@@ -1,15 +1,6 @@
 {
  "bids": [
   {
-   "market_id": "30435108",
-   "player_id": "2613",
-   "money": 11920412,
-   "kind": "offer",
-   "bid_id": "86263486",
-   "placed_at": "2026-09-07T19:22:55+0000",
-   "reason": "HUECO POR +3.4 pts al once · 3.7 pts esp (ppg 2.7×0.6+prior 4.6 · ok · @ ATH 1.08 · prob starter 100% · tend7 +0%)"
-  },
-  {
    "market_id": "31244608",
    "player_id": "1730",
    "money": 2349457,
@@ -165,6 +156,13 @@
    "actions": 1,
    "spend": 0,
    "requests": 24
+  },
+  {
+   "ts": "2026-09-08T09:33:31.458000+00:00",
+   "mode": "LIVE",
+   "actions": 0,
+   "spend": 0,
+   "requests": 23
   }
  ],
  "live_writes_seen": [
