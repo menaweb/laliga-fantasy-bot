@@ -36,9 +36,10 @@ cp .env.example .env                 # cuenta Google: no hace falta contraseña
 
 ## Disparo externo (el cron de GitHub descarta muchos runs)
 Token fine-grained con permiso Actions: read/write solo sobre este repo, y en cron-job.org un job cada 30 min:
-`POST https://api.github.com/repos/menaweb/laliga-fantasy-bot/dispatches` con cabeceras
+`POST https://api.github.com/repos/menaweb/laliga-fantasy-bot/actions/workflows/run.yml/dispatches` con cabeceras
 `Authorization: Bearer <token>`, `Accept: application/vnd.github+json`, `Content-Type: application/json`
-y cuerpo `{"event_type":"tick"}`. El run usa las variables del repo (DRY_RUN, ENABLED_WRITES, KILL_SWITCH).
+y cuerpo `{"ref":"main","inputs":{"dry_run":"false"}}`. El run usa las variables del repo (DRY_RUN, ENABLED_WRITES, KILL_SWITCH);
+el input dry_run solo puede forzar simulación. (El endpoint `/dispatches` a nivel de repo exige permiso Contents:write; se evita.)
 
 ## Fases
 0. `verify-writes` en local con la app abierta. 1. Dry-run en CI ≥ 4 días. 2. `ENABLED_WRITES=lineup`.
