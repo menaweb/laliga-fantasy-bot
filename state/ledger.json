@@ -208,6 +208,13 @@
    "actions": 1,
    "spend": 0,
    "requests": 23
+  },
+  {
+   "ts": "2026-09-08T23:30:13.808198+00:00",
+   "mode": "LIVE",
+   "actions": 1,
+   "spend": 0,
+   "requests": 24
   }
  ],
  "live_writes_seen": [
@@ -215,5 +222,6 @@
   "market",
   "clauses",
   "lineup"
- ]
+ ],
+ "vetoed": {}
 }
