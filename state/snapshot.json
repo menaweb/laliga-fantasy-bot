@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-08T23:30:14+0000",
+ "fetched_at": "2026-09-08T23:36:51+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -186,7 +186,7 @@
    "playerStatus": "ok",
    "buyoutClause": 91332677,
    "lockedEnd": "2026-08-20T20:08:11+0200",
-   "onSale": true
+   "onSale": false
   },
   {
    "ptid": "16809996",
@@ -1278,21 +1278,6 @@
    "marketValue": 6541475,
    "points": 17,
    "averagePoints": 3.4,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3091",
-   "discr": "marketPlayerTeam",
-   "salePrice": 59331468,
-   "expirationDate": "2026-09-12T01:25:43+02:00",
-   "numberOfBids": null,
-   "seller": "37682094",
-   "myBid": null,
-   "nickname": "Oyarzabal",
-   "positionId": 4,
-   "marketValue": 59331468,
-   "points": 25,
-   "averagePoints": 5.0,
    "playerStatus": "ok"
   }
  ],
