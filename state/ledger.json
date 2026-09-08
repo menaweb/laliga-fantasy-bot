@@ -28,7 +28,14 @@
    "reason": "HUECO MED +1.7 pts al once · 2.4 pts esp (ppg 1.7×0.6+prior 3.5 · ok · vs ATM 1.01 · prob ? · tend7 -5%)"
   }
  ],
- "listings": [],
+ "listings": [
+  {
+   "market_id": "20651342",
+   "player_id": "3091",
+   "price": 59331468,
+   "listed_at": "2026-09-08T23:17:53+0000"
+  }
+ ],
  "handled_offers": [
   "83167330",
   "85986806",
@@ -187,6 +194,13 @@
    "actions": 2,
    "spend": 4123524,
    "requests": 28
+  },
+  {
+   "ts": "2026-09-08T23:17:31.590324+00:00",
+   "mode": "LIVE",
+   "actions": 1,
+   "spend": 0,
+   "requests": 23
   }
  ],
  "live_writes_seen": [
