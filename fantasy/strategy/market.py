@@ -233,7 +233,8 @@ def plan_bids(snap, valuer, cfg, ledger, now: datetime) -> tuple[list, dict]:
     # y con tiempo para que la venta se complete? Solo entonces se reserva caja y se pide liquidez a plan_sales.
     in_xi = xi_set(xi)
     lead = timedelta(hours=float(cfg.sales.get("fund_lead_hours", 30)))
-    bench_value = sum(e["player"]["marketValue"] for e in entries if e["ptid"] not in in_xi)
+    protected = protected_ids(entries, valuer, cfg)
+    bench_value = sum(e["player"]["marketValue"] for e in entries if e["ptid"] not in in_xi and e["player"]["id"] not in protected)
     for is_gap, score, g, price, m in sorted(scored, key=lambda t: -t[2]):
         missing = price - (projected - spent)
         if missing <= 0 or g < cfg.bids.min_gain_points:
@@ -242,7 +243,8 @@ def plan_bids(snap, valuer, cfg, ledger, now: datetime) -> tuple[list, dict]:
             continue
         target_exp = valuer.exp(m["player"])
         weak_starters = [e["player"]["marketValue"] for e in entries
-                         if e["ptid"] in in_xi and valuer.exp(e["player"]) <= target_exp - cfg.bids.min_gain_points]
+                         if e["ptid"] in in_xi and e["player"]["id"] not in protected
+                         and valuer.exp(e["player"]) <= target_exp - cfg.bids.min_gain_points]
         fundable = bench_value + (max(weak_starters) if weak_starters else 0)
         if missing > fundable:
             continue
