@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-09T11:46:33+0000",
+ "fetched_at": "2026-09-09T12:01:04+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -1053,21 +1053,6 @@
    "marketValue": 722877,
    "points": 9,
    "averagePoints": 1.8,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2548",
-   "discr": "marketPlayerTeam",
-   "salePrice": 45000000,
-   "expirationDate": "2026-09-11T22:09:10+02:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Riquelme",
-   "positionId": 3,
-   "marketValue": 14361614,
-   "points": 28,
-   "averagePoints": 7.0,
    "playerStatus": "ok"
   },
   {
