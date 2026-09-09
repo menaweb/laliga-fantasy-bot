@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-09T20:01:01+0000",
+ "fetched_at": "2026-09-09T21:01:10+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -455,21 +455,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "3105",
-   "discr": "marketPlayerTeam",
-   "salePrice": 25000000,
-   "expirationDate": "2026-09-09T22:46:11+02:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Cala",
-   "positionId": 4,
-   "marketValue": 6714019,
-   "points": 15,
-   "averagePoints": 3.75,
-   "playerStatus": "ok"
-  },
-  {
    "id": "3082",
    "discr": "marketPlayerTeam",
    "salePrice": 26059583,
@@ -560,21 +545,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2418",
-   "discr": "marketPlayerTeam",
-   "salePrice": 50000000,
-   "expirationDate": "2026-09-09T22:45:52+02:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Marc Roca",
-   "positionId": 3,
-   "marketValue": 10355104,
-   "points": 23,
-   "averagePoints": 5.75,
-   "playerStatus": "ok"
-  },
-  {
    "id": "3069",
    "discr": "marketPlayerTeam",
    "salePrice": 45000000,
@@ -620,21 +590,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2556",
-   "discr": "marketPlayerTeam",
-   "salePrice": 25000000,
-   "expirationDate": "2026-09-09T22:45:21+02:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Buchanan",
-   "positionId": 3,
-   "marketValue": 13191115,
-   "points": 10,
-   "averagePoints": 2.5,
-   "playerStatus": "ok"
-  },
-  {
    "id": "3103",
    "discr": "marketPlayerTeam",
    "salePrice": 850000000,
@@ -663,21 +618,6 @@
    "points": 3,
    "averagePoints": 1.0,
    "playerStatus": "ok"
-  },
-  {
-   "id": "3018",
-   "discr": "marketPlayerTeam",
-   "salePrice": 3500000,
-   "expirationDate": "2026-09-09T22:40:43+02:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Eriksson",
-   "positionId": 1,
-   "marketValue": 1550839,
-   "points": 0,
-   "averagePoints": 0.0,
-   "playerStatus": "doubtful"
   },
   {
    "id": "2549",
