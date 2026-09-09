@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-09T21:01:10+0000",
+ "fetched_at": "2026-09-09T21:53:25+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -665,21 +665,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "1337",
-   "discr": "marketPlayerTeam",
-   "salePrice": 31844016,
-   "expirationDate": "2026-09-10T19:49:44+02:00",
-   "numberOfBids": null,
-   "seller": "37678052",
-   "myBid": null,
-   "nickname": "Tenaglia",
-   "positionId": 2,
-   "marketValue": 32591927,
-   "points": 31,
-   "averagePoints": 7.75,
-   "playerStatus": "ok"
-  },
-  {
    "id": "265",
    "discr": "marketPlayerTeam",
    "salePrice": 9289397,
@@ -827,21 +812,6 @@
    "marketValue": 723051,
    "points": 9,
    "averagePoints": 1.8,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3123",
-   "discr": "marketPlayerTeam",
-   "salePrice": 278361790,
-   "expirationDate": "2026-09-11T23:55:17+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Marcos Alonso",
-   "positionId": 2,
-   "marketValue": 28076853,
-   "points": 26,
-   "averagePoints": 6.5,
    "playerStatus": "ok"
   },
   {
@@ -1121,14 +1091,14 @@
    "points": 215,
    "team_id": "37664721",
    "manager": "enriqsuar",
-   "teamValue": 330093899
+   "teamValue": 334608973
   },
   {
    "position": 2,
    "points": 188,
    "team_id": "37678052",
    "manager": "olegwarrior",
-   "teamValue": 241787520
+   "teamValue": 209195593
   },
   {
    "position": 3,
