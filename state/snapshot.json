@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-09T05:01:02+0000",
+ "fetched_at": "2026-09-09T06:01:36+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -1116,21 +1116,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "3074",
-   "discr": "marketPlayerTeam",
-   "salePrice": 20011579,
-   "expirationDate": "2026-09-10T22:48:30+02:00",
-   "numberOfBids": null,
-   "seller": "37679249",
-   "myBid": null,
-   "nickname": "Germán V.",
-   "positionId": 3,
-   "marketValue": 15247116,
-   "points": 11,
-   "averagePoints": 2.75,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2541",
    "discr": "marketPlayerTeam",
    "salePrice": 52000000,
@@ -1308,7 +1293,7 @@
    "points": 170,
    "team_id": "37679249",
    "manager": "RamónBético",
-   "teamValue": 181476601
+   "teamValue": 166229485
   },
   {
    "position": 5,
