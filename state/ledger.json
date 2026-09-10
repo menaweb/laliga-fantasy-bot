@@ -582,6 +582,13 @@
    "actions": 2,
    "spend": 7185686,
    "requests": 24
+  },
+  {
+   "ts": "2026-09-10T19:35:37.431612+00:00",
+   "mode": "LIVE",
+   "actions": 1,
+   "spend": 4018771,
+   "requests": 23
   }
  ],
  "live_writes_seen": [
