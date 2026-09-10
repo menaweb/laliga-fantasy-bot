@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-10T05:01:02+0000",
+ "fetched_at": "2026-09-10T06:00:57+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -354,7 +354,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 13339054,
    "expirationDate": "2026-09-10T20:08:00+02:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Agirrezabala",
