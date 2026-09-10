@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-10T16:01:01+0000",
+ "fetched_at": "2026-09-10T17:01:08+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -482,21 +482,6 @@
    "marketValue": 4168178,
    "points": 8,
    "averagePoints": 2.0,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2985",
-   "discr": "marketPlayerTeam",
-   "salePrice": 13820212,
-   "expirationDate": "2026-09-10T19:49:19+02:00",
-   "numberOfBids": null,
-   "seller": "37678052",
-   "myBid": null,
-   "nickname": "Noubi",
-   "positionId": 2,
-   "marketValue": 14515505,
-   "points": 15,
-   "averagePoints": 3.75,
    "playerStatus": "ok"
   },
   {
