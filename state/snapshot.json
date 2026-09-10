@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-10T06:00:57+0000",
+ "fetched_at": "2026-09-10T07:01:03+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -1082,6 +1082,51 @@
    "marketValue": 3891773,
    "points": 22,
    "averagePoints": 5.5,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2457",
+   "discr": "marketPlayerTeam",
+   "salePrice": 206015250,
+   "expirationDate": "2026-09-13T08:01:04+02:00",
+   "numberOfBids": null,
+   "seller": "37675747",
+   "myBid": null,
+   "nickname": "Dimitrievski",
+   "positionId": 1,
+   "marketValue": 20601525,
+   "points": 16,
+   "averagePoints": 4.0,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2671",
+   "discr": "marketPlayerTeam",
+   "salePrice": 23504465,
+   "expirationDate": "2026-09-13T08:01:49+02:00",
+   "numberOfBids": null,
+   "seller": "37675747",
+   "myBid": null,
+   "nickname": "Jeremy Toljan",
+   "positionId": 2,
+   "marketValue": 2350446,
+   "points": 7,
+   "averagePoints": 1.75,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "77",
+   "discr": "marketPlayerTeam",
+   "salePrice": 6815450,
+   "expirationDate": "2026-09-13T08:02:38+02:00",
+   "numberOfBids": null,
+   "seller": "37675747",
+   "myBid": null,
+   "nickname": "Yeray",
+   "positionId": 2,
+   "marketValue": 6815450,
+   "points": 15,
+   "averagePoints": 3.75,
    "playerStatus": "ok"
   }
  ],
