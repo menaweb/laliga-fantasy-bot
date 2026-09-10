@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-10T20:00:57+0000",
+ "fetched_at": "2026-09-10T21:01:06+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -399,7 +399,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 3790899,
    "expirationDate": "2026-09-11T20:08:00+02:00",
-   "numberOfBids": 1,
+   "numberOfBids": 2,
    "seller": "",
    "myBid": null,
    "nickname": "B. Sangare",
