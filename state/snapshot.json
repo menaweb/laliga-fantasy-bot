@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-10T15:01:25+0000",
+ "fetched_at": "2026-09-10T16:01:01+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -309,7 +309,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 9725907,
    "expirationDate": "2026-09-10T20:08:00+02:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Starfelt",
@@ -354,7 +354,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 13339054,
    "expirationDate": "2026-09-10T20:08:00+02:00",
-   "numberOfBids": 1,
+   "numberOfBids": 2,
    "seller": "",
    "myBid": null,
    "nickname": "Agirrezabala",
@@ -429,7 +429,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 5033724,
    "expirationDate": "2026-09-10T20:08:00+02:00",
-   "numberOfBids": 1,
+   "numberOfBids": 2,
    "seller": "",
    "myBid": 5650344,
    "nickname": "Manu Sánchez",
@@ -1143,7 +1143,7 @@
    "points": 188,
    "team_id": "37678052",
    "manager": "olegwarrior",
-   "teamValue": 209896350
+   "teamValue": 217854886
   },
   {
    "position": 3,
@@ -1171,7 +1171,7 @@
    "points": 144,
    "team_id": "37667518",
    "manager": "Rcoba",
-   "teamValue": 257724616
+   "teamValue": 249766080
   },
   {
    "position": 7,
