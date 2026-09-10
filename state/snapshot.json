@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-10T19:35:38+0000",
+ "fetched_at": "2026-09-10T20:00:57+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -11,7 +11,7 @@
   "openingWeekDate": "2026-09-11T21:00:00+02:00",
   "closingWeekDate": "2026-09-15T03:00:00+02:00"
  },
- "money": 11204457,
+ "money": 7185686,
  "investment": 7185686,
  "team": {
   "teamValue": 176426801,
@@ -114,7 +114,7 @@
    "points": 19,
    "averagePoints": 4.75,
    "playerStatus": "ok",
-   "buyoutClause": 26900000,
+   "buyoutClause": 34937542,
    "lockedEnd": "2026-08-25T20:08:37+0200",
    "onSale": false
   },
@@ -542,21 +542,6 @@
    "marketValue": 4436639,
    "points": 28,
    "averagePoints": 7.0,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "1775",
-   "discr": "marketPlayerTeam",
-   "salePrice": 67552456,
-   "expirationDate": "2026-09-10T21:48:31+02:00",
-   "numberOfBids": null,
-   "seller": "37675747",
-   "myBid": null,
-   "nickname": "Pau Cubarsí",
-   "positionId": 2,
-   "marketValue": 66553864,
-   "points": 18,
-   "averagePoints": 4.5,
    "playerStatus": "ok"
   },
   {
