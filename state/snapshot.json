@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-11T10:01:04+0000",
+ "fetched_at": "2026-09-11T11:01:01+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -69,8 +69,8 @@
    "positionId": 2,
    "teamId": "49",
    "marketValue": 2684110,
-   "points": 0,
-   "averagePoints": 0.0,
+   "points": 10,
+   "averagePoints": 2.5,
    "playerStatus": "ok",
    "buyoutClause": 2684110,
    "lockedEnd": "2026-09-09T23:53:45+0200",
@@ -167,8 +167,8 @@
    "positionId": 3,
    "teamId": "26",
    "marketValue": 1365177,
-   "points": 0,
-   "averagePoints": 0.0,
+   "points": 5,
+   "averagePoints": 1.25,
    "playerStatus": "ok",
    "buyoutClause": 2393361,
    "lockedEnd": "2026-09-01T20:08:29+0200",
@@ -209,8 +209,8 @@
    "positionId": 4,
    "teamId": "20",
    "marketValue": 34832584,
-   "points": 0,
-   "averagePoints": 0.0,
+   "points": 26,
+   "averagePoints": 6.5,
    "playerStatus": "ok",
    "buyoutClause": 51555905,
    "lockedEnd": "2026-08-19T00:06:12+0200",
@@ -345,8 +345,8 @@
    "nickname": "Mario Soriano",
    "positionId": 3,
    "marketValue": 30609402,
-   "points": 0,
-   "averagePoints": 0.0,
+   "points": 22,
+   "averagePoints": 5.5,
    "playerStatus": "ok"
   },
   {
@@ -375,8 +375,8 @@
    "nickname": "Matteo Prati",
    "positionId": 3,
    "marketValue": 3373500,
-   "points": 0,
-   "averagePoints": 0.0,
+   "points": 1,
+   "averagePoints": 0.5,
    "playerStatus": "ok"
   },
   {
@@ -450,8 +450,8 @@
    "nickname": "Yuri",
    "positionId": 2,
    "marketValue": 13338890,
-   "points": 0,
-   "averagePoints": 0.0,
+   "points": 15,
+   "averagePoints": 5.0,
    "playerStatus": "ok"
   },
   {
@@ -465,8 +465,8 @@
    "nickname": "Blanco",
    "positionId": 3,
    "marketValue": 19546753,
-   "points": 0,
-   "averagePoints": 0.0,
+   "points": 22,
+   "averagePoints": 5.5,
    "playerStatus": "ok"
   },
   {
@@ -495,8 +495,8 @@
    "nickname": "Paco Cortes",
    "positionId": 4,
    "marketValue": 548757,
-   "points": 4,
-   "averagePoints": 1.3333333333333333,
+   "points": 6,
+   "averagePoints": 1.5,
    "playerStatus": "ok"
   },
   {
@@ -510,8 +510,8 @@
    "nickname": "Mbappé",
    "positionId": 4,
    "marketValue": 140160498,
-   "points": 0,
-   "averagePoints": 0.0,
+   "points": 46,
+   "averagePoints": 11.5,
    "playerStatus": "ok"
   },
   {
@@ -540,8 +540,8 @@
    "nickname": "Navarro",
    "positionId": 3,
    "marketValue": 4972019,
-   "points": 0,
-   "averagePoints": 0.0,
+   "points": 28,
+   "averagePoints": 7.0,
    "playerStatus": "ok"
   },
   {
@@ -600,8 +600,8 @@
    "nickname": "Marrero",
    "positionId": 1,
    "marketValue": 772546,
-   "points": 0,
-   "averagePoints": 0.0,
+   "points": 9,
+   "averagePoints": 1.8,
    "playerStatus": "ok"
   },
   {
@@ -630,8 +630,8 @@
    "nickname": "Jonny Otto",
    "positionId": 2,
    "marketValue": 12034024,
-   "points": 2,
-   "averagePoints": 2.0,
+   "points": 23,
+   "averagePoints": 5.75,
    "playerStatus": "ok"
   },
   {
@@ -690,8 +690,8 @@
    "nickname": "D. Cárdenas",
    "positionId": 1,
    "marketValue": 1349005,
-   "points": 0,
-   "averagePoints": 0.0,
+   "points": 3,
+   "averagePoints": 0.75,
    "playerStatus": "ok"
   },
   {
@@ -720,8 +720,8 @@
    "nickname": "Fran García",
    "positionId": 2,
    "marketValue": 25873846,
-   "points": 0,
-   "averagePoints": 0.0,
+   "points": 21,
+   "averagePoints": 5.25,
    "playerStatus": "ok"
   },
   {
@@ -735,8 +735,8 @@
    "nickname": "Nuñez",
    "positionId": 2,
    "marketValue": 10311926,
-   "points": 0,
-   "averagePoints": 0.0,
+   "points": 19,
+   "averagePoints": 4.75,
    "playerStatus": "ok"
   },
   {
@@ -795,8 +795,8 @@
    "nickname": "Bardeli",
    "positionId": 3,
    "marketValue": 6342485,
-   "points": 19,
-   "averagePoints": 9.5,
+   "points": 24,
+   "averagePoints": 8.0,
    "playerStatus": "ok"
   },
   {
@@ -825,8 +825,8 @@
    "nickname": "Dimitrievski",
    "positionId": 1,
    "marketValue": 20478759,
-   "points": 0,
-   "averagePoints": 0.0,
+   "points": 16,
+   "averagePoints": 4.0,
    "playerStatus": "ok"
   },
   {
@@ -840,8 +840,8 @@
    "nickname": "Jeremy Toljan",
    "positionId": 2,
    "marketValue": 2302500,
-   "points": 0,
-   "averagePoints": 0.0,
+   "points": 7,
+   "averagePoints": 1.75,
    "playerStatus": "ok"
   },
   {
@@ -885,8 +885,8 @@
    "nickname": "Fermín",
    "positionId": 3,
    "marketValue": 105012465,
-   "points": 0,
-   "averagePoints": 0.0,
+   "points": 57,
+   "averagePoints": 14.25,
    "playerStatus": "ok"
   },
   {
@@ -900,8 +900,8 @@
    "nickname": "Aubameyang",
    "positionId": 4,
    "marketValue": 86646997,
-   "points": 31,
-   "averagePoints": 10.333333333333334,
+   "points": 48,
+   "averagePoints": 12.0,
    "playerStatus": "ok"
   },
   {
