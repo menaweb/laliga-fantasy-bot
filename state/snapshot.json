@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-11T22:25:07+0000",
+ "fetched_at": "2026-09-11T23:01:03+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -309,7 +309,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 8657031,
    "expirationDate": "2026-09-12T20:08:00+02:00",
-   "numberOfBids": 2,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Y. Zabiri",
@@ -545,21 +545,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2378",
-   "discr": "marketPlayerTeam",
-   "salePrice": 1500000,
-   "expirationDate": "2026-09-12T21:23:01+02:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "D. Cárdenas",
-   "positionId": 1,
-   "marketValue": 1381515,
-   "points": 3,
-   "averagePoints": 0.75,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2541",
    "discr": "marketPlayerTeam",
    "salePrice": 52500000,
@@ -572,21 +557,6 @@
    "marketValue": 49804920,
    "points": 45,
    "averagePoints": 11.25,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2429",
-   "discr": "marketPlayerTeam",
-   "salePrice": 26000000,
-   "expirationDate": "2026-09-12T21:23:54+02:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "Fran García",
-   "positionId": 2,
-   "marketValue": 26706207,
-   "points": 21,
-   "averagePoints": 5.25,
    "playerStatus": "ok"
   },
   {
@@ -843,6 +813,21 @@
    "points": 1,
    "averagePoints": 1.0,
    "playerStatus": "ok"
+  },
+  {
+   "id": "2429",
+   "discr": "marketPlayerTeam",
+   "salePrice": 29600000,
+   "expirationDate": "2026-09-15T00:40:44+02:00",
+   "numberOfBids": null,
+   "seller": "37664261",
+   "myBid": null,
+   "nickname": "Fran García",
+   "positionId": 2,
+   "marketValue": 26706207,
+   "points": 21,
+   "averagePoints": 5.25,
+   "playerStatus": "ok"
   }
  ],
  "standing": [
@@ -851,56 +836,56 @@
    "points": 215,
    "team_id": "37664721",
    "manager": "enriqsuar",
-   "teamValue": 355093741
+   "teamValue": 361610678
   },
   {
    "position": 2,
    "points": 204,
    "team_id": "37678052",
    "manager": "olegwarrior",
-   "teamValue": 243741506
+   "teamValue": 245470748
   },
   {
    "position": 3,
    "points": 196,
    "team_id": "37664261",
    "manager": "Javi Cepas",
-   "teamValue": 253591625
+   "teamValue": 255118157
   },
   {
    "position": 4,
    "points": 183,
    "team_id": "37679249",
    "manager": "RamónBético",
-   "teamValue": 186177908
+   "teamValue": 188570707
   },
   {
    "position": 5,
    "points": 168,
    "team_id": "37675747",
    "manager": "Javi Trauma",
-   "teamValue": 235556635
+   "teamValue": 235505195
   },
   {
    "position": 6,
    "points": 152,
    "team_id": "37667518",
    "manager": "Rcoba",
-   "teamValue": 200807570
+   "teamValue": 199577402
   },
   {
    "position": 7,
    "points": 128,
    "team_id": "37681066",
    "manager": "Miguel Canuelo",
-   "teamValue": 174881706
+   "teamValue": 174697137
   },
   {
    "position": 8,
    "points": 127,
    "team_id": "37668923",
    "manager": "Paco!!",
-   "teamValue": 248964311
+   "teamValue": 250596921
   },
   {
    "position": 9,
