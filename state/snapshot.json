@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-11T20:00:55+0000",
+ "fetched_at": "2026-09-11T21:01:01+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -154,7 +154,7 @@
    "teamId": "17",
    "marketValue": 7067347,
    "points": 17,
-   "averagePoints": 4.25,
+   "averagePoints": 3.4,
    "playerStatus": "ok",
    "buyoutClause": 7539115,
    "lockedEnd": "2026-09-24T20:33:22+0200",
@@ -390,8 +390,8 @@
    "nickname": "Félix Correia",
    "positionId": 4,
    "marketValue": 6168706,
-   "points": 0,
-   "averagePoints": 0.0,
+   "points": 1,
+   "averagePoints": 0.5,
    "playerStatus": "ok"
   },
   {
@@ -706,7 +706,7 @@
    "positionId": 4,
    "marketValue": 4160545,
    "points": 22,
-   "averagePoints": 5.5,
+   "averagePoints": 4.4,
    "playerStatus": "ok"
   },
   {
@@ -720,8 +720,8 @@
    "nickname": "Dimitrievski",
    "positionId": 1,
    "marketValue": 20478759,
-   "points": 16,
-   "averagePoints": 4.0,
+   "points": 18,
+   "averagePoints": 3.6,
    "playerStatus": "ok"
   },
   {
@@ -840,8 +840,8 @@
    "nickname": "A. Castrín",
    "positionId": 2,
    "marketValue": 3827024,
-   "points": 11,
-   "averagePoints": 2.75,
+   "points": 12,
+   "averagePoints": 2.4,
    "playerStatus": "ok"
   },
   {
@@ -885,35 +885,35 @@
   },
   {
    "position": 2,
-   "points": 188,
+   "points": 190,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 243741506
   },
   {
    "position": 3,
-   "points": 182,
+   "points": 183,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 253591625
   },
   {
    "position": 4,
-   "points": 170,
+   "points": 171,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 186177908
   },
   {
    "position": 5,
-   "points": 161,
+   "points": 163,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 235556635
   },
   {
    "position": 6,
-   "points": 144,
+   "points": 143,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 200807570
