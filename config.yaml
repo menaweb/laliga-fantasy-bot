@@ -18,6 +18,7 @@ bids:
   min_gain_points: 0.8            # puntos esperados/jornada que debe aportar un fichaje al once
   cancel_if_gain_below: 0.3       # cancelar puja si el jugador ya no aporta esto
   max_new_bids_per_run: 3
+  rebuy_veto_days: 21             # no pujar/ofertar/clausular por jugadores que salieron de mi plantilla hace menos de N días
 
 sales:
   bench_list_ratio: 1.08          # precio de listado de sobrantes = fair_value x ratio

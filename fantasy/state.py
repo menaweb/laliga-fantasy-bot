@@ -182,6 +182,22 @@ class Snapshot:
                                               "player_id": str((it.get("playerMaster") or {}).get("id"))}
         return out
 
+    def recent_departures(self, days: int, now=None) -> set:
+        """Ids de jugadores que salieron de mi equipo en los últimos `days` días, según el feed de actividad:
+        33 venta (yo vendo), 1 compra entre mánagers (yo soy el vendedor, user2), 32 clausulazo (me lo quitan, user2)."""
+        now = now or datetime.now(timezone.utc)
+        me = str(self.manager_id or "")
+        out = set()
+        for a in self.activity or []:
+            dt = parse_dt(a.get("createdAt"))
+            if not dt or now - dt > timedelta(days=days):
+                continue
+            t, u1, u2 = a.get("activityTypeId"), str(a.get("user1Id")), str(a.get("user2Id"))
+            if (t == 33 and u1 == me) or (t in (1, 32) and u2 == me):
+                if a.get("playerMasterId") is not None:
+                    out.add(str(a["playerMasterId"]))
+        return out
+
     def rival_squads(self) -> list:
         """[{team_id, manager, ptid, player, buyoutClause, lockedEnd, onSale}] de todos los rivales."""
         out = []

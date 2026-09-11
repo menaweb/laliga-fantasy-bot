@@ -165,7 +165,9 @@ def plan_bids(snap, valuer, cfg, ledger, now: datetime) -> tuple[list, dict]:
     xi = best_xi(entries, valuer, snap.formations or ["4,4,2"]) or snap.current_xi()
     my_ids = {e["player"]["id"] for e in entries}
     market = [_market_entry(it) for it in snap.market]
-    market = [m for m in market if m["seller"] != snap.team_id and m["player"]["positionId"] in (1, 2, 3, 4)]
+    departed = snap.recent_departures(int(cfg.bids.get("rebuy_veto_days", 0) or 0), now)
+    market = [m for m in market if m["seller"] != snap.team_id and m["player"]["positionId"] in (1, 2, 3, 4)
+              and m["player"]["id"] not in departed]
     by_market_id = {m["market_id"]: m for m in market}
 
     def gain_of(p: dict) -> float:

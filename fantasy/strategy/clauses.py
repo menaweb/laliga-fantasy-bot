@@ -17,10 +17,11 @@ def plan_clause_pays(snap, valuer, cfg, now: datetime, budget: int) -> list:
     entries = [e for e in snap.squad() if e["player"]["positionId"] in (1, 2, 3, 4)]
     xi = best_xi(entries, valuer, snap.formations or ["4,4,2"]) or snap.current_xi()
     room = cfg.squad.max_size - len(snap.squad())
+    departed = snap.recent_departures(int(cfg.bids.get("rebuy_veto_days", 0) or 0), now)
     cands = []
     for r in snap.rival_squads():
         p = r["player"]
-        if p["positionId"] not in (1, 2, 3, 4) or valuer.availability(p) <= 0 or r["onSale"]:
+        if p["positionId"] not in (1, 2, 3, 4) or valuer.availability(p) <= 0 or r["onSale"] or p["id"] in departed:
             continue
         cl = r["buyoutClause"]
         if not cl or cl > p["marketValue"] * min(cfg.clauses.pay_cap_ratio, ABSOLUTE_CAP):

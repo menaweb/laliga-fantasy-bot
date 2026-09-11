@@ -80,6 +80,8 @@ class Guard:
     def _check_bid(self, a):
         if a.player_id in self.by_pid:
             return Verdict(False, "jugador propio")
+        if a.player_id in self.s.recent_departures(int(self.cfg.bids.get("rebuy_veto_days", 0) or 0), self.now):
+            return Verdict(False, "salió de mi plantilla hace poco (veto de recompra)")
         if self.ledger.bid_for(a.params.get("market_id")) or str(a.params.get("market_id")) in self.market_bids:
             return Verdict(False, "puja duplicada")
         if len(self.ledger.bids) >= self.cfg.money.max_pending_bids:
