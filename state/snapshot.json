@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-12T17:01:01+0000",
+ "fetched_at": "2026-09-12T18:00:58+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -41,8 +41,8 @@
    "positionId": 1,
    "teamId": "7",
    "marketValue": 9165553,
-   "points": 7,
-   "averagePoints": 1.75,
+   "points": 8,
+   "averagePoints": 2.0,
    "playerStatus": "ok",
    "buyoutClause": 11920412,
    "lockedEnd": "2026-09-22T09:56:26+0200",
@@ -389,8 +389,8 @@
    "nickname": "G. Villar",
    "positionId": 3,
    "marketValue": 10251466,
-   "points": 15,
-   "averagePoints": 3.75,
+   "points": 17,
+   "averagePoints": 4.25,
    "playerStatus": "ok"
   },
   {
@@ -554,8 +554,8 @@
    "nickname": "Navarro",
    "positionId": 3,
    "marketValue": 5463645,
-   "points": 29,
-   "averagePoints": 5.8,
+   "points": 30,
+   "averagePoints": 6.0,
    "playerStatus": "ok"
   },
   {
@@ -952,7 +952,7 @@
  "standing": [
   {
    "position": 1,
-   "points": 243,
+   "points": 244,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 361610678
@@ -1001,14 +1001,14 @@
   },
   {
    "position": 8,
-   "points": 128,
+   "points": 127,
    "team_id": "37681066",
    "manager": "Miguel Canuelo",
    "teamValue": 174697137
   },
   {
    "position": 9,
-   "points": 116,
+   "points": 117,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 178769844
