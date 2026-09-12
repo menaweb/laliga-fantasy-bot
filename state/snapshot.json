@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-12T14:00:57+0000",
+ "fetched_at": "2026-09-12T15:01:03+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -125,8 +125,8 @@
    "positionId": 2,
    "teamId": "49",
    "marketValue": 1710475,
-   "points": 13,
-   "averagePoints": 3.25,
+   "points": 17,
+   "averagePoints": 3.4,
    "playerStatus": "ok",
    "buyoutClause": 1710475,
    "lockedEnd": "2026-09-21T21:05:53+0200",
@@ -167,8 +167,8 @@
    "positionId": 3,
    "teamId": "8",
    "marketValue": 29463976,
-   "points": 0,
-   "averagePoints": 0.0,
+   "points": 1,
+   "averagePoints": 1.0,
    "playerStatus": "ok",
    "buyoutClause": 45600311,
    "lockedEnd": "2026-08-19T00:06:12+0200",
@@ -181,8 +181,8 @@
    "positionId": 3,
    "teamId": "21",
    "marketValue": 2522849,
-   "points": 13,
-   "averagePoints": 2.6,
+   "points": 15,
+   "averagePoints": 3.0,
    "playerStatus": "ok",
    "buyoutClause": 4000000,
    "lockedEnd": "2026-08-28T14:02:55+0200",
@@ -323,14 +323,14 @@
    "discr": "marketPlayerLeague",
    "salePrice": 8657031,
    "expirationDate": "2026-09-12T20:08:00+02:00",
-   "numberOfBids": 3,
+   "numberOfBids": 4,
    "seller": "",
    "myBid": null,
    "nickname": "Y. Zabiri",
    "positionId": 4,
    "marketValue": 8924527,
-   "points": 34,
-   "averagePoints": 6.8,
+   "points": 36,
+   "averagePoints": 7.2,
    "playerStatus": "ok"
   },
   {
@@ -344,8 +344,8 @@
    "nickname": "Rockson",
    "positionId": 2,
    "marketValue": 935016,
-   "points": 0,
-   "averagePoints": 0.0,
+   "points": -2,
+   "averagePoints": -2.0,
    "playerStatus": "ok"
   },
   {
@@ -374,8 +374,8 @@
    "nickname": "Iván Martín",
    "positionId": 3,
    "marketValue": 8231519,
-   "points": 11,
-   "averagePoints": 2.75,
+   "points": 13,
+   "averagePoints": 3.25,
    "playerStatus": "ok"
   },
   {
@@ -494,8 +494,8 @@
    "nickname": "Sivera",
    "positionId": 1,
    "marketValue": 43355304,
-   "points": 0,
-   "averagePoints": 0.0,
+   "points": 40,
+   "averagePoints": 8.0,
    "playerStatus": "ok"
   },
   {
@@ -570,7 +570,7 @@
    "positionId": 2,
    "marketValue": 10421998,
    "points": 19,
-   "averagePoints": 4.75,
+   "averagePoints": 3.8,
    "playerStatus": "ok"
   },
   {
@@ -704,8 +704,8 @@
    "nickname": "Tenaglia",
    "positionId": 2,
    "marketValue": 33486599,
-   "points": 34,
-   "averagePoints": 6.8,
+   "points": 35,
+   "averagePoints": 7.0,
    "playerStatus": "ok"
   },
   {
@@ -854,8 +854,8 @@
    "nickname": "Edu Expósito",
    "positionId": 3,
    "marketValue": 28918792,
-   "points": 0,
-   "averagePoints": 0.0,
+   "points": 1,
+   "averagePoints": 1.0,
    "playerStatus": "ok"
   },
   {
@@ -877,14 +877,14 @@
  "standing": [
   {
    "position": 1,
-   "points": 221,
+   "points": 235,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 361610678
   },
   {
    "position": 2,
-   "points": 211,
+   "points": 217,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 245470748
@@ -898,7 +898,7 @@
   },
   {
    "position": 4,
-   "points": 181,
+   "points": 184,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 188570707
@@ -912,14 +912,14 @@
   },
   {
    "position": 6,
-   "points": 154,
+   "points": 156,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 214373001
   },
   {
    "position": 7,
-   "points": 133,
+   "points": 137,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 250596921
@@ -933,7 +933,7 @@
   },
   {
    "position": 9,
-   "points": 104,
+   "points": 109,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 178769844
