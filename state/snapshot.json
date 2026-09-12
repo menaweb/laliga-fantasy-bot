@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-12T06:01:04+0000",
+ "fetched_at": "2026-09-12T07:01:03+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -12,7 +12,7 @@
   "closingWeekDate": "2026-09-15T03:00:00+02:00"
  },
  "money": 7185686,
- "investment": 7185686,
+ "investment": 0,
  "team": {
   "teamValue": 176465211,
   "teamPoints": 99,
@@ -227,9 +227,9 @@
    "67534125"
   ],
   "defender": [
-   "16810005",
    "25133297",
    "49305697",
+   "49307276",
    "66953203"
   ],
   "midfield": [
@@ -438,6 +438,36 @@
    "points": 18,
    "averagePoints": 6.0,
    "playerStatus": "injured"
+  },
+  {
+   "id": "2798",
+   "discr": "marketPlayerTeam",
+   "salePrice": 1794078,
+   "expirationDate": "2026-09-15T08:31:07+02:00",
+   "numberOfBids": null,
+   "seller": "37667518",
+   "myBid": null,
+   "nickname": "Alemâo",
+   "positionId": 4,
+   "marketValue": 1794078,
+   "points": 4,
+   "averagePoints": 1.0,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "1191",
+   "discr": "marketPlayerTeam",
+   "salePrice": 5466948,
+   "expirationDate": "2026-09-15T08:31:17+02:00",
+   "numberOfBids": null,
+   "seller": "37667518",
+   "myBid": null,
+   "nickname": "Hugo Duro",
+   "positionId": 4,
+   "marketValue": 5466948,
+   "points": 0,
+   "averagePoints": 0.0,
+   "playerStatus": "ok"
   },
   {
    "id": "988",
@@ -785,21 +815,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2444",
-   "discr": "marketPlayerTeam",
-   "salePrice": 13000000,
-   "expirationDate": "2026-09-14T19:54:45+02:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "Sucic",
-   "positionId": 3,
-   "marketValue": 8789784,
-   "points": 0,
-   "averagePoints": 0.0,
-   "playerStatus": "ok"
-  },
-  {
    "id": "3249",
    "discr": "marketPlayerTeam",
    "salePrice": 16800000,
@@ -828,6 +843,51 @@
    "points": 21,
    "averagePoints": 5.25,
    "playerStatus": "ok"
+  },
+  {
+   "id": "3145",
+   "discr": "marketPlayerTeam",
+   "salePrice": 12354858,
+   "expirationDate": "2026-09-15T08:31:14+02:00",
+   "numberOfBids": null,
+   "seller": "37667518",
+   "myBid": null,
+   "nickname": "Robbie Ure",
+   "positionId": 4,
+   "marketValue": 12354858,
+   "points": 13,
+   "averagePoints": 2.6,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3228",
+   "discr": "marketPlayerTeam",
+   "salePrice": 1020226,
+   "expirationDate": "2026-09-15T08:31:29+02:00",
+   "numberOfBids": null,
+   "seller": "37667518",
+   "myBid": null,
+   "nickname": "Requena",
+   "positionId": 3,
+   "marketValue": 1020226,
+   "points": 1,
+   "averagePoints": 0.5,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2449",
+   "discr": "marketPlayerTeam",
+   "salePrice": 482537,
+   "expirationDate": "2026-09-15T08:31:34+02:00",
+   "numberOfBids": null,
+   "seller": "37667518",
+   "myBid": null,
+   "nickname": "Marcao",
+   "positionId": 2,
+   "marketValue": 482537,
+   "points": 0,
+   "averagePoints": 0.0,
+   "playerStatus": "ok"
   }
  ],
  "standing": [
@@ -850,7 +910,7 @@
    "points": 196,
    "team_id": "37664261",
    "manager": "Javi Cepas",
-   "teamValue": 255118157
+   "teamValue": 246328373
   },
   {
    "position": 4,
@@ -864,14 +924,14 @@
    "points": 168,
    "team_id": "37675747",
    "manager": "Javi Trauma",
-   "teamValue": 235505195
+   "teamValue": 227194747
   },
   {
    "position": 6,
    "points": 152,
    "team_id": "37667518",
    "manager": "Rcoba",
-   "teamValue": 199577402
+   "teamValue": 216677634
   },
   {
    "position": 7,
