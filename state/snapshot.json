@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-12T12:00:58+0000",
+ "fetched_at": "2026-09-12T13:01:00+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -112,7 +112,7 @@
    "teamId": "49",
    "marketValue": 2679724,
    "points": 10,
-   "averagePoints": 2.5,
+   "averagePoints": 2.0,
    "playerStatus": "ok",
    "buyoutClause": 2661843,
    "lockedEnd": "2026-09-09T23:53:45+0200",
@@ -126,7 +126,7 @@
    "teamId": "49",
    "marketValue": 1710475,
    "points": 11,
-   "averagePoints": 3.6666666666666665,
+   "averagePoints": 2.75,
    "playerStatus": "ok",
    "buyoutClause": 1710475,
    "lockedEnd": "2026-09-21T21:05:53+0200",
@@ -181,8 +181,8 @@
    "positionId": 3,
    "teamId": "21",
    "marketValue": 2522849,
-   "points": 12,
-   "averagePoints": 3.0,
+   "points": 11,
+   "averagePoints": 2.2,
    "playerStatus": "ok",
    "buyoutClause": 4000000,
    "lockedEnd": "2026-08-28T14:02:55+0200",
@@ -329,8 +329,8 @@
    "nickname": "Y. Zabiri",
    "positionId": 4,
    "marketValue": 8924527,
-   "points": 22,
-   "averagePoints": 5.5,
+   "points": 26,
+   "averagePoints": 5.2,
    "playerStatus": "ok"
   },
   {
@@ -375,7 +375,7 @@
    "positionId": 3,
    "marketValue": 8231519,
    "points": 9,
-   "averagePoints": 3.0,
+   "averagePoints": 2.25,
    "playerStatus": "ok"
   },
   {
@@ -494,8 +494,8 @@
    "nickname": "Sivera",
    "positionId": 1,
    "marketValue": 43355304,
-   "points": 0,
-   "averagePoints": 0.0,
+   "points": 1,
+   "averagePoints": 1.0,
    "playerStatus": "ok"
   },
   {
@@ -704,8 +704,8 @@
    "nickname": "Tenaglia",
    "positionId": 2,
    "marketValue": 33486599,
-   "points": 31,
-   "averagePoints": 7.75,
+   "points": 33,
+   "averagePoints": 6.6,
    "playerStatus": "ok"
   },
   {
@@ -877,14 +877,14 @@
  "standing": [
   {
    "position": 1,
-   "points": 215,
+   "points": 220,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 361610678
   },
   {
    "position": 2,
-   "points": 204,
+   "points": 206,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 245470748
@@ -919,21 +919,21 @@
   },
   {
    "position": 7,
+   "points": 134,
+   "team_id": "37668923",
+   "manager": "Paco!!",
+   "teamValue": 250596921
+  },
+  {
+   "position": 8,
    "points": 128,
    "team_id": "37681066",
    "manager": "Miguel Canuelo",
    "teamValue": 174697137
   },
   {
-   "position": 8,
-   "points": 127,
-   "team_id": "37668923",
-   "manager": "Paco!!",
-   "teamValue": 250596921
-  },
-  {
    "position": 9,
-   "points": 101,
+   "points": 100,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 178769844
