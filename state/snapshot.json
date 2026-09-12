@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-12T23:01:00+0000",
+ "fetched_at": "2026-09-12T23:13:17+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -60,7 +60,7 @@
    "playerStatus": "injured",
    "buyoutClause": 2914980,
    "lockedEnd": "2026-09-26T12:02:10+0200",
-   "onSale": false
+   "onSale": true
   },
   {
    "ptid": "49305697",
@@ -219,8 +219,8 @@
  ],
  "xi": {
   "formation": [
-   4,
-   4,
+   3,
+   5,
    2
   ],
   "goalkeeper": [
@@ -229,12 +229,12 @@
   "defender": [
    "25133297",
    "49305697",
-   "66953203",
-   "72696395"
+   "66953203"
   ],
   "midfield": [
    "16810003",
    "29138175",
+   "37055594",
    "69737920",
    "71117586"
   ],
@@ -1023,6 +1023,21 @@
    "points": 5,
    "averagePoints": 1.6666666666666667,
    "playerStatus": "ok"
+  },
+  {
+   "id": "2774",
+   "discr": "marketPlayerTeam",
+   "salePrice": 2241621,
+   "expirationDate": "2026-09-16T01:01:23+02:00",
+   "numberOfBids": null,
+   "seller": "37682094",
+   "myBid": null,
+   "nickname": "Kiko F.",
+   "positionId": 2,
+   "marketValue": 2241621,
+   "points": 8,
+   "averagePoints": 2.6666666666666665,
+   "playerStatus": "injured"
   }
  ],
  "standing": [
@@ -1031,56 +1046,56 @@
    "points": 247,
    "team_id": "37664721",
    "manager": "enriqsuar",
-   "teamValue": 358962425
+   "teamValue": 366967997
   },
   {
    "position": 2,
    "points": 232,
    "team_id": "37678052",
    "manager": "olegwarrior",
-   "teamValue": 245470748
+   "teamValue": 246702535
   },
   {
    "position": 3,
    "points": 210,
    "team_id": "37664261",
    "manager": "Javi Cepas",
-   "teamValue": 261299281
+   "teamValue": 264475834
   },
   {
    "position": 4,
    "points": 184,
    "team_id": "37679249",
    "manager": "RamónBético",
-   "teamValue": 188570707
+   "teamValue": 190659753
   },
   {
    "position": 5,
    "points": 174,
    "team_id": "37675747",
    "manager": "Javi Trauma",
-   "teamValue": 224933459
+   "teamValue": 224205637
   },
   {
    "position": 6,
    "points": 165,
    "team_id": "37667518",
    "manager": "Rcoba",
-   "teamValue": 214373001
+   "teamValue": 213722119
   },
   {
    "position": 7,
    "points": 163,
    "team_id": "37668923",
    "manager": "Paco!!",
-   "teamValue": 249692519
+   "teamValue": 252015193
   },
   {
    "position": 8,
    "points": 137,
    "team_id": "37681066",
    "manager": "Miguel Canuelo",
-   "teamValue": 192464540
+   "teamValue": 191906370
   },
   {
    "position": 9,
