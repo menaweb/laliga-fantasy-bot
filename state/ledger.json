@@ -6,6 +6,12 @@
    "player_id": "3077",
    "price": 30481303,
    "listed_at": "2026-09-12T07:02:15+0000"
+  },
+  {
+   "market_id": "34776592",
+   "player_id": "2965",
+   "price": 2112483,
+   "listed_at": "2026-09-12T11:01:21+0000"
   }
  ],
  "handled_offers": [
@@ -936,6 +942,13 @@
    "actions": 2,
    "spend": 4601608,
    "requests": 28
+  },
+  {
+   "ts": "2026-09-12T11:00:59.435719+00:00",
+   "mode": "LIVE",
+   "actions": 2,
+   "spend": 0,
+   "requests": 25
   }
  ],
  "live_writes_seen": [
