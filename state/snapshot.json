@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-12T13:01:00+0000",
+ "fetched_at": "2026-09-12T13:03:10+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -898,7 +898,7 @@
   },
   {
    "position": 4,
-   "points": 183,
+   "points": 182,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 188570707
