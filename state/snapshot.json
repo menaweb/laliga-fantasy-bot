@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-12T16:11:09+0000",
+ "fetched_at": "2026-09-12T17:01:01+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -41,8 +41,8 @@
    "positionId": 1,
    "teamId": "7",
    "marketValue": 9165553,
-   "points": 8,
-   "averagePoints": 2.6666666666666665,
+   "points": 7,
+   "averagePoints": 1.75,
    "playerStatus": "ok",
    "buyoutClause": 11920412,
    "lockedEnd": "2026-09-22T09:56:26+0200",
@@ -167,8 +167,8 @@
    "positionId": 3,
    "teamId": "8",
    "marketValue": 29463976,
-   "points": 9,
-   "averagePoints": 9.0,
+   "points": 32,
+   "averagePoints": 6.4,
    "playerStatus": "ok",
    "buyoutClause": 45600311,
    "lockedEnd": "2026-08-19T00:06:12+0200",
@@ -344,8 +344,8 @@
    "nickname": "Rockson",
    "positionId": 2,
    "marketValue": 935016,
-   "points": 4,
-   "averagePoints": 4.0,
+   "points": 2,
+   "averagePoints": 1.0,
    "playerStatus": "ok"
   },
   {
@@ -390,7 +390,7 @@
    "positionId": 3,
    "marketValue": 10251466,
    "points": 15,
-   "averagePoints": 5.0,
+   "averagePoints": 3.75,
    "playerStatus": "ok"
   },
   {
@@ -554,8 +554,8 @@
    "nickname": "Navarro",
    "positionId": 3,
    "marketValue": 5463645,
-   "points": 28,
-   "averagePoints": 7.0,
+   "points": 29,
+   "averagePoints": 5.8,
    "playerStatus": "ok"
   },
   {
@@ -952,7 +952,7 @@
  "standing": [
   {
    "position": 1,
-   "points": 242,
+   "points": 243,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 361610678
@@ -1008,7 +1008,7 @@
   },
   {
    "position": 9,
-   "points": 117,
+   "points": 116,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 178769844
