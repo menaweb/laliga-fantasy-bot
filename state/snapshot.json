@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-12T07:01:03+0000",
+ "fetched_at": "2026-09-12T08:01:04+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -144,7 +144,7 @@
    "playerStatus": "ok",
    "buyoutClause": 45600311,
    "lockedEnd": "2026-08-19T00:06:12+0200",
-   "onSale": false
+   "onSale": true
   },
   {
    "ptid": "71117586",
@@ -530,51 +530,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2346",
-   "discr": "marketPlayerTeam",
-   "salePrice": 25583530,
-   "expirationDate": "2026-09-12T09:42:20+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Álvaro Núñez",
-   "positionId": 2,
-   "marketValue": 2648253,
-   "points": 11,
-   "averagePoints": 2.2,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2784",
-   "discr": "marketPlayerTeam",
-   "salePrice": 179608140,
-   "expirationDate": "2026-09-12T09:42:33+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Marc Bernal",
-   "positionId": 3,
-   "marketValue": 20373367,
-   "points": 26,
-   "averagePoints": 6.5,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2520",
-   "discr": "marketPlayerTeam",
-   "salePrice": 244546290,
-   "expirationDate": "2026-09-12T09:42:56+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Roberto",
-   "positionId": 4,
-   "marketValue": 26358784,
-   "points": 30,
-   "averagePoints": 7.5,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2541",
    "discr": "marketPlayerTeam",
    "salePrice": 52500000,
@@ -830,21 +785,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2429",
-   "discr": "marketPlayerTeam",
-   "salePrice": 29600000,
-   "expirationDate": "2026-09-15T00:40:44+02:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "Fran García",
-   "positionId": 2,
-   "marketValue": 26706207,
-   "points": 21,
-   "averagePoints": 5.25,
-   "playerStatus": "ok"
-  },
-  {
    "id": "3145",
    "discr": "marketPlayerTeam",
    "salePrice": 12354858,
@@ -885,6 +825,21 @@
    "nickname": "Marcao",
    "positionId": 2,
    "marketValue": 482537,
+   "points": 0,
+   "averagePoints": 0.0,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3077",
+   "discr": "marketPlayerTeam",
+   "salePrice": 30481303,
+   "expirationDate": "2026-09-15T09:02:16+02:00",
+   "numberOfBids": null,
+   "seller": "37682094",
+   "myBid": null,
+   "nickname": "Edu Expósito",
+   "positionId": 3,
+   "marketValue": 28918792,
    "points": 0,
    "averagePoints": 0.0,
    "playerStatus": "ok"
