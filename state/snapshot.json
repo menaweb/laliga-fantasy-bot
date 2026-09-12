@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-12T21:01:02+0000",
+ "fetched_at": "2026-09-12T21:21:24+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -294,7 +294,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 7504393,
    "expirationDate": "2026-09-13T20:08:00+02:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "R. Terrats",
@@ -309,7 +309,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 5214142,
    "expirationDate": "2026-09-13T20:08:00+02:00",
-   "numberOfBids": 1,
+   "numberOfBids": 2,
    "seller": "",
    "myBid": null,
    "nickname": "Riedel",
@@ -330,8 +330,8 @@
    "nickname": "Carlos Espí",
    "positionId": 4,
    "marketValue": 14231818,
-   "points": 9,
-   "averagePoints": 2.25,
+   "points": 11,
+   "averagePoints": 2.2,
    "playerStatus": "ok"
   },
   {
@@ -735,8 +735,8 @@
    "nickname": "Bellingham",
    "positionId": 3,
    "marketValue": 118528583,
-   "points": 10,
-   "averagePoints": 10.0,
+   "points": 64,
+   "averagePoints": 12.8,
    "playerStatus": "ok"
   },
   {
@@ -1087,7 +1087,7 @@
   },
   {
    "position": 3,
-   "points": 206,
+   "points": 210,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 261299281
@@ -1101,28 +1101,28 @@
   },
   {
    "position": 5,
-   "points": 173,
+   "points": 174,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 227194747
   },
   {
    "position": 6,
-   "points": 162,
+   "points": 165,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 214373001
   },
   {
    "position": 7,
-   "points": 159,
+   "points": 163,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 249692519
   },
   {
    "position": 8,
-   "points": 136,
+   "points": 137,
    "team_id": "37681066",
    "manager": "Miguel Canuelo",
    "teamValue": 192464540
