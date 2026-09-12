@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-12T08:01:04+0000",
+ "fetched_at": "2026-09-12T09:00:59+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -11,7 +11,7 @@
   "openingWeekDate": "2026-09-11T21:00:00+02:00",
   "closingWeekDate": "2026-09-15T03:00:00+02:00"
  },
- "money": 7185686,
+ "money": 4601608,
  "investment": 0,
  "team": {
   "teamValue": 176465211,
@@ -156,7 +156,7 @@
    "points": 9,
    "averagePoints": 3.0,
    "playerStatus": "ok",
-   "buyoutClause": 7539115,
+   "buyoutClause": 12707271,
    "lockedEnd": "2026-09-24T20:33:22+0200",
    "onSale": false
   },
@@ -309,7 +309,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 8657031,
    "expirationDate": "2026-09-12T20:08:00+02:00",
-   "numberOfBids": 1,
+   "numberOfBids": 2,
    "seller": "",
    "myBid": null,
    "nickname": "Y. Zabiri",
