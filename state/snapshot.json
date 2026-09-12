@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-12T18:38:33+0000",
+ "fetched_at": "2026-09-12T19:01:01+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -11,13 +11,13 @@
   "openingWeekDate": "2026-09-11T21:00:00+02:00",
   "closingWeekDate": "2026-09-15T03:00:00+02:00"
  },
- "money": 100000,
+ "money": 2331172,
  "investment": 0,
  "team": {
-  "teamValue": 178769844,
+  "teamValue": 176657361,
   "teamPoints": 99,
   "position": 9,
-  "playersNumber": 15
+  "playersNumber": 14
  },
  "squad": [
   {
@@ -89,20 +89,6 @@
    "buyoutClause": 34937542,
    "lockedEnd": "2026-08-25T20:08:37+0200",
    "onSale": false
-  },
-  {
-   "ptid": "16810005",
-   "id": "2965",
-   "nickname": "M. Loureiro",
-   "positionId": 2,
-   "teamId": "26",
-   "marketValue": 2112483,
-   "points": 0,
-   "averagePoints": 0.0,
-   "playerStatus": "ok",
-   "buyoutClause": 6336996,
-   "lockedEnd": "2026-08-19T00:06:12+0200",
-   "onSale": true
   },
   {
    "ptid": "49307276",
@@ -994,21 +980,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2965",
-   "discr": "marketPlayerTeam",
-   "salePrice": 2112483,
-   "expirationDate": "2026-09-15T13:01:22+02:00",
-   "numberOfBids": null,
-   "seller": "37682094",
-   "myBid": null,
-   "nickname": "M. Loureiro",
-   "positionId": 2,
-   "marketValue": 2112483,
-   "points": 0,
-   "averagePoints": 0.0,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2552",
    "discr": "marketPlayerTeam",
    "salePrice": 122799380,
@@ -1116,7 +1087,7 @@
    "points": 120,
    "team_id": "37682094",
    "manager": "menaweb",
-   "teamValue": 178769844
+   "teamValue": 176657361
   }
  ]
 }
