@@ -1,18 +1,12 @@
 {
  "bids": [],
- "listings": [
-  {
-   "market_id": "34776592",
-   "player_id": "2965",
-   "price": 2112483,
-   "listed_at": "2026-09-12T11:01:21+0000"
-  }
- ],
+ "listings": [],
  "handled_offers": [
   "83167330",
   "85986806",
   "85986825",
-  "88885739"
+  "88885739",
+  "98633371"
  ],
  "runs": [
   {
@@ -1006,6 +1000,13 @@
    "actions": 0,
    "spend": 0,
    "requests": 23
+  },
+  {
+   "ts": "2026-09-12T18:38:32.615985+00:00",
+   "mode": "LIVE",
+   "actions": 1,
+   "spend": 0,
+   "requests": 27
   }
  ],
  "live_writes_seen": [
