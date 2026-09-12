@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-12T05:01:03+0000",
+ "fetched_at": "2026-09-12T06:01:04+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -41,8 +41,8 @@
    "positionId": 1,
    "teamId": "7",
    "marketValue": 9165553,
-   "points": 10,
-   "averagePoints": 2.5,
+   "points": 8,
+   "averagePoints": 2.6666666666666665,
    "playerStatus": "ok",
    "buyoutClause": 11920412,
    "lockedEnd": "2026-09-22T09:56:26+0200",
@@ -55,8 +55,8 @@
    "positionId": 2,
    "teamId": "49",
    "marketValue": 1710475,
-   "points": 13,
-   "averagePoints": 3.25,
+   "points": 11,
+   "averagePoints": 3.6666666666666665,
    "playerStatus": "ok",
    "buyoutClause": 1710475,
    "lockedEnd": "2026-09-21T21:05:53+0200",
@@ -68,7 +68,7 @@
    "nickname": "Manu Hernando",
    "positionId": 2,
    "teamId": "49",
-   "marketValue": 2661843,
+   "marketValue": 2679724,
    "points": 10,
    "averagePoints": 2.5,
    "playerStatus": "ok",
@@ -83,8 +83,8 @@
    "positionId": 2,
    "teamId": "26",
    "marketValue": 2112483,
-   "points": 8,
-   "averagePoints": 2.0,
+   "points": 0,
+   "averagePoints": 0.0,
    "playerStatus": "ok",
    "buyoutClause": 6336996,
    "lockedEnd": "2026-08-19T00:06:12+0200",
@@ -96,7 +96,7 @@
    "nickname": "Valentín Gómez",
    "positionId": 2,
    "teamId": "5",
-   "marketValue": 1716522,
+   "marketValue": 1790207,
    "points": 13,
    "averagePoints": 3.25,
    "playerStatus": "ok",
@@ -138,9 +138,9 @@
    "nickname": "Edu Expósito",
    "positionId": 3,
    "teamId": "8",
-   "marketValue": 28918792,
-   "points": 23,
-   "averagePoints": 5.75,
+   "marketValue": 29463976,
+   "points": 0,
+   "averagePoints": 0.0,
    "playerStatus": "ok",
    "buyoutClause": 45600311,
    "lockedEnd": "2026-08-19T00:06:12+0200",
@@ -152,9 +152,9 @@
    "nickname": "Guridi",
    "positionId": 3,
    "teamId": "17",
-   "marketValue": 7211470,
-   "points": 19,
-   "averagePoints": 3.8,
+   "marketValue": 7059595,
+   "points": 9,
+   "averagePoints": 3.0,
    "playerStatus": "ok",
    "buyoutClause": 7539115,
    "lockedEnd": "2026-09-24T20:33:22+0200",
@@ -166,7 +166,7 @@
    "nickname": "D. Villares",
    "positionId": 3,
    "teamId": "26",
-   "marketValue": 1336432,
+   "marketValue": 3694005,
    "points": 5,
    "averagePoints": 1.25,
    "playerStatus": "ok",
@@ -180,7 +180,7 @@
    "nickname": "Gorrotxa",
    "positionId": 3,
    "teamId": "16",
-   "marketValue": 3050395,
+   "marketValue": 9213125,
    "points": 5,
    "averagePoints": 1.6666666666666667,
    "playerStatus": "ok",
@@ -285,8 +285,8 @@
    "nickname": "Etta Eyong",
    "positionId": 4,
    "marketValue": 14738458,
-   "points": 10,
-   "averagePoints": 3.3333333333333335,
+   "points": 0,
+   "averagePoints": 0.0,
    "playerStatus": "injured"
   },
   {
@@ -330,8 +330,8 @@
    "nickname": "Rockson",
    "positionId": 2,
    "marketValue": 935016,
-   "points": -2,
-   "averagePoints": -2.0,
+   "points": 0,
+   "averagePoints": 0.0,
    "playerStatus": "ok"
   },
   {
@@ -375,8 +375,8 @@
    "nickname": "G. Villar",
    "positionId": 3,
    "marketValue": 10251466,
-   "points": 17,
-   "averagePoints": 4.25,
+   "points": 15,
+   "averagePoints": 5.0,
    "playerStatus": "ok"
   },
   {
@@ -420,8 +420,8 @@
    "nickname": "Guruzeta",
    "positionId": 4,
    "marketValue": 9449139,
-   "points": 4,
-   "averagePoints": 1.0,
+   "points": 0,
+   "averagePoints": 0.0,
    "playerStatus": "injured"
   },
   {
@@ -450,8 +450,8 @@
    "nickname": "Sivera",
    "positionId": 1,
    "marketValue": 43355304,
-   "points": 38,
-   "averagePoints": 9.5,
+   "points": 0,
+   "averagePoints": 0.0,
    "playerStatus": "ok"
   },
   {
@@ -555,8 +555,8 @@
    "nickname": "Á. Valles",
    "positionId": 1,
    "marketValue": 49804920,
-   "points": 45,
-   "averagePoints": 11.25,
+   "points": 0,
+   "averagePoints": 0.0,
    "playerStatus": "ok"
   },
   {
@@ -615,8 +615,8 @@
    "nickname": "Bellingham",
    "positionId": 3,
    "marketValue": 118528583,
-   "points": 50,
-   "averagePoints": 12.5,
+   "points": 0,
+   "averagePoints": 0.0,
    "playerStatus": "ok"
   },
   {
@@ -645,8 +645,8 @@
    "nickname": "Miguel Sierra",
    "positionId": 4,
    "marketValue": 4443580,
-   "points": 26,
-   "averagePoints": 5.2,
+   "points": 19,
+   "averagePoints": 6.333333333333333,
    "playerStatus": "ok"
   },
   {
@@ -690,8 +690,8 @@
    "nickname": "Yeray",
    "positionId": 2,
    "marketValue": 7003879,
-   "points": 15,
-   "averagePoints": 3.75,
+   "points": 0,
+   "averagePoints": 0.0,
    "playerStatus": "ok"
   },
   {
@@ -765,8 +765,8 @@
    "nickname": "Hector Fort",
    "positionId": 2,
    "marketValue": 3443512,
-   "points": 2,
-   "averagePoints": 1.0,
+   "points": 0,
+   "averagePoints": 0.0,
    "playerStatus": "ok"
   },
   {
@@ -795,8 +795,8 @@
    "nickname": "Sucic",
    "positionId": 3,
    "marketValue": 8789784,
-   "points": 27,
-   "averagePoints": 5.4,
+   "points": 0,
+   "averagePoints": 0.0,
    "playerStatus": "ok"
   },
   {
