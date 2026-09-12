@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-12T16:01:35+0000",
+ "fetched_at": "2026-09-12T16:11:09+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -167,8 +167,8 @@
    "positionId": 3,
    "teamId": "8",
    "marketValue": 29463976,
-   "points": 3,
-   "averagePoints": 3.0,
+   "points": 9,
+   "averagePoints": 9.0,
    "playerStatus": "ok",
    "buyoutClause": 45600311,
    "lockedEnd": "2026-08-19T00:06:12+0200",
@@ -344,8 +344,8 @@
    "nickname": "Rockson",
    "positionId": 2,
    "marketValue": 935016,
-   "points": 0,
-   "averagePoints": 0.0,
+   "points": 4,
+   "averagePoints": 4.0,
    "playerStatus": "ok"
   },
   {
@@ -494,8 +494,8 @@
    "nickname": "Cala",
    "positionId": 4,
    "marketValue": 6660207,
-   "points": 15,
-   "averagePoints": 3.0,
+   "points": 17,
+   "averagePoints": 3.4,
    "playerStatus": "ok"
   },
   {
@@ -629,8 +629,8 @@
    "nickname": "Roberto",
    "positionId": 4,
    "marketValue": 26358784,
-   "points": 39,
-   "averagePoints": 7.8,
+   "points": 46,
+   "averagePoints": 9.2,
    "playerStatus": "ok"
   },
   {
@@ -952,14 +952,14 @@
  "standing": [
   {
    "position": 1,
-   "points": 235,
+   "points": 242,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 361610678
   },
   {
    "position": 2,
-   "points": 217,
+   "points": 232,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 245470748
@@ -980,7 +980,7 @@
   },
   {
    "position": 5,
-   "points": 168,
+   "points": 172,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 227194747
@@ -994,7 +994,7 @@
   },
   {
    "position": 7,
-   "points": 137,
+   "points": 139,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 250596921
@@ -1008,7 +1008,7 @@
   },
   {
    "position": 9,
-   "points": 111,
+   "points": 117,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 178769844
