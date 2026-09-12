@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-12T11:01:00+0000",
+ "fetched_at": "2026-09-12T12:00:58+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -102,7 +102,7 @@
    "playerStatus": "ok",
    "buyoutClause": 6336996,
    "lockedEnd": "2026-08-19T00:06:12+0200",
-   "onSale": false
+   "onSale": true
   },
   {
    "ptid": "49307276",
@@ -243,8 +243,8 @@
   "defender": [
    "25133297",
    "49305697",
-   "49307276",
-   "66953203"
+   "66953203",
+   "72696395"
   ],
   "midfield": [
    "16810003",
@@ -854,6 +854,21 @@
    "nickname": "Edu Expósito",
    "positionId": 3,
    "marketValue": 28918792,
+   "points": 0,
+   "averagePoints": 0.0,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2965",
+   "discr": "marketPlayerTeam",
+   "salePrice": 2112483,
+   "expirationDate": "2026-09-15T13:01:22+02:00",
+   "numberOfBids": null,
+   "seller": "37682094",
+   "myBid": null,
+   "nickname": "M. Loureiro",
+   "positionId": 2,
+   "marketValue": 2112483,
    "points": 0,
    "averagePoints": 0.0,
    "playerStatus": "ok"
