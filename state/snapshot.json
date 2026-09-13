@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-13T14:00:59+0000",
+ "fetched_at": "2026-09-13T15:01:04+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -285,8 +285,8 @@
    "nickname": "Ryan",
    "positionId": 1,
    "marketValue": 27645113,
-   "points": 43,
-   "averagePoints": 10.75,
+   "points": 41,
+   "averagePoints": 8.2,
    "playerStatus": "ok"
   },
   {
@@ -585,8 +585,8 @@
    "nickname": "M. Román",
    "positionId": 3,
    "marketValue": 10916595,
-   "points": 28,
-   "averagePoints": 4.666666666666667,
+   "points": 33,
+   "averagePoints": 5.5,
    "playerStatus": "ok"
   },
   {
@@ -630,8 +630,8 @@
    "nickname": "Carreira",
    "positionId": 2,
    "marketValue": 6903031,
-   "points": 0,
-   "averagePoints": 0.0,
+   "points": 21,
+   "averagePoints": 3.5,
    "playerStatus": "ok"
   },
   {
@@ -646,7 +646,7 @@
    "positionId": 3,
    "marketValue": 21306511,
    "points": 26,
-   "averagePoints": 6.5,
+   "averagePoints": 5.2,
    "playerStatus": "ok"
   },
   {
@@ -751,7 +751,7 @@
    "positionId": 3,
    "marketValue": 6924188,
    "points": 24,
-   "averagePoints": 8.0,
+   "averagePoints": 6.0,
    "playerStatus": "ok"
   },
   {
@@ -796,7 +796,7 @@
    "positionId": 3,
    "marketValue": 108249912,
    "points": 57,
-   "averagePoints": 14.25,
+   "averagePoints": 11.4,
    "playerStatus": "ok"
   },
   {
@@ -810,8 +810,8 @@
    "nickname": "Manu Sánchez",
    "positionId": 2,
    "marketValue": 5386912,
-   "points": 16,
-   "averagePoints": 4.0,
+   "points": 14,
+   "averagePoints": 2.8,
    "playerStatus": "ok"
   },
   {
@@ -840,8 +840,8 @@
    "nickname": "Requena",
    "positionId": 3,
    "marketValue": 1000103,
-   "points": 1,
-   "averagePoints": 0.5,
+   "points": 0,
+   "averagePoints": 0.0,
    "playerStatus": "ok"
   },
   {
@@ -1013,7 +1013,7 @@
  "standing": [
   {
    "position": 1,
-   "points": 246,
+   "points": 253,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 366967407
@@ -1034,21 +1034,21 @@
   },
   {
    "position": 4,
-   "points": 184,
+   "points": 189,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 190658762
   },
   {
    "position": 5,
-   "points": 176,
+   "points": 184,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 224204601
   },
   {
    "position": 6,
-   "points": 165,
+   "points": 164,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 213720522
@@ -1062,7 +1062,7 @@
   },
   {
    "position": 8,
-   "points": 137,
+   "points": 139,
    "team_id": "37681066",
    "manager": "Miguel Canuelo",
    "teamValue": 191907005
