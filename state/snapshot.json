@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-13T06:01:03+0000",
+ "fetched_at": "2026-09-13T06:42:03+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -767,21 +767,6 @@
    "marketValue": 4684966,
    "points": 19,
    "averagePoints": 6.333333333333333,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "77",
-   "discr": "marketPlayerTeam",
-   "salePrice": 6815450,
-   "expirationDate": "2026-09-13T08:02:38+02:00",
-   "numberOfBids": null,
-   "seller": "37675747",
-   "myBid": null,
-   "nickname": "Yeray",
-   "positionId": 2,
-   "marketValue": 6996154,
-   "points": 18,
-   "averagePoints": 3.6,
    "playerStatus": "ok"
   },
   {
