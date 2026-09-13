@@ -1,20 +1,24 @@
 {
- "bids": [],
- "listings": [
+ "bids": [
   {
-   "market_id": "35281705",
-   "player_id": "2621",
-   "price": 9213125,
-   "listed_at": "2026-09-12T20:02:02+0000"
+   "market_id": "33104410",
+   "player_id": "2963",
+   "money": 5302196,
+   "kind": "offer",
+   "bid_id": "101697770",
+   "placed_at": "2026-09-13T21:01:22+0000",
+   "reason": "HUECO DEF +2.3 pts al once · 3.3 pts esp (ppg 2.8×1.0+prior 3.1 · ok · vs SEV 1.17 · prob starter 100% · tend7 +14%)"
   }
  ],
+ "listings": [],
  "handled_offers": [
   "83167330",
   "85986806",
   "85986825",
   "88885739",
   "98633371",
-  "101122484"
+  "101122484",
+  "101122478"
  ],
  "runs": [
   {
@@ -1239,6 +1243,13 @@
    "actions": 1,
    "spend": 2224302,
    "requests": 27
+  },
+  {
+   "ts": "2026-09-13T21:00:58.234064+00:00",
+   "mode": "LIVE",
+   "actions": 2,
+   "spend": 5302196,
+   "requests": 28
   }
  ],
  "live_writes_seen": [
