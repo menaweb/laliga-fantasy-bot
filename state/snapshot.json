@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-13T19:16:49+0000",
+ "fetched_at": "2026-09-13T20:00:57+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -256,8 +256,8 @@
    "nickname": "Matarazzo",
    "positionId": 5,
    "marketValue": 1513801,
-   "points": 10,
-   "averagePoints": 2.5,
+   "points": 12,
+   "averagePoints": 2.4,
    "playerStatus": "ok"
   },
   {
@@ -571,8 +571,8 @@
    "nickname": "Aramburu",
    "positionId": 2,
    "marketValue": 18643702,
-   "points": 16,
-   "averagePoints": 2.6666666666666665,
+   "points": 17,
+   "averagePoints": 2.8333333333333335,
    "playerStatus": "ok"
   },
   {
@@ -633,21 +633,6 @@
    "marketValue": 50615564,
    "points": 0,
    "averagePoints": 0.0,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2930",
-   "discr": "marketPlayerTeam",
-   "salePrice": 18000000,
-   "expirationDate": "2026-09-15T21:30:01+02:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "Nuñez",
-   "positionId": 2,
-   "marketValue": 10461739,
-   "points": 19,
-   "averagePoints": 3.8,
    "playerStatus": "ok"
   },
   {
@@ -876,36 +861,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "3262",
-   "discr": "marketPlayerTeam",
-   "salePrice": 7500000,
-   "expirationDate": "2026-09-15T21:31:25+02:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "Félix Correia",
-   "positionId": 4,
-   "marketValue": 5953416,
-   "points": 6,
-   "averagePoints": 3.0,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3249",
-   "discr": "marketPlayerTeam",
-   "salePrice": 16200000,
-   "expirationDate": "2026-09-15T21:31:43+02:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "Adama Traoré",
-   "positionId": 4,
-   "marketValue": 15960173,
-   "points": 4,
-   "averagePoints": 2.0,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2621",
    "discr": "marketPlayerTeam",
    "salePrice": 9213125,
@@ -1061,7 +1016,7 @@
    "points": 220,
    "team_id": "37664261",
    "manager": "Javi Cepas",
-   "teamValue": 272054477
+   "teamValue": 239679149
   },
   {
    "position": 4,
@@ -1072,7 +1027,7 @@
   },
   {
    "position": 5,
-   "points": 188,
+   "points": 186,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 224204601
@@ -1086,7 +1041,7 @@
   },
   {
    "position": 7,
-   "points": 163,
+   "points": 164,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 252013470
