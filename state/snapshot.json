@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-13T07:01:02+0000",
+ "fetched_at": "2026-09-13T08:01:04+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -369,7 +369,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 480470,
    "expirationDate": "2026-09-13T20:08:00+02:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Álex Sancris",
