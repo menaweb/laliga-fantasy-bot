@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-13T16:55:46+0000",
+ "fetched_at": "2026-09-13T17:01:00+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -705,8 +705,8 @@
    "nickname": "Quagliata",
    "positionId": 2,
    "marketValue": 3707830,
-   "points": 12,
-   "averagePoints": 2.4,
+   "points": 11,
+   "averagePoints": 2.2,
    "playerStatus": "ok"
   },
   {
@@ -1057,7 +1057,7 @@
   },
   {
    "position": 3,
-   "points": 215,
+   "points": 214,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 264472434
