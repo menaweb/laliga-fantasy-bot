@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-13T16:01:05+0000",
+ "fetched_at": "2026-09-13T16:55:46+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -140,7 +140,7 @@
    "teamId": "26",
    "marketValue": 1303661,
    "points": 5,
-   "averagePoints": 1.25,
+   "averagePoints": 1.0,
    "playerStatus": "ok",
    "buyoutClause": 2393361,
    "lockedEnd": "2026-09-01T20:08:29+0200",
@@ -294,14 +294,14 @@
    "discr": "marketPlayerLeague",
    "salePrice": 7504393,
    "expirationDate": "2026-09-13T20:08:00+02:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "R. Terrats",
    "positionId": 3,
    "marketValue": 7582043,
    "points": 17,
-   "averagePoints": 4.25,
+   "averagePoints": 3.4,
    "playerStatus": "ok"
   },
   {
@@ -324,7 +324,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 14231818,
    "expirationDate": "2026-09-13T20:08:00+02:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Carlos Espí",
@@ -406,7 +406,7 @@
    "positionId": 3,
    "marketValue": 6375675,
    "points": 2,
-   "averagePoints": 2.0,
+   "averagePoints": 1.0,
    "playerStatus": "ok"
   },
   {
@@ -645,8 +645,8 @@
    "nickname": "Marc Bernal",
    "positionId": 3,
    "marketValue": 21306511,
-   "points": 26,
-   "averagePoints": 5.2,
+   "points": 33,
+   "averagePoints": 6.6,
    "playerStatus": "ok"
   },
   {
@@ -706,7 +706,7 @@
    "positionId": 2,
    "marketValue": 3707830,
    "points": 12,
-   "averagePoints": 3.0,
+   "averagePoints": 2.4,
    "playerStatus": "ok"
   },
   {
@@ -750,8 +750,8 @@
    "nickname": "Bardeli",
    "positionId": 3,
    "marketValue": 6924188,
-   "points": 25,
-   "averagePoints": 6.25,
+   "points": 29,
+   "averagePoints": 7.25,
    "playerStatus": "ok"
   },
   {
@@ -795,8 +795,8 @@
    "nickname": "Fermín",
    "positionId": 3,
    "marketValue": 108249912,
-   "points": 56,
-   "averagePoints": 11.2,
+   "points": 58,
+   "averagePoints": 11.6,
    "playerStatus": "ok"
   },
   {
@@ -810,8 +810,8 @@
    "nickname": "Manu Sánchez",
    "positionId": 2,
    "marketValue": 5386912,
-   "points": 14,
-   "averagePoints": 2.8,
+   "points": 16,
+   "averagePoints": 3.2,
    "playerStatus": "ok"
   },
   {
@@ -840,8 +840,8 @@
    "nickname": "Requena",
    "positionId": 3,
    "marketValue": 1000103,
-   "points": 0,
-   "averagePoints": 0.0,
+   "points": 1,
+   "averagePoints": 0.3333333333333333,
    "playerStatus": "ok"
   },
   {
@@ -976,7 +976,7 @@
    "positionId": 4,
    "marketValue": 15960173,
    "points": 1,
-   "averagePoints": 1.0,
+   "averagePoints": 0.5,
    "playerStatus": "ok"
   },
   {
@@ -1008,47 +1008,77 @@
    "points": 8,
    "averagePoints": 2.6666666666666665,
    "playerStatus": "injured"
+  },
+  {
+   "id": "2552",
+   "discr": "marketPlayerTeam",
+   "salePrice": 125769290,
+   "expirationDate": "2026-09-16T18:45:07+02:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Jonny Otto",
+   "positionId": 2,
+   "marketValue": 12576929,
+   "points": 28,
+   "averagePoints": 5.6,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3108",
+   "discr": "marketPlayerTeam",
+   "salePrice": 909551850,
+   "expirationDate": "2026-09-16T18:45:17+02:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Aubameyang",
+   "positionId": 4,
+   "marketValue": 90955185,
+   "points": 48,
+   "averagePoints": 9.6,
+   "playerStatus": "ok"
   }
  ],
  "standing": [
   {
    "position": 1,
-   "points": 252,
+   "points": 263,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 366967407
   },
   {
    "position": 2,
-   "points": 232,
+   "points": 231,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 246702833
   },
   {
    "position": 3,
-   "points": 211,
+   "points": 215,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 264472434
   },
   {
    "position": 4,
-   "points": 190,
+   "points": 198,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 190658762
   },
   {
    "position": 5,
-   "points": 184,
+   "points": 188,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 224204601
   },
   {
    "position": 6,
-   "points": 164,
+   "points": 165,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 213720522
