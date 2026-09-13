@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-13T13:01:07+0000",
+ "fetched_at": "2026-09-13T14:00:59+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -309,7 +309,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 5214142,
    "expirationDate": "2026-09-13T20:08:00+02:00",
-   "numberOfBids": 2,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Riedel",
@@ -585,8 +585,8 @@
    "nickname": "M. Román",
    "positionId": 3,
    "marketValue": 10916595,
-   "points": 29,
-   "averagePoints": 4.833333333333333,
+   "points": 28,
+   "averagePoints": 4.666666666666667,
    "playerStatus": "ok"
   },
   {
@@ -630,8 +630,8 @@
    "nickname": "Carreira",
    "positionId": 2,
    "marketValue": 6903031,
-   "points": 1,
-   "averagePoints": 1.0,
+   "points": 0,
+   "averagePoints": 0.0,
    "playerStatus": "ok"
   },
   {
@@ -1013,7 +1013,7 @@
  "standing": [
   {
    "position": 1,
-   "points": 248,
+   "points": 246,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 366967407
@@ -1041,7 +1041,7 @@
   },
   {
    "position": 5,
-   "points": 174,
+   "points": 176,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 224204601
