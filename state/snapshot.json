@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-13T19:01:02+0000",
+ "fetched_at": "2026-09-13T19:16:49+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -11,13 +11,13 @@
   "openingWeekDate": "2026-09-11T21:00:00+02:00",
   "closingWeekDate": "2026-09-15T03:00:00+02:00"
  },
- "money": 2431172,
+ "money": 4574533,
  "investment": 0,
  "team": {
-  "teamValue": 176407934,
+  "teamValue": 174166316,
   "teamPoints": 99,
   "position": 9,
-  "playersNumber": 14
+  "playersNumber": 13
  },
  "squad": [
   {
@@ -47,20 +47,6 @@
    "buyoutClause": 11920412,
    "lockedEnd": "2026-09-22T09:56:26+0200",
    "onSale": false
-  },
-  {
-   "ptid": "72696395",
-   "id": "2774",
-   "nickname": "Kiko F.",
-   "positionId": 2,
-   "teamId": "9",
-   "marketValue": 2241618,
-   "points": 8,
-   "averagePoints": 2.6666666666666665,
-   "playerStatus": "injured",
-   "buyoutClause": 2914980,
-   "lockedEnd": "2026-09-26T12:02:10+0200",
-   "onSale": true
   },
   {
    "ptid": "49305697",
@@ -935,21 +921,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2774",
-   "discr": "marketPlayerTeam",
-   "salePrice": 2241621,
-   "expirationDate": "2026-09-16T01:01:23+02:00",
-   "numberOfBids": null,
-   "seller": "37682094",
-   "myBid": null,
-   "nickname": "Kiko F.",
-   "positionId": 2,
-   "marketValue": 2241618,
-   "points": 8,
-   "averagePoints": 2.6666666666666665,
-   "playerStatus": "injured"
-  },
-  {
    "id": "2552",
    "discr": "marketPlayerTeam",
    "salePrice": 125769290,
@@ -1132,7 +1103,7 @@
    "points": 120,
    "team_id": "37682094",
    "manager": "menaweb",
-   "teamValue": 176407934
+   "teamValue": 174166316
   }
  ]
 }
