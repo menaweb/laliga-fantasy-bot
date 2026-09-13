@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-13T15:01:04+0000",
+ "fetched_at": "2026-09-13T16:01:05+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -11,7 +11,7 @@
   "openingWeekDate": "2026-09-11T21:00:00+02:00",
   "closingWeekDate": "2026-09-15T03:00:00+02:00"
  },
- "money": 2331172,
+ "money": 2431172,
  "investment": 0,
  "team": {
   "teamValue": 176407934,
@@ -285,8 +285,8 @@
    "nickname": "Ryan",
    "positionId": 1,
    "marketValue": 27645113,
-   "points": 41,
-   "averagePoints": 8.2,
+   "points": 42,
+   "averagePoints": 8.4,
    "playerStatus": "ok"
   },
   {
@@ -294,7 +294,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 7504393,
    "expirationDate": "2026-09-13T20:08:00+02:00",
-   "numberOfBids": 1,
+   "numberOfBids": 0,
    "seller": "",
    "myBid": null,
    "nickname": "R. Terrats",
@@ -369,7 +369,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 480470,
    "expirationDate": "2026-09-13T20:08:00+02:00",
-   "numberOfBids": 1,
+   "numberOfBids": 0,
    "seller": "",
    "myBid": null,
    "nickname": "Álex Sancris",
@@ -750,8 +750,8 @@
    "nickname": "Bardeli",
    "positionId": 3,
    "marketValue": 6924188,
-   "points": 24,
-   "averagePoints": 6.0,
+   "points": 25,
+   "averagePoints": 6.25,
    "playerStatus": "ok"
   },
   {
@@ -795,8 +795,8 @@
    "nickname": "Fermín",
    "positionId": 3,
    "marketValue": 108249912,
-   "points": 57,
-   "averagePoints": 11.4,
+   "points": 56,
+   "averagePoints": 11.2,
    "playerStatus": "ok"
   },
   {
@@ -1013,7 +1013,7 @@
  "standing": [
   {
    "position": 1,
-   "points": 253,
+   "points": 252,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 366967407
@@ -1027,14 +1027,14 @@
   },
   {
    "position": 3,
-   "points": 210,
+   "points": 211,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 264472434
   },
   {
    "position": 4,
-   "points": 189,
+   "points": 190,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 190658762
