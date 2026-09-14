@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-14T08:00:59+0000",
+ "fetched_at": "2026-09-14T09:01:04+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -992,6 +992,36 @@
    "marketValue": 13941279,
    "points": 11,
    "averagePoints": 2.2,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2511",
+   "discr": "marketPlayerTeam",
+   "salePrice": 9500000,
+   "expirationDate": "2026-09-17T10:11:07+02:00",
+   "numberOfBids": null,
+   "seller": "37664261",
+   "myBid": null,
+   "nickname": "R. Terrats",
+   "positionId": 3,
+   "marketValue": 7697677,
+   "points": 31,
+   "averagePoints": 6.2,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3164",
+   "discr": "marketPlayerTeam",
+   "salePrice": 11800000,
+   "expirationDate": "2026-09-17T10:11:20+02:00",
+   "numberOfBids": null,
+   "seller": "37664261",
+   "myBid": null,
+   "nickname": "Bardeli",
+   "positionId": 3,
+   "marketValue": 7220357,
+   "points": 29,
+   "averagePoints": 7.25,
    "playerStatus": "ok"
   }
  ],
