@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-14T05:01:00+0000",
+ "fetched_at": "2026-09-14T06:01:02+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -692,21 +692,6 @@
    "marketValue": 4853343,
    "points": 19,
    "averagePoints": 6.333333333333333,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2624",
-   "discr": "marketPlayerTeam",
-   "salePrice": 52341560,
-   "expirationDate": "2026-09-14T07:41:31+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Manu Sánchez",
-   "positionId": 2,
-   "marketValue": 5428386,
-   "points": 16,
-   "averagePoints": 3.2,
    "playerStatus": "ok"
   },
   {
