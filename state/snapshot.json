@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-14T19:12:44+0000",
+ "fetched_at": "2026-09-14T20:00:59+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -11,13 +11,13 @@
   "openingWeekDate": "2026-09-11T21:00:00+02:00",
   "closingWeekDate": "2026-09-15T03:00:00+02:00"
  },
- "money": 13892,
+ "money": 2963892,
  "investment": 0,
  "team": {
-  "teamValue": 177200495,
+  "teamValue": 175074028,
   "teamPoints": 99,
   "position": 9,
-  "playersNumber": 14
+  "playersNumber": 13
  },
  "squad": [
   {
@@ -88,20 +88,6 @@
    "playerStatus": "ok",
    "buyoutClause": 5302196,
    "lockedEnd": "2026-09-28T20:18:44+0200",
-   "onSale": false
-  },
-  {
-   "ptid": "74854581",
-   "id": "2742",
-   "nickname": "Nacho Perez",
-   "positionId": 2,
-   "teamId": "11",
-   "marketValue": 2126467,
-   "points": 18,
-   "averagePoints": 3.6,
-   "playerStatus": "ok",
-   "buyoutClause": 2224302,
-   "lockedEnd": "2026-09-27T22:01:55+0200",
    "onSale": false
   },
   {
@@ -195,8 +181,8 @@
    "positionId": 4,
    "teamId": "20",
    "marketValue": 35999614,
-   "points": 26,
-   "averagePoints": 5.2,
+   "points": 30,
+   "averagePoints": 6.0,
    "playerStatus": "ok",
    "buyoutClause": 51555905,
    "lockedEnd": "2026-08-19T00:06:12+0200",
@@ -219,8 +205,8 @@
  ],
  "xi": {
   "formation": [
-   3,
-   5,
+   4,
+   4,
    2
   ],
   "goalkeeper": [
@@ -228,8 +214,9 @@
   ],
   "defender": [
    "25133297",
-   "49305697",
-   "66953203"
+   "49307276",
+   "66953203",
+   "76058787"
   ],
   "midfield": [
    "16810003",
@@ -524,8 +511,8 @@
    "nickname": "Marc Roca",
    "positionId": 3,
    "marketValue": 12506266,
-   "points": 23,
-   "averagePoints": 4.6,
+   "points": 24,
+   "averagePoints": 4.8,
    "playerStatus": "ok"
   },
   {
@@ -554,8 +541,8 @@
    "nickname": "Buchanan",
    "positionId": 3,
    "marketValue": 11913332,
-   "points": 10,
-   "averagePoints": 2.0,
+   "points": 9,
+   "averagePoints": 1.8,
    "playerStatus": "ok"
   },
   {
@@ -659,8 +646,8 @@
    "nickname": "Á. Valles",
    "positionId": 1,
    "marketValue": 50743680,
-   "points": 45,
-   "averagePoints": 9.0,
+   "points": 47,
+   "averagePoints": 9.4,
    "playerStatus": "ok"
   },
   {
@@ -809,8 +796,8 @@
    "nickname": "Fran García",
    "positionId": 2,
    "marketValue": 28835200,
-   "points": 21,
-   "averagePoints": 4.2,
+   "points": 20,
+   "averagePoints": 4.0,
    "playerStatus": "ok"
   },
   {
@@ -989,8 +976,8 @@
    "nickname": "Bartra",
    "positionId": 2,
    "marketValue": 37651286,
-   "points": 25,
-   "averagePoints": 5.0,
+   "points": 26,
+   "averagePoints": 5.2,
    "playerStatus": "ok"
   },
   {
@@ -1071,21 +1058,21 @@
   },
   {
    "position": 3,
-   "points": 223,
+   "points": 224,
    "team_id": "37664261",
    "manager": "Javi Cepas",
-   "teamValue": 239712452
+   "teamValue": 241838919
   },
   {
    "position": 4,
-   "points": 198,
+   "points": 204,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 167754304
   },
   {
    "position": 5,
-   "points": 193,
+   "points": 192,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 224752911
@@ -1106,17 +1093,17 @@
   },
   {
    "position": 8,
-   "points": 143,
+   "points": 142,
    "team_id": "37681066",
    "manager": "Miguel Canuelo",
    "teamValue": 196482702
   },
   {
    "position": 9,
-   "points": 123,
+   "points": 127,
    "team_id": "37682094",
    "manager": "menaweb",
-   "teamValue": 177200495
+   "teamValue": 175074028
   }
  ]
 }
