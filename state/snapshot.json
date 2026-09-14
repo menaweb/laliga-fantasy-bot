@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-14T10:01:10+0000",
+ "fetched_at": "2026-09-14T11:01:36+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -144,7 +144,7 @@
    "playerStatus": "ok",
    "buyoutClause": 45600311,
    "lockedEnd": "2026-08-19T00:06:12+0200",
-   "onSale": true
+   "onSale": false
   },
   {
    "ptid": "29138175",
@@ -309,7 +309,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 2179300,
    "expirationDate": "2026-09-14T20:08:00+02:00",
-   "numberOfBids": 1,
+   "numberOfBids": 2,
    "seller": "",
    "myBid": null,
    "nickname": "Dieng",
@@ -405,8 +405,8 @@
    "nickname": "Moi Gómez",
    "positionId": 3,
    "marketValue": 3593939,
-   "points": 0,
-   "averagePoints": 0.0,
+   "points": 26,
+   "averagePoints": 6.5,
    "playerStatus": "injured"
   },
   {
@@ -465,8 +465,8 @@
    "nickname": "Hugo Duro",
    "positionId": 4,
    "marketValue": 5194754,
-   "points": 0,
-   "averagePoints": 0.0,
+   "points": 7,
+   "averagePoints": 1.4,
    "playerStatus": "ok"
   },
   {
@@ -630,8 +630,8 @@
    "nickname": "Á. Valles",
    "positionId": 1,
    "marketValue": 50768736,
-   "points": 0,
-   "averagePoints": 0.0,
+   "points": 45,
+   "averagePoints": 11.25,
    "playerStatus": "ok"
   },
   {
@@ -885,8 +885,8 @@
    "nickname": "Lobete",
    "positionId": 4,
    "marketValue": 529026,
-   "points": 0,
-   "averagePoints": 0.0,
+   "points": 2,
+   "averagePoints": 0.6666666666666666,
    "playerStatus": "injured"
   },
   {
@@ -1022,21 +1022,6 @@
    "marketValue": 7220357,
    "points": 29,
    "averagePoints": 7.25,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3077",
-   "discr": "marketPlayerTeam",
-   "salePrice": null,
-   "expirationDate": "2026-09-17T11:09:09+02:00",
-   "numberOfBids": null,
-   "seller": "37682094",
-   "myBid": null,
-   "nickname": "Edu Expósito",
-   "positionId": 3,
-   "marketValue": 30046194,
-   "points": 32,
-   "averagePoints": 6.4,
    "playerStatus": "ok"
   }
  ],
