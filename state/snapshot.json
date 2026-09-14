@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-14T09:01:04+0000",
+ "fetched_at": "2026-09-14T10:01:10+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -144,7 +144,7 @@
    "playerStatus": "ok",
    "buyoutClause": 45600311,
    "lockedEnd": "2026-08-19T00:06:12+0200",
-   "onSale": false
+   "onSale": true
   },
   {
    "ptid": "29138175",
@@ -309,7 +309,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 2179300,
    "expirationDate": "2026-09-14T20:08:00+02:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Dieng",
@@ -339,7 +339,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 1084069,
    "expirationDate": "2026-09-14T20:08:00+02:00",
-   "numberOfBids": 1,
+   "numberOfBids": 2,
    "seller": "",
    "myBid": null,
    "nickname": "Ochieng",
@@ -1022,6 +1022,21 @@
    "marketValue": 7220357,
    "points": 29,
    "averagePoints": 7.25,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3077",
+   "discr": "marketPlayerTeam",
+   "salePrice": null,
+   "expirationDate": "2026-09-17T11:09:09+02:00",
+   "numberOfBids": null,
+   "seller": "37682094",
+   "myBid": null,
+   "nickname": "Edu Expósito",
+   "positionId": 3,
+   "marketValue": 30046194,
+   "points": 32,
+   "averagePoints": 6.4,
    "playerStatus": "ok"
   }
  ],
