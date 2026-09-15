@@ -12,7 +12,7 @@
   {
    "market_id": "217725573",
    "player_id": "2353",
-   "money": 12161403,
+   "money": 9500000,
    "kind": "bid",
    "bid_id": "33011995",
    "placed_at": "2026-09-15T21:02:21+0000",
@@ -1678,6 +1678,13 @@
    "actions": 3,
    "spend": 14861133,
    "requests": 30
+  },
+  {
+   "ts": "2026-09-15T22:01:33.475236+00:00",
+   "mode": "LIVE",
+   "actions": 0,
+   "spend": 0,
+   "requests": 23
   }
  ],
  "live_writes_seen": [
