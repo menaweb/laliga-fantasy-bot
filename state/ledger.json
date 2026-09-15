@@ -1,15 +1,5 @@
 {
- "bids": [
-  {
-   "market_id": "211284877",
-   "player_id": "3267",
-   "money": 5226274,
-   "kind": "bid",
-   "bid_id": "32441505",
-   "placed_at": "2026-09-15T03:01:16+0000",
-   "reason": "+1.7 pts al once · 4.0 pts esp (ppg 2.0×0.2+prior 4.8 · ok · vs ESP 1.15 · prob starter 70% · tend7 -10%)"
-  }
- ],
+ "bids": [],
  "listings": [],
  "handled_offers": [
   "83167330",
@@ -1642,6 +1632,11 @@
    "actions": 0,
    "spend": 0,
    "requests": 22
+  },
+  {
+   "ts": "2026-09-15T19:00:59.516245+00:00",
+   "mode": "LIVE",
+   "error": "bug: HTTPSConnectionPool(host='fantasy-api.llt-services.com', port=443): Read timed out. (read timeout=20)"
   }
  ],
  "live_writes_seen": [
