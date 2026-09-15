@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-15T15:01:09+0000",
+ "fetched_at": "2026-09-15T16:01:02+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -280,7 +280,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 500932,
    "expirationDate": "2026-09-15T20:08:00+02:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Panach",
@@ -456,21 +456,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "3105",
-   "discr": "marketPlayerTeam",
-   "salePrice": 15000000,
-   "expirationDate": "2026-09-15T17:35:54+02:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Cala",
-   "positionId": 4,
-   "marketValue": 6422221,
-   "points": 17,
-   "averagePoints": 3.4,
-   "playerStatus": "ok"
-  },
-  {
    "id": "3082",
    "discr": "marketPlayerTeam",
    "salePrice": 21804934,
@@ -543,21 +528,6 @@
    "marketValue": 12870122,
    "points": 30,
    "averagePoints": 6.0,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3069",
-   "discr": "marketPlayerTeam",
-   "salePrice": 45000000,
-   "expirationDate": "2026-09-15T17:34:55+02:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Blanco",
-   "positionId": 3,
-   "marketValue": 20212320,
-   "points": 22,
-   "averagePoints": 4.4,
    "playerStatus": "ok"
   },
   {
