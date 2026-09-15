@@ -1,6 +1,13 @@
 {
  "bids": [],
- "listings": [],
+ "listings": [
+  {
+   "market_id": "21398705",
+   "player_id": "2531",
+   "price": 21879256,
+   "listed_at": "2026-09-15T20:01:21+0000"
+  }
+ ],
  "handled_offers": [
   "83167330",
   "85986806",
@@ -1637,6 +1644,13 @@
    "ts": "2026-09-15T19:00:59.516245+00:00",
    "mode": "LIVE",
    "error": "bug: HTTPSConnectionPool(host='fantasy-api.llt-services.com', port=443): Read timed out. (read timeout=20)"
+  },
+  {
+   "ts": "2026-09-15T20:01:00.663863+00:00",
+   "mode": "LIVE",
+   "actions": 2,
+   "spend": 0,
+   "requests": 24
   }
  ],
  "live_writes_seen": [
