@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-15T11:01:00+0000",
+ "fetched_at": "2026-09-15T12:00:58+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -561,6 +561,21 @@
    "playerStatus": "ok"
   },
   {
+   "id": "2673",
+   "discr": "marketPlayerTeam",
+   "salePrice": 1500000,
+   "expirationDate": "2026-09-18T13:32:36+02:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Paco Cortes",
+   "positionId": 4,
+   "marketValue": 536656,
+   "points": 6,
+   "averagePoints": 1.2,
+   "playerStatus": "ok"
+  },
+  {
    "id": "2556",
    "discr": "marketPlayerTeam",
    "salePrice": 45000000,
@@ -573,6 +588,36 @@
    "marketValue": 11696265,
    "points": 10,
    "averagePoints": 2.0,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3103",
+   "discr": "marketPlayerTeam",
+   "salePrice": 250000000,
+   "expirationDate": "2026-09-18T13:32:18+02:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Mbappé",
+   "positionId": 4,
+   "marketValue": 142339504,
+   "points": 67,
+   "averagePoints": 13.4,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3169",
+   "discr": "marketPlayerTeam",
+   "salePrice": 1500000,
+   "expirationDate": "2026-09-18T13:32:49+02:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Bauza",
+   "positionId": 3,
+   "marketValue": 564363,
+   "points": 3,
+   "averagePoints": 0.75,
    "playerStatus": "ok"
   },
   {
@@ -723,6 +768,21 @@
    "marketValue": 19231667,
    "points": 19,
    "averagePoints": 3.1666666666666665,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2435",
+   "discr": "marketPlayerTeam",
+   "salePrice": 2500000,
+   "expirationDate": "2026-09-18T13:33:12+02:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Marrero",
+   "positionId": 1,
+   "marketValue": 817246,
+   "points": 9,
+   "averagePoints": 1.5,
    "playerStatus": "ok"
   },
   {
