@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-15T22:01:34+0000",
+ "fetched_at": "2026-09-15T22:51:36+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -14,7 +14,7 @@
  "money": 18494446,
  "investment": 12199730,
  "team": {
-  "teamValue": 163895278,
+  "teamValue": 164080170,
   "teamPoints": 133,
   "position": 9,
   "playersNumber": 14
@@ -26,11 +26,11 @@
    "nickname": "Emil Audero",
    "positionId": 1,
    "teamId": "14",
-   "marketValue": 5226274,
+   "marketValue": 5253719,
    "points": 2,
    "averagePoints": 1.0,
    "playerStatus": "ok",
-   "buyoutClause": 5226274,
+   "buyoutClause": 5253719,
    "lockedEnd": "2026-09-29T22:56:47+0200",
    "onSale": false
   },
@@ -40,7 +40,7 @@
    "nickname": "Szczesny",
    "positionId": 1,
    "teamId": "4",
-   "marketValue": 1218444,
+   "marketValue": 1193416,
    "points": 0,
    "averagePoints": 0.0,
    "playerStatus": "ok",
@@ -54,7 +54,7 @@
    "nickname": "M. Dituro",
    "positionId": 1,
    "teamId": "7",
-   "marketValue": 9198731,
+   "marketValue": 9216464,
    "points": 15,
    "averagePoints": 2.5,
    "playerStatus": "ok",
@@ -68,11 +68,11 @@
    "nickname": "Einar",
    "positionId": 2,
    "teamId": "12",
-   "marketValue": 5597031,
+   "marketValue": 5671963,
    "points": 21,
    "averagePoints": 4.2,
    "playerStatus": "ok",
-   "buyoutClause": 5597031,
+   "buyoutClause": 5671963,
    "lockedEnd": "2026-09-29T21:01:19+0200",
    "onSale": false
   },
@@ -82,11 +82,11 @@
    "nickname": "Pablo Ramón",
    "positionId": 2,
    "teamId": "49",
-   "marketValue": 1869264,
+   "marketValue": 1929546,
    "points": 17,
    "averagePoints": 3.4,
    "playerStatus": "ok",
-   "buyoutClause": 1869264,
+   "buyoutClause": 1929546,
    "lockedEnd": "2026-09-21T21:05:53+0200",
    "onSale": false
   },
@@ -96,7 +96,7 @@
    "nickname": "Manu Hernando",
    "positionId": 2,
    "teamId": "49",
-   "marketValue": 2511922,
+   "marketValue": 2462937,
    "points": 10,
    "averagePoints": 2.0,
    "playerStatus": "ok",
@@ -110,7 +110,7 @@
    "nickname": "Quagliata",
    "positionId": 2,
    "teamId": "26",
-   "marketValue": 3831267,
+   "marketValue": 3887193,
    "points": 14,
    "averagePoints": 2.8,
    "playerStatus": "ok",
@@ -124,7 +124,7 @@
    "nickname": "Valentín Gómez",
    "positionId": 2,
    "teamId": "5",
-   "marketValue": 1651536,
+   "marketValue": 1639503,
    "points": 13,
    "averagePoints": 2.6,
    "playerStatus": "ok",
@@ -138,7 +138,7 @@
    "nickname": "Guridi",
    "positionId": 3,
    "teamId": "17",
-   "marketValue": 6898815,
+   "marketValue": 6784964,
    "points": 9,
    "averagePoints": 3.0,
    "playerStatus": "ok",
@@ -152,7 +152,7 @@
    "nickname": "Edu Expósito",
    "positionId": 3,
    "teamId": "8",
-   "marketValue": 30693338,
+   "marketValue": 31242544,
    "points": 37,
    "averagePoints": 6.166666666666667,
    "playerStatus": "ok",
@@ -166,7 +166,7 @@
    "nickname": "D. Villares",
    "positionId": 3,
    "teamId": "26",
-   "marketValue": 1239404,
+   "marketValue": 1208174,
    "points": 5,
    "averagePoints": 1.0,
    "playerStatus": "ok",
@@ -180,7 +180,7 @@
    "nickname": "Denis Suárez",
    "positionId": 3,
    "teamId": "21",
-   "marketValue": 2508917,
+   "marketValue": 2528311,
    "points": 23,
    "averagePoints": 3.8333333333333335,
    "playerStatus": "ok",
@@ -194,7 +194,7 @@
    "nickname": "Oyarzabal",
    "positionId": 4,
    "teamId": "16",
-   "marketValue": 55173969,
+   "marketValue": 54261768,
    "points": 28,
    "averagePoints": 4.666666666666667,
    "playerStatus": "ok",
@@ -208,7 +208,7 @@
    "nickname": "Gerard",
    "positionId": 4,
    "teamId": "20",
-   "marketValue": 36276366,
+   "marketValue": 36799668,
    "points": 36,
    "averagePoints": 7.2,
    "playerStatus": "ok",
@@ -254,7 +254,7 @@
    "myBid": null,
    "nickname": "Claudio Giraldez",
    "positionId": 5,
-   "marketValue": 991213,
+   "marketValue": 968447,
    "points": 8,
    "averagePoints": 1.3333333333333333,
    "playerStatus": "ok"
@@ -269,7 +269,7 @@
    "myBid": null,
    "nickname": "Mangala",
    "positionId": 3,
-   "marketValue": 11718613,
+   "marketValue": 11643471,
    "points": 18,
    "averagePoints": 3.6,
    "playerStatus": "ok"
@@ -284,7 +284,7 @@
    "myBid": null,
    "nickname": "Iker Losada",
    "positionId": 4,
-   "marketValue": 1145741,
+   "marketValue": 1116794,
    "points": 0,
    "averagePoints": 0.0,
    "playerStatus": "ok"
@@ -294,12 +294,12 @@
    "discr": "marketPlayerLeague",
    "salePrice": 26387122,
    "expirationDate": "2026-09-16T20:08:00+02:00",
-   "numberOfBids": 2,
+   "numberOfBids": 3,
    "seller": "",
    "myBid": null,
    "nickname": "Xavi Espart",
    "positionId": 2,
-   "marketValue": 26387122,
+   "marketValue": 28712917,
    "points": 49,
    "averagePoints": 9.8,
    "playerStatus": "ok"
@@ -314,7 +314,7 @@
    "myBid": null,
    "nickname": "RDT",
    "positionId": 4,
-   "marketValue": 1127082,
+   "marketValue": 1098881,
    "points": 0,
    "averagePoints": 0.0,
    "playerStatus": "doubtful"
@@ -329,7 +329,7 @@
    "myBid": null,
    "nickname": "Santos",
    "positionId": 2,
-   "marketValue": 497347,
+   "marketValue": 494336,
    "points": 0,
    "averagePoints": 0.0,
    "playerStatus": "ok"
@@ -344,7 +344,7 @@
    "myBid": 9500000,
    "nickname": "Christensen",
    "positionId": 2,
-   "marketValue": 8504479,
+   "marketValue": 8636915,
    "points": 17,
    "averagePoints": 3.4,
    "playerStatus": "ok"
@@ -359,7 +359,7 @@
    "myBid": null,
    "nickname": "Villalibre",
    "positionId": 4,
-   "marketValue": 4038204,
+   "marketValue": 3931643,
    "points": 6,
    "averagePoints": 1.2,
    "playerStatus": "ok"
@@ -374,7 +374,7 @@
    "myBid": null,
    "nickname": "Valverde",
    "positionId": 3,
-   "marketValue": 66792411,
+   "marketValue": 66230137,
    "points": 30,
    "averagePoints": 5.0,
    "playerStatus": "ok"
@@ -389,7 +389,7 @@
    "myBid": null,
    "nickname": "Rubén García",
    "positionId": 3,
-   "marketValue": 14378378,
+   "marketValue": 14241257,
    "points": 20,
    "averagePoints": 4.0,
    "playerStatus": "ok"
@@ -404,7 +404,7 @@
    "myBid": null,
    "nickname": "Brian Fariñas",
    "positionId": 3,
-   "marketValue": 635846,
+   "marketValue": 627295,
    "points": 0,
    "averagePoints": 0.0,
    "playerStatus": "ok"
@@ -419,7 +419,7 @@
    "myBid": 2699730,
    "nickname": "Recio",
    "positionId": 2,
-   "marketValue": 1887924,
+   "marketValue": 1992290,
    "points": 20,
    "averagePoints": 4.0,
    "playerStatus": "ok"
@@ -434,7 +434,7 @@
    "myBid": null,
    "nickname": "Adeyemi",
    "positionId": 4,
-   "marketValue": 48914092,
+   "marketValue": 49754537,
    "points": 29,
    "averagePoints": 5.8,
    "playerStatus": "ok"
@@ -449,7 +449,7 @@
    "myBid": null,
    "nickname": "Yuri",
    "positionId": 2,
-   "marketValue": 14690114,
+   "marketValue": 14867378,
    "points": 18,
    "averagePoints": 4.5,
    "playerStatus": "ok"
@@ -464,7 +464,7 @@
    "myBid": null,
    "nickname": "Camavinga",
    "positionId": 3,
-   "marketValue": 8871323,
+   "marketValue": 8910201,
    "points": 14,
    "averagePoints": 2.3333333333333335,
    "playerStatus": "ok"
@@ -479,7 +479,7 @@
    "myBid": null,
    "nickname": "Turrientes",
    "positionId": 3,
-   "marketValue": 7029744,
+   "marketValue": 7143137,
    "points": 16,
    "averagePoints": 2.6666666666666665,
    "playerStatus": "ok"
@@ -494,7 +494,7 @@
    "myBid": null,
    "nickname": "Cala",
    "positionId": 4,
-   "marketValue": 6422221,
+   "marketValue": 6365488,
    "points": 18,
    "averagePoints": 3.0,
    "playerStatus": "ok"
@@ -509,9 +509,9 @@
    "myBid": null,
    "nickname": "Lejeune",
    "positionId": 2,
-   "marketValue": 21283244,
-   "points": 8,
-   "averagePoints": 1.3333333333333333,
+   "marketValue": 20840779,
+   "points": 2,
+   "averagePoints": 0.3333333333333333,
    "playerStatus": "ok"
   },
   {
@@ -524,7 +524,7 @@
    "myBid": null,
    "nickname": "C. Puga",
    "positionId": 2,
-   "marketValue": 3755066,
+   "marketValue": 3701544,
    "points": 10,
    "averagePoints": 2.0,
    "playerStatus": "ok"
@@ -539,7 +539,7 @@
    "myBid": null,
    "nickname": "Isaac",
    "positionId": 4,
-   "marketValue": 5780371,
+   "marketValue": 5738195,
    "points": 18,
    "averagePoints": 3.6,
    "playerStatus": "ok"
@@ -554,7 +554,7 @@
    "myBid": null,
    "nickname": "Yeremay",
    "positionId": 4,
-   "marketValue": 26698430,
+   "marketValue": 26655460,
    "points": 13,
    "averagePoints": 3.25,
    "playerStatus": "ok"
@@ -569,7 +569,7 @@
    "myBid": null,
    "nickname": "Marc Roca",
    "positionId": 3,
-   "marketValue": 12870122,
+   "marketValue": 13320782,
    "points": 30,
    "averagePoints": 6.0,
    "playerStatus": "ok"
@@ -584,7 +584,7 @@
    "myBid": null,
    "nickname": "Blanco",
    "positionId": 3,
-   "marketValue": 20212320,
+   "marketValue": 20217292,
    "points": 24,
    "averagePoints": 4.0,
    "playerStatus": "ok"
@@ -599,7 +599,7 @@
    "myBid": null,
    "nickname": "Paco Cortes",
    "positionId": 4,
-   "marketValue": 536656,
+   "marketValue": 532072,
    "points": 6,
    "averagePoints": 1.2,
    "playerStatus": "ok"
@@ -614,7 +614,7 @@
    "myBid": null,
    "nickname": "Buchanan",
    "positionId": 3,
-   "marketValue": 11696265,
+   "marketValue": 11491133,
    "points": 10,
    "averagePoints": 2.0,
    "playerStatus": "ok"
@@ -629,7 +629,7 @@
    "myBid": null,
    "nickname": "Mbappé",
    "positionId": 4,
-   "marketValue": 142339504,
+   "marketValue": 143225708,
    "points": 79,
    "averagePoints": 13.166666666666666,
    "playerStatus": "ok"
@@ -644,7 +644,7 @@
    "myBid": null,
    "nickname": "Bauza",
    "positionId": 3,
-   "marketValue": 564363,
+   "marketValue": 558671,
    "points": 3,
    "averagePoints": 0.6,
    "playerStatus": "ok"
@@ -659,7 +659,7 @@
    "myBid": null,
    "nickname": "Germán",
    "positionId": 1,
-   "marketValue": 471079,
+   "marketValue": 469118,
    "points": 0,
    "averagePoints": 0.0,
    "playerStatus": "ok"
@@ -674,7 +674,7 @@
    "myBid": null,
    "nickname": "Djene",
    "positionId": 2,
-   "marketValue": 15839318,
+   "marketValue": 16059124,
    "points": 23,
    "averagePoints": 4.6,
    "playerStatus": "ok"
@@ -689,7 +689,7 @@
    "myBid": null,
    "nickname": "Zubeldia",
    "positionId": 2,
-   "marketValue": 10732275,
+   "marketValue": 10946407,
    "points": 12,
    "averagePoints": 2.4,
    "playerStatus": "ok"
@@ -704,7 +704,7 @@
    "myBid": null,
    "nickname": "Marco Román",
    "positionId": 3,
-   "marketValue": 530313,
+   "marketValue": 525983,
    "points": 0,
    "averagePoints": 0.0,
    "playerStatus": "ok"
@@ -719,7 +719,7 @@
    "myBid": null,
    "nickname": "Javi Guerra",
    "positionId": 3,
-   "marketValue": 19176371,
+   "marketValue": 18923282,
    "points": 29,
    "averagePoints": 4.833333333333333,
    "playerStatus": "ok"
@@ -734,7 +734,7 @@
    "myBid": null,
    "nickname": "Iker Muñoz",
    "positionId": 3,
-   "marketValue": 1973190,
+   "marketValue": 1999514,
    "points": 15,
    "averagePoints": 3.0,
    "playerStatus": "ok"
@@ -749,7 +749,7 @@
    "myBid": null,
    "nickname": "Budimir",
    "positionId": 4,
-   "marketValue": 62732630,
+   "marketValue": 62291000,
    "points": 44,
    "averagePoints": 8.8,
    "playerStatus": "ok"
@@ -764,7 +764,7 @@
    "myBid": null,
    "nickname": "M. Román",
    "positionId": 3,
-   "marketValue": 11581679,
+   "marketValue": 11911933,
    "points": 33,
    "averagePoints": 5.5,
    "playerStatus": "ok"
@@ -779,7 +779,7 @@
    "myBid": null,
    "nickname": "Pau Cubarsí",
    "positionId": 2,
-   "marketValue": 65198952,
+   "marketValue": 64797541,
    "points": 23,
    "averagePoints": 4.6,
    "playerStatus": "ok"
@@ -794,7 +794,7 @@
    "myBid": null,
    "nickname": "Aramburu",
    "positionId": 2,
-   "marketValue": 19231667,
+   "marketValue": 19464603,
    "points": 19,
    "averagePoints": 3.1666666666666665,
    "playerStatus": "ok"
@@ -809,7 +809,7 @@
    "myBid": null,
    "nickname": "Marrero",
    "positionId": 1,
-   "marketValue": 817246,
+   "marketValue": 813541,
    "points": 9,
    "averagePoints": 1.5,
    "playerStatus": "ok"
@@ -824,7 +824,7 @@
    "myBid": null,
    "nickname": "Manu Sánchez",
    "positionId": 2,
-   "marketValue": 5480062,
+   "marketValue": 5494745,
    "points": 16,
    "averagePoints": 3.2,
    "playerStatus": "ok"
@@ -839,7 +839,7 @@
    "myBid": null,
    "nickname": "Adrián Molina",
    "positionId": 1,
-   "marketValue": 522882,
+   "marketValue": 518849,
    "points": 0,
    "averagePoints": 0.0,
    "playerStatus": "ok"
@@ -854,7 +854,7 @@
    "myBid": null,
    "nickname": "Riquelme",
    "positionId": 3,
-   "marketValue": 17341754,
+   "marketValue": 17677313,
    "points": 30,
    "averagePoints": 6.0,
    "playerStatus": "ok"
@@ -869,7 +869,7 @@
    "myBid": null,
    "nickname": "Tenaglia",
    "positionId": 2,
-   "marketValue": 34243030,
+   "marketValue": 34421938,
    "points": 37,
    "averagePoints": 6.166666666666667,
    "playerStatus": "ok"
@@ -884,7 +884,7 @@
    "myBid": null,
    "nickname": "Navarro",
    "positionId": 3,
-   "marketValue": 7268534,
+   "marketValue": 7863479,
    "points": 33,
    "averagePoints": 6.6,
    "playerStatus": "ok"
@@ -899,7 +899,7 @@
    "myBid": null,
    "nickname": "Lobete",
    "positionId": 4,
-   "marketValue": 524246,
+   "marketValue": 520159,
    "points": 2,
    "averagePoints": 0.6666666666666666,
    "playerStatus": "injured"
@@ -914,7 +914,7 @@
    "myBid": null,
    "nickname": "A. Vallecillo",
    "positionId": 3,
-   "marketValue": 495635,
+   "marketValue": 492692,
    "points": 0,
    "averagePoints": 0.0,
    "playerStatus": "ok"
@@ -929,7 +929,7 @@
    "myBid": null,
    "nickname": "Manu Bueno",
    "positionId": 3,
-   "marketValue": 535869,
+   "marketValue": 531317,
    "points": 4,
    "averagePoints": 0.8,
    "playerStatus": "ok"
@@ -944,7 +944,7 @@
    "myBid": null,
    "nickname": "Carmona",
    "positionId": 2,
-   "marketValue": 2097596,
+   "marketValue": 2047767,
    "points": 3,
    "averagePoints": 0.6,
    "playerStatus": "ok"
@@ -959,7 +959,7 @@
    "myBid": null,
    "nickname": "Ryan",
    "positionId": 1,
-   "marketValue": 29081326,
+   "marketValue": 29596738,
    "points": 42,
    "averagePoints": 8.4,
    "playerStatus": "ok"
@@ -974,7 +974,7 @@
    "myBid": null,
    "nickname": "Bartra",
    "positionId": 2,
-   "marketValue": 37842377,
+   "marketValue": 38153239,
    "points": 30,
    "averagePoints": 6.0,
    "playerStatus": "ok"
@@ -989,7 +989,7 @@
    "myBid": null,
    "nickname": "Gudelj",
    "positionId": 3,
-   "marketValue": 6274214,
+   "marketValue": 6278037,
    "points": 9,
    "averagePoints": 3.0,
    "playerStatus": "ok"
@@ -1004,7 +1004,7 @@
    "myBid": null,
    "nickname": "Carlos Espí",
    "positionId": 4,
-   "marketValue": 13717321,
+   "marketValue": 13561016,
    "points": 19,
    "averagePoints": 3.1666666666666665,
    "playerStatus": "ok"
@@ -1019,7 +1019,7 @@
    "myBid": null,
    "nickname": "A. Castrín",
    "positionId": 2,
-   "marketValue": 4397739,
+   "marketValue": 4587600,
    "points": 21,
    "averagePoints": 4.2,
    "playerStatus": "ok"
@@ -1034,7 +1034,7 @@
    "myBid": null,
    "nickname": "Nacho Perez",
    "positionId": 2,
-   "marketValue": 2172219,
+   "marketValue": 2220997,
    "points": 18,
    "averagePoints": 3.6,
    "playerStatus": "ok"
@@ -1049,7 +1049,7 @@
    "myBid": null,
    "nickname": "Hector Fort",
    "positionId": 2,
-   "marketValue": 3391714,
+   "marketValue": 3350208,
    "points": 2,
    "averagePoints": 0.6666666666666666,
    "playerStatus": "ok"
@@ -1064,7 +1064,7 @@
    "myBid": null,
    "nickname": "R. Terrats",
    "positionId": 3,
-   "marketValue": 8107075,
+   "marketValue": 8563908,
    "points": 31,
    "averagePoints": 6.2,
    "playerStatus": "ok"
@@ -1079,7 +1079,7 @@
    "myBid": null,
    "nickname": "Deossa",
    "positionId": 3,
-   "marketValue": 2783271,
+   "marketValue": 2856024,
    "points": 21,
    "averagePoints": 4.2,
    "playerStatus": "ok"
@@ -1094,7 +1094,7 @@
    "myBid": null,
    "nickname": "Miguel Sierra",
    "positionId": 4,
-   "marketValue": 4967585,
+   "marketValue": 5106665,
    "points": 19,
    "averagePoints": 6.333333333333333,
    "playerStatus": "ok"
@@ -1109,7 +1109,7 @@
    "myBid": null,
    "nickname": "Y. Zabiri",
    "positionId": 4,
-   "marketValue": 11449980,
+   "marketValue": 12352855,
    "points": 36,
    "averagePoints": 7.2,
    "playerStatus": "ok"
@@ -1124,7 +1124,7 @@
    "myBid": null,
    "nickname": "Bardeli",
    "positionId": 3,
-   "marketValue": 7546597,
+   "marketValue": 7900712,
    "points": 29,
    "averagePoints": 7.25,
    "playerStatus": "ok"
@@ -1139,7 +1139,7 @@
    "myBid": null,
    "nickname": "Fran García",
    "positionId": 2,
-   "marketValue": 29671914,
+   "marketValue": 30061707,
    "points": 23,
    "averagePoints": 4.6,
    "playerStatus": "ok"
@@ -1154,7 +1154,7 @@
    "myBid": null,
    "nickname": "Á. Valles",
    "positionId": 1,
-   "marketValue": 50606805,
+   "marketValue": 51014061,
    "points": 56,
    "averagePoints": 11.2,
    "playerStatus": "ok"
@@ -1169,7 +1169,7 @@
    "myBid": null,
    "nickname": "Agirrezabala",
    "positionId": 1,
-   "marketValue": 18377032,
+   "marketValue": 19163944,
    "points": 36,
    "averagePoints": 7.2,
    "playerStatus": "ok"
@@ -1184,7 +1184,7 @@
    "myBid": null,
    "nickname": "Noubi",
    "positionId": 2,
-   "marketValue": 15335341,
+   "marketValue": 15593486,
    "points": 20,
    "averagePoints": 4.0,
    "playerStatus": "ok"
@@ -1199,7 +1199,7 @@
    "myBid": null,
    "nickname": "Starfelt",
    "positionId": 2,
-   "marketValue": 10265649,
+   "marketValue": 10112773,
    "points": 14,
    "averagePoints": 2.3333333333333335,
    "playerStatus": "ok"
@@ -1214,7 +1214,7 @@
    "myBid": null,
    "nickname": "El Hilali",
    "positionId": 2,
-   "marketValue": 15824136,
+   "marketValue": 16586752,
    "points": 29,
    "averagePoints": 4.833333333333333,
    "playerStatus": "ok"
@@ -1229,7 +1229,7 @@
    "myBid": null,
    "nickname": "Agoumé",
    "positionId": 3,
-   "marketValue": 9681843,
+   "marketValue": 10042184,
    "points": 27,
    "averagePoints": 5.4,
    "playerStatus": "ok"
@@ -1244,7 +1244,7 @@
    "myBid": null,
    "nickname": "Luismi Cruz",
    "positionId": 4,
-   "marketValue": 9231497,
+   "marketValue": 9480169,
    "points": 28,
    "averagePoints": 5.6,
    "playerStatus": "ok"
@@ -1259,7 +1259,7 @@
    "myBid": null,
    "nickname": "B. Mayoral",
    "positionId": 4,
-   "marketValue": 1472455,
+   "marketValue": 1434683,
    "points": 3,
    "averagePoints": 0.6,
    "playerStatus": "ok"
@@ -1274,7 +1274,7 @@
    "myBid": null,
    "nickname": "Aubameyang",
    "positionId": 4,
-   "marketValue": 95816528,
+   "marketValue": 97478646,
    "points": 60,
    "averagePoints": 12.0,
    "playerStatus": "ok"
@@ -1289,7 +1289,7 @@
    "myBid": null,
    "nickname": "Marc Bernal",
    "positionId": 3,
-   "marketValue": 23372217,
+   "marketValue": 24480104,
    "points": 33,
    "averagePoints": 6.6,
    "playerStatus": "ok"
@@ -1304,7 +1304,7 @@
    "myBid": null,
    "nickname": "Carreira",
    "positionId": 2,
-   "marketValue": 7150892,
+   "marketValue": 7355325,
    "points": 21,
    "averagePoints": 3.5,
    "playerStatus": "ok"
@@ -1319,7 +1319,7 @@
    "myBid": null,
    "nickname": "Bellingham",
    "positionId": 3,
-   "marketValue": 120729398,
+   "marketValue": 121154972,
    "points": 66,
    "averagePoints": 11.0,
    "playerStatus": "ok"
@@ -1334,7 +1334,7 @@
    "myBid": null,
    "nickname": "Koski",
    "positionId": 2,
-   "marketValue": 10758315,
+   "marketValue": 11485472,
    "points": 41,
    "averagePoints": 6.833333333333333,
    "playerStatus": "ok"
@@ -1349,7 +1349,7 @@
    "myBid": null,
    "nickname": "Roberto",
    "positionId": 4,
-   "marketValue": 30968470,
+   "marketValue": 32501289,
    "points": 54,
    "averagePoints": 9.0,
    "playerStatus": "ok"
@@ -1364,7 +1364,7 @@
    "myBid": null,
    "nickname": "Szczesny",
    "positionId": 1,
-   "marketValue": 1218444,
+   "marketValue": 1193416,
    "points": 0,
    "averagePoints": 0.0,
    "playerStatus": "ok"
@@ -1379,7 +1379,7 @@
    "myBid": null,
    "nickname": "Panach",
    "positionId": 2,
-   "marketValue": 497512,
+   "marketValue": 494494,
    "points": 0,
    "averagePoints": 0.0,
    "playerStatus": "ok"
@@ -1394,7 +1394,7 @@
    "myBid": null,
    "nickname": "Yoel Lago",
    "positionId": 2,
-   "marketValue": 4810217,
+   "marketValue": 5260633,
    "points": 31,
    "averagePoints": 5.166666666666667,
    "playerStatus": "ok"
@@ -1448,7 +1448,7 @@
    "points": 189,
    "team_id": "37667518",
    "manager": "Rcoba",
-   "teamValue": 212011251
+   "teamValue": 211351677
   },
   {
    "position": 8,
@@ -1462,7 +1462,7 @@
    "points": 158,
    "team_id": "37682094",
    "manager": "menaweb",
-   "teamValue": 163895278
+   "teamValue": 164080170
   }
  ]
 }
