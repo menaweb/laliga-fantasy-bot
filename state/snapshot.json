@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-15T03:00:57+0000",
+ "fetched_at": "2026-09-15T04:00:59+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -12,7 +12,7 @@
   "closingWeekDate": "2026-09-18T03:00:00+02:00"
  },
  "money": 6363892,
- "investment": 0,
+ "investment": 5226274,
  "team": {
   "teamValue": 174881900,
   "teamPoints": 133,
@@ -370,9 +370,9 @@
    "discr": "marketPlayerLeague",
    "salePrice": 5172705,
    "expirationDate": "2026-09-15T20:08:00+02:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
-   "myBid": null,
+   "myBid": 5226274,
    "nickname": "Emil Audero",
    "positionId": 1,
    "marketValue": 5226274,
