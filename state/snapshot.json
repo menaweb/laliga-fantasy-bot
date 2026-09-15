@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-15T20:01:01+0000",
+ "fetched_at": "2026-09-15T20:06:36+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -111,12 +111,12 @@
    "positionId": 2,
    "teamId": "15",
    "marketValue": 21809927,
-   "points": 19,
-   "averagePoints": 3.1666666666666665,
+   "points": 20,
+   "averagePoints": 3.3333333333333335,
    "playerStatus": "ok",
    "buyoutClause": 34937542,
    "lockedEnd": "2026-08-25T20:08:37+0200",
-   "onSale": false
+   "onSale": true
   },
   {
    "ptid": "49305697",
@@ -229,9 +229,9 @@
   "defender": [
    "25133297",
    "49305697",
-   "49307276",
    "66953203",
-   "76058787"
+   "76058787",
+   "77354588"
   ],
   "midfield": [
    "16810003",
@@ -257,6 +257,21 @@
    "marketValue": 7029744,
    "points": 16,
    "averagePoints": 2.6666666666666665,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2531",
+   "discr": "marketPlayerTeam",
+   "salePrice": 21879256,
+   "expirationDate": "2026-09-18T22:01:22+02:00",
+   "numberOfBids": null,
+   "seller": "37682094",
+   "myBid": null,
+   "nickname": "Trent",
+   "positionId": 2,
+   "marketValue": 21809927,
+   "points": 20,
+   "averagePoints": 3.3333333333333335,
    "playerStatus": "ok"
   },
   {
@@ -1069,7 +1084,7 @@
   },
   {
    "position": 9,
-   "points": 148,
+   "points": 149,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 180478931
