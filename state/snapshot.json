@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-15T12:03:09+0000",
+ "fetched_at": "2026-09-15T13:01:02+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -1293,6 +1293,21 @@
    "marketValue": 7150892,
    "points": 21,
    "averagePoints": 3.5,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3101",
+   "discr": "marketPlayerTeam",
+   "salePrice": 145000000,
+   "expirationDate": "2026-09-18T14:36:55+02:00",
+   "numberOfBids": null,
+   "seller": "37664261",
+   "myBid": null,
+   "nickname": "Bellingham",
+   "positionId": 3,
+   "marketValue": 120729398,
+   "points": 64,
+   "averagePoints": 12.8,
    "playerStatus": "ok"
   }
  ],
