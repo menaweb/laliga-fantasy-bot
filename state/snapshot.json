@@ -1,10 +1,10 @@
 {
- "fetched_at": "2026-09-15T16:49:42+0000",
+ "fetched_at": "2026-09-15T18:01:03+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
  "week": {
-  "isLive": false,
+  "isLive": true,
   "nextWeek": 7,
   "previousWeek": 5,
   "weekNumber": 6,
@@ -154,7 +154,7 @@
    "teamId": "8",
    "marketValue": 30693338,
    "points": 32,
-   "averagePoints": 6.4,
+   "averagePoints": 5.333333333333333,
    "playerStatus": "ok",
    "buyoutClause": 45600311,
    "lockedEnd": "2026-08-19T00:06:12+0200",
@@ -250,7 +250,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 43232548,
    "expirationDate": "2026-09-15T20:08:00+02:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "O. Sancet",
@@ -377,7 +377,7 @@
    "positionId": 1,
    "marketValue": 5226274,
    "points": 2,
-   "averagePoints": 2.0,
+   "averagePoints": 1.0,
    "playerStatus": "ok"
   },
   {
@@ -467,7 +467,7 @@
    "positionId": 2,
    "marketValue": 21283244,
    "points": 2,
-   "averagePoints": 0.4,
+   "averagePoints": 0.3333333333333333,
    "playerStatus": "ok"
   },
   {
@@ -586,8 +586,8 @@
    "nickname": "Bauza",
    "positionId": 3,
    "marketValue": 564363,
-   "points": 3,
-   "averagePoints": 0.75,
+   "points": 2,
+   "averagePoints": 0.4,
    "playerStatus": "ok"
   },
   {
@@ -708,21 +708,6 @@
    "marketValue": 11581679,
    "points": 33,
    "averagePoints": 5.5,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2938",
-   "discr": "marketPlayerTeam",
-   "salePrice": 40000000,
-   "expirationDate": "2026-09-15T20:30:04+02:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Koski",
-   "positionId": 2,
-   "marketValue": 10758315,
-   "points": 35,
-   "averagePoints": 7.0,
    "playerStatus": "ok"
   },
   {
@@ -1156,8 +1141,8 @@
    "nickname": "El Hilali",
    "positionId": 2,
    "marketValue": 15824136,
-   "points": 32,
-   "averagePoints": 6.4,
+   "points": 30,
+   "averagePoints": 5.0,
    "playerStatus": "ok"
   },
   {
@@ -1231,8 +1216,8 @@
    "nickname": "Roberto",
    "positionId": 4,
    "marketValue": 30968470,
-   "points": 46,
-   "averagePoints": 9.2,
+   "points": 45,
+   "averagePoints": 7.5,
    "playerStatus": "ok"
   },
   {
@@ -1279,19 +1264,34 @@
    "points": 64,
    "averagePoints": 12.8,
    "playerStatus": "ok"
+  },
+  {
+   "id": "2938",
+   "discr": "marketPlayerTeam",
+   "salePrice": 107583150,
+   "expirationDate": "2026-09-18T19:19:49+02:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Koski",
+   "positionId": 2,
+   "marketValue": 10758315,
+   "points": 35,
+   "averagePoints": 7.0,
+   "playerStatus": "ok"
   }
  ],
  "standing": [
   {
    "position": 1,
-   "points": 275,
+   "points": 286,
    "team_id": "37664721",
    "manager": "enriqsuar",
-   "teamValue": 302796650
+   "teamValue": 313554965
   },
   {
    "position": 2,
-   "points": 247,
+   "points": 254,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 249160240
@@ -1305,42 +1305,42 @@
   },
   {
    "position": 4,
+   "points": 217,
+   "team_id": "37675747",
+   "manager": "Javi Trauma",
+   "teamValue": 219428429
+  },
+  {
+   "position": 5,
    "points": 214,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 169544816
   },
   {
-   "position": 5,
-   "points": 196,
-   "team_id": "37675747",
-   "manager": "Javi Trauma",
-   "teamValue": 224238646
-  },
-  {
    "position": 6,
-   "points": 175,
+   "points": 184,
    "team_id": "37668923",
    "manager": "Paco!!",
-   "teamValue": 258003429
+   "teamValue": 252055331
   },
   {
    "position": 7,
-   "points": 170,
+   "points": 180,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 212011251
   },
   {
    "position": 8,
-   "points": 147,
+   "points": 164,
    "team_id": "37681066",
    "manager": "Miguel Canuelo",
    "teamValue": 196418569
   },
   {
    "position": 9,
-   "points": 133,
+   "points": 137,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 174881900
