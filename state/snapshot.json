@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-16T16:39:36+0000",
+ "fetched_at": "2026-09-16T17:01:00+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -112,7 +112,7 @@
    "teamId": "26",
    "marketValue": 3887181,
    "points": 14,
-   "averagePoints": 2.8,
+   "averagePoints": 2.3333333333333335,
    "playerStatus": "ok",
    "buyoutClause": 5302196,
    "lockedEnd": "2026-09-28T20:18:44+0200",
@@ -140,7 +140,7 @@
    "teamId": "17",
    "marketValue": 6784955,
    "points": 9,
-   "averagePoints": 3.0,
+   "averagePoints": 2.25,
    "playerStatus": "ok",
    "buyoutClause": 12707271,
    "lockedEnd": "2026-09-24T20:33:22+0200",
@@ -168,7 +168,7 @@
    "teamId": "26",
    "marketValue": 1208173,
    "points": 5,
-   "averagePoints": 1.0,
+   "averagePoints": 0.8333333333333334,
    "playerStatus": "ok",
    "buyoutClause": 2393361,
    "lockedEnd": "2026-09-01T20:08:29+0200",
@@ -391,7 +391,7 @@
    "positionId": 3,
    "marketValue": 14241232,
    "points": 20,
-   "averagePoints": 4.0,
+   "averagePoints": 3.3333333333333335,
    "playerStatus": "ok"
   },
   {
@@ -541,7 +541,7 @@
    "positionId": 4,
    "marketValue": 5738185,
    "points": 18,
-   "averagePoints": 3.6,
+   "averagePoints": 3.0,
    "playerStatus": "ok"
   },
   {
@@ -556,7 +556,7 @@
    "positionId": 4,
    "marketValue": 26655264,
    "points": 13,
-   "averagePoints": 3.25,
+   "averagePoints": 2.6,
    "playerStatus": "ok"
   },
   {
@@ -736,7 +736,7 @@
    "positionId": 3,
    "marketValue": 1999493,
    "points": 15,
-   "averagePoints": 3.0,
+   "averagePoints": 2.5,
    "playerStatus": "ok"
   },
   {
@@ -751,7 +751,7 @@
    "positionId": 4,
    "marketValue": 62290619,
    "points": 44,
-   "averagePoints": 8.8,
+   "averagePoints": 7.333333333333333,
    "playerStatus": "ok"
   },
   {
@@ -931,7 +931,7 @@
    "positionId": 3,
    "marketValue": 531316,
    "points": 4,
-   "averagePoints": 0.8,
+   "averagePoints": 0.6666666666666666,
    "playerStatus": "ok"
   },
   {
@@ -946,7 +946,7 @@
    "positionId": 2,
    "marketValue": 2047762,
    "points": 3,
-   "averagePoints": 0.6,
+   "averagePoints": 0.5,
    "playerStatus": "ok"
   },
   {
@@ -1021,7 +1021,7 @@
    "positionId": 2,
    "marketValue": 4587579,
    "points": 21,
-   "averagePoints": 4.2,
+   "averagePoints": 3.5,
    "playerStatus": "ok"
   },
   {
@@ -1096,7 +1096,7 @@
    "positionId": 4,
    "marketValue": 5106646,
    "points": 19,
-   "averagePoints": 6.333333333333333,
+   "averagePoints": 4.75,
    "playerStatus": "ok"
   },
   {
@@ -1186,7 +1186,7 @@
    "positionId": 2,
    "marketValue": 15593437,
    "points": 20,
-   "averagePoints": 4.0,
+   "averagePoints": 3.3333333333333335,
    "playerStatus": "ok"
   },
   {
@@ -1231,7 +1231,7 @@
    "positionId": 3,
    "marketValue": 10042142,
    "points": 27,
-   "averagePoints": 5.4,
+   "averagePoints": 4.5,
    "playerStatus": "ok"
   },
   {
@@ -1246,7 +1246,7 @@
    "positionId": 4,
    "marketValue": 9480134,
    "points": 28,
-   "averagePoints": 5.6,
+   "averagePoints": 4.666666666666667,
    "playerStatus": "ok"
   },
   {
@@ -1276,7 +1276,7 @@
    "positionId": 4,
    "marketValue": 97477424,
    "points": 60,
-   "averagePoints": 12.0,
+   "averagePoints": 10.0,
    "playerStatus": "ok"
   },
   {
