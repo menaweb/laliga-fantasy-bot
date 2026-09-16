@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-16T04:00:59+0000",
+ "fetched_at": "2026-09-16T05:01:03+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -1397,6 +1397,21 @@
    "marketValue": 5260633,
    "points": 31,
    "averagePoints": 5.166666666666667,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2318",
+   "discr": "marketPlayerTeam",
+   "salePrice": 43893533,
+   "expirationDate": "2026-09-19T06:46:07+02:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "O. Sancet",
+   "positionId": 3,
+   "marketValue": 43893533,
+   "points": 31,
+   "averagePoints": 6.2,
    "playerStatus": "ok"
   }
  ],
