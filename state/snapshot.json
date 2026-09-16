@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-16T17:01:00+0000",
+ "fetched_at": "2026-09-16T18:01:00+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -294,7 +294,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 26387122,
    "expirationDate": "2026-09-16T20:08:00+02:00",
-   "numberOfBids": 3,
+   "numberOfBids": 2,
    "seller": "",
    "myBid": null,
    "nickname": "Xavi Espart",
@@ -429,7 +429,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 48914092,
    "expirationDate": "2026-09-16T20:08:00+02:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Adeyemi",
@@ -555,8 +555,8 @@
    "nickname": "Yeremay",
    "positionId": 4,
    "marketValue": 26655264,
-   "points": 13,
-   "averagePoints": 2.6,
+   "points": 15,
+   "averagePoints": 3.0,
    "playerStatus": "ok"
   },
   {
@@ -662,21 +662,6 @@
    "marketValue": 469117,
    "points": 0,
    "averagePoints": 0.0,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2661",
-   "discr": "marketPlayerTeam",
-   "salePrice": 15700646,
-   "expirationDate": "2026-09-17T23:07:00+02:00",
-   "numberOfBids": null,
-   "seller": "37678052",
-   "myBid": null,
-   "nickname": "Djene",
-   "positionId": 2,
-   "marketValue": 16059076,
-   "points": 23,
-   "averagePoints": 4.6,
    "playerStatus": "ok"
   },
   {
@@ -860,36 +845,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "1337",
-   "discr": "marketPlayerTeam",
-   "salePrice": 338243610,
-   "expirationDate": "2026-09-16T19:57:06+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Tenaglia",
-   "positionId": 2,
-   "marketValue": 34421626,
-   "points": 37,
-   "averagePoints": 6.166666666666667,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2549",
-   "discr": "marketPlayerTeam",
-   "salePrice": 60245140,
-   "expirationDate": "2026-09-16T19:57:15+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Navarro",
-   "positionId": 3,
-   "marketValue": 7863898,
-   "points": 33,
-   "averagePoints": 6.6,
-   "playerStatus": "ok"
-  },
-  {
    "id": "3049",
    "discr": "marketPlayerTeam",
    "salePrice": 2000000,
@@ -1020,8 +975,8 @@
    "nickname": "A. Castrín",
    "positionId": 2,
    "marketValue": 4587579,
-   "points": 21,
-   "averagePoints": 3.5,
+   "points": 23,
+   "averagePoints": 3.8333333333333335,
    "playerStatus": "ok"
   },
   {
@@ -1425,14 +1380,14 @@
   },
   {
    "position": 2,
-   "points": 263,
+   "points": 265,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 250562922
   },
   {
    "position": 3,
-   "points": 238,
+   "points": 240,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 249168626
@@ -1446,7 +1401,7 @@
   },
   {
    "position": 5,
-   "points": 229,
+   "points": 231,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 218416374
@@ -1467,7 +1422,7 @@
   },
   {
    "position": 8,
-   "points": 168,
+   "points": 170,
    "team_id": "37681066",
    "manager": "Miguel Canuelo",
    "teamValue": 196264243
