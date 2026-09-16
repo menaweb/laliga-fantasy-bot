@@ -135,6 +135,9 @@ class Guard:
         entries = [x for x in self.squad if x["player"]["positionId"] in (1, 2, 3, 4)]
         if not can_field_without(entries, e["ptid"], self.s.formations, spare=True):
             return Verdict(False, f"sin suplente de {pos}: no quedaría formación alineable con reserva")
+        from .strategy.market import on_hold
+        if on_hold(self.s, self.ledger, self.cfg, a.player_id, self.now) and e["player"].get("playerStatus") not in ("injured", "suspended"):
+            return Verdict(False, f"fichado o con cláusula subida hace menos de {self.cfg.sales.hold_days} días")
         return Verdict(True)
 
     def _check_lineup(self, a):

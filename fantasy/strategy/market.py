@@ -59,6 +59,18 @@ def plan_offers(snap, valuer, cfg, ledger) -> list:
     return actions
 
 
+def on_hold(snap, ledger, cfg, player_id: str, now: datetime) -> bool:
+    """Fichado o con cláusula subida hace menos de sales.hold_days: no se vende."""
+    days = int(cfg.sales.get("hold_days", 0) or 0)
+    if not days:
+        return False
+    if str(player_id) in snap.recent_acquisitions(days, now):
+        return True
+    from ..state import parse_dt
+    r = parse_dt((ledger.raises or {}).get(str(player_id)))
+    return bool(r) and now - r < timedelta(days=days)
+
+
 def protected_ids(entries: list, valuer, cfg) -> set:
     """Jugadores intocables para ventas de financiación: los mejores por puntos esperados y los más valiosos."""
     by_exp = sorted(entries, key=lambda e: -valuer.exp(e["player"]))[: int(cfg.sales.get("protect_top_n", 3))]
@@ -104,6 +116,8 @@ def plan_sales(snap, valuer, cfg, ledger, now: datetime, fund: dict | None = Non
             continue
         if not can_field_without(entries, e["ptid"], snap.formations, spare=True):
             continue
+        if on_hold(snap, ledger, cfg, e["player"]["id"], now) and valuer.availability(e["player"]) > 0:
+            continue
         ev = valuer.evaluate(e["player"])
         trend = ev["trend"]
         squad_full = len(snap.squad()) >= cfg.squad.max_size
@@ -132,11 +146,13 @@ def plan_sales(snap, valuer, cfg, ledger, now: datetime, fund: dict | None = Non
                 continue
             if not can_field_without(entries, e["ptid"], snap.formations, spare=True):
                 continue
+            if on_hold(snap, ledger, cfg, p["id"], now):
+                continue
             # ganancia NETA: lo que aporta el fichaje menos lo que se pierde al vender a este (su exp menos la del mejor suplente de su posición)
             bench_same = [x for x in entries if x["player"]["positionId"] == p["positionId"] and x["ptid"] not in xi_set(xi) and x["ptid"] != e["ptid"]]
             replacement = max((valuer.exp(x["player"]) for x in bench_same), default=0.0)
             loss = valuer.exp(p) - replacement if e["ptid"] in xi_set(xi) else 0.0
-            if float(fund.get("gain") or 0) - loss < cfg.bids.min_gain_points:
+            if float(fund.get("gain") or 0) - loss < float(cfg.bids.get("fund_min_net_gain", cfg.bids.min_gain_points)):
                 continue
             rest = [x for x in entries if x["ptid"] != e["ptid"]]
             cnt = {"POR": 0, "DEF": 0, "MED": 0, "DEL": 0}
@@ -218,7 +234,9 @@ def plan_bids(snap, valuer, cfg, ledger, now: datetime) -> tuple[list, dict]:
         if best:
             ordered.append(best)
             used.add(best[4]["market_id"])
-    ordered += sorted((t for t in scored if t[4]["market_id"] not in used), key=lambda t: (-int(t[0]), -t[1]))
+    quality = str(cfg.bids.get("prefer", "value")) == "quality"
+    ordered += sorted((t for t in scored if t[4]["market_id"] not in used),
+                      key=(lambda t: (-int(t[0]), -t[2], -t[1])) if quality else (lambda t: (-int(t[0]), -t[1])))
     for is_gap, score, g, price, m in ordered:
         if n_new >= cfg.bids.max_new_bids_per_run or len(ledger.bids) + n_new >= cfg.money.max_pending_bids:
             break

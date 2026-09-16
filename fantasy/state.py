@@ -182,6 +182,19 @@ class Snapshot:
                                               "player_id": str((it.get("playerMaster") or {}).get("id"))}
         return out
 
+    def recent_acquisitions(self, days: int, now=None) -> set:
+        """Ids de jugadores que ENTRARON en mi equipo hace menos de `days` días (31 fichaje LaLiga, 1 compra, 32 clausulazo; yo = user1)."""
+        now = now or datetime.now(timezone.utc)
+        me = str(self.manager_id or "")
+        out = set()
+        for a in self.activity or []:
+            dt = parse_dt(a.get("createdAt"))
+            if not dt or now - dt > timedelta(days=days):
+                continue
+            if a.get("activityTypeId") in (1, 31, 32) and str(a.get("user1Id")) == me and a.get("playerMasterId") is not None:
+                out.add(str(a["playerMasterId"]))
+        return out
+
     def recent_departures(self, days: int, now=None) -> set:
         """Ids de jugadores que salieron de mi equipo en los últimos `days` días, según el feed de actividad:
         33 venta (yo vendo), 1 compra entre mánagers (yo soy el vendedor, user2), 32 clausulazo (me lo quitan, user2)."""
@@ -317,10 +330,12 @@ class Ledger:
         self.runs = d.get("runs", [])
         self.live_writes_seen = d.get("live_writes_seen", [])
         self.vetoed = d.get("vetoed", {})          # player_id -> ISO hasta cuándo no se puede listar
+        self.raises = d.get("raises", {})          # player_id -> ISO de la última subida de cláusula
 
     def save(self):
         _write_json(self.path, {"bids": self.bids, "listings": self.listings, "handled_offers": self.handled_offers[-200:],
-                                "runs": self.runs[-500:], "live_writes_seen": self.live_writes_seen, "vetoed": self.vetoed})
+                                "runs": self.runs[-500:], "live_writes_seen": self.live_writes_seen, "vetoed": self.vetoed,
+                                "raises": self.raises})
 
     def is_vetoed(self, player_id, now=None) -> bool:
         until = parse_dt(self.vetoed.get(str(player_id)))

@@ -16,6 +16,8 @@ bids:
   markup_critical: 1.30           # solo huecos críticos (no se puede alinear 11 disponibles)
   hard_cap_ratio: 1.49            # nunca >= 1.5x valor de mercado (además hay tope fijo en código)
   min_gain_points: 0.8            # puntos esperados/jornada que debe aportar un fichaje al once
+  fund_min_net_gain: 2.0          # vender para financiar solo si la ganancia NETA (fichaje - lo que se pierde) es >= esto
+  prefer: quality                 # quality = entre los que caben, el que más puntos aporta; value = el más barato por punto
   cancel_if_gain_below: 0.3       # cancelar puja si el jugador ya no aporta esto
   max_new_bids_per_run: 3
   rebuy_veto_days: 21             # no pujar/ofertar/clausular por jugadores que salieron de mi plantilla hace menos de N días
@@ -27,8 +29,9 @@ sales:
   accept_offer_ratio_starter: 0.97  # solo si lo listamos nosotros (financiar fichaje / sobrante)
   fund_list_ratio: 1.02           # precio de listado cuando vendemos para financiar un fichaje
   fund_lead_hours: 30             # solo se reserva caja para un fichaje si su listado dura al menos esto (vender tarda ~24h)
-  protect_top_n: 3                # los 3 mejores por puntos esperados y los 2 más valiosos nunca se venden para financiar
-  protect_top_value: 2
+  protect_top_n: 5                # los 5 mejores por puntos esperados y los 3 más valiosos nunca se venden para financiar
+  protect_top_value: 3
+  hold_days: 14                   # no vender a nadie fichado o con cláusula subida hace menos de N días (salvo lesionado/sancionado)
   manual_withdraw_veto_days: 7    # si Rafa retira un listado del bot, ese jugador no se vuelve a listar en N días
   trend_sell_threshold: -0.04     # tendencia 7 días <= -4% -> candidato a venta
   withdraw_after_hours: 48        # retirar listado sin oferta útil pasado este tiempo
@@ -42,7 +45,8 @@ clauses:
   raise_when_ratio_below: 1.30    # subir cláusula de mis mejores si cláusula/valor < esto
   raise_target_ratio: 1.80
   raise_max_spend_per_run: 10000000
-  raise_top_n: 4
+  raise_top_n: 3
+  raise_min_value: 15000000       # solo se defiende con cláusula a jugadores de este valor o más (a los baratos nadie los clausula)
 
 squad:
   min_size: 11

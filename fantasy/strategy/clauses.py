@@ -54,10 +54,11 @@ def plan_clause_raises(snap, valuer, cfg, now: datetime, budget: int) -> list:
     actions = []
     entries = [e for e in snap.squad() if e["player"]["positionId"] in (1, 2, 3, 4)]
     top = sorted(entries, key=lambda e: -valuer.exp(e["player"]))[: cfg.clauses.raise_top_n]
+    min_value = int(cfg.clauses.get("raise_min_value", 0) or 0)
     spent = 0
     for e in top:
         p, cl = e["player"], e["buyoutClause"]
-        if not cl or not p["marketValue"] or e["isShielded"]:
+        if not cl or not p["marketValue"] or e["isShielded"] or p["marketValue"] < min_value:
             continue
         ratio = cl / p["marketValue"]
         if ratio >= cfg.clauses.raise_when_ratio_below:

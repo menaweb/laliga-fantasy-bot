@@ -77,5 +77,7 @@ class Executor:
             return str(r)[:80] if r else ""
         if a.kind == "clause_raise":
             self.c.raise_clause(lid, p["player_team_id"], p["factor"], p["value_to_increase"])
+            from datetime import datetime, timezone
+            self.ledger.raises[str(a.player_id)] = datetime.now(timezone.utc).isoformat()
             return ""
         raise ApiError(f"acción desconocida {a.kind}")
