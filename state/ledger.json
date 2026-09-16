@@ -1,24 +1,5 @@
 {
- "bids": [
-  {
-   "market_id": "217725578",
-   "player_id": "3054",
-   "money": 2699730,
-   "kind": "bid",
-   "bid_id": "33011980",
-   "placed_at": "2026-09-15T21:02:20+0000",
-   "reason": "HUECO DEF +2.4 pts al once · 3.7 pts esp (ppg 4.0×1.0+prior 2.5 · ok · @ GET 1.11 · prob starter 70% · tend7 +47%)"
-  },
-  {
-   "market_id": "217725573",
-   "player_id": "2353",
-   "money": 9500000,
-   "kind": "bid",
-   "bid_id": "33011995",
-   "placed_at": "2026-09-15T21:02:21+0000",
-   "reason": "HUECO DEF +1.4 pts al once · 2.7 pts esp (ppg 3.4×1.0+prior 2.2 · ok · @ SEV 1.12 · prob bench 50% · tend7 +15%)"
-  }
- ],
+ "bids": [],
  "listings": [],
  "handled_offers": [
   "83167330",
@@ -30,7 +11,8 @@
   "101122478",
   "102200912",
   "104015013",
-  "106880360"
+  "106880360",
+  "109609313"
  ],
  "runs": [
   {
@@ -1858,6 +1840,13 @@
    "actions": 0,
    "spend": 0,
    "requests": 23
+  },
+  {
+   "ts": "2026-09-16T19:01:01.167916+00:00",
+   "mode": "LIVE",
+   "actions": 3,
+   "spend": 1262379,
+   "requests": 30
   }
  ],
  "live_writes_seen": [
