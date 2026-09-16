@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-15T23:00:58+0000",
+ "fetched_at": "2026-09-16T00:01:01+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -153,8 +153,8 @@
    "positionId": 3,
    "teamId": "8",
    "marketValue": 31242544,
-   "points": 37,
-   "averagePoints": 6.166666666666667,
+   "points": 32,
+   "averagePoints": 5.333333333333333,
    "playerStatus": "ok",
    "buyoutClause": 45600311,
    "lockedEnd": "2026-08-19T00:06:12+0200",
@@ -495,8 +495,8 @@
    "nickname": "Cala",
    "positionId": 4,
    "marketValue": 6365488,
-   "points": 18,
-   "averagePoints": 3.0,
+   "points": 17,
+   "averagePoints": 2.8333333333333335,
    "playerStatus": "ok"
   },
   {
@@ -1215,9 +1215,9 @@
    "nickname": "El Hilali",
    "positionId": 2,
    "marketValue": 16586752,
-   "points": 29,
-   "averagePoints": 4.833333333333333,
-   "playerStatus": "ok"
+   "points": 32,
+   "averagePoints": 5.333333333333333,
+   "playerStatus": "suspended"
   },
   {
    "id": "2453",
@@ -1350,8 +1350,8 @@
    "nickname": "Roberto",
    "positionId": 4,
    "marketValue": 32501289,
-   "points": 54,
-   "averagePoints": 9.0,
+   "points": 46,
+   "averagePoints": 7.666666666666667,
    "playerStatus": "ok"
   },
   {
