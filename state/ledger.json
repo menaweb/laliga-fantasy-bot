@@ -1753,6 +1753,13 @@
    "ts": "2026-09-16T06:00:57.061972+00:00",
    "mode": "LIVE",
    "error": "bug: HTTPSConnectionPool(host='fantasy-api.llt-services.com', port=443): Read timed out. (read timeout=20)"
+  },
+  {
+   "ts": "2026-09-16T06:36:12.623594+00:00",
+   "mode": "LIVE",
+   "actions": 0,
+   "spend": 0,
+   "requests": 23
   }
  ],
  "live_writes_seen": [
