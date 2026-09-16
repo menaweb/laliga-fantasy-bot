@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-16T21:00:58+0000",
+ "fetched_at": "2026-09-16T22:00:56+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -11,7 +11,7 @@
   "openingWeekDate": "2026-09-15T19:00:00+02:00",
   "closingWeekDate": "2026-09-18T03:00:00+02:00"
  },
- "money": 8022340,
+ "money": 8122340,
  "investment": 1262379,
  "team": {
   "teamValue": 171522783,
@@ -83,8 +83,8 @@
    "positionId": 2,
    "teamId": "49",
    "marketValue": 2462929,
-   "points": 7,
-   "averagePoints": 1.1666666666666667,
+   "points": 8,
+   "averagePoints": 1.3333333333333333,
    "playerStatus": "ok",
    "buyoutClause": 2571821,
    "lockedEnd": "2026-09-09T23:53:45+0200",
@@ -111,8 +111,8 @@
    "positionId": 2,
    "teamId": "4",
    "marketValue": 8636877,
-   "points": 17,
-   "averagePoints": 2.8333333333333335,
+   "points": 18,
+   "averagePoints": 3.0,
    "playerStatus": "ok",
    "buyoutClause": 9500000,
    "lockedEnd": "2026-09-30T20:08:36+0200",
@@ -285,8 +285,8 @@
    "nickname": "Iñigo Vicente",
    "positionId": 4,
    "marketValue": 32247791,
-   "points": 37,
-   "averagePoints": 6.166666666666667,
+   "points": 38,
+   "averagePoints": 6.333333333333333,
    "playerStatus": "ok"
   },
   {
@@ -360,8 +360,8 @@
    "nickname": "Raphinha",
    "positionId": 4,
    "marketValue": 138147884,
-   "points": 86,
-   "averagePoints": 14.333333333333334,
+   "points": 96,
+   "averagePoints": 16.0,
    "playerStatus": "ok"
   },
   {
@@ -467,21 +467,6 @@
    "marketValue": 8910090,
    "points": 14,
    "averagePoints": 2.3333333333333335,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "1215",
-   "discr": "marketPlayerTeam",
-   "salePrice": 6655058,
-   "expirationDate": "2026-09-16T23:13:39+02:00",
-   "numberOfBids": null,
-   "seller": "37667518",
-   "myBid": null,
-   "nickname": "Turrientes",
-   "positionId": 3,
-   "marketValue": 7143115,
-   "points": 16,
-   "averagePoints": 2.6666666666666665,
    "playerStatus": "ok"
   },
   {
@@ -855,8 +840,8 @@
    "nickname": "Agirrezabala",
    "positionId": 1,
    "marketValue": 19163516,
-   "points": 40,
-   "averagePoints": 6.666666666666667,
+   "points": 41,
+   "averagePoints": 6.833333333333333,
    "playerStatus": "ok"
   },
   {
@@ -975,8 +960,8 @@
    "nickname": "Marc Bernal",
    "positionId": 3,
    "marketValue": 24479486,
-   "points": 33,
-   "averagePoints": 5.5,
+   "points": 34,
+   "averagePoints": 5.666666666666667,
    "playerStatus": "ok"
   },
   {
@@ -1073,21 +1058,21 @@
  "standing": [
   {
    "position": 1,
-   "points": 308,
+   "points": 309,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 393184278
   },
   {
    "position": 2,
-   "points": 284,
+   "points": 285,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 250093805
   },
   {
    "position": 3,
-   "points": 263,
+   "points": 270,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 224364848
@@ -1129,7 +1114,7 @@
   },
   {
    "position": 9,
-   "points": 163,
+   "points": 164,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 171522783
