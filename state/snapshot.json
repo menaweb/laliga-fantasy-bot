@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-17T09:01:01+0000",
+ "fetched_at": "2026-09-17T10:01:02+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -1261,6 +1261,21 @@
    "nickname": "Y. Zabiri",
    "positionId": 4,
    "marketValue": 13281864,
+   "points": 42,
+   "averagePoints": 7.0,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2759",
+   "discr": "marketPlayerTeam",
+   "salePrice": 300324800,
+   "expirationDate": "2026-09-20T11:03:41+02:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Vlachodimos",
+   "positionId": 1,
+   "marketValue": 30032480,
    "points": 42,
    "averagePoints": 7.0,
    "playerStatus": "ok"
