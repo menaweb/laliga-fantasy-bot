@@ -2006,6 +2006,13 @@
    "actions": 0,
    "spend": 0,
    "requests": 22
+  },
+  {
+   "ts": "2026-09-17T12:00:17.792564+00:00",
+   "mode": "LIVE",
+   "actions": 0,
+   "spend": 0,
+   "requests": 22
   }
  ],
  "live_writes_seen": [
