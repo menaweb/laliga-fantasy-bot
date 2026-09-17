@@ -1,15 +1,6 @@
 {
  "bids": [
   {
-   "market_id": "224167395",
-   "player_id": "2525",
-   "money": 1262379,
-   "bid_id": "33548100",
-   "kind": "bid",
-   "placed_at": null,
-   "reason": "detectada en el mercado"
-  },
-  {
    "market_id": "31244608",
    "player_id": "1730",
    "money": 2861753,
@@ -17,6 +8,15 @@
    "bid_id": "110518613",
    "placed_at": "2026-09-17T06:34:47+0000",
    "reason": "HUECO MED +2.2 pts al once · 2.5 pts esp (ppg 2.5×1.0+prior 2.2 · ok · vs RAY 1.16 · prob starter 80% · tend7 +11%)"
+  },
+  {
+   "market_id": "39388505",
+   "player_id": "2680",
+   "money": 5778263,
+   "kind": "offer",
+   "bid_id": "112566685",
+   "placed_at": "2026-09-17T19:02:15+0000",
+   "reason": "+2.1 pts al once · 4.0 pts esp (ppg 5.5×1.0+prior 3.0 · ok · vs BAR 0.89 · prob starter 70% · tend7 +21%)"
   }
  ],
  "listings": [],
@@ -2069,6 +2069,13 @@
    "actions": 0,
    "spend": 0,
    "requests": 22
+  },
+  {
+   "ts": "2026-09-17T19:01:00.648769+00:00",
+   "mode": "LIVE",
+   "actions": 1,
+   "spend": 5778263,
+   "requests": 23
   }
  ],
  "live_writes_seen": [
