@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-17T20:08:40+0000",
+ "fetched_at": "2026-09-17T21:00:56+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -55,8 +55,8 @@
    "positionId": 2,
    "teamId": "12",
    "marketValue": 5704486,
-   "points": 21,
-   "averagePoints": 3.5,
+   "points": 20,
+   "averagePoints": 3.3333333333333335,
    "playerStatus": "ok",
    "buyoutClause": 10209502,
    "lockedEnd": "2026-09-29T21:01:19+0200",
@@ -316,8 +316,8 @@
    "nickname": "A. Herrero",
    "positionId": 1,
    "marketValue": 17162538,
-   "points": 31,
-   "averagePoints": 5.166666666666667,
+   "points": 29,
+   "averagePoints": 4.833333333333333,
    "playerStatus": "ok"
   },
   {
@@ -496,8 +496,8 @@
    "nickname": "C. Puga",
    "positionId": 2,
    "marketValue": 3625727,
-   "points": 11,
-   "averagePoints": 1.8333333333333333,
+   "points": 8,
+   "averagePoints": 1.3333333333333333,
    "playerStatus": "ok"
   },
   {
@@ -828,21 +828,6 @@
    "marketValue": 13623907,
    "points": 19,
    "averagePoints": 3.1666666666666665,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2626",
-   "discr": "marketPlayerTeam",
-   "salePrice": 5800000,
-   "expirationDate": "2026-09-17T22:13:42+02:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "Deossa",
-   "positionId": 3,
-   "marketValue": 2939104,
-   "points": 32,
-   "averagePoints": 5.333333333333333,
    "playerStatus": "ok"
   },
   {
@@ -1290,28 +1275,28 @@
   },
   {
    "position": 4,
-   "points": 249,
+   "points": 248,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 248531310
   },
   {
    "position": 5,
-   "points": 249,
+   "points": 248,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 150729914
   },
   {
    "position": 6,
-   "points": 209,
+   "points": 208,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 276421267
   },
   {
    "position": 7,
-   "points": 192,
+   "points": 196,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 210212751
