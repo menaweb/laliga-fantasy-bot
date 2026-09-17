@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-17T17:01:08+0000",
+ "fetched_at": "2026-09-17T18:00:56+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -242,7 +242,7 @@
    "positionId": 5,
    "marketValue": 11798759,
    "points": 9,
-   "averagePoints": 1.8,
+   "averagePoints": 1.5,
    "playerStatus": "ok"
   },
   {
@@ -361,8 +361,8 @@
    "nickname": "Natan",
    "positionId": 2,
    "marketValue": 30920374,
-   "points": 30,
-   "averagePoints": 5.0,
+   "points": 31,
+   "averagePoints": 5.166666666666667,
    "playerStatus": "ok"
   },
   {
@@ -681,21 +681,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2639",
-   "discr": "marketPlayerTeam",
-   "salePrice": 112833880,
-   "expirationDate": "2026-09-17T20:05:51+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "M. Román",
-   "positionId": 3,
-   "marketValue": 12247851,
-   "points": 33,
-   "averagePoints": 5.5,
-   "playerStatus": "ok"
-  },
-  {
    "id": "1775",
    "discr": "marketPlayerTeam",
    "salePrice": 65198952,
@@ -738,21 +723,6 @@
    "marketValue": 808069,
    "points": 9,
    "averagePoints": 1.5,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2624",
-   "discr": "marketPlayerTeam",
-   "salePrice": 54255730,
-   "expirationDate": "2026-09-17T20:05:44+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Manu Sánchez",
-   "positionId": 2,
-   "marketValue": 5469412,
-   "points": 16,
-   "averagePoints": 2.6666666666666665,
    "playerStatus": "ok"
   },
   {
@@ -1291,7 +1261,7 @@
   },
   {
    "position": 2,
-   "points": 285,
+   "points": 286,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 250578948
