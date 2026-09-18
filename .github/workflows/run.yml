@@ -1,7 +1,7 @@
 name: fantasy-run
 on:
   schedule:
-    - cron: "7,37 * * * *"           # cada media hora (UTC). GitHub descarta runs bajo carga: más disparos = más aciertos
+    - cron: "17 */6 * * *"           # respaldo cada 6h; el disparo real es externo (cron-job.org, cada hora) para ahorrar minutos
   repository_dispatch:
     types: [tick]                  # disparo externo (cron-job.org) cada 30 min; usa las variables del repo
   workflow_dispatch:
