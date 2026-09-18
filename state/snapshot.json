@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-18T12:00:59+0000",
+ "fetched_at": "2026-09-18T13:01:02+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -310,7 +310,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 17162538,
    "expirationDate": "2026-09-18T20:08:00+02:00",
-   "numberOfBids": 1,
+   "numberOfBids": 2,
    "seller": "",
    "myBid": null,
    "nickname": "A. Herrero",
@@ -456,21 +456,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "3105",
-   "discr": "marketPlayerTeam",
-   "salePrice": 10000000,
-   "expirationDate": "2026-09-18T23:05:13+02:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Cala",
-   "positionId": 4,
-   "marketValue": 6137197,
-   "points": 17,
-   "averagePoints": 2.8333333333333335,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2418",
    "discr": "marketPlayerTeam",
    "salePrice": 48000000,
@@ -486,18 +471,33 @@
    "playerStatus": "ok"
   },
   {
-   "id": "3069",
+   "id": "2673",
    "discr": "marketPlayerTeam",
-   "salePrice": 50000000,
-   "expirationDate": "2026-09-18T23:08:29+02:00",
+   "salePrice": 4000000,
+   "expirationDate": "2026-09-21T14:17:33+02:00",
    "numberOfBids": null,
    "seller": "37668923",
    "myBid": null,
-   "nickname": "Blanco",
+   "nickname": "Paco Cortes",
+   "positionId": 4,
+   "marketValue": 526910,
+   "points": 6,
+   "averagePoints": 1.0,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3169",
+   "discr": "marketPlayerTeam",
+   "salePrice": 3500000,
+   "expirationDate": "2026-09-21T14:17:20+02:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Bauza",
    "positionId": 3,
-   "marketValue": 19770653,
-   "points": 24,
-   "averagePoints": 4.0,
+   "marketValue": 551424,
+   "points": 3,
+   "averagePoints": 0.6,
    "playerStatus": "ok"
   },
   {
@@ -531,18 +531,18 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2724",
+   "id": "2435",
    "discr": "marketPlayerTeam",
-   "salePrice": 2500000,
-   "expirationDate": "2026-09-18T23:06:45+02:00",
+   "salePrice": 4500000,
+   "expirationDate": "2026-09-21T14:17:05+02:00",
    "numberOfBids": null,
    "seller": "37668923",
    "myBid": null,
-   "nickname": "Adrián Molina",
+   "nickname": "Marrero",
    "positionId": 1,
-   "marketValue": 514724,
-   "points": 0,
-   "averagePoints": 0.0,
+   "marketValue": 797953,
+   "points": 9,
+   "averagePoints": 1.5,
    "playerStatus": "ok"
   },
   {
@@ -1022,7 +1022,7 @@
    "points": 214,
    "team_id": "37668923",
    "manager": "Paco!!",
-   "teamValue": 279471711
+   "teamValue": 253049137
   },
   {
    "position": 7,
