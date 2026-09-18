@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-18T06:00:56+0000",
+ "fetched_at": "2026-09-18T06:29:51+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -666,21 +666,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2452",
-   "discr": "marketPlayerTeam",
-   "salePrice": 62452010,
-   "expirationDate": "2026-09-20T00:25:34+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Gudelj",
-   "positionId": 3,
-   "marketValue": 6215411,
-   "points": 10,
-   "averagePoints": 2.5,
-   "playerStatus": "ok"
-  },
-  {
    "id": "3129",
    "discr": "marketPlayerTeam",
    "salePrice": 136239140,
@@ -1062,7 +1047,7 @@
    "points": 309,
    "team_id": "37664721",
    "manager": "enriqsuar",
-   "teamValue": 417248931
+   "teamValue": 411033520
   },
   {
    "position": 2,
