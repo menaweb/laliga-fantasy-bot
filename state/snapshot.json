@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-18T14:01:03+0000",
+ "fetched_at": "2026-09-18T15:01:03+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -12,7 +12,7 @@
   "closingWeekDate": "2026-09-21T03:00:00+02:00"
  },
  "money": 16322340,
- "investment": 12000000,
+ "investment": 9300000,
  "team": {
   "teamValue": 170168957,
   "teamPoints": 174,
@@ -265,7 +265,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 562178,
    "expirationDate": "2026-09-18T20:08:00+02:00",
-   "numberOfBids": 2,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Antañón",
@@ -415,7 +415,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 951136,
    "expirationDate": "2026-09-18T20:08:00+02:00",
-   "numberOfBids": 2,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Youssef",
