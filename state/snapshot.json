@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-19T21:01:28+0000",
+ "fetched_at": "2026-09-19T22:00:55+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -265,7 +265,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 3969078,
    "expirationDate": "2026-09-20T20:08:00+02:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Lemar",
@@ -415,7 +415,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 615466,
    "expirationDate": "2026-09-20T20:08:00+02:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Otorbi",
@@ -919,21 +919,6 @@
    "points": 7,
    "averagePoints": 1.75,
    "playerStatus": "ok"
-  },
-  {
-   "id": "2994",
-   "discr": "marketPlayerTeam",
-   "salePrice": 2733762,
-   "expirationDate": "2026-09-22T15:13:23+02:00",
-   "numberOfBids": null,
-   "seller": "37679249",
-   "myBid": null,
-   "nickname": "Mella",
-   "positionId": 3,
-   "marketValue": 1733762,
-   "points": 3,
-   "averagePoints": 0.5,
-   "playerStatus": "ok"
   }
  ],
  "standing": [
@@ -963,11 +948,11 @@
    "points": 271,
    "team_id": "37679249",
    "manager": "RamónBético",
-   "teamValue": 170819219
+   "teamValue": 169085457
   },
   {
    "position": 5,
-   "points": 252,
+   "points": 253,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 254229693
