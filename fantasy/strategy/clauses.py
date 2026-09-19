@@ -28,6 +28,8 @@ def plan_clause_pays(snap, valuer, cfg, now: datetime, budget: int) -> list:
             continue
         if not clause_open(r["lockedEnd"], now):
             continue
+        if valuer.exp(p) < float(cfg.bids.get("min_exp_signing", 0) or 0):
+            continue
         weakest = weakest_in_xi(entries, xi, valuer, p["positionId"])
         g = valuer.exp(p) - (valuer.exp(weakest["player"]) if weakest else 0.0)
         if g < cfg.clauses.pay_min_gain_points:

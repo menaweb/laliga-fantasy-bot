@@ -13,7 +13,9 @@ money:
 
 bids:
   markup_default: 1.10            # puja = fair_value x markup
-  markup_critical: 1.30           # solo huecos críticos (no se puede alinear 11 disponibles)
+  markup_critical: 1.30           # SOLO emergencias: no se puede alinear a 11 disponibles. Un titular flojo no es emergencia.
+  min_exp_signing: 4.0            # calidad mínima de cualquier fichaje/clausulazo (puntos esperados por jornada)
+  min_exp_emergency: 2.5          # mínimo rebajado solo en emergencia de plantilla
   hard_cap_ratio: 1.49            # nunca >= 1.5x valor de mercado (además hay tope fijo en código)
   min_gain_points: 0.8            # puntos esperados/jornada que debe aportar un fichaje al once
   fund_min_net_gain: 2.0          # vender para financiar solo si la ganancia NETA (fichaje - lo que se pierde) es >= esto

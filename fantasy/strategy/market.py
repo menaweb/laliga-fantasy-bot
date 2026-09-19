@@ -196,6 +196,14 @@ def plan_bids(snap, valuer, cfg, ledger, now: datetime) -> tuple[list, dict]:
         if not m:
             continue
         g = gain_of(m["player"])
+        pos_b = POS_NAMES[m["player"]["positionId"]]
+        floor_b = float(cfg.bids.get("min_exp_emergency", 0) or 0) if pos_b in gaps(entries, valuer, cfg) else float(cfg.bids.get("min_exp_signing", 0) or 0)
+        if b.get("bid_id") and valuer.exp(m["player"]) < floor_b:
+            actions.append(Action("cancel_offer" if b.get("kind") == "offer" else "cancel_bid", m["player"]["id"], m["player"]["nickname"], 0,
+                                  f"no alcanza la calidad mínima ({valuer.exp(m['player']):.1f} < {floor_b} pts esp)",
+                                  {"league_id": snap.league_id, "market_id": m["market_id"], "bid_id": b["bid_id"]},
+                                  market_value=m["player"]["marketValue"]))
+            continue
         if g < cfg.bids.cancel_if_gain_below and b.get("bid_id"):
             actions.append(Action("cancel_offer" if b.get("kind") == "offer" else "cancel_bid", m["player"]["id"], m["player"]["nickname"], 0,
                                   f"ya no aporta ({g:+.1f} pts)", {"league_id": snap.league_id, "market_id": m["market_id"], "bid_id": b["bid_id"]},
@@ -217,11 +225,13 @@ def plan_bids(snap, valuer, cfg, ledger, now: datetime) -> tuple[list, dict]:
         g = gain_of(p)
         pos = POS_NAMES[p["positionId"]]
         is_gap = pos in critical
-        if g < cfg.bids.min_gain_points and pos not in count_gaps:
+        emergency = pos in count_gaps
+        if g < cfg.bids.min_gain_points and not emergency:
             continue   # un hueco por titular flojo solo se cubre con alguien que mejore el once de verdad
-        if pos not in count_gaps and valuer.exp(p) < float(cfg.squad.get("weak_starter_exp", 0) or 0):
-            continue
-        markup = cfg.bids.markup_critical if is_gap else cfg.bids.markup_default
+        floor = float(cfg.bids.get("min_exp_emergency", 0) or 0) if emergency else float(cfg.bids.get("min_exp_signing", 0) or 0)
+        if valuer.exp(p) < floor:
+            continue   # calidad mínima: no se ficha relleno
+        markup = cfg.bids.markup_critical if emergency else cfg.bids.markup_default
         price = bid_price(valuer.fair(p), p["marketValue"], m["salePrice"], markup, cfg)
         if price is None:
             continue

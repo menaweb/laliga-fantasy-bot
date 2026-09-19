@@ -22,4 +22,4 @@ def test_weak_gap_does_not_buy_worse_players(snap, cfg, ledger, now):
     if any("HUECO" in a.reason for a in acts):   # si hay candidatos de hueco, van primero
         assert "HUECO" in acts[0].reason
     for a in acts:
-        assert "+-" not in a.reason and v.exp(snap.players[a.player_id]) >= cfg.squad.weak_starter_exp
+        assert "+-" not in a.reason and v.exp(snap.players[a.player_id]) >= cfg.bids.min_exp_signing
