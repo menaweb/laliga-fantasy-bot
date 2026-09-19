@@ -1,9 +1,7 @@
 name: fantasy-run
 on:
   schedule:
-    # Horarios pedidos por Rafa: 10:00 y 21:10 hora de Madrid. El cron es UTC (verano +2h, invierno +1h):
-    - cron: "0 8 * * *"              # 10:00 Madrid (verano) / 09:00 (invierno)
-    - cron: "10 19 * * *"            # 21:10 Madrid (verano) / 20:10 (invierno)
+    - cron: "7 * * * *"              # cada hora (repo público: minutos ilimitados). cron-job.org dispara además a en punto.
   repository_dispatch:
     types: [tick]                  # disparo externo (cron-job.org) cada 30 min; usa las variables del repo
   workflow_dispatch:
