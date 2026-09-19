@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-19T22:56:16+0000",
+ "fetched_at": "2026-09-19T23:01:14+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -11,8 +11,8 @@
   "openingWeekDate": "2026-09-18T21:00:00+02:00",
   "closingWeekDate": "2026-09-21T03:00:00+02:00"
  },
- "money": 16422340,
- "investment": 0,
+ "money": 16522340,
+ "investment": 5448120,
  "team": {
   "teamValue": 169960449,
   "teamPoints": 174,
@@ -310,9 +310,9 @@
    "discr": "marketPlayerLeague",
    "salePrice": 3459322,
    "expirationDate": "2026-09-20T20:08:00+02:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
-   "myBid": null,
+   "myBid": 4541126,
    "nickname": "Arguibide",
    "positionId": 2,
    "marketValue": 3400504,
@@ -385,9 +385,9 @@
    "discr": "marketPlayerLeague",
    "salePrice": 698206,
    "expirationDate": "2026-09-20T20:08:00+02:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
-   "myBid": null,
+   "myBid": 906994,
    "nickname": "Mayol",
    "positionId": 3,
    "marketValue": 699481,
@@ -874,14 +874,14 @@
    "points": 304,
    "team_id": "37678052",
    "manager": "olegwarrior",
-   "teamValue": 250960318
+   "teamValue": 251134061
   },
   {
    "position": 3,
    "points": 299,
    "team_id": "37664261",
    "manager": "Javi Cepas",
-   "teamValue": 229309607
+   "teamValue": 232069577
   },
   {
    "position": 4,
@@ -895,7 +895,7 @@
    "points": 253,
    "team_id": "37675747",
    "manager": "Javi Trauma",
-   "teamValue": 254229693
+   "teamValue": 257629001
   },
   {
    "position": 6,
@@ -909,7 +909,7 @@
    "points": 217,
    "team_id": "37667518",
    "manager": "Rcoba",
-   "teamValue": 207823733
+   "teamValue": 206860716
   },
   {
    "position": 8,
@@ -923,7 +923,7 @@
    "points": 189,
    "team_id": "37681066",
    "manager": "Miguel Canuelo",
-   "teamValue": 184912110
+   "teamValue": 183496103
   }
  ]
 }
