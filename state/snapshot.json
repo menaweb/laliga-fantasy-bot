@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-20T09:00:53+0000",
+ "fetched_at": "2026-09-20T10:00:52+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -528,21 +528,6 @@
    "marketValue": 7790658,
    "points": 24,
    "averagePoints": 3.4285714285714284,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2759",
-   "discr": "marketPlayerTeam",
-   "salePrice": 300324800,
-   "expirationDate": "2026-09-20T11:03:41+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Vlachodimos",
-   "positionId": 1,
-   "marketValue": 30993888,
-   "points": 46,
-   "averagePoints": 6.571428571428571,
    "playerStatus": "ok"
   },
   {
