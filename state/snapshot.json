@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-20T19:23:26+0000",
+ "fetched_at": "2026-09-20T20:00:51+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -561,21 +561,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2543",
-   "discr": "marketPlayerTeam",
-   "salePrice": 65000000,
-   "expirationDate": "2026-09-20T21:36:24+02:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Natan",
-   "positionId": 2,
-   "marketValue": 34072495,
-   "points": 47,
-   "averagePoints": 6.714285714285714,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2522",
    "discr": "marketPlayerTeam",
    "salePrice": 1414354610,
@@ -893,7 +878,7 @@
   },
   {
    "position": 3,
-   "points": 319,
+   "points": 320,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 251134061
@@ -907,21 +892,21 @@
   },
   {
    "position": 5,
-   "points": 265,
+   "points": 268,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 262244275
   },
   {
    "position": 6,
-   "points": 250,
+   "points": 251,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 259906676
   },
   {
    "position": 7,
-   "points": 241,
+   "points": 246,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 206860716
