@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-20T15:00:59+0000",
+ "fetched_at": "2026-09-20T16:00:59+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -406,8 +406,8 @@
    "nickname": "Koke",
    "positionId": 3,
    "marketValue": 16429168,
-   "points": 27,
-   "averagePoints": 3.857142857142857,
+   "points": 28,
+   "averagePoints": 4.0,
    "playerStatus": "ok"
   },
   {
@@ -847,14 +847,14 @@
   },
   {
    "position": 5,
-   "points": 253,
+   "points": 252,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 257629001
   },
   {
    "position": 6,
-   "points": 232,
+   "points": 231,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 259906676
