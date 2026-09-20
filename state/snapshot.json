@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-20T20:00:51+0000",
+ "fetched_at": "2026-09-20T21:00:56+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -195,8 +195,8 @@
    "positionId": 4,
    "teamId": "16",
    "marketValue": 51708990,
-   "points": 28,
-   "averagePoints": 4.0,
+   "points": 33,
+   "averagePoints": 4.714285714285714,
    "playerStatus": "ok",
    "buyoutClause": 91332677,
    "lockedEnd": "2026-08-20T20:08:11+0200",
@@ -451,8 +451,8 @@
    "nickname": "Hugo Duro",
    "positionId": 4,
    "marketValue": 4772428,
-   "points": 11,
-   "averagePoints": 1.5714285714285714,
+   "points": 17,
+   "averagePoints": 2.4285714285714284,
    "playerStatus": "ok"
   },
   {
@@ -586,8 +586,8 @@
    "nickname": "Dimitrievski",
    "positionId": 1,
    "marketValue": 21336992,
-   "points": 35,
-   "averagePoints": 5.0,
+   "points": 36,
+   "averagePoints": 5.142857142857143,
    "playerStatus": "ok"
   },
   {
@@ -871,7 +871,7 @@
   },
   {
    "position": 2,
-   "points": 323,
+   "points": 324,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 239632977
@@ -885,35 +885,35 @@
   },
   {
    "position": 4,
-   "points": 303,
+   "points": 311,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 157734482
   },
   {
    "position": 5,
-   "points": 268,
+   "points": 277,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 262244275
   },
   {
    "position": 6,
-   "points": 251,
+   "points": 252,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 259906676
   },
   {
    "position": 7,
-   "points": 246,
+   "points": 251,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 206860716
   },
   {
    "position": 8,
-   "points": 217,
+   "points": 222,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 169960449
