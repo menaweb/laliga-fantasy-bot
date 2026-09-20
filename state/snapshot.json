@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-20T16:46:07+0000",
+ "fetched_at": "2026-09-20T17:00:56+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -97,8 +97,8 @@
    "positionId": 2,
    "teamId": "26",
    "marketValue": 4028495,
-   "points": 17,
-   "averagePoints": 2.4285714285714284,
+   "points": 18,
+   "averagePoints": 2.5714285714285716,
    "playerStatus": "ok",
    "buyoutClause": 5302196,
    "lockedEnd": "2026-09-28T20:18:44+0200",
@@ -921,14 +921,14 @@
   },
   {
    "position": 7,
-   "points": 230,
+   "points": 232,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 206860716
   },
   {
    "position": 8,
-   "points": 193,
+   "points": 194,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 169960449
