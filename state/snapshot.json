@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-20T06:07:51+0000",
+ "fetched_at": "2026-09-20T07:00:56+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -385,7 +385,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 698206,
    "expirationDate": "2026-09-20T20:08:00+02:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Mayol",
@@ -681,36 +681,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2742",
-   "discr": "marketPlayerTeam",
-   "salePrice": 3000000,
-   "expirationDate": "2026-09-21T10:43:28+02:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "Nacho Perez",
-   "positionId": 2,
-   "marketValue": 2225935,
-   "points": 18,
-   "averagePoints": 3.0,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2474",
-   "discr": "marketPlayerTeam",
-   "salePrice": 4000000,
-   "expirationDate": "2026-09-21T10:43:38+02:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "Denis Suárez",
-   "positionId": 3,
-   "marketValue": 2879727,
-   "points": 23,
-   "averagePoints": 3.2857142857142856,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2626",
    "discr": "marketPlayerTeam",
    "salePrice": 11000000,
@@ -738,21 +708,6 @@
    "marketValue": 121621879,
    "points": 66,
    "averagePoints": 11.0,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3164",
-   "discr": "marketPlayerTeam",
-   "salePrice": 12000000,
-   "expirationDate": "2026-09-21T10:44:38+02:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "Bardeli",
-   "positionId": 3,
-   "marketValue": 8647402,
-   "points": 29,
-   "averagePoints": 5.8,
    "playerStatus": "ok"
   },
   {
@@ -801,21 +756,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2318",
-   "discr": "marketPlayerTeam",
-   "salePrice": 442641450,
-   "expirationDate": "2026-09-21T11:57:22+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "O. Sancet",
-   "positionId": 3,
-   "marketValue": 44081915,
-   "points": 33,
-   "averagePoints": 4.714285714285714,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2520",
    "discr": "marketPlayerTeam",
    "salePrice": 356653330,
@@ -859,6 +799,36 @@
    "points": 7,
    "averagePoints": 1.75,
    "playerStatus": "ok"
+  },
+  {
+   "id": "2569",
+   "discr": "marketPlayerTeam",
+   "salePrice": 11969581,
+   "expirationDate": "2026-09-23T08:59:28+02:00",
+   "numberOfBids": null,
+   "seller": "37664261",
+   "myBid": null,
+   "nickname": "Ibañez",
+   "positionId": 3,
+   "marketValue": 11969581,
+   "points": 37,
+   "averagePoints": 5.285714285714286,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3164",
+   "discr": "marketPlayerTeam",
+   "salePrice": 15000000,
+   "expirationDate": "2026-09-23T09:00:39+02:00",
+   "numberOfBids": null,
+   "seller": "37664261",
+   "myBid": null,
+   "nickname": "Bardeli",
+   "positionId": 3,
+   "marketValue": 8647402,
+   "points": 29,
+   "averagePoints": 5.8,
+   "playerStatus": "ok"
   }
  ],
  "standing": [
@@ -867,7 +837,7 @@
    "points": 380,
    "team_id": "37664721",
    "manager": "enriqsuar",
-   "teamValue": 393874616
+   "teamValue": 349792701
   },
   {
    "position": 2,
@@ -881,14 +851,14 @@
    "points": 299,
    "team_id": "37664261",
    "manager": "Javi Cepas",
-   "teamValue": 232069577
+   "teamValue": 238933496
   },
   {
    "position": 4,
    "points": 271,
    "team_id": "37679249",
    "manager": "RamónBético",
-   "teamValue": 169704063
+   "teamValue": 157734482
   },
   {
    "position": 5,
