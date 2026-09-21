@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-21T19:01:01+0000",
+ "fetched_at": "2026-09-21T19:20:32+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -11,13 +11,13 @@
   "openingWeekDate": "2026-10-09T21:00:00+02:00",
   "closingWeekDate": "2026-10-13T03:00:00+02:00"
  },
- "money": 16120484,
- "investment": 14917557,
+ "money": 1202927,
+ "investment": 0,
  "team": {
-  "teamValue": 173844644,
+  "teamValue": 186173204,
   "teamPoints": 222,
   "position": 8,
-  "playersNumber": 14
+  "playersNumber": 15
  },
  "squad": [
   {
@@ -105,20 +105,6 @@
    "onSale": false
   },
   {
-   "ptid": "78592388",
-   "id": "2353",
-   "nickname": "Christensen",
-   "positionId": 2,
-   "teamId": "4",
-   "marketValue": 8455793,
-   "points": 26,
-   "averagePoints": 3.7142857142857144,
-   "playerStatus": "injured",
-   "buyoutClause": 9500000,
-   "lockedEnd": "2026-09-30T20:08:36+0200",
-   "onSale": false
-  },
-  {
    "ptid": "49305697",
    "id": "2609",
    "nickname": "Valentín Gómez",
@@ -131,6 +117,20 @@
    "buyoutClause": 3887943,
    "lockedEnd": "2026-09-09T23:52:47+0200",
    "onSale": false
+  },
+  {
+   "ptid": "78592388",
+   "id": "2353",
+   "nickname": "Christensen",
+   "positionId": 2,
+   "teamId": "4",
+   "marketValue": 8455793,
+   "points": 26,
+   "averagePoints": 3.7142857142857144,
+   "playerStatus": "injured",
+   "buyoutClause": 9500000,
+   "lockedEnd": "2026-09-30T20:08:36+0200",
+   "onSale": true
   },
   {
    "ptid": "71117586",
@@ -158,6 +158,20 @@
    "playerStatus": "ok",
    "buyoutClause": 45600311,
    "lockedEnd": "2026-08-19T00:06:12+0200",
+   "onSale": false
+  },
+  {
+   "ptid": "85373517",
+   "id": "2569",
+   "nickname": "Ibañez",
+   "positionId": 3,
+   "teamId": "21",
+   "marketValue": 12328560,
+   "points": 37,
+   "averagePoints": 5.285714285714286,
+   "playerStatus": "ok",
+   "buyoutClause": 14917557,
+   "lockedEnd": "2026-10-05T21:04:15+0200",
    "onSale": false
   },
   {
@@ -189,20 +203,6 @@
    "onSale": false
   },
   {
-   "ptid": "18792297",
-   "id": "3091",
-   "nickname": "Oyarzabal",
-   "positionId": 4,
-   "teamId": "16",
-   "marketValue": 50944187,
-   "points": 33,
-   "averagePoints": 4.714285714285714,
-   "playerStatus": "ok",
-   "buyoutClause": 91332677,
-   "lockedEnd": "2026-08-20T20:08:11+0200",
-   "onSale": false
-  },
-  {
    "ptid": "16809996",
    "id": "356",
    "nickname": "Gerard",
@@ -215,12 +215,26 @@
    "buyoutClause": 51555905,
    "lockedEnd": "2026-08-19T00:06:12+0200",
    "onSale": false
+  },
+  {
+   "ptid": "18792297",
+   "id": "3091",
+   "nickname": "Oyarzabal",
+   "positionId": 4,
+   "teamId": "16",
+   "marketValue": 50944187,
+   "points": 33,
+   "averagePoints": 4.714285714285714,
+   "playerStatus": "ok",
+   "buyoutClause": 91332677,
+   "lockedEnd": "2026-08-20T20:08:11+0200",
+   "onSale": false
   }
  ],
  "xi": {
   "formation": [
-   5,
-   3,
+   4,
+   4,
    2
   ],
   "goalkeeper": [
@@ -228,7 +242,6 @@
   ],
   "defender": [
    "49305697",
-   "49307276",
    "66953203",
    "76058787",
    "77354588"
@@ -236,7 +249,8 @@
   "midfield": [
    "16810003",
    "37055594",
-   "71117586"
+   "71117586",
+   "85282082"
   ],
   "striker": [
    "16809996",
@@ -264,7 +278,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 1424578,
    "expirationDate": "2026-09-22T20:08:00+02:00",
-   "numberOfBids": 1,
+   "numberOfBids": 2,
    "seller": "",
    "myBid": null,
    "nickname": "Cepeda",
@@ -369,7 +383,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 11153868,
    "expirationDate": "2026-09-22T20:08:00+02:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Giménez",
@@ -980,21 +994,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2569",
-   "discr": "marketPlayerTeam",
-   "salePrice": 12328560,
-   "expirationDate": "2026-09-24T14:06:14+02:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "Ibañez",
-   "positionId": 3,
-   "marketValue": 12328560,
-   "points": 37,
-   "averagePoints": 5.285714285714286,
-   "playerStatus": "ok"
-  },
-  {
    "id": "3164",
    "discr": "marketPlayerTeam",
    "salePrice": 14500000,
@@ -1022,21 +1021,6 @@
    "marketValue": 696143,
    "points": 14,
    "averagePoints": 3.5,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3244",
-   "discr": "marketPlayerTeam",
-   "salePrice": 1000000,
-   "expirationDate": "2026-09-24T14:07:16+02:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "G. Bouaré",
-   "positionId": 3,
-   "marketValue": 822992,
-   "points": 7,
-   "averagePoints": 1.75,
    "playerStatus": "ok"
   },
   {
@@ -1098,6 +1082,21 @@
    "points": 16,
    "averagePoints": 2.2857142857142856,
    "playerStatus": "ok"
+  },
+  {
+   "id": "2353",
+   "discr": "marketPlayerTeam",
+   "salePrice": 9615587,
+   "expirationDate": "2026-09-24T21:02:01+02:00",
+   "numberOfBids": null,
+   "seller": "37682094",
+   "myBid": null,
+   "nickname": "Christensen",
+   "positionId": 2,
+   "marketValue": 8455793,
+   "points": 26,
+   "averagePoints": 3.7142857142857144,
+   "playerStatus": "injured"
   }
  ],
  "standing": [
@@ -1113,7 +1112,7 @@
    "points": 324,
    "team_id": "37664261",
    "manager": "Javi Cepas",
-   "teamValue": 242416338
+   "teamValue": 229264786
   },
   {
    "position": 3,
@@ -1155,7 +1154,7 @@
    "points": 222,
    "team_id": "37682094",
    "manager": "menaweb",
-   "teamValue": 173844644
+   "teamValue": 186173204
   },
   {
    "position": 9,
