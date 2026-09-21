@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-21T20:01:06+0000",
+ "fetched_at": "2026-09-21T21:01:03+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -11,7 +11,7 @@
   "openingWeekDate": "2026-10-09T21:00:00+02:00",
   "closingWeekDate": "2026-10-13T03:00:00+02:00"
  },
- "money": 5090870,
+ "money": 5290870,
  "investment": 0,
  "team": {
   "teamValue": 184407636,
@@ -219,8 +219,8 @@
  ],
  "xi": {
   "formation": [
-   4,
-   4,
+   3,
+   5,
    2
   ],
   "goalkeeper": [
@@ -233,6 +233,7 @@
   ],
   "midfield": [
    "16810003",
+   "37055594",
    "71117586",
    "85282082",
    "85373517"
@@ -263,7 +264,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 1424578,
    "expirationDate": "2026-09-22T20:08:00+02:00",
-   "numberOfBids": 2,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Cepeda",
@@ -368,7 +369,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 11153868,
    "expirationDate": "2026-09-22T20:08:00+02:00",
-   "numberOfBids": 2,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Giménez",
@@ -829,21 +830,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2962",
-   "discr": "marketPlayerTeam",
-   "salePrice": 10574353,
-   "expirationDate": "2026-09-24T21:52:12+02:00",
-   "numberOfBids": null,
-   "seller": "37678052",
-   "myBid": null,
-   "nickname": "Luismi Cruz",
-   "positionId": 4,
-   "marketValue": 10574353,
-   "points": 37,
-   "averagePoints": 5.285714285714286,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2488",
    "discr": "marketPlayerTeam",
    "salePrice": 1254794,
@@ -1021,21 +1007,6 @@
    "marketValue": 6317578,
    "points": 34,
    "averagePoints": 4.857142857142857,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2626",
-   "discr": "marketPlayerTeam",
-   "salePrice": 11000000,
-   "expirationDate": "2026-09-24T14:06:11+02:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "Deossa",
-   "positionId": 3,
-   "marketValue": 3834709,
-   "points": 41,
-   "averagePoints": 5.857142857142857,
    "playerStatus": "ok"
   },
   {
@@ -1367,6 +1338,21 @@
    "points": 23,
    "averagePoints": 3.2857142857142856,
    "playerStatus": "ok"
+  },
+  {
+   "id": "2962",
+   "discr": "marketPlayerTeam",
+   "salePrice": 12000000,
+   "expirationDate": "2026-09-24T22:16:38+02:00",
+   "numberOfBids": null,
+   "seller": "37664261",
+   "myBid": null,
+   "nickname": "Luismi Cruz",
+   "positionId": 4,
+   "marketValue": 10574353,
+   "points": 37,
+   "averagePoints": 5.285714285714286,
+   "playerStatus": "ok"
   }
  ],
  "standing": [
@@ -1382,14 +1368,14 @@
    "points": 324,
    "team_id": "37664261",
    "manager": "Javi Cepas",
-   "teamValue": 229264786
+   "teamValue": 236004430
   },
   {
    "position": 3,
    "points": 320,
    "team_id": "37678052",
    "manager": "olegwarrior",
-   "teamValue": 256591276
+   "teamValue": 249851632
   },
   {
    "position": 4,
