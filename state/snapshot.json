@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-21T21:01:03+0000",
+ "fetched_at": "2026-09-21T22:01:01+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -455,36 +455,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2798",
-   "discr": "marketPlayerTeam",
-   "salePrice": 1546322,
-   "expirationDate": "2026-09-21T23:07:45+02:00",
-   "numberOfBids": null,
-   "seller": "37667518",
-   "myBid": null,
-   "nickname": "Alemâo",
-   "positionId": 4,
-   "marketValue": 1426181,
-   "points": 5,
-   "averagePoints": 0.7142857142857143,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "1191",
-   "discr": "marketPlayerTeam",
-   "salePrice": 4891990,
-   "expirationDate": "2026-09-21T23:07:50+02:00",
-   "numberOfBids": null,
-   "seller": "37667518",
-   "myBid": null,
-   "nickname": "Hugo Duro",
-   "positionId": 4,
-   "marketValue": 4681274,
-   "points": 17,
-   "averagePoints": 2.4285714285714284,
-   "playerStatus": "ok"
-  },
-  {
    "id": "1215",
    "discr": "marketPlayerTeam",
    "salePrice": 6788965,
@@ -692,21 +662,6 @@
    "marketValue": 765818,
    "points": 9,
    "averagePoints": 1.2857142857142858,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3145",
-   "discr": "marketPlayerTeam",
-   "salePrice": 10929908,
-   "expirationDate": "2026-09-21T23:07:40+02:00",
-   "numberOfBids": null,
-   "seller": "37667518",
-   "myBid": null,
-   "nickname": "Robbie Ure",
-   "positionId": 4,
-   "marketValue": 10174697,
-   "points": 16,
-   "averagePoints": 2.2857142857142856,
    "playerStatus": "ok"
   },
   {
