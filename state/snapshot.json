@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-21T03:00:58+0000",
+ "fetched_at": "2026-09-21T04:01:00+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -12,7 +12,7 @@
   "closingWeekDate": "2026-10-13T03:00:00+02:00"
  },
  "money": 21322340,
- "investment": 14483192,
+ "investment": 19685048,
  "team": {
   "teamValue": 168964284,
   "teamPoints": 222,
@@ -370,9 +370,9 @@
    "discr": "marketPlayerLeague",
    "salePrice": 4851830,
    "expirationDate": "2026-09-21T20:08:00+02:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
-   "myBid": null,
+   "myBid": 5201856,
    "nickname": "Dotor",
    "positionId": 3,
    "marketValue": 4880360,
