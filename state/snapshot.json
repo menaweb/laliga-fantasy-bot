@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-22T20:00:55+0000",
+ "fetched_at": "2026-09-22T21:00:59+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -11,8 +11,8 @@
   "openingWeekDate": "2026-10-09T21:00:00+02:00",
   "closingWeekDate": "2026-10-13T03:00:00+02:00"
  },
- "money": 25677751,
- "investment": 15059335,
+ "money": 25777751,
+ "investment": 0,
  "team": {
   "teamValue": 165018565,
   "teamPoints": 222,
@@ -116,7 +116,7 @@
    "playerStatus": "ok",
    "buyoutClause": 45600311,
    "lockedEnd": "2026-08-19T00:06:12+0200",
-   "onSale": false
+   "onSale": true
   },
   {
    "ptid": "85373517",
@@ -1309,6 +1309,21 @@
    "marketValue": 18371457,
    "points": 37,
    "averagePoints": 5.285714285714286,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3077",
+   "discr": "marketPlayerTeam",
+   "salePrice": 32164423,
+   "expirationDate": "2026-09-25T22:37:41+02:00",
+   "numberOfBids": null,
+   "seller": "37682094",
+   "myBid": null,
+   "nickname": "Edu Expósito",
+   "positionId": 3,
+   "marketValue": 32164423,
+   "points": 35,
+   "averagePoints": 5.0,
    "playerStatus": "ok"
   }
  ],
