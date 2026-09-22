@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-22T14:01:01+0000",
+ "fetched_at": "2026-09-22T14:45:23+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -573,21 +573,6 @@
    "points": 3,
    "averagePoints": 0.5,
    "playerStatus": "ok"
-  },
-  {
-   "id": "265",
-   "discr": "marketPlayerTeam",
-   "salePrice": 10643867,
-   "expirationDate": "2026-09-24T21:51:06+02:00",
-   "numberOfBids": null,
-   "seller": "37678052",
-   "myBid": null,
-   "nickname": "Zubeldia",
-   "positionId": 2,
-   "marketValue": 10330636,
-   "points": 12,
-   "averagePoints": 2.4,
-   "playerStatus": "injured"
   },
   {
    "id": "3179",
@@ -1323,14 +1308,14 @@
    "points": 324,
    "team_id": "37664261",
    "manager": "Javi Cepas",
-   "teamValue": 237070487
+   "teamValue": 237068721
   },
   {
    "position": 3,
    "points": 320,
    "team_id": "37678052",
    "manager": "olegwarrior",
-   "teamValue": 249623121
+   "teamValue": 239290784
   },
   {
    "position": 4,
@@ -1358,7 +1343,7 @@
    "points": 251,
    "team_id": "37667518",
    "manager": "Rcoba",
-   "teamValue": 197564947
+   "teamValue": 207893977
   },
   {
    "position": 8,
@@ -1372,7 +1357,7 @@
    "points": 189,
    "team_id": "37681066",
    "manager": "Miguel Canuelo",
-   "teamValue": 168206985
+   "teamValue": 168206089
   }
  ]
 }
