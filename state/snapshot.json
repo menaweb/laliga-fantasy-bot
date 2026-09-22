@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-22T18:48:48+0000",
+ "fetched_at": "2026-09-22T19:01:01+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -12,7 +12,7 @@
   "closingWeekDate": "2026-10-13T03:00:00+02:00"
  },
  "money": 25677751,
- "investment": 0,
+ "investment": 15059335,
  "team": {
   "teamValue": 165018565,
   "teamPoints": 222,
@@ -356,7 +356,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 42308984,
    "expirationDate": "2026-09-23T20:08:00+02:00",
-   "numberOfBids": 1,
+   "numberOfBids": 2,
    "seller": "",
    "myBid": null,
    "nickname": "Fornals",
@@ -1234,6 +1234,51 @@
    "marketValue": 10726564,
    "points": 37,
    "averagePoints": 5.285714285714286,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2613",
+   "discr": "marketPlayerTeam",
+   "salePrice": 12000000,
+   "expirationDate": "2026-09-25T20:55:19+02:00",
+   "numberOfBids": null,
+   "seller": "37664261",
+   "myBid": null,
+   "nickname": "M. Dituro",
+   "positionId": 1,
+   "marketValue": 9633841,
+   "points": 20,
+   "averagePoints": 2.857142857142857,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2324",
+   "discr": "marketPlayerTeam",
+   "salePrice": 16500000,
+   "expirationDate": "2026-09-25T20:55:29+02:00",
+   "numberOfBids": null,
+   "seller": "37664261",
+   "myBid": null,
+   "nickname": "Giménez",
+   "positionId": 2,
+   "marketValue": 11681239,
+   "points": 24,
+   "averagePoints": 3.4285714285714284,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3147",
+   "discr": "marketPlayerTeam",
+   "salePrice": 20500000,
+   "expirationDate": "2026-09-25T20:55:49+02:00",
+   "numberOfBids": null,
+   "seller": "37664261",
+   "myBid": null,
+   "nickname": "Fer Niño",
+   "positionId": 4,
+   "marketValue": 15561047,
+   "points": 48,
+   "averagePoints": 6.857142857142857,
    "playerStatus": "ok"
   }
  ],
