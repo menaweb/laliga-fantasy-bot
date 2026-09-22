@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-22T19:01:01+0000",
+ "fetched_at": "2026-09-22T20:00:55+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -1279,6 +1279,36 @@
    "marketValue": 15561047,
    "points": 48,
    "averagePoints": 6.857142857142857,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2933",
+   "discr": "marketPlayerTeam",
+   "salePrice": 5000000,
+   "expirationDate": "2026-09-25T21:17:01+02:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Cepeda",
+   "positionId": 4,
+   "marketValue": 1502378,
+   "points": 29,
+   "averagePoints": 4.142857142857143,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2661",
+   "discr": "marketPlayerTeam",
+   "salePrice": 45874505,
+   "expirationDate": "2026-09-25T21:17:25+02:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Djene",
+   "positionId": 2,
+   "marketValue": 18371457,
+   "points": 37,
+   "averagePoints": 5.285714285714286,
    "playerStatus": "ok"
   }
  ],
