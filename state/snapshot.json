@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-23T15:00:58+0000",
+ "fetched_at": "2026-09-23T16:01:04+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -604,21 +604,6 @@
    "marketValue": 1884165,
    "points": 17,
    "averagePoints": 2.4285714285714284,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3084",
-   "discr": "marketPlayerTeam",
-   "salePrice": 60291587,
-   "expirationDate": "2026-09-24T21:53:01+02:00",
-   "numberOfBids": null,
-   "seller": "37678052",
-   "myBid": null,
-   "nickname": "Budimir",
-   "positionId": 4,
-   "marketValue": 60733378,
-   "points": 53,
-   "averagePoints": 7.571428571428571,
    "playerStatus": "ok"
   },
   {
@@ -1310,6 +1295,21 @@
    "points": 35,
    "averagePoints": 5.0,
    "playerStatus": "ok"
+  },
+  {
+   "id": "2887",
+   "discr": "marketPlayerTeam",
+   "salePrice": 4544730,
+   "expirationDate": "2026-09-26T17:55:26+02:00",
+   "numberOfBids": null,
+   "seller": "37675747",
+   "myBid": null,
+   "nickname": "Mañas",
+   "positionId": 4,
+   "marketValue": 454473,
+   "points": 6,
+   "averagePoints": 1.2,
+   "playerStatus": "doubtful"
   }
  ],
  "standing": [
@@ -1332,7 +1332,7 @@
    "points": 320,
    "team_id": "37678052",
    "manager": "olegwarrior",
-   "teamValue": 239179007
+   "teamValue": 178445629
   },
   {
    "position": 4,
@@ -1346,7 +1346,7 @@
    "points": 277,
    "team_id": "37675747",
    "manager": "Javi Trauma",
-   "teamValue": 202529943
+   "teamValue": 263263321
   },
   {
    "position": 6,
