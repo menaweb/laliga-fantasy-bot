@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-23T05:00:59+0000",
+ "fetched_at": "2026-09-23T05:53:39+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -997,21 +997,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2604",
-   "discr": "marketPlayerTeam",
-   "salePrice": 77906580,
-   "expirationDate": "2026-09-23T19:36:21+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Carreira",
-   "positionId": 2,
-   "marketValue": 7754012,
-   "points": 24,
-   "averagePoints": 3.4285714285714284,
-   "playerStatus": "ok"
-  },
-  {
    "id": "3103",
    "discr": "marketPlayerTeam",
    "salePrice": 458008489,
@@ -1159,21 +1144,6 @@
    "marketValue": 762985,
    "points": 16,
    "averagePoints": 2.2857142857142856,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3108",
-   "discr": "marketPlayerTeam",
-   "salePrice": 1038393950,
-   "expirationDate": "2026-09-24T21:39:28+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Aubameyang",
-   "positionId": 4,
-   "marketValue": 104370353,
-   "points": 65,
-   "averagePoints": 9.285714285714286,
    "playerStatus": "ok"
   },
   {
@@ -1333,7 +1303,7 @@
    "points": 380,
    "team_id": "37664721",
    "manager": "enriqsuar",
-   "teamValue": 459435247
+   "teamValue": 422901437
   },
   {
    "position": 2,
@@ -1361,7 +1331,7 @@
    "points": 277,
    "team_id": "37675747",
    "manager": "Javi Trauma",
-   "teamValue": 270366486
+   "teamValue": 202529943
   },
   {
    "position": 6,
