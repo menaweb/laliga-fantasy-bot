@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-23T06:01:33+0000",
+ "fetched_at": "2026-09-23T07:01:00+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -424,6 +424,21 @@
    "marketValue": 16254848,
    "points": 27,
    "averagePoints": 4.5,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2798",
+   "discr": "marketPlayerTeam",
+   "salePrice": 1349971,
+   "expirationDate": "2026-09-26T08:09:57+02:00",
+   "numberOfBids": null,
+   "seller": "37667518",
+   "myBid": null,
+   "nickname": "Alemâo",
+   "positionId": 4,
+   "marketValue": 1349971,
+   "points": 5,
+   "averagePoints": 0.7142857142857143,
    "playerStatus": "ok"
   },
   {
