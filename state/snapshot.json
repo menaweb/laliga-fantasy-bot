@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-23T16:01:04+0000",
+ "fetched_at": "2026-09-23T16:49:52+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -356,7 +356,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 42308984,
    "expirationDate": "2026-09-23T20:08:00+02:00",
-   "numberOfBids": 2,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Fornals",
@@ -787,36 +787,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2843",
-   "discr": "marketPlayerTeam",
-   "salePrice": 371498320,
-   "expirationDate": "2026-09-23T18:20:16+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Xavi Espart",
-   "positionId": 2,
-   "marketValue": 40717013,
-   "points": 49,
-   "averagePoints": 7.0,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2759",
-   "discr": "marketPlayerTeam",
-   "salePrice": 309938880,
-   "expirationDate": "2026-09-23T18:20:07+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Vlachodimos",
-   "positionId": 1,
-   "marketValue": 32178189,
-   "points": 46,
-   "averagePoints": 6.571428571428571,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2543",
    "discr": "marketPlayerTeam",
    "salePrice": 86508544,
@@ -979,21 +949,6 @@
    "marketValue": 41739824,
    "points": 47,
    "averagePoints": 6.714285714285714,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2549",
-   "discr": "marketPlayerTeam",
-   "salePrice": 97865800,
-   "expirationDate": "2026-09-23T18:23:33+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Navarro",
-   "positionId": 3,
-   "marketValue": 11787488,
-   "points": 42,
-   "averagePoints": 6.0,
    "playerStatus": "ok"
   },
   {
