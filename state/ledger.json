@@ -3259,6 +3259,11 @@
    "actions": 0,
    "spend": 0,
    "requests": 23
+  },
+  {
+   "ts": "2026-09-24T20:00:54.282872+00:00",
+   "mode": "LIVE",
+   "error": "api: GET /v4/user/me -> HTTP 500: {\"code\":500,\"message\":\"Internal Server Error\"}"
   }
  ],
  "live_writes_seen": [
