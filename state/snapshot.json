@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-24T04:38:38+0000",
+ "fetched_at": "2026-09-24T05:00:52+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -442,21 +442,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "1215",
-   "discr": "marketPlayerTeam",
-   "salePrice": 6788965,
-   "expirationDate": "2026-09-24T06:54:44+02:00",
-   "numberOfBids": null,
-   "seller": "37667518",
-   "myBid": null,
-   "nickname": "Turrientes",
-   "positionId": 3,
-   "marketValue": 6277767,
-   "points": 16,
-   "averagePoints": 2.2857142857142856,
-   "playerStatus": "ok"
-  },
-  {
    "id": "3082",
    "discr": "marketPlayerTeam",
    "salePrice": 18866452,
@@ -619,36 +604,6 @@
    "marketValue": 730258,
    "points": 9,
    "averagePoints": 1.2857142857142858,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3228",
-   "discr": "marketPlayerTeam",
-   "salePrice": 856199,
-   "expirationDate": "2026-09-24T06:54:40+02:00",
-   "numberOfBids": null,
-   "seller": "37667518",
-   "myBid": null,
-   "nickname": "Requena",
-   "positionId": 3,
-   "marketValue": 810222,
-   "points": 2,
-   "averagePoints": 0.4,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2449",
-   "discr": "marketPlayerTeam",
-   "salePrice": 475645,
-   "expirationDate": "2026-09-24T06:54:33+02:00",
-   "numberOfBids": null,
-   "seller": "37667518",
-   "myBid": null,
-   "nickname": "Marcao",
-   "positionId": 2,
-   "marketValue": 473531,
-   "points": 0,
-   "averagePoints": 0.0,
    "playerStatus": "ok"
   },
   {
@@ -904,36 +859,6 @@
    "marketValue": 153364198,
    "points": 82,
    "averagePoints": 11.714285714285714,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3236",
-   "discr": "marketPlayerTeam",
-   "salePrice": 8803093,
-   "expirationDate": "2026-09-24T06:54:27+02:00",
-   "numberOfBids": null,
-   "seller": "37667518",
-   "myBid": null,
-   "nickname": "Arnau",
-   "positionId": 2,
-   "marketValue": 8040053,
-   "points": 3,
-   "averagePoints": 0.6,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2295",
-   "discr": "marketPlayerTeam",
-   "salePrice": 13322127,
-   "expirationDate": "2026-09-24T06:54:50+02:00",
-   "numberOfBids": null,
-   "seller": "37667518",
-   "myBid": null,
-   "nickname": "Febas",
-   "positionId": 3,
-   "marketValue": 12219961,
-   "points": 9,
-   "averagePoints": 2.25,
    "playerStatus": "ok"
   },
   {
