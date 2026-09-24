@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-24T16:00:59+0000",
+ "fetched_at": "2026-09-24T17:01:34+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -652,21 +652,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2453",
-   "discr": "marketPlayerTeam",
-   "salePrice": 12118495,
-   "expirationDate": "2026-09-24T21:51:55+02:00",
-   "numberOfBids": null,
-   "seller": "37678052",
-   "myBid": null,
-   "nickname": "Agoumé",
-   "positionId": 3,
-   "marketValue": 13129494,
-   "points": 37,
-   "averagePoints": 5.285714285714286,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2488",
    "discr": "marketPlayerTeam",
    "salePrice": 1254794,
@@ -737,51 +722,6 @@
    "nickname": "Natan",
    "positionId": 2,
    "marketValue": 40570781,
-   "points": 47,
-   "averagePoints": 6.714285714285714,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2522",
-   "discr": "marketPlayerTeam",
-   "salePrice": 1480011310,
-   "expirationDate": "2026-09-24T19:04:06+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Raphinha",
-   "positionId": 4,
-   "marketValue": 157842792,
-   "points": 117,
-   "averagePoints": 16.714285714285715,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2938",
-   "discr": "marketPlayerTeam",
-   "salePrice": 156032520,
-   "expirationDate": "2026-09-24T19:03:44+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Koski",
-   "positionId": 2,
-   "marketValue": 18769376,
-   "points": 50,
-   "averagePoints": 7.142857142857143,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2520",
-   "discr": "marketPlayerTeam",
-   "salePrice": 394934940,
-   "expirationDate": "2026-09-24T19:03:57+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Roberto",
-   "positionId": 4,
-   "marketValue": 42681749,
    "points": 47,
    "averagePoints": 6.714285714285714,
    "playerStatus": "ok"
@@ -1272,7 +1212,7 @@
    "points": 320,
    "team_id": "37678052",
    "manager": "olegwarrior",
-   "teamValue": 217835110
+   "teamValue": 204705616
   },
   {
    "position": 4,
@@ -1300,7 +1240,7 @@
    "points": 251,
    "team_id": "37667518",
    "manager": "Rcoba",
-   "teamValue": 189617054
+   "teamValue": 202746548
   },
   {
    "position": 8,
