@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-26T22:42:30+0000",
+ "fetched_at": "2026-09-26T23:00:52+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -847,51 +847,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2588",
-   "discr": "marketPlayerTeam",
-   "salePrice": 48295090,
-   "expirationDate": "2026-09-29T18:44:58+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Danjuma",
-   "positionId": 4,
-   "marketValue": 4918646,
-   "points": 25,
-   "averagePoints": 3.5714285714285716,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2520",
-   "discr": "marketPlayerTeam",
-   "salePrice": 448100280,
-   "expirationDate": "2026-09-29T20:06:09+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Roberto",
-   "positionId": 4,
-   "marketValue": 45840015,
-   "points": 47,
-   "averagePoints": 6.714285714285714,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2639",
-   "discr": "marketPlayerTeam",
-   "salePrice": 181389290,
-   "expirationDate": "2026-09-29T20:06:16+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "M. Román",
-   "positionId": 3,
-   "marketValue": 18898444,
-   "points": 50,
-   "averagePoints": 7.142857142857143,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2834",
    "discr": "marketPlayerTeam",
    "salePrice": 500000,
@@ -995,6 +950,36 @@
    "points": 43,
    "averagePoints": 6.142857142857143,
    "playerStatus": "ok"
+  },
+  {
+   "id": "2520",
+   "discr": "marketPlayerTeam",
+   "salePrice": 458400150,
+   "expirationDate": "2026-09-30T00:51:46+02:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Roberto",
+   "positionId": 4,
+   "marketValue": 45840015,
+   "points": 47,
+   "averagePoints": 6.714285714285714,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2639",
+   "discr": "marketPlayerTeam",
+   "salePrice": 188984440,
+   "expirationDate": "2026-09-30T00:51:52+02:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "M. Román",
+   "positionId": 3,
+   "marketValue": 18898444,
+   "points": 50,
+   "averagePoints": 7.142857142857143,
+   "playerStatus": "ok"
   }
  ],
  "standing": [
@@ -1003,7 +988,7 @@
    "points": 380,
    "team_id": "37664721",
    "manager": "enriqsuar",
-   "teamValue": 455007396
+   "teamValue": 458357121
   },
   {
    "position": 2,
@@ -1017,35 +1002,35 @@
    "points": 320,
    "team_id": "37678052",
    "manager": "olegwarrior",
-   "teamValue": 221252069
+   "teamValue": 220345004
   },
   {
    "position": 4,
    "points": 310,
    "team_id": "37679249",
    "manager": "RamónBético",
-   "teamValue": 137558605
+   "teamValue": 138485244
   },
   {
    "position": 5,
    "points": 277,
    "team_id": "37675747",
    "manager": "Javi Trauma",
-   "teamValue": 274392343
+   "teamValue": 275776579
   },
   {
    "position": 6,
    "points": 252,
    "team_id": "37668923",
    "manager": "Paco!!",
-   "teamValue": 335157770
+   "teamValue": 341346794
   },
   {
    "position": 7,
    "points": 251,
    "team_id": "37667518",
    "manager": "Rcoba",
-   "teamValue": 135209087
+   "teamValue": 134175558
   },
   {
    "position": 8,
@@ -1059,7 +1044,7 @@
    "points": 189,
    "team_id": "37681066",
    "manager": "Miguel Canuelo",
-   "teamValue": 163354589
+   "teamValue": 162428865
   }
  ]
 }
