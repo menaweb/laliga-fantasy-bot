@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-26T13:00:47+0000",
+ "fetched_at": "2026-09-26T14:00:53+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -560,6 +560,51 @@
    "points": 82,
    "averagePoints": 11.714285714285714,
    "playerStatus": "doubtful"
+  },
+  {
+   "id": "2958",
+   "discr": "marketPlayerTeam",
+   "salePrice": 5485288,
+   "expirationDate": "2026-09-29T15:43:10+02:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Morcillo",
+   "positionId": 3,
+   "marketValue": 770306,
+   "points": 16,
+   "averagePoints": 2.2857142857142856,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2933",
+   "discr": "marketPlayerTeam",
+   "salePrice": 45874526,
+   "expirationDate": "2026-09-29T15:42:39+02:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Cepeda",
+   "positionId": 4,
+   "marketValue": 1734900,
+   "points": 29,
+   "averagePoints": 4.142857142857143,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2661",
+   "discr": "marketPlayerTeam",
+   "salePrice": 62548852,
+   "expirationDate": "2026-09-29T15:43:29+02:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Djene",
+   "positionId": 2,
+   "marketValue": 20666786,
+   "points": 37,
+   "averagePoints": 5.285714285714286,
+   "playerStatus": "ok"
   },
   {
    "id": "2887",
