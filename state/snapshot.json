@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-26T19:49:06+0000",
+ "fetched_at": "2026-09-26T20:00:52+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -12,7 +12,7 @@
   "closingWeekDate": "2026-10-13T03:00:00+02:00"
  },
  "money": 26077751,
- "investment": 24160857,
+ "investment": 0,
  "team": {
   "teamValue": 157643392,
   "teamPoints": 222,
@@ -356,9 +356,9 @@
    "discr": "marketPlayerLeague",
    "salePrice": 3628694,
    "expirationDate": "2026-09-27T20:08:00+02:00",
-   "numberOfBids": 2,
+   "numberOfBids": 1,
    "seller": "",
-   "myBid": 4160857,
+   "myBid": null,
    "nickname": "Revivo",
    "positionId": 2,
    "marketValue": 3628694,
