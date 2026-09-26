@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-26T19:00:54+0000",
+ "fetched_at": "2026-09-26T19:49:06+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -12,7 +12,7 @@
   "closingWeekDate": "2026-10-13T03:00:00+02:00"
  },
  "money": 26077751,
- "investment": 0,
+ "investment": 24160857,
  "team": {
   "teamValue": 157643392,
   "teamPoints": 222,
@@ -356,9 +356,9 @@
    "discr": "marketPlayerLeague",
    "salePrice": 3628694,
    "expirationDate": "2026-09-27T20:08:00+02:00",
-   "numberOfBids": 1,
+   "numberOfBids": 2,
    "seller": "",
-   "myBid": null,
+   "myBid": 4160857,
    "nickname": "Revivo",
    "positionId": 2,
    "marketValue": 3628694,
@@ -502,6 +502,21 @@
    "playerStatus": "ok"
   },
   {
+   "id": "2607",
+   "discr": "marketPlayerTeam",
+   "salePrice": 87548578,
+   "expirationDate": "2026-09-29T21:45:46+02:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Ilaix Moriba",
+   "positionId": 3,
+   "marketValue": 11761042,
+   "points": 35,
+   "averagePoints": 5.0,
+   "playerStatus": "ok"
+  },
+  {
    "id": "2958",
    "discr": "marketPlayerTeam",
    "salePrice": 5485288,
@@ -549,8 +564,8 @@
   {
    "id": "2477",
    "discr": "marketPlayerTeam",
-   "salePrice": 68058407,
-   "expirationDate": "2026-09-26T21:13:48+02:00",
+   "salePrice": 54857858,
+   "expirationDate": "2026-09-29T21:46:00+02:00",
    "numberOfBids": null,
    "seller": "37668923",
    "myBid": null,
@@ -874,6 +889,21 @@
    "marketValue": 457056,
    "points": 2,
    "averagePoints": 0.3333333333333333,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3104",
+   "discr": "marketPlayerTeam",
+   "salePrice": 658458758,
+   "expirationDate": "2026-09-29T21:46:15+02:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Lamine Yamal",
+   "positionId": 4,
+   "marketValue": 165406817,
+   "points": 98,
+   "averagePoints": 14.0,
    "playerStatus": "ok"
   }
  ],
