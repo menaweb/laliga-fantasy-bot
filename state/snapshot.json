@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-26T14:00:53+0000",
+ "fetched_at": "2026-09-26T15:00:55+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -371,7 +371,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 162076328,
    "expirationDate": "2026-09-26T20:08:00+02:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Lamine Yamal",
@@ -545,21 +545,6 @@
    "points": 42,
    "averagePoints": 6.0,
    "playerStatus": "ok"
-  },
-  {
-   "id": "3103",
-   "discr": "marketPlayerTeam",
-   "salePrice": 548759949,
-   "expirationDate": "2026-09-27T01:21:11+02:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Mbappé",
-   "positionId": 4,
-   "marketValue": 157412955,
-   "points": 82,
-   "averagePoints": 11.714285714285714,
-   "playerStatus": "doubtful"
   },
   {
    "id": "2958",
@@ -1008,7 +993,7 @@
    "points": 252,
    "team_id": "37668923",
    "manager": "Paco!!",
-   "teamValue": 327163908
+   "teamValue": 169750953
   },
   {
    "position": 7,
