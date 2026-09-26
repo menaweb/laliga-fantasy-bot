@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-26T17:05:58+0000",
+ "fetched_at": "2026-09-26T18:00:54+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -694,36 +694,6 @@
    "marketValue": 31906478,
    "points": 42,
    "averagePoints": 6.0,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2639",
-   "discr": "marketPlayerTeam",
-   "salePrice": 164719560,
-   "expirationDate": "2026-09-27T19:02:15+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "M. Román",
-   "positionId": 3,
-   "marketValue": 18138929,
-   "points": 50,
-   "averagePoints": 7.142857142857143,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2520",
-   "discr": "marketPlayerTeam",
-   "salePrice": 426817490,
-   "expirationDate": "2026-09-27T19:02:29+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Roberto",
-   "positionId": 4,
-   "marketValue": 44810028,
-   "points": 47,
-   "averagePoints": 6.714285714285714,
    "playerStatus": "ok"
   },
   {
