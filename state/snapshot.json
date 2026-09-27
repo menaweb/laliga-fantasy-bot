@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-27T22:00:53+0000",
+ "fetched_at": "2026-09-27T22:03:13+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -400,7 +400,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 11988964,
    "expirationDate": "2026-09-28T20:08:00+02:00",
-   "numberOfBids": 4,
+   "numberOfBids": 5,
    "seller": "",
    "myBid": 14506646,
    "nickname": "R. Terrats",
