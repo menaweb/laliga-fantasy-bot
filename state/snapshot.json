@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-27T19:00:55+0000",
+ "fetched_at": "2026-09-27T20:00:49+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -11,7 +11,7 @@
   "openingWeekDate": "2026-10-09T21:00:00+02:00",
   "closingWeekDate": "2026-10-13T03:00:00+02:00"
  },
- "money": 36961516,
+ "money": 34506646,
  "investment": 14506646,
  "team": {
   "teamValue": 145824573,
@@ -114,7 +114,7 @@
    "points": 32,
    "averagePoints": 5.333333333333333,
    "playerStatus": "ok",
-   "buyoutClause": 17309136,
+   "buyoutClause": 22218876,
    "lockedEnd": "2026-10-11T20:32:33+0200",
    "onSale": false
   },
@@ -205,8 +205,8 @@
  ],
  "xi": {
   "formation": [
-   4,
-   4,
+   5,
+   3,
    2
   ],
   "goalkeeper": [
@@ -216,10 +216,10 @@
    "66953203",
    "76058787",
    "77354588",
-   "90819096"
+   "90819096",
+   "90841292"
   ],
   "midfield": [
-   "37055594",
    "71117586",
    "85282082",
    "85373517"
@@ -400,7 +400,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 11988964,
    "expirationDate": "2026-09-28T20:08:00+02:00",
-   "numberOfBids": 3,
+   "numberOfBids": 4,
    "seller": "",
    "myBid": 14506646,
    "nickname": "R. Terrats",
@@ -888,6 +888,36 @@
    "marketValue": 167125715,
    "points": 117,
    "averagePoints": 16.714285714285715,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2549",
+   "discr": "marketPlayerTeam",
+   "salePrice": 146046970,
+   "expirationDate": "2026-09-30T21:35:17+02:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Navarro",
+   "positionId": 3,
+   "marketValue": 14604697,
+   "points": 42,
+   "averagePoints": 6.0,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2520",
+   "discr": "marketPlayerTeam",
+   "salePrice": 458400150,
+   "expirationDate": "2026-09-30T21:35:22+02:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Roberto",
+   "positionId": 4,
+   "marketValue": 45840015,
+   "points": 47,
+   "averagePoints": 6.714285714285714,
    "playerStatus": "ok"
   }
  ],
