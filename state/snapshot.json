@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-28T20:00:54+0000",
+ "fetched_at": "2026-09-28T21:00:56+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -88,7 +88,7 @@
    "playerStatus": "ok",
    "buyoutClause": 2571821,
    "lockedEnd": "2026-09-09T23:53:45+0200",
-   "onSale": false
+   "onSale": true
   },
   {
    "ptid": "76058787",
@@ -227,11 +227,11 @@
    "77533011"
   ],
   "defender": [
-   "66953203",
    "76058787",
    "77354588",
    "90819096",
-   "90841292"
+   "90841292",
+   "91535596"
   ],
   "midfield": [
    "71117586",
@@ -279,7 +279,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 51437344,
    "expirationDate": "2026-09-29T20:08:00+02:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Marcos Llorente",
@@ -962,6 +962,21 @@
    "marketValue": 5684813,
    "points": 30,
    "averagePoints": 5.0,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3008",
+   "discr": "marketPlayerTeam",
+   "salePrice": 1779972,
+   "expirationDate": "2026-10-01T22:01:16+02:00",
+   "numberOfBids": null,
+   "seller": "37682094",
+   "myBid": null,
+   "nickname": "Manu Hernando",
+   "positionId": 2,
+   "marketValue": 1779972,
+   "points": 8,
+   "averagePoints": 1.1428571428571428,
    "playerStatus": "ok"
   }
  ],
