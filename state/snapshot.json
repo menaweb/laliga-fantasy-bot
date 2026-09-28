@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-28T19:00:53+0000",
+ "fetched_at": "2026-09-28T20:00:54+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -11,13 +11,13 @@
   "openingWeekDate": "2026-10-09T21:00:00+02:00",
   "closingWeekDate": "2026-10-13T03:00:00+02:00"
  },
- "money": 34506646,
+ "money": 26626298,
  "investment": 0,
  "team": {
-  "teamValue": 144923188,
+  "teamValue": 151922696,
   "teamPoints": 222,
   "position": 8,
-  "playersNumber": 13
+  "playersNumber": 14
  },
  "squad": [
   {
@@ -35,31 +35,31 @@
    "onSale": false
   },
   {
-   "ptid": "76058787",
-   "id": "2963",
-   "nickname": "Quagliata",
+   "ptid": "77354588",
+   "id": "3042",
+   "nickname": "Einar",
    "positionId": 2,
-   "teamId": "26",
-   "marketValue": 4683344,
-   "points": 23,
-   "averagePoints": 3.2857142857142856,
+   "teamId": "12",
+   "marketValue": 4934712,
+   "points": 22,
+   "averagePoints": 3.142857142857143,
    "playerStatus": "ok",
-   "buyoutClause": 5302196,
-   "lockedEnd": "2026-09-28T20:18:44+0200",
+   "buyoutClause": 10209502,
+   "lockedEnd": "2026-09-29T21:01:19+0200",
    "onSale": false
   },
   {
-   "ptid": "49307276",
-   "id": "3008",
-   "nickname": "Manu Hernando",
+   "ptid": "91535596",
+   "id": "3041",
+   "nickname": "Rafita",
    "positionId": 2,
-   "teamId": "49",
-   "marketValue": 1779972,
-   "points": 8,
-   "averagePoints": 1.1428571428571428,
+   "teamId": "12",
+   "marketValue": 6999508,
+   "points": 26,
+   "averagePoints": 3.7142857142857144,
    "playerStatus": "ok",
-   "buyoutClause": 2571821,
-   "lockedEnd": "2026-09-09T23:53:45+0200",
+   "buyoutClause": 7880348,
+   "lockedEnd": "2026-10-12T21:01:12+0200",
    "onSale": false
   },
   {
@@ -77,17 +77,31 @@
    "onSale": false
   },
   {
-   "ptid": "77354588",
-   "id": "3042",
-   "nickname": "Einar",
+   "ptid": "49307276",
+   "id": "3008",
+   "nickname": "Manu Hernando",
    "positionId": 2,
-   "teamId": "12",
-   "marketValue": 4934712,
-   "points": 22,
-   "averagePoints": 3.142857142857143,
+   "teamId": "49",
+   "marketValue": 1779972,
+   "points": 8,
+   "averagePoints": 1.1428571428571428,
    "playerStatus": "ok",
-   "buyoutClause": 10209502,
-   "lockedEnd": "2026-09-29T21:01:19+0200",
+   "buyoutClause": 2571821,
+   "lockedEnd": "2026-09-09T23:53:45+0200",
+   "onSale": false
+  },
+  {
+   "ptid": "76058787",
+   "id": "2963",
+   "nickname": "Quagliata",
+   "positionId": 2,
+   "teamId": "26",
+   "marketValue": 4683344,
+   "points": 23,
+   "averagePoints": 3.2857142857142856,
+   "playerStatus": "ok",
+   "buyoutClause": 5302196,
+   "lockedEnd": "2026-09-28T20:18:44+0200",
    "onSale": false
   },
   {
@@ -133,20 +147,6 @@
    "onSale": false
   },
   {
-   "ptid": "85373517",
-   "id": "2569",
-   "nickname": "Ibañez",
-   "positionId": 3,
-   "teamId": "21",
-   "marketValue": 14438383,
-   "points": 37,
-   "averagePoints": 5.285714285714286,
-   "playerStatus": "ok",
-   "buyoutClause": 14917557,
-   "lockedEnd": "2026-10-05T21:04:15+0200",
-   "onSale": false
-  },
-  {
    "ptid": "85282082",
    "id": "3044",
    "nickname": "Dotor",
@@ -172,6 +172,20 @@
    "playerStatus": "ok",
    "buyoutClause": 2393361,
    "lockedEnd": "2026-09-01T20:08:29+0200",
+   "onSale": false
+  },
+  {
+   "ptid": "85373517",
+   "id": "2569",
+   "nickname": "Ibañez",
+   "positionId": 3,
+   "teamId": "21",
+   "marketValue": 14438383,
+   "points": 37,
+   "averagePoints": 5.285714285714286,
+   "playerStatus": "ok",
+   "buyoutClause": 14917557,
+   "lockedEnd": "2026-10-05T21:04:15+0200",
    "onSale": false
   },
   {
@@ -978,7 +992,7 @@
    "points": 310,
    "team_id": "37679249",
    "manager": "RamónBético",
-   "teamValue": 139360310
+   "teamValue": 132360802
   },
   {
    "position": 5,
@@ -1006,7 +1020,7 @@
    "points": 222,
    "team_id": "37682094",
    "manager": "menaweb",
-   "teamValue": 144923188
+   "teamValue": 151922696
   },
   {
    "position": 9,

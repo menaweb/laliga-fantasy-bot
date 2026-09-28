@@ -10,7 +10,14 @@
    "reason": "HUECO MED +4.2 pts al once · 5.3 pts esp (ppg 5.7×1.0+prior 3.9 · ok · vs RCD 1.13 · prob starter 70% · tend7 +26%)"
   }
  ],
- "listings": [],
+ "listings": [
+  {
+   "market_id": "47583667",
+   "player_id": "3008",
+   "price": 1779972,
+   "listed_at": "2026-09-28T20:01:15+0000"
+  }
+ ],
  "handled_offers": [
   "83167330",
   "85986806",
@@ -28,13 +35,6 @@
   "134734645"
  ],
  "runs": [
-  {
-   "ts": "2026-09-10T17:07:12.255960+00:00",
-   "mode": "LIVE",
-   "actions": 0,
-   "spend": 0,
-   "requests": 22
-  },
   {
    "ts": "2026-09-10T18:01:00.579301+00:00",
    "mode": "LIVE",
@@ -3519,6 +3519,13 @@
    "actions": 1,
    "spend": 7880348,
    "requests": 26
+  },
+  {
+   "ts": "2026-09-28T20:00:53.663903+00:00",
+   "mode": "LIVE",
+   "actions": 2,
+   "spend": 0,
+   "requests": 24
   }
  ],
  "live_writes_seen": [
