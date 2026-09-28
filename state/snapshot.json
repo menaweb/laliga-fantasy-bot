@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-28T06:00:57+0000",
+ "fetched_at": "2026-09-28T06:44:27+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -310,7 +310,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 5666961,
    "expirationDate": "2026-09-28T20:08:00+02:00",
-   "numberOfBids": 1,
+   "numberOfBids": 2,
    "seller": "",
    "myBid": null,
    "nickname": "R. Brugué",
@@ -918,6 +918,21 @@
    "marketValue": 46877442,
    "points": 47,
    "averagePoints": 6.714285714285714,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3086",
+   "discr": "marketPlayerTeam",
+   "salePrice": 54700000,
+   "expirationDate": "2026-10-01T08:05:58+02:00",
+   "numberOfBids": null,
+   "seller": "37664261",
+   "myBid": null,
+   "nickname": "Moleiro",
+   "positionId": 3,
+   "marketValue": 53619721,
+   "points": 52,
+   "averagePoints": 7.428571428571429,
    "playerStatus": "ok"
   }
  ],
