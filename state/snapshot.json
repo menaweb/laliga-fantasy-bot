@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-29T20:42:08+0000",
+ "fetched_at": "2026-09-29T21:01:05+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -603,21 +603,6 @@
    "marketValue": 78210246,
    "points": 52,
    "averagePoints": 7.428571428571429,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2613",
-   "discr": "marketPlayerTeam",
-   "salePrice": 12000000,
-   "expirationDate": "2026-09-29T22:50:51+02:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "M. Dituro",
-   "positionId": 1,
-   "marketValue": 9732759,
-   "points": 20,
-   "averagePoints": 2.857142857142857,
    "playerStatus": "ok"
   },
   {
