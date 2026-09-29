@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-29T06:00:54+0000",
+ "fetched_at": "2026-09-29T07:00:55+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -677,36 +677,6 @@
    "marketValue": 4214242,
    "points": 29,
    "averagePoints": 4.142857142857143,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2680",
-   "discr": "marketPlayerTeam",
-   "salePrice": 20000000,
-   "expirationDate": "2026-09-29T08:37:08+02:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "A. Castrín",
-   "positionId": 2,
-   "marketValue": 8686861,
-   "points": 34,
-   "averagePoints": 4.857142857142857,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2444",
-   "discr": "marketPlayerTeam",
-   "salePrice": 20000000,
-   "expirationDate": "2026-09-29T08:37:26+02:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "Sucic",
-   "positionId": 3,
-   "marketValue": 17350982,
-   "points": 40,
-   "averagePoints": 5.714285714285714,
    "playerStatus": "ok"
   },
   {
