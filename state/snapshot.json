@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-29T19:00:59+0000",
+ "fetched_at": "2026-09-29T20:00:55+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -11,13 +11,13 @@
   "openingWeekDate": "2026-10-09T21:00:00+02:00",
   "closingWeekDate": "2026-10-13T03:00:00+02:00"
  },
- "money": 26626298,
- "investment": 19000000,
+ "money": 28453327,
+ "investment": 0,
  "team": {
-  "teamValue": 151138894,
+  "teamValue": 149407953,
   "teamPoints": 222,
   "position": 8,
-  "playersNumber": 14
+  "playersNumber": 13
  },
  "squad": [
   {
@@ -75,20 +75,6 @@
    "buyoutClause": 1749234,
    "lockedEnd": "2026-09-21T21:05:53+0200",
    "onSale": false
-  },
-  {
-   "ptid": "49307276",
-   "id": "3008",
-   "nickname": "Manu Hernando",
-   "positionId": 2,
-   "teamId": "49",
-   "marketValue": 1730941,
-   "points": 8,
-   "averagePoints": 1.1428571428571428,
-   "playerStatus": "ok",
-   "buyoutClause": 2571821,
-   "lockedEnd": "2026-09-09T23:53:45+0200",
-   "onSale": true
   },
   {
    "ptid": "76058787",
@@ -339,7 +325,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 51312783,
    "expirationDate": "2026-09-30T20:08:00+02:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "J. David",
@@ -399,7 +385,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 42922732,
    "expirationDate": "2026-09-30T20:08:00+02:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Huijsen",
@@ -500,36 +486,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2607",
-   "discr": "marketPlayerTeam",
-   "salePrice": 87548578,
-   "expirationDate": "2026-09-29T21:45:46+02:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Ilaix Moriba",
-   "positionId": 3,
-   "marketValue": 13639623,
-   "points": 35,
-   "averagePoints": 5.0,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2477",
-   "discr": "marketPlayerTeam",
-   "salePrice": 54857858,
-   "expirationDate": "2026-09-29T21:46:00+02:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "I. Akhomach",
-   "positionId": 4,
-   "marketValue": 4214242,
-   "points": 29,
-   "averagePoints": 4.142857142857143,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2680",
    "discr": "marketPlayerTeam",
    "salePrice": 19500000,
@@ -587,21 +543,6 @@
    "marketValue": 78210246,
    "points": 52,
    "averagePoints": 7.428571428571429,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3104",
-   "discr": "marketPlayerTeam",
-   "salePrice": 658458758,
-   "expirationDate": "2026-09-29T21:46:15+02:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Lamine Yamal",
-   "positionId": 4,
-   "marketValue": 174034633,
-   "points": 98,
-   "averagePoints": 14.0,
    "playerStatus": "ok"
   },
   {
@@ -707,21 +648,6 @@
    "marketValue": 5686413,
    "points": 30,
    "averagePoints": 5.0,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3008",
-   "discr": "marketPlayerTeam",
-   "salePrice": 1779972,
-   "expirationDate": "2026-10-01T22:01:16+02:00",
-   "numberOfBids": null,
-   "seller": "37682094",
-   "myBid": null,
-   "nickname": "Manu Hernando",
-   "positionId": 2,
-   "marketValue": 1730941,
-   "points": 8,
-   "averagePoints": 1.1428571428571428,
    "playerStatus": "ok"
   },
   {
@@ -948,6 +874,21 @@
    "points": 41,
    "averagePoints": 5.857142857142857,
    "playerStatus": "ok"
+  },
+  {
+   "id": "3084",
+   "discr": "marketPlayerTeam",
+   "salePrice": 642715210,
+   "expirationDate": "2026-10-02T21:02:07+02:00",
+   "numberOfBids": null,
+   "seller": "37675747",
+   "myBid": null,
+   "nickname": "Budimir",
+   "positionId": 4,
+   "marketValue": 64271521,
+   "points": 53,
+   "averagePoints": 7.571428571428571,
+   "playerStatus": "ok"
   }
  ],
  "standing": [
@@ -1005,7 +946,7 @@
    "points": 222,
    "team_id": "37682094",
    "manager": "menaweb",
-   "teamValue": 151138894
+   "teamValue": 149407953
   },
   {
    "position": 9,
