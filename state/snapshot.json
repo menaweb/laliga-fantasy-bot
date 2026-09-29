@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-29T13:00:59+0000",
+ "fetched_at": "2026-09-29T14:00:54+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -12,7 +12,7 @@
   "closingWeekDate": "2026-10-13T03:00:00+02:00"
  },
  "money": 26626298,
- "investment": 0,
+ "investment": 19000000,
  "team": {
   "teamValue": 151138894,
   "teamPoints": 222,
@@ -530,51 +530,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2958",
-   "discr": "marketPlayerTeam",
-   "salePrice": 5485288,
-   "expirationDate": "2026-09-29T15:43:10+02:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Morcillo",
-   "positionId": 3,
-   "marketValue": 762140,
-   "points": 16,
-   "averagePoints": 2.2857142857142856,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2933",
-   "discr": "marketPlayerTeam",
-   "salePrice": 45874526,
-   "expirationDate": "2026-09-29T15:42:39+02:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Cepeda",
-   "positionId": 4,
-   "marketValue": 1883467,
-   "points": 29,
-   "averagePoints": 4.142857142857143,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2661",
-   "discr": "marketPlayerTeam",
-   "salePrice": 62548852,
-   "expirationDate": "2026-09-29T15:43:29+02:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Djene",
-   "positionId": 2,
-   "marketValue": 22044157,
-   "points": 37,
-   "averagePoints": 5.285714285714286,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2477",
    "discr": "marketPlayerTeam",
    "salePrice": 54857858,
@@ -690,21 +645,6 @@
    "nickname": "M. Román",
    "positionId": 3,
    "marketValue": 20532295,
-   "points": 50,
-   "averagePoints": 7.142857142857143,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2938",
-   "discr": "marketPlayerTeam",
-   "salePrice": 219275660,
-   "expirationDate": "2026-09-30T10:07:22+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Koski",
-   "positionId": 2,
-   "marketValue": 23799316,
    "points": 50,
    "averagePoints": 7.142857142857143,
    "playerStatus": "ok"
@@ -977,6 +917,36 @@
    "marketValue": 22910254,
    "points": 43,
    "averagePoints": 6.142857142857143,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2938",
+   "discr": "marketPlayerTeam",
+   "salePrice": 237993160,
+   "expirationDate": "2026-10-02T15:59:49+02:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Koski",
+   "positionId": 2,
+   "marketValue": 23799316,
+   "points": 50,
+   "averagePoints": 7.142857142857143,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2511",
+   "discr": "marketPlayerTeam",
+   "salePrice": 129063050,
+   "expirationDate": "2026-10-02T16:00:00+02:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "R. Terrats",
+   "positionId": 3,
+   "marketValue": 12906305,
+   "points": 41,
+   "averagePoints": 6.833333333333333,
    "playerStatus": "ok"
   }
  ],
