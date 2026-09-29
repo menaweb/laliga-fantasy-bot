@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-29T20:00:55+0000",
+ "fetched_at": "2026-09-29T20:42:08+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -325,7 +325,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 51312783,
    "expirationDate": "2026-09-30T20:08:00+02:00",
-   "numberOfBids": 1,
+   "numberOfBids": 2,
    "seller": "",
    "myBid": null,
    "nickname": "J. David",
@@ -441,6 +441,21 @@
    "playerStatus": "ok"
   },
   {
+   "id": "2798",
+   "discr": "marketPlayerTeam",
+   "salePrice": 1166179,
+   "expirationDate": "2026-10-02T22:01:03+02:00",
+   "numberOfBids": null,
+   "seller": "37667518",
+   "myBid": null,
+   "nickname": "Alemâo",
+   "positionId": 4,
+   "marketValue": 1166179,
+   "points": 5,
+   "averagePoints": 0.7142857142857143,
+   "playerStatus": "ok"
+  },
+  {
    "id": "2418",
    "discr": "marketPlayerTeam",
    "salePrice": 43678544,
@@ -453,6 +468,36 @@
    "marketValue": 18968627,
    "points": 37,
    "averagePoints": 5.285714285714286,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3228",
+   "discr": "marketPlayerTeam",
+   "salePrice": 755001,
+   "expirationDate": "2026-10-02T22:01:11+02:00",
+   "numberOfBids": null,
+   "seller": "37667518",
+   "myBid": null,
+   "nickname": "Requena",
+   "positionId": 3,
+   "marketValue": 755001,
+   "points": 2,
+   "averagePoints": 0.4,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2449",
+   "discr": "marketPlayerTeam",
+   "salePrice": 480472,
+   "expirationDate": "2026-10-02T22:01:17+02:00",
+   "numberOfBids": null,
+   "seller": "37667518",
+   "myBid": null,
+   "nickname": "Marcao",
+   "positionId": 2,
+   "marketValue": 480472,
+   "points": 0,
+   "averagePoints": 0.0,
    "playerStatus": "ok"
   },
   {
@@ -483,6 +528,21 @@
    "marketValue": 48213688,
    "points": 47,
    "averagePoints": 6.714285714285714,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3236",
+   "discr": "marketPlayerTeam",
+   "salePrice": 6952945,
+   "expirationDate": "2026-10-02T22:01:23+02:00",
+   "numberOfBids": null,
+   "seller": "37667518",
+   "myBid": null,
+   "nickname": "Arnau",
+   "positionId": 2,
+   "marketValue": 6952945,
+   "points": 3,
+   "averagePoints": 0.6,
    "playerStatus": "ok"
   },
   {
