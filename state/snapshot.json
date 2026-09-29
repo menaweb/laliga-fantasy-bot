@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-29T16:01:00+0000",
+ "fetched_at": "2026-09-29T17:00:59+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -545,51 +545,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2759",
-   "discr": "marketPlayerTeam",
-   "salePrice": 327920180,
-   "expirationDate": "2026-09-29T18:44:21+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Vlachodimos",
-   "positionId": 1,
-   "marketValue": 32971892,
-   "points": 46,
-   "averagePoints": 6.571428571428571,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2604",
-   "discr": "marketPlayerTeam",
-   "salePrice": 75125340,
-   "expirationDate": "2026-09-29T18:44:34+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Carreira",
-   "positionId": 2,
-   "marketValue": 7218860,
-   "points": 24,
-   "averagePoints": 3.4285714285714284,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3193",
-   "discr": "marketPlayerTeam",
-   "salePrice": 732864390,
-   "expirationDate": "2026-09-29T18:44:42+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Kang-In Lee",
-   "positionId": 3,
-   "marketValue": 78210246,
-   "points": 52,
-   "averagePoints": 7.428571428571429,
-   "playerStatus": "ok"
-  },
-  {
    "id": "3104",
    "discr": "marketPlayerTeam",
    "salePrice": 658458758,
@@ -632,7 +587,7 @@
    "marketValue": 20532295,
    "points": 50,
    "averagePoints": 7.142857142857143,
-   "playerStatus": "ok"
+   "playerStatus": "injured"
   },
   {
    "id": "1337",
