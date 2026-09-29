@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-29T14:00:54+0000",
+ "fetched_at": "2026-09-29T15:00:55+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -482,21 +482,6 @@
    "marketValue": 17877583,
    "points": 35,
    "averagePoints": 5.0,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2206",
-   "discr": "marketPlayerTeam",
-   "salePrice": 45008794,
-   "expirationDate": "2026-09-30T14:42:16+02:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Yoel Lago",
-   "positionId": 2,
-   "marketValue": 11874532,
-   "points": 40,
-   "averagePoints": 5.714285714285714,
    "playerStatus": "ok"
   },
   {
