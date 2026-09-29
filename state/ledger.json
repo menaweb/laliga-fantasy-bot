@@ -10,14 +10,7 @@
    "reason": "+2.6 pts al once · 5.3 pts esp (ppg 5.7×1.0+prior 4.1 · ok · vs RCD 1.13 · prob starter 70% · tend7 +37%)"
   }
  ],
- "listings": [
-  {
-   "market_id": "47583667",
-   "player_id": "3008",
-   "price": 1779972,
-   "listed_at": "2026-09-28T20:01:15+0000"
-  }
- ],
+ "listings": [],
  "handled_offers": [
   "83167330",
   "85986806",
@@ -32,16 +25,10 @@
   "109609313",
   "128493356",
   "130696121",
-  "134734645"
+  "134734645",
+  "140437981"
  ],
  "runs": [
-  {
-   "ts": "2026-09-11T14:01:04.215101+00:00",
-   "mode": "LIVE",
-   "actions": 0,
-   "spend": 0,
-   "requests": 22
-  },
   {
    "ts": "2026-09-11T15:01:01.435533+00:00",
    "mode": "LIVE",
@@ -3526,6 +3513,13 @@
    "actions": 0,
    "spend": 0,
    "requests": 23
+  },
+  {
+   "ts": "2026-09-29T19:00:58.943892+00:00",
+   "mode": "LIVE",
+   "actions": 1,
+   "spend": 0,
+   "requests": 27
   }
  ],
  "live_writes_seen": [
