@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-30T06:00:51+0000",
+ "fetched_at": "2026-09-30T06:38:11+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -11,13 +11,13 @@
   "openingWeekDate": "2026-10-09T21:00:00+02:00",
   "closingWeekDate": "2026-10-13T03:00:00+02:00"
  },
- "money": 28453327,
+ "money": 33755523,
  "investment": 0,
  "team": {
-  "teamValue": 148879458,
+  "teamValue": 144043893,
   "teamPoints": 222,
   "position": 8,
-  "playersNumber": 13
+  "playersNumber": 12
  },
  "squad": [
   {
@@ -74,20 +74,6 @@
    "playerStatus": "ok",
    "buyoutClause": 1721323,
    "lockedEnd": "2026-09-21T21:05:53+0200",
-   "onSale": false
-  },
-  {
-   "ptid": "76058787",
-   "id": "2963",
-   "nickname": "Quagliata",
-   "positionId": 2,
-   "teamId": "26",
-   "marketValue": 4835565,
-   "points": 23,
-   "averagePoints": 3.2857142857142856,
-   "playerStatus": "ok",
-   "buyoutClause": 5302196,
-   "lockedEnd": "2026-09-28T20:18:44+0200",
    "onSale": false
   },
   {
@@ -213,7 +199,7 @@
    "77533011"
   ],
   "defender": [
-   "76058787",
+   "66953203",
    "77354588",
    "90819096",
    "90841292",
@@ -948,7 +934,7 @@
    "points": 310,
    "team_id": "37679249",
    "manager": "RamónBético",
-   "teamValue": 134177095
+   "teamValue": 139012660
   },
   {
    "position": 5,
@@ -976,7 +962,7 @@
    "points": 222,
    "team_id": "37682094",
    "manager": "menaweb",
-   "teamValue": 148879458
+   "teamValue": 144043893
   },
   {
    "position": 9,
