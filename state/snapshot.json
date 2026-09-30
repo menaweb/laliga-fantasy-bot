@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-30T21:00:56+0000",
+ "fetched_at": "2026-09-30T22:00:55+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -1099,6 +1099,21 @@
    "marketValue": 53312221,
    "points": 38,
    "averagePoints": 9.5,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2525",
+   "discr": "marketPlayerTeam",
+   "salePrice": 1800000,
+   "expirationDate": "2026-10-03T23:15:22+02:00",
+   "numberOfBids": null,
+   "seller": "37664261",
+   "myBid": null,
+   "nickname": "Salinas",
+   "positionId": 2,
+   "marketValue": 873033,
+   "points": 16,
+   "averagePoints": 2.2857142857142856,
    "playerStatus": "ok"
   }
  ],
