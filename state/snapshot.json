@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-30T19:10:57+0000",
+ "fetched_at": "2026-09-30T20:00:58+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -785,21 +785,6 @@
    "points": 117,
    "averagePoints": 16.714285714285715,
    "playerStatus": "doubtful"
-  },
-  {
-   "id": "2549",
-   "discr": "marketPlayerTeam",
-   "salePrice": 146046970,
-   "expirationDate": "2026-09-30T21:35:17+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Navarro",
-   "positionId": 3,
-   "marketValue": 16821171,
-   "points": 42,
-   "averagePoints": 6.0,
-   "playerStatus": "ok"
   },
   {
    "id": "2302",
