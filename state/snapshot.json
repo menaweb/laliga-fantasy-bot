@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-30T19:01:10+0000",
+ "fetched_at": "2026-09-30T19:10:57+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -326,7 +326,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 2906474,
    "expirationDate": "2026-10-01T20:08:00+02:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Pedrosa",
@@ -847,21 +847,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2525",
-   "discr": "marketPlayerTeam",
-   "salePrice": 1800000,
-   "expirationDate": "2026-10-02T14:29:33+02:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "Salinas",
-   "positionId": 2,
-   "marketValue": 873033,
-   "points": 16,
-   "averagePoints": 2.2857142857142856,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2834",
    "discr": "marketPlayerTeam",
    "salePrice": 1000000,
@@ -1115,6 +1100,21 @@
    "points": 18,
    "averagePoints": 6.0,
    "playerStatus": "injured"
+  },
+  {
+   "id": "3255",
+   "discr": "marketPlayerTeam",
+   "salePrice": 54500000,
+   "expirationDate": "2026-10-03T21:01:31+02:00",
+   "numberOfBids": null,
+   "seller": "37664261",
+   "myBid": null,
+   "nickname": "J. David",
+   "positionId": 4,
+   "marketValue": 53312221,
+   "points": 38,
+   "averagePoints": 9.5,
+   "playerStatus": "ok"
   }
  ],
  "standing": [
