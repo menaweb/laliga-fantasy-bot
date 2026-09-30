@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-30T23:00:54+0000",
+ "fetched_at": "2026-09-30T23:42:38+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -11,7 +11,7 @@
   "openingWeekDate": "2026-10-09T21:00:00+02:00",
   "closingWeekDate": "2026-10-13T03:00:00+02:00"
  },
- "money": 33755523,
+ "money": 29306906,
  "investment": 0,
  "team": {
   "teamValue": 143490398,
@@ -100,7 +100,7 @@
    "points": 32,
    "averagePoints": 5.333333333333333,
    "playerStatus": "ok",
-   "buyoutClause": 22218876,
+   "buyoutClause": 31116110,
    "lockedEnd": "2026-10-11T20:32:33+0200",
    "onSale": false
   },
@@ -1123,49 +1123,49 @@
    "points": 380,
    "team_id": "37664721",
    "manager": "enriqsuar",
-   "teamValue": 481255463
+   "teamValue": 485773738
   },
   {
    "position": 2,
    "points": 324,
    "team_id": "37664261",
    "manager": "Javi Cepas",
-   "teamValue": 321143269
+   "teamValue": 329314559
   },
   {
    "position": 3,
    "points": 320,
    "team_id": "37678052",
    "manager": "olegwarrior",
-   "teamValue": 217413382
+   "teamValue": 216482667
   },
   {
    "position": 4,
    "points": 310,
    "team_id": "37679249",
    "manager": "RamónBético",
-   "teamValue": 139012660
+   "teamValue": 139993398
   },
   {
    "position": 5,
    "points": 277,
    "team_id": "37675747",
    "manager": "Javi Trauma",
-   "teamValue": 280379671
+   "teamValue": 281969339
   },
   {
    "position": 6,
    "points": 252,
    "team_id": "37668923",
    "manager": "Paco!!",
-   "teamValue": 364330399
+   "teamValue": 370167254
   },
   {
    "position": 7,
    "points": 251,
    "team_id": "37667518",
    "manager": "Rcoba",
-   "teamValue": 201688117
+   "teamValue": 199625110
   },
   {
    "position": 8,
@@ -1179,7 +1179,7 @@
    "points": 189,
    "team_id": "37681066",
    "manager": "Miguel Canuelo",
-   "teamValue": 159203318
+   "teamValue": 158277535
   }
  ]
 }
