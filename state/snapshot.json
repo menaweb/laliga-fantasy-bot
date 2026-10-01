@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-01T16:00:58+0000",
+ "fetched_at": "2026-10-01T17:00:55+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -251,7 +251,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 62015477,
    "expirationDate": "2026-10-01T20:08:00+02:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Diomande",
@@ -311,7 +311,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 82239556,
    "expirationDate": "2026-10-01T20:08:00+02:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Rodri",
@@ -682,21 +682,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2759",
-   "discr": "marketPlayerTeam",
-   "salePrice": 329718920,
-   "expirationDate": "2026-10-02T19:21:13+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Vlachodimos",
-   "positionId": 1,
-   "marketValue": 32785711,
-   "points": 46,
-   "averagePoints": 6.571428571428571,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2604",
    "discr": "marketPlayerTeam",
    "salePrice": 72188600,
@@ -772,19 +757,19 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2522",
+   "id": "2549",
    "discr": "marketPlayerTeam",
-   "salePrice": 1742123680,
-   "expirationDate": "2026-10-03T14:20:28+02:00",
+   "salePrice": 175854140,
+   "expirationDate": "2026-10-04T18:43:39+02:00",
    "numberOfBids": null,
    "seller": "37664721",
    "myBid": null,
-   "nickname": "Raphinha",
-   "positionId": 4,
-   "marketValue": 174165821,
-   "points": 117,
-   "averagePoints": 16.714285714285715,
-   "playerStatus": "doubtful"
+   "nickname": "Navarro",
+   "positionId": 3,
+   "marketValue": 17585414,
+   "points": 42,
+   "averagePoints": 6.0,
+   "playerStatus": "ok"
   },
   {
    "id": "2302",
@@ -1115,6 +1100,21 @@
    "points": 16,
    "averagePoints": 2.2857142857142856,
    "playerStatus": "ok"
+  },
+  {
+   "id": "2759",
+   "discr": "marketPlayerTeam",
+   "salePrice": 32785711,
+   "expirationDate": "2026-10-04T18:43:31+02:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Vlachodimos",
+   "positionId": 1,
+   "marketValue": 32785711,
+   "points": 46,
+   "averagePoints": 6.571428571428571,
+   "playerStatus": "ok"
   }
  ],
  "standing": [
@@ -1123,7 +1123,7 @@
    "points": 380,
    "team_id": "37664721",
    "manager": "enriqsuar",
-   "teamValue": 485773738
+   "teamValue": 311607917
   },
   {
    "position": 2,
