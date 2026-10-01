@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-01T21:00:55+0000",
+ "fetched_at": "2026-10-01T22:00:53+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -281,7 +281,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 39899639,
    "expirationDate": "2026-10-02T20:08:00+02:00",
-   "numberOfBids": 2,
+   "numberOfBids": 3,
    "seller": "",
    "myBid": null,
    "nickname": "C. Soler",
@@ -772,21 +772,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "3099",
-   "discr": "marketPlayerTeam",
-   "salePrice": 45000000,
-   "expirationDate": "2026-10-02T14:30:27+02:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "Fornals",
-   "positionId": 3,
-   "marketValue": 38000222,
-   "points": 33,
-   "averagePoints": 4.714285714285714,
-   "playerStatus": "ok"
-  },
-  {
    "id": "3164",
    "discr": "marketPlayerTeam",
    "salePrice": 14250000,
@@ -1040,6 +1025,81 @@
    "points": 30,
    "averagePoints": 4.285714285714286,
    "playerStatus": "ok"
+  },
+  {
+   "id": "988",
+   "discr": "marketPlayerTeam",
+   "salePrice": 50000000,
+   "expirationDate": "2026-10-04T23:52:31+02:00",
+   "numberOfBids": null,
+   "seller": "37664261",
+   "myBid": null,
+   "nickname": "Sivera",
+   "positionId": 1,
+   "marketValue": 48403682,
+   "points": 65,
+   "averagePoints": 9.285714285714286,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "1056",
+   "discr": "marketPlayerTeam",
+   "salePrice": 3200000,
+   "expirationDate": "2026-10-04T23:52:41+02:00",
+   "numberOfBids": null,
+   "seller": "37664261",
+   "myBid": null,
+   "nickname": "Pedrosa",
+   "positionId": 2,
+   "marketValue": 2949902,
+   "points": 11,
+   "averagePoints": 2.2,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2324",
+   "discr": "marketPlayerTeam",
+   "salePrice": 16500000,
+   "expirationDate": "2026-10-04T23:52:50+02:00",
+   "numberOfBids": null,
+   "seller": "37664261",
+   "myBid": null,
+   "nickname": "Giménez",
+   "positionId": 2,
+   "marketValue": 16213842,
+   "points": 24,
+   "averagePoints": 3.4285714285714284,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2680",
+   "discr": "marketPlayerTeam",
+   "salePrice": 19500000,
+   "expirationDate": "2026-10-04T23:52:59+02:00",
+   "numberOfBids": null,
+   "seller": "37664261",
+   "myBid": null,
+   "nickname": "A. Castrín",
+   "positionId": 2,
+   "marketValue": 9237445,
+   "points": 34,
+   "averagePoints": 4.857142857142857,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2444",
+   "discr": "marketPlayerTeam",
+   "salePrice": 25000000,
+   "expirationDate": "2026-10-04T23:53:12+02:00",
+   "numberOfBids": null,
+   "seller": "37664261",
+   "myBid": null,
+   "nickname": "Sucic",
+   "positionId": 3,
+   "marketValue": 18892575,
+   "points": 40,
+   "averagePoints": 5.714285714285714,
+   "playerStatus": "ok"
   }
  ],
  "standing": [
@@ -1055,7 +1115,7 @@
    "points": 324,
    "team_id": "37664261",
    "manager": "Javi Cepas",
-   "teamValue": 331398915
+   "teamValue": 293398693
   },
   {
    "position": 3,
