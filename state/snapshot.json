@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-03T08:00:51+0000",
+ "fetched_at": "2026-10-03T09:00:54+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -400,7 +400,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 16130717,
    "expirationDate": "2026-10-03T20:08:00+02:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Dela",
