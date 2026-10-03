@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-03T07:00:51+0000",
+ "fetched_at": "2026-10-03T08:00:09+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -858,7 +858,7 @@
    "marketValue": 496477,
    "points": 0,
    "averagePoints": 0.0,
-   "playerStatus": "ok"
+   "playerStatus": "injured"
   },
   {
    "id": "3228",
@@ -1068,6 +1068,21 @@
    "marketValue": 58901900,
    "points": 38,
    "averagePoints": 9.5,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3054",
+   "discr": "marketPlayerTeam",
+   "salePrice": 25484809,
+   "expirationDate": "2026-10-06T09:12:39+02:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Recio",
+   "positionId": 2,
+   "marketValue": 2802812,
+   "points": 25,
+   "averagePoints": 3.5714285714285716,
    "playerStatus": "ok"
   }
  ],
