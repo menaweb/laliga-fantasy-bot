@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-03T15:00:52+0000",
+ "fetched_at": "2026-10-03T16:00:54+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -723,21 +723,6 @@
    "marketValue": 25754655,
    "points": 43,
    "averagePoints": 6.142857142857143,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2520",
-   "discr": "marketPlayerTeam",
-   "salePrice": 486111750,
-   "expirationDate": "2026-10-03T17:45:51+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Roberto",
-   "positionId": 4,
-   "marketValue": 50862698,
-   "points": 47,
-   "averagePoints": 6.714285714285714,
    "playerStatus": "ok"
   },
   {
