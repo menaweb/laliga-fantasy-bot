@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-03T21:09:05+0000",
+ "fetched_at": "2026-10-03T22:00:49+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -340,7 +340,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 6403227,
    "expirationDate": "2026-10-04T20:08:00+02:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Gulácsi",
@@ -441,6 +441,21 @@
    "playerStatus": "ok"
   },
   {
+   "id": "1337",
+   "discr": "marketPlayerTeam",
+   "salePrice": 293185230,
+   "expirationDate": "2026-10-06T23:19:39+02:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Tenaglia",
+   "positionId": 2,
+   "marketValue": 29318523,
+   "points": 42,
+   "averagePoints": 6.0,
+   "playerStatus": "ok"
+  },
+  {
    "id": "2549",
    "discr": "marketPlayerTeam",
    "salePrice": 175854140,
@@ -501,21 +516,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "3239",
-   "discr": "marketPlayerTeam",
-   "salePrice": 1150000,
-   "expirationDate": "2026-10-05T23:19:21+02:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "Mayol",
-   "positionId": 3,
-   "marketValue": 1035728,
-   "points": 14,
-   "averagePoints": 3.5,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2746",
    "discr": "marketPlayerTeam",
    "salePrice": 21000000,
@@ -543,6 +543,21 @@
    "marketValue": 30040134,
    "points": 48,
    "averagePoints": 6.857142857142857,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2520",
+   "discr": "marketPlayerTeam",
+   "salePrice": 508626980,
+   "expirationDate": "2026-10-06T23:19:50+02:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Roberto",
+   "positionId": 4,
+   "marketValue": 50862698,
+   "points": 47,
+   "averagePoints": 6.714285714285714,
    "playerStatus": "ok"
   },
   {
