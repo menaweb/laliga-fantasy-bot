@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-04T14:00:55+0000",
+ "fetched_at": "2026-10-04T15:01:25+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -636,21 +636,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2746",
-   "discr": "marketPlayerTeam",
-   "salePrice": 21000000,
-   "expirationDate": "2026-10-05T23:19:33+02:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "Miguel Sierra",
-   "positionId": 4,
-   "marketValue": 13795867,
-   "points": 45,
-   "averagePoints": 6.428571428571429,
-   "playerStatus": "ok"
-  },
-  {
    "id": "3147",
    "discr": "marketPlayerTeam",
    "salePrice": 39000000,
@@ -1068,6 +1053,21 @@
    "marketValue": 1052303,
    "points": 14,
    "averagePoints": 3.5,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2746",
+   "discr": "marketPlayerTeam",
+   "salePrice": 35000000,
+   "expirationDate": "2026-10-07T16:07:16+02:00",
+   "numberOfBids": null,
+   "seller": "37664261",
+   "myBid": null,
+   "nickname": "Miguel Sierra",
+   "positionId": 4,
+   "marketValue": 13795867,
+   "points": 45,
+   "averagePoints": 6.428571428571429,
    "playerStatus": "ok"
   }
  ],
