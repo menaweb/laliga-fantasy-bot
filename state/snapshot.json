@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-04T05:00:49+0000",
+ "fetched_at": "2026-10-04T06:00:49+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -441,6 +441,21 @@
    "playerStatus": "ok"
   },
   {
+   "id": "3145",
+   "discr": "marketPlayerTeam",
+   "salePrice": 7473190,
+   "expirationDate": "2026-10-07T07:50:26+02:00",
+   "numberOfBids": null,
+   "seller": "37667518",
+   "myBid": null,
+   "nickname": "Robbie Ure",
+   "positionId": 4,
+   "marketValue": 7473190,
+   "points": 16,
+   "averagePoints": 2.2857142857142856,
+   "playerStatus": "ok"
+  },
+  {
    "id": "1337",
    "discr": "marketPlayerTeam",
    "salePrice": 293185230,
@@ -561,6 +576,21 @@
    "playerStatus": "ok"
   },
   {
+   "id": "3073",
+   "discr": "marketPlayerTeam",
+   "salePrice": 7813628,
+   "expirationDate": "2026-10-07T07:50:30+02:00",
+   "numberOfBids": null,
+   "seller": "37667518",
+   "myBid": null,
+   "nickname": "Andrés Martín",
+   "positionId": 4,
+   "marketValue": 7813628,
+   "points": 18,
+   "averagePoints": 6.0,
+   "playerStatus": "doubtful"
+  },
+  {
    "id": "2759",
    "discr": "marketPlayerTeam",
    "salePrice": 32785711,
@@ -604,21 +634,6 @@
    "points": 30,
    "averagePoints": 4.285714285714286,
    "playerStatus": "ok"
-  },
-  {
-   "id": "2449",
-   "discr": "marketPlayerTeam",
-   "salePrice": 491740,
-   "expirationDate": "2026-10-05T08:30:58+02:00",
-   "numberOfBids": null,
-   "seller": "37667518",
-   "myBid": null,
-   "nickname": "Marcao",
-   "positionId": 2,
-   "marketValue": 502175,
-   "points": 0,
-   "averagePoints": 0.0,
-   "playerStatus": "injured"
   },
   {
    "id": "3228",
@@ -859,6 +874,21 @@
    "points": 6,
    "averagePoints": 0.8571428571428571,
    "playerStatus": "ok"
+  },
+  {
+   "id": "2565",
+   "discr": "marketPlayerTeam",
+   "salePrice": 489975,
+   "expirationDate": "2026-10-07T07:50:05+02:00",
+   "numberOfBids": null,
+   "seller": "37667518",
+   "myBid": null,
+   "nickname": "A. Fortuño",
+   "positionId": 1,
+   "marketValue": 489975,
+   "points": 0,
+   "averagePoints": 0.0,
+   "playerStatus": "ok"
   }
  ],
  "standing": [
@@ -909,7 +939,7 @@
    "points": 251,
    "team_id": "37667518",
    "manager": "Rcoba",
-   "teamValue": 212241809
+   "teamValue": 201895121
   },
   {
    "position": 8,

@@ -20,11 +20,6 @@
  ],
  "runs": [
   {
-   "ts": "2026-09-15T19:00:59.516245+00:00",
-   "mode": "LIVE",
-   "error": "bug: HTTPSConnectionPool(host='fantasy-api.llt-services.com', port=443): Read timed out. (read timeout=20)"
-  },
-  {
    "ts": "2026-09-15T20:01:00.663863+00:00",
    "mode": "LIVE",
    "actions": 2,
@@ -3508,6 +3503,13 @@
   },
   {
    "ts": "2026-10-04T05:00:48.405714+00:00",
+   "mode": "LIVE",
+   "actions": 0,
+   "spend": 0,
+   "requests": 22
+  },
+  {
+   "ts": "2026-10-04T06:00:48.820827+00:00",
    "mode": "LIVE",
    "actions": 0,
    "spend": 0,
