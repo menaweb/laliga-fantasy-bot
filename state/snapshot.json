@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-04T13:09:11+0000",
+ "fetched_at": "2026-10-04T14:00:55+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -1054,6 +1054,21 @@
    "points": 50,
    "averagePoints": 7.142857142857143,
    "playerStatus": "injured"
+  },
+  {
+   "id": "3239",
+   "discr": "marketPlayerTeam",
+   "salePrice": 3000000,
+   "expirationDate": "2026-10-07T15:56:02+02:00",
+   "numberOfBids": null,
+   "seller": "37664261",
+   "myBid": null,
+   "nickname": "Mayol",
+   "positionId": 3,
+   "marketValue": 1052303,
+   "points": 14,
+   "averagePoints": 3.5,
+   "playerStatus": "ok"
   }
  ],
  "standing": [
