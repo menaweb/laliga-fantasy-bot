@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-05T20:11:27+0000",
+ "fetched_at": "2026-10-05T21:11:18+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -11,13 +11,13 @@
   "openingWeekDate": "2026-10-09T21:00:00+02:00",
   "closingWeekDate": "2026-10-13T03:00:00+02:00"
  },
- "money": 0,
+ "money": 15969784,
  "investment": 0,
  "team": {
-  "teamValue": 164878496,
+  "teamValue": 148908712,
   "teamPoints": 222,
   "position": 8,
-  "playersNumber": 13
+  "playersNumber": 12
  },
  "squad": [
   {
@@ -133,20 +133,6 @@
    "onSale": false
   },
   {
-   "ptid": "85373517",
-   "id": "2569",
-   "nickname": "Ibañez",
-   "positionId": 3,
-   "teamId": "21",
-   "marketValue": 15969784,
-   "points": 37,
-   "averagePoints": 5.285714285714286,
-   "playerStatus": "ok",
-   "buyoutClause": 15969784,
-   "lockedEnd": "2026-10-05T21:04:15+0200",
-   "onSale": false
-  },
-  {
    "ptid": "85282082",
    "id": "3044",
    "nickname": "Dotor",
@@ -221,8 +207,7 @@
   ],
   "midfield": [
    "71117586",
-   "85282082",
-   "85373517"
+   "85282082"
   ],
   "striker": [
    "16809996",
@@ -453,21 +438,6 @@
    "marketValue": 3911441,
    "points": 17,
    "averagePoints": 2.4285714285714284,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2418",
-   "discr": "marketPlayerTeam",
-   "salePrice": 76584258,
-   "expirationDate": "2026-10-07T10:25:41+02:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Marc Roca",
-   "positionId": 3,
-   "marketValue": 21200406,
-   "points": 37,
-   "averagePoints": 5.285714285714286,
    "playerStatus": "ok"
   },
   {
@@ -1061,7 +1031,7 @@
    "points": 320,
    "team_id": "37678052",
    "manager": "olegwarrior",
-   "teamValue": 213221464
+   "teamValue": 240189356
   },
   {
    "position": 4,
@@ -1082,7 +1052,7 @@
    "points": 252,
    "team_id": "37668923",
    "manager": "Paco!!",
-   "teamValue": 346714025
+   "teamValue": 335715917
   },
   {
    "position": 7,
@@ -1096,7 +1066,7 @@
    "points": 222,
    "team_id": "37682094",
    "manager": "menaweb",
-   "teamValue": 164878496
+   "teamValue": 148908712
   },
   {
    "position": 9,
