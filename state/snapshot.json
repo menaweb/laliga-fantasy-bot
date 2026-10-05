@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-05T06:00:52+0000",
+ "fetched_at": "2026-10-05T06:55:52+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -709,21 +709,6 @@
    "points": 18,
    "averagePoints": 6.0,
    "playerStatus": "doubtful"
-  },
-  {
-   "id": "3228",
-   "discr": "marketPlayerTeam",
-   "salePrice": 734625,
-   "expirationDate": "2026-10-05T08:31:04+02:00",
-   "numberOfBids": null,
-   "seller": "37667518",
-   "myBid": null,
-   "nickname": "Requena",
-   "positionId": 3,
-   "marketValue": 723018,
-   "points": 2,
-   "averagePoints": 0.4,
-   "playerStatus": "ok"
   },
   {
    "id": "2604",
