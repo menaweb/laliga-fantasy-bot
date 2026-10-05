@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-05T21:11:18+0000",
+ "fetched_at": "2026-10-05T22:00:53+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -11,13 +11,13 @@
   "openingWeekDate": "2026-10-09T21:00:00+02:00",
   "closingWeekDate": "2026-10-13T03:00:00+02:00"
  },
- "money": 15969784,
+ "money": 5678275,
  "investment": 0,
  "team": {
-  "teamValue": 148908712,
+  "teamValue": 157732339,
   "teamPoints": 222,
   "position": 8,
-  "playersNumber": 12
+  "playersNumber": 13
  },
  "squad": [
   {
@@ -161,6 +161,20 @@
    "onSale": false
   },
   {
+   "ptid": "95452113",
+   "id": "2939",
+   "nickname": "G. Villar",
+   "positionId": 3,
+   "teamId": "7",
+   "marketValue": 8823627,
+   "points": 28,
+   "averagePoints": 4.0,
+   "playerStatus": "ok",
+   "buyoutClause": 10291509,
+   "lockedEnd": "2026-10-19T23:11:39+0200",
+   "onSale": false
+  },
+  {
    "ptid": "18792297",
    "id": "3091",
    "nickname": "Oyarzabal",
@@ -206,6 +220,7 @@
    "93815264"
   ],
   "midfield": [
+   "37055594",
    "71117586",
    "85282082"
   ],
@@ -1066,14 +1081,14 @@
    "points": 222,
    "team_id": "37682094",
    "manager": "menaweb",
-   "teamValue": 148908712
+   "teamValue": 157732339
   },
   {
    "position": 9,
    "points": 189,
    "team_id": "37681066",
    "manager": "Miguel Canuelo",
-   "teamValue": 148989267
+   "teamValue": 140165640
   }
  ]
 }
