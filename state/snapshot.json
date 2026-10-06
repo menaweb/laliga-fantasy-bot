@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-06T21:00:51+0000",
+ "fetched_at": "2026-10-06T22:00:54+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -514,36 +514,6 @@
    "marketValue": 188453779,
    "points": 98,
    "averagePoints": 14.0,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "1337",
-   "discr": "marketPlayerTeam",
-   "salePrice": 293185230,
-   "expirationDate": "2026-10-06T23:19:39+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Tenaglia",
-   "positionId": 2,
-   "marketValue": 28583543,
-   "points": 42,
-   "averagePoints": 6.0,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2520",
-   "discr": "marketPlayerTeam",
-   "salePrice": 508626980,
-   "expirationDate": "2026-10-06T23:19:50+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Roberto",
-   "positionId": 4,
-   "marketValue": 52700180,
-   "points": 47,
-   "averagePoints": 6.714285714285714,
    "playerStatus": "ok"
   },
   {
