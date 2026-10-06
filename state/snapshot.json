@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-06T12:00:58+0000",
+ "fetched_at": "2026-10-06T13:01:03+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -11,13 +11,13 @@
   "openingWeekDate": "2026-10-09T21:00:00+02:00",
   "closingWeekDate": "2026-10-13T03:00:00+02:00"
  },
- "money": 5678275,
+ "money": 11002003,
  "investment": 0,
  "team": {
-  "teamValue": 157719190,
+  "teamValue": 152395462,
   "teamPoints": 222,
   "position": 8,
-  "playersNumber": 13
+  "playersNumber": 12
  },
  "squad": [
   {
@@ -133,20 +133,6 @@
    "onSale": false
   },
   {
-   "ptid": "85282082",
-   "id": "3044",
-   "nickname": "Dotor",
-   "positionId": 3,
-   "teamId": "12",
-   "marketValue": 5323728,
-   "points": 28,
-   "averagePoints": 4.666666666666667,
-   "playerStatus": "ok",
-   "buyoutClause": 5323728,
-   "lockedEnd": "2026-10-05T20:08:23+0200",
-   "onSale": false
-  },
-  {
    "ptid": "37055594",
    "id": "2991",
    "nickname": "D. Villares",
@@ -220,8 +206,8 @@
    "93815264"
   ],
   "midfield": [
+   "37055594",
    "71117586",
-   "85282082",
    "95452113"
   ],
   "striker": [
@@ -603,7 +589,7 @@
    "marketValue": 7521993,
    "points": 18,
    "averagePoints": 6.0,
-   "playerStatus": "doubtful"
+   "playerStatus": "ok"
   },
   {
    "id": "2565",
@@ -1039,7 +1025,7 @@
    "points": 324,
    "team_id": "37664261",
    "manager": "Javi Cepas",
-   "teamValue": 310223557
+   "teamValue": 315547285
   },
   {
    "position": 3,
@@ -1081,7 +1067,7 @@
    "points": 222,
    "team_id": "37682094",
    "manager": "menaweb",
-   "teamValue": 157719190
+   "teamValue": 152395462
   },
   {
    "position": 9,
