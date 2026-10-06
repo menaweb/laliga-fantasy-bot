@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-06T19:02:13+0000",
+ "fetched_at": "2026-10-06T20:00:51+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -266,7 +266,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 8684324,
    "expirationDate": "2026-10-07T20:08:00+02:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Andrés Garcia",
@@ -356,7 +356,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 49597457,
    "expirationDate": "2026-10-07T20:08:00+02:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Ez Abde",
@@ -665,21 +665,6 @@
    "points": 30,
    "averagePoints": 4.285714285714286,
    "playerStatus": "ok"
-  },
-  {
-   "id": "2938",
-   "discr": "marketPlayerTeam",
-   "salePrice": 283141220,
-   "expirationDate": "2026-10-07T12:42:01+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Koski",
-   "positionId": 2,
-   "marketValue": 28152656,
-   "points": 50,
-   "averagePoints": 7.142857142857143,
-   "playerStatus": "injured"
   },
   {
    "id": "67",
@@ -1048,7 +1033,7 @@
    "points": 380,
    "team_id": "37664721",
    "manager": "enriqsuar",
-   "teamValue": 477877123
+   "teamValue": 449724467
   },
   {
    "position": 2,
