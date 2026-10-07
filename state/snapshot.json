@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-07T12:00:55+0000",
+ "fetched_at": "2026-10-07T13:00:54+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -326,7 +326,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 35756192,
    "expirationDate": "2026-10-07T20:08:00+02:00",
-   "numberOfBids": 1,
+   "numberOfBids": 2,
    "seller": "",
    "myBid": null,
    "nickname": "Mario Soriano",
