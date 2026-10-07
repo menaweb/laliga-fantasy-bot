@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-07T05:00:50+0000",
+ "fetched_at": "2026-10-07T06:00:55+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -547,21 +547,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "3073",
-   "discr": "marketPlayerTeam",
-   "salePrice": 7813628,
-   "expirationDate": "2026-10-07T07:50:30+02:00",
-   "numberOfBids": null,
-   "seller": "37667518",
-   "myBid": null,
-   "nickname": "Andrés Martín",
-   "positionId": 4,
-   "marketValue": 7404861,
-   "points": 18,
-   "averagePoints": 6.0,
-   "playerStatus": "ok"
-  },
-  {
    "id": "3054",
    "discr": "marketPlayerTeam",
    "salePrice": 6507480,
@@ -574,21 +559,6 @@
    "marketValue": 2929029,
    "points": 25,
    "averagePoints": 3.5714285714285716,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2565",
-   "discr": "marketPlayerTeam",
-   "salePrice": 489975,
-   "expirationDate": "2026-10-07T07:50:05+02:00",
-   "numberOfBids": null,
-   "seller": "37667518",
-   "myBid": null,
-   "nickname": "A. Fortuño",
-   "positionId": 1,
-   "marketValue": 508640,
-   "points": 0,
-   "averagePoints": 0.0,
    "playerStatus": "ok"
   },
   {
