@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-07T10:09:11+0000",
+ "fetched_at": "2026-10-07T11:00:54+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -439,51 +439,6 @@
    "marketValue": 2929029,
    "points": 25,
    "averagePoints": 3.5714285714285716,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2759",
-   "discr": "marketPlayerTeam",
-   "salePrice": 321408460,
-   "expirationDate": "2026-10-07T12:29:45+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Vlachodimos",
-   "positionId": 1,
-   "marketValue": 31656462,
-   "points": 46,
-   "averagePoints": 6.571428571428571,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2549",
-   "discr": "marketPlayerTeam",
-   "salePrice": 201127940,
-   "expirationDate": "2026-10-07T12:30:15+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Navarro",
-   "positionId": 3,
-   "marketValue": 22470497,
-   "points": 42,
-   "averagePoints": 6.0,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3143",
-   "discr": "marketPlayerTeam",
-   "salePrice": 662827160,
-   "expirationDate": "2026-10-07T12:30:31+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Diomande",
-   "positionId": 4,
-   "marketValue": 68329571,
-   "points": 30,
-   "averagePoints": 4.285714285714286,
    "playerStatus": "ok"
   },
   {
