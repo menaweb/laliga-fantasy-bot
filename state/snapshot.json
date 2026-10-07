@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-07T14:00:55+0000",
+ "fetched_at": "2026-10-07T15:01:02+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -412,6 +412,21 @@
    "playerStatus": "ok"
   },
   {
+   "id": "74",
+   "discr": "marketPlayerTeam",
+   "salePrice": 54785236,
+   "expirationDate": "2026-10-10T16:55:28+02:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Yuri",
+   "positionId": 2,
+   "marketValue": 19778988,
+   "points": 27,
+   "averagePoints": 4.5,
+   "playerStatus": "ok"
+  },
+  {
    "id": "1191",
    "discr": "marketPlayerTeam",
    "salePrice": 3948907,
@@ -424,6 +439,21 @@
    "marketValue": 3872491,
    "points": 17,
    "averagePoints": 2.4285714285714284,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2548",
+   "discr": "marketPlayerTeam",
+   "salePrice": 68457854,
+   "expirationDate": "2026-10-10T16:57:19+02:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Riquelme",
+   "positionId": 3,
+   "marketValue": 16189447,
+   "points": 35,
+   "averagePoints": 5.0,
    "playerStatus": "ok"
   },
   {
