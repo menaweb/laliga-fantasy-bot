@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-08T19:00:53+0000",
+ "fetched_at": "2026-10-08T20:00:54+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -442,6 +442,51 @@
    "playerStatus": "ok"
   },
   {
+   "id": "2958",
+   "discr": "marketPlayerTeam",
+   "salePrice": 5487088,
+   "expirationDate": "2026-10-11T21:12:26+02:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Morcillo",
+   "positionId": 3,
+   "marketValue": 746920,
+   "points": 16,
+   "averagePoints": 2.2857142857142856,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2477",
+   "discr": "marketPlayerTeam",
+   "salePrice": 27845004,
+   "expirationDate": "2026-10-11T21:13:29+02:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "I. Akhomach",
+   "positionId": 4,
+   "marketValue": 6596035,
+   "points": 29,
+   "averagePoints": 4.142857142857143,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3104",
+   "discr": "marketPlayerTeam",
+   "salePrice": 546798045,
+   "expirationDate": "2026-10-11T21:13:09+02:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Lamine Yamal",
+   "positionId": 4,
+   "marketValue": 190162796,
+   "points": 98,
+   "averagePoints": 14.0,
+   "playerStatus": "ok"
+  },
+  {
    "id": "1337",
    "discr": "marketPlayerTeam",
    "salePrice": 284222590,
@@ -469,6 +514,21 @@
    "marketValue": 53707044,
    "points": 47,
    "averagePoints": 6.714285714285714,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2457",
+   "discr": "marketPlayerTeam",
+   "salePrice": 54978500,
+   "expirationDate": "2026-10-11T21:13:58+02:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Dimitrievski",
+   "positionId": 1,
+   "marketValue": 19239360,
+   "points": 36,
+   "averagePoints": 5.142857142857143,
    "playerStatus": "ok"
   },
   {
@@ -949,6 +1009,21 @@
    "marketValue": 20382657,
    "points": 36,
    "averagePoints": 5.142857142857143,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2354",
+   "discr": "marketPlayerTeam",
+   "salePrice": 84578589,
+   "expirationDate": "2026-10-11T21:12:47+02:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Eric",
+   "positionId": 2,
+   "marketValue": 39179506,
+   "points": 32,
+   "averagePoints": 4.571428571428571,
    "playerStatus": "ok"
   }
  ],
