@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-07T23:00:52+0000",
+ "fetched_at": "2026-10-08T00:00:53+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -980,6 +980,21 @@
    "points": 24,
    "averagePoints": 6.0,
    "playerStatus": "ok"
+  },
+  {
+   "id": "2552",
+   "discr": "marketPlayerTeam",
+   "salePrice": 86254780,
+   "expirationDate": "2026-10-11T01:42:10+02:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Jonny Otto",
+   "positionId": 2,
+   "marketValue": 20382657,
+   "points": 36,
+   "averagePoints": 5.142857142857143,
+   "playerStatus": "ok"
   }
  ],
  "standing": [
@@ -995,21 +1010,21 @@
    "points": 324,
    "team_id": "37664261",
    "manager": "Javi Cepas",
-   "teamValue": 313470791
+   "teamValue": 319018815
   },
   {
    "position": 3,
    "points": 320,
    "team_id": "37678052",
    "manager": "olegwarrior",
-   "teamValue": 238969234
+   "teamValue": 238587186
   },
   {
    "position": 4,
    "points": 310,
    "team_id": "37679249",
    "manager": "RamónBético",
-   "teamValue": 150278650
+   "teamValue": 150730137
   },
   {
    "position": 5,
@@ -1023,7 +1038,7 @@
    "points": 252,
    "team_id": "37668923",
    "manager": "Paco!!",
-   "teamValue": 325454631
+   "teamValue": 327136767
   },
   {
    "position": 7,
@@ -1044,7 +1059,7 @@
    "points": 189,
    "team_id": "37681066",
    "manager": "Miguel Canuelo",
-   "teamValue": 135204277
+   "teamValue": 133061245
   }
  ]
 }
