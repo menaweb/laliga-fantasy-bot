@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-08T08:00:52+0000",
+ "fetched_at": "2026-10-08T09:00:59+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -534,8 +534,8 @@
   {
    "id": "2604",
    "discr": "marketPlayerTeam",
-   "salePrice": 66733980,
-   "expirationDate": "2026-10-08T10:27:41+02:00",
+   "salePrice": 65428070,
+   "expirationDate": "2026-10-11T10:35:32+02:00",
    "numberOfBids": null,
    "seller": "37664721",
    "myBid": null,
@@ -549,8 +549,8 @@
   {
    "id": "2772",
    "discr": "marketPlayerTeam",
-   "salePrice": 439366100,
-   "expirationDate": "2026-10-08T10:27:55+02:00",
+   "salePrice": 464986950,
+   "expirationDate": "2026-10-11T10:35:41+02:00",
    "numberOfBids": null,
    "seller": "37664721",
    "myBid": null,
@@ -862,21 +862,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "67",
-   "discr": "marketPlayerTeam",
-   "salePrice": 582027740,
-   "expirationDate": "2026-10-10T18:40:19+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Marcos Llorente",
-   "positionId": 2,
-   "marketValue": 58589454,
-   "points": 41,
-   "averagePoints": 5.857142857142857,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2511",
    "discr": "marketPlayerTeam",
    "salePrice": 168124900,
@@ -1003,7 +988,7 @@
    "points": 380,
    "team_id": "37664721",
    "manager": "enriqsuar",
-   "teamValue": 545423486
+   "teamValue": 486834032
   },
   {
    "position": 2,
