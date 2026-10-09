@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T09:00:53+0000",
+ "fetched_at": "2026-10-09T10:00:53+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -589,6 +589,21 @@
    "marketValue": 47071611,
    "points": 45,
    "averagePoints": 6.428571428571429,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "1565",
+   "discr": "marketPlayerTeam",
+   "salePrice": 333249310,
+   "expirationDate": "2026-10-12T11:01:11+02:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Barrios",
+   "positionId": 3,
+   "marketValue": 33324931,
+   "points": 23,
+   "averagePoints": 7.666666666666667,
    "playerStatus": "ok"
   },
   {
