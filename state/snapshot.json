@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T21:00:52+0000",
+ "fetched_at": "2026-10-09T22:00:50+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -932,8 +932,8 @@
    "nickname": "Dotor",
    "positionId": 3,
    "marketValue": 5424846,
-   "points": 29,
-   "averagePoints": 4.142857142857143,
+   "points": 28,
+   "averagePoints": 4.0,
    "playerStatus": "ok"
   },
   {
@@ -1037,7 +1037,7 @@
   },
   {
    "position": 2,
-   "points": 325,
+   "points": 324,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 328697656
