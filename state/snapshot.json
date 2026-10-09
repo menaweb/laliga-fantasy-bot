@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-09T08:00:51+0000",
+ "fetched_at": "2026-10-09T09:00:53+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -577,21 +577,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2604",
-   "discr": "marketPlayerTeam",
-   "salePrice": 65428070,
-   "expirationDate": "2026-10-11T10:35:32+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Carreira",
-   "positionId": 2,
-   "marketValue": 6530574,
-   "points": 24,
-   "averagePoints": 3.4285714285714284,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2772",
    "discr": "marketPlayerTeam",
    "salePrice": 464986950,
@@ -1063,7 +1048,7 @@
    "points": 380,
    "team_id": "37664721",
    "manager": "enriqsuar",
-   "teamValue": 505841927
+   "teamValue": 499311353
   },
   {
    "position": 2,
