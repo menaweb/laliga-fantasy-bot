@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T15:00:53+0000",
+ "fetched_at": "2026-10-10T16:00:54+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -782,8 +782,8 @@
    "nickname": "Sivera",
    "positionId": 1,
    "marketValue": 47057897,
-   "points": 67,
-   "averagePoints": 8.375,
+   "points": 69,
+   "averagePoints": 8.625,
    "playerStatus": "ok"
   },
   {
@@ -1022,7 +1022,7 @@
   },
   {
    "position": 2,
-   "points": 330,
+   "points": 332,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 332770175
