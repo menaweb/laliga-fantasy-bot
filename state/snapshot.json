@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T13:00:57+0000",
+ "fetched_at": "2026-10-10T14:00:53+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -27,8 +27,8 @@
    "positionId": 1,
    "teamId": "14",
    "marketValue": 4684621,
-   "points": 9,
-   "averagePoints": 2.25,
+   "points": 13,
+   "averagePoints": 3.25,
    "playerStatus": "ok",
    "buyoutClause": 5226274,
    "lockedEnd": "2026-09-29T22:56:47+0200",
@@ -422,8 +422,8 @@
    "nickname": "Yuri",
    "positionId": 2,
    "marketValue": 20348177,
-   "points": 27,
-   "averagePoints": 3.857142857142857,
+   "points": 31,
+   "averagePoints": 4.428571428571429,
    "playerStatus": "ok"
   },
   {
@@ -557,8 +557,8 @@
    "nickname": "Navarro",
    "positionId": 3,
    "marketValue": 24712098,
-   "points": 42,
-   "averagePoints": 5.25,
+   "points": 44,
+   "averagePoints": 5.5,
    "playerStatus": "ok"
   },
   {
@@ -842,8 +842,8 @@
    "nickname": "Pedrosa",
    "positionId": 2,
    "marketValue": 3332031,
-   "points": 11,
-   "averagePoints": 1.8333333333333333,
+   "points": 15,
+   "averagePoints": 2.5,
    "playerStatus": "ok"
   },
   {
@@ -1045,42 +1045,42 @@
  "standing": [
   {
    "position": 1,
-   "points": 385,
+   "points": 387,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 500151844
   },
   {
    "position": 2,
-   "points": 324,
+   "points": 328,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 332770175
   },
   {
    "position": 3,
-   "points": 320,
+   "points": 325,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 239394329
   },
   {
    "position": 4,
-   "points": 316,
+   "points": 318,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 151254713
   },
   {
    "position": 5,
-   "points": 279,
+   "points": 282,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 286369807
   },
   {
    "position": 6,
-   "points": 259,
+   "points": 263,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 367200210
@@ -1094,7 +1094,7 @@
   },
   {
    "position": 8,
-   "points": 231,
+   "points": 235,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 154454480
