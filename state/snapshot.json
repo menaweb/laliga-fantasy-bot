@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T14:00:53+0000",
+ "fetched_at": "2026-10-10T15:00:53+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -288,7 +288,7 @@
    "positionId": 2,
    "marketValue": 532302,
    "points": 2,
-   "averagePoints": 0.2857142857142857,
+   "averagePoints": 0.25,
    "playerStatus": "ok"
   },
   {
@@ -318,7 +318,7 @@
    "positionId": 2,
    "marketValue": 47844605,
    "points": 44,
-   "averagePoints": 6.285714285714286,
+   "averagePoints": 5.5,
    "playerStatus": "ok"
   },
   {
@@ -412,36 +412,6 @@
    "playerStatus": "injured"
   },
   {
-   "id": "74",
-   "discr": "marketPlayerTeam",
-   "salePrice": 54785236,
-   "expirationDate": "2026-10-10T16:55:28+02:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Yuri",
-   "positionId": 2,
-   "marketValue": 20348177,
-   "points": 31,
-   "averagePoints": 4.428571428571429,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2548",
-   "discr": "marketPlayerTeam",
-   "salePrice": 68457854,
-   "expirationDate": "2026-10-10T16:57:19+02:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Riquelme",
-   "positionId": 3,
-   "marketValue": 15749031,
-   "points": 35,
-   "averagePoints": 5.0,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2958",
    "discr": "marketPlayerTeam",
    "salePrice": 5487088,
@@ -498,7 +468,7 @@
    "positionId": 2,
    "marketValue": 28182707,
    "points": 42,
-   "averagePoints": 6.0,
+   "averagePoints": 5.25,
    "playerStatus": "ok"
   },
   {
@@ -603,7 +573,7 @@
    "positionId": 3,
    "marketValue": 33701742,
    "points": 23,
-   "averagePoints": 7.666666666666667,
+   "averagePoints": 5.75,
    "playerStatus": "ok"
   },
   {
@@ -678,7 +648,7 @@
    "positionId": 3,
    "marketValue": 83280368,
    "points": 52,
-   "averagePoints": 7.428571428571429,
+   "averagePoints": 6.5,
    "playerStatus": "ok"
   },
   {
@@ -753,7 +723,7 @@
    "positionId": 2,
    "marketValue": 20693328,
    "points": 36,
-   "averagePoints": 5.142857142857143,
+   "averagePoints": 4.5,
    "playerStatus": "ok"
   },
   {
@@ -812,8 +782,8 @@
    "nickname": "Sivera",
    "positionId": 1,
    "marketValue": 47057897,
-   "points": 65,
-   "averagePoints": 9.285714285714286,
+   "points": 67,
+   "averagePoints": 8.375,
    "playerStatus": "ok"
   },
   {
@@ -1052,7 +1022,7 @@
   },
   {
    "position": 2,
-   "points": 328,
+   "points": 330,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 332770175
