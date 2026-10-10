@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T17:00:52+0000",
+ "fetched_at": "2026-10-10T17:48:02+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -452,8 +452,8 @@
    "nickname": "Lamine Yamal",
    "positionId": 4,
    "marketValue": 190705024,
-   "points": 98,
-   "averagePoints": 12.25,
+   "points": 97,
+   "averagePoints": 12.125,
    "playerStatus": "ok"
   },
   {
@@ -945,14 +945,14 @@
   },
   {
    "position": 6,
-   "points": 263,
+   "points": 262,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 367200210
   },
   {
    "position": 7,
-   "points": 251,
+   "points": 248,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 197404818
