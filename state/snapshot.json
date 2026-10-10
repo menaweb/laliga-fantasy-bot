@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T19:00:54+0000",
+ "fetched_at": "2026-10-10T20:00:53+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -12,7 +12,7 @@
   "closingWeekDate": "2026-10-13T03:00:00+02:00"
  },
  "money": 11102003,
- "investment": 0,
+ "investment": 9230545,
  "team": {
   "teamValue": 154454480,
   "teamPoints": 222,
@@ -182,7 +182,7 @@
    "teamId": "20",
    "marketValue": 27979284,
    "points": 38,
-   "averagePoints": 5.428571428571429,
+   "averagePoints": 4.75,
    "playerStatus": "ok",
    "buyoutClause": 51555905,
    "lockedEnd": "2026-08-19T00:06:12+0200",
@@ -251,9 +251,9 @@
    "discr": "marketPlayerLeague",
    "salePrice": 8856310,
    "expirationDate": "2026-10-11T20:08:00+02:00",
-   "numberOfBids": 1,
+   "numberOfBids": 2,
    "seller": "",
-   "myBid": null,
+   "myBid": 9230545,
    "nickname": "Le Normand",
    "positionId": 2,
    "marketValue": 8856310,
@@ -437,8 +437,8 @@
    "nickname": "I. Akhomach",
    "positionId": 4,
    "marketValue": 7177749,
-   "points": 29,
-   "averagePoints": 4.142857142857143,
+   "points": 30,
+   "averagePoints": 3.75,
    "playerStatus": "ok"
   },
   {
@@ -543,7 +543,7 @@
    "positionId": 4,
    "marketValue": 67193324,
    "points": 30,
-   "averagePoints": 4.285714285714286,
+   "averagePoints": 3.75,
    "playerStatus": "ok"
   },
   {
@@ -677,8 +677,8 @@
    "nickname": "Cardona",
    "positionId": 2,
    "marketValue": 1784114,
-   "points": 9,
-   "averagePoints": 1.2857142857142858,
+   "points": 8,
+   "averagePoints": 1.0,
    "playerStatus": "ok"
   },
   {
@@ -842,8 +842,8 @@
    "nickname": "Freeman",
    "positionId": 2,
    "marketValue": 2935557,
-   "points": 20,
-   "averagePoints": 2.857142857142857,
+   "points": 23,
+   "averagePoints": 2.875,
    "playerStatus": "ok"
   },
   {
@@ -888,7 +888,7 @@
    "positionId": 3,
    "marketValue": 75178190,
    "points": 52,
-   "averagePoints": 7.428571428571429,
+   "averagePoints": 6.5,
    "playerStatus": "ok"
   },
   {
@@ -985,7 +985,7 @@
  "standing": [
   {
    "position": 1,
-   "points": 394,
+   "points": 393,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 500151844
@@ -999,7 +999,7 @@
   },
   {
    "position": 3,
-   "points": 326,
+   "points": 327,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 239394329
@@ -1014,16 +1014,16 @@
   {
    "position": 5,
    "points": 284,
-   "team_id": "37675747",
-   "manager": "Javi Trauma",
-   "teamValue": 286915279
-  },
-  {
-   "position": 6,
-   "points": 283,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 367200210
+  },
+  {
+   "position": 6,
+   "points": 284,
+   "team_id": "37675747",
+   "manager": "Javi Trauma",
+   "teamValue": 286915279
   },
   {
    "position": 7,
