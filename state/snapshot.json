@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T10:00:52+0000",
+ "fetched_at": "2026-10-10T11:00:54+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -341,7 +341,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 540769,
    "expirationDate": "2026-10-10T20:08:00+02:00",
-   "numberOfBids": 1,
+   "numberOfBids": 2,
    "seller": "",
    "myBid": null,
    "nickname": "F. Mendy",
@@ -799,7 +799,7 @@
    "marketValue": 17171099,
    "points": 18,
    "averagePoints": 2.5714285714285716,
-   "playerStatus": "ok"
+   "playerStatus": "injured"
   },
   {
    "id": "988",
@@ -1024,6 +1024,21 @@
    "marketValue": 40059780,
    "points": 48,
    "averagePoints": 6.857142857142857,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3120",
+   "discr": "marketPlayerTeam",
+   "salePrice": 3501225,
+   "expirationDate": "2026-10-13T12:48:35+02:00",
+   "numberOfBids": null,
+   "seller": "37664261",
+   "myBid": null,
+   "nickname": "De Haas",
+   "positionId": 2,
+   "marketValue": 3501225,
+   "points": 12,
+   "averagePoints": 3.0,
    "playerStatus": "ok"
   }
  ],
