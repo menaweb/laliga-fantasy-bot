@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T20:00:53+0000",
+ "fetched_at": "2026-10-10T21:00:56+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -181,8 +181,8 @@
    "positionId": 4,
    "teamId": "20",
    "marketValue": 27979284,
-   "points": 38,
-   "averagePoints": 4.75,
+   "points": 40,
+   "averagePoints": 5.0,
    "playerStatus": "ok",
    "buyoutClause": 51555905,
    "lockedEnd": "2026-08-19T00:06:12+0200",
@@ -326,7 +326,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 1998318,
    "expirationDate": "2026-10-11T20:08:00+02:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "A. Abqar",
@@ -437,8 +437,8 @@
    "nickname": "I. Akhomach",
    "positionId": 4,
    "marketValue": 7177749,
-   "points": 30,
-   "averagePoints": 3.75,
+   "points": 33,
+   "averagePoints": 4.125,
    "playerStatus": "ok"
   },
   {
@@ -542,8 +542,8 @@
    "nickname": "Diomande",
    "positionId": 4,
    "marketValue": 67193324,
-   "points": 30,
-   "averagePoints": 3.75,
+   "points": 41,
+   "averagePoints": 5.125,
    "playerStatus": "ok"
   },
   {
@@ -559,6 +559,21 @@
    "marketValue": 47471009,
    "points": 45,
    "averagePoints": 6.428571428571429,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3116",
+   "discr": "marketPlayerTeam",
+   "salePrice": 27924926,
+   "expirationDate": "2026-10-13T22:49:19+02:00",
+   "numberOfBids": null,
+   "seller": "37667518",
+   "myBid": null,
+   "nickname": "Bernardo Silva",
+   "positionId": 3,
+   "marketValue": 27924926,
+   "points": 23,
+   "averagePoints": 2.875,
    "playerStatus": "ok"
   },
   {
@@ -677,8 +692,8 @@
    "nickname": "Cardona",
    "positionId": 2,
    "marketValue": 1784114,
-   "points": 8,
-   "averagePoints": 1.0,
+   "points": 10,
+   "averagePoints": 1.25,
    "playerStatus": "ok"
   },
   {
@@ -842,8 +857,8 @@
    "nickname": "Freeman",
    "positionId": 2,
    "marketValue": 2935557,
-   "points": 23,
-   "averagePoints": 2.875,
+   "points": 27,
+   "averagePoints": 3.375,
    "playerStatus": "ok"
   },
   {
@@ -887,8 +902,8 @@
    "nickname": "Moleiro",
    "positionId": 3,
    "marketValue": 75178190,
-   "points": 52,
-   "averagePoints": 6.5,
+   "points": 57,
+   "averagePoints": 7.125,
    "playerStatus": "ok"
   },
   {
@@ -985,21 +1000,21 @@
  "standing": [
   {
    "position": 1,
-   "points": 393,
+   "points": 406,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 500151844
   },
   {
    "position": 2,
-   "points": 335,
+   "points": 340,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 332860635
   },
   {
    "position": 3,
-   "points": 327,
+   "points": 338,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 239394329
@@ -1013,28 +1028,28 @@
   },
   {
    "position": 5,
-   "points": 284,
+   "points": 287,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 367200210
   },
   {
    "position": 6,
-   "points": 284,
+   "points": 286,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 286915279
   },
   {
    "position": 7,
-   "points": 249,
+   "points": 267,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 197404818
   },
   {
    "position": 8,
-   "points": 235,
+   "points": 237,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 154454480
