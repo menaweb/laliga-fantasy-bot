@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T17:00:54+0000",
+ "fetched_at": "2026-10-11T18:00:55+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -296,7 +296,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 73174624,
    "expirationDate": "2026-10-11T20:08:00+02:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Grimaldo",
@@ -707,8 +707,8 @@
    "nickname": "Ez Abde",
    "positionId": 4,
    "marketValue": 54910471,
-   "points": 24,
-   "averagePoints": 4.8,
+   "points": 27,
+   "averagePoints": 5.4,
    "playerStatus": "ok"
   },
   {
@@ -797,8 +797,8 @@
    "nickname": "Natan",
    "positionId": 2,
    "marketValue": 61135033,
-   "points": 47,
-   "averagePoints": 5.875,
+   "points": 46,
+   "averagePoints": 5.75,
    "playerStatus": "ok"
   },
   {
@@ -970,42 +970,42 @@
  "standing": [
   {
    "position": 1,
-   "points": 418,
+   "points": 421,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 501132809
   },
   {
    "position": 2,
-   "points": 353,
-   "team_id": "37678052",
-   "manager": "olegwarrior",
-   "teamValue": 219636792
-  },
-  {
-   "position": 3,
-   "points": 352,
+   "points": 351,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 337225962
   },
   {
+   "position": 3,
+   "points": 350,
+   "team_id": "37678052",
+   "manager": "olegwarrior",
+   "teamValue": 219636792
+  },
+  {
    "position": 4,
-   "points": 326,
+   "points": 328,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 172369975
   },
   {
    "position": 5,
-   "points": 296,
+   "points": 295,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 338174943
   },
   {
    "position": 6,
-   "points": 294,
+   "points": 295,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 285893497
