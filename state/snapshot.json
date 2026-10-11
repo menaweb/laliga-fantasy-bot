@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T18:48:28+0000",
+ "fetched_at": "2026-10-11T19:00:55+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -12,7 +12,7 @@
   "closingWeekDate": "2026-10-13T03:00:00+02:00"
  },
  "money": 9230545,
- "investment": 0,
+ "investment": 8250000,
  "team": {
   "teamValue": 154774258,
   "teamPoints": 222,
@@ -42,7 +42,7 @@
    "teamId": "49",
    "marketValue": 1499082,
    "points": 16,
-   "averagePoints": 2.2857142857142856,
+   "averagePoints": 2.0,
    "playerStatus": "ok",
    "buyoutClause": 1557922,
    "lockedEnd": "2026-09-21T21:05:53+0200",
@@ -258,7 +258,7 @@
    "positionId": 3,
    "marketValue": 553559,
    "points": 1,
-   "averagePoints": 0.14285714285714285,
+   "averagePoints": 0.125,
    "playerStatus": "ok"
   },
   {
@@ -498,7 +498,7 @@
    "positionId": 1,
    "marketValue": 18989115,
    "points": 36,
-   "averagePoints": 5.142857142857143,
+   "averagePoints": 4.5,
    "playerStatus": "ok"
   },
   {
@@ -983,7 +983,7 @@
   },
   {
    "position": 5,
-   "points": 300,
+   "points": 299,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 367956021
