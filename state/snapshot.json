@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T19:00:55+0000",
+ "fetched_at": "2026-10-11T20:00:53+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -41,8 +41,8 @@
    "positionId": 2,
    "teamId": "49",
    "marketValue": 1499082,
-   "points": 16,
-   "averagePoints": 2.0,
+   "points": 15,
+   "averagePoints": 1.875,
    "playerStatus": "ok",
    "buyoutClause": 1557922,
    "lockedEnd": "2026-09-21T21:05:53+0200",
@@ -412,51 +412,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2958",
-   "discr": "marketPlayerTeam",
-   "salePrice": 5487088,
-   "expirationDate": "2026-10-11T21:12:26+02:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Morcillo",
-   "positionId": 3,
-   "marketValue": 753324,
-   "points": 22,
-   "averagePoints": 2.75,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2477",
-   "discr": "marketPlayerTeam",
-   "salePrice": 27845004,
-   "expirationDate": "2026-10-11T21:13:29+02:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "I. Akhomach",
-   "positionId": 4,
-   "marketValue": 7451347,
-   "points": 33,
-   "averagePoints": 4.125,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3104",
-   "discr": "marketPlayerTeam",
-   "salePrice": 546798045,
-   "expirationDate": "2026-10-11T21:13:09+02:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Lamine Yamal",
-   "positionId": 4,
-   "marketValue": 191728934,
-   "points": 109,
-   "averagePoints": 13.625,
-   "playerStatus": "ok"
-  },
-  {
    "id": "1337",
    "discr": "marketPlayerTeam",
    "salePrice": 281827070,
@@ -484,21 +439,6 @@
    "marketValue": 54890724,
    "points": 52,
    "averagePoints": 6.5,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2457",
-   "discr": "marketPlayerTeam",
-   "salePrice": 54978500,
-   "expirationDate": "2026-10-11T21:13:58+02:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Dimitrievski",
-   "positionId": 1,
-   "marketValue": 18989115,
-   "points": 36,
-   "averagePoints": 4.5,
    "playerStatus": "ok"
   },
   {
@@ -694,21 +634,6 @@
    "marketValue": 54910471,
    "points": 32,
    "averagePoints": 6.4,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2354",
-   "discr": "marketPlayerTeam",
-   "salePrice": 84578589,
-   "expirationDate": "2026-10-11T21:12:47+02:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Eric",
-   "positionId": 2,
-   "marketValue": 41841974,
-   "points": 41,
-   "averagePoints": 5.125,
    "playerStatus": "ok"
   },
   {
@@ -962,7 +887,7 @@
   },
   {
    "position": 2,
-   "points": 359,
+   "points": 360,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 219636792
@@ -976,14 +901,14 @@
   },
   {
    "position": 4,
-   "points": 334,
+   "points": 337,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 172369975
   },
   {
    "position": 5,
-   "points": 299,
+   "points": 301,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 367956021
