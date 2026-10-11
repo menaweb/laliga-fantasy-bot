@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T06:00:55+0000",
+ "fetched_at": "2026-10-11T07:00:55+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -251,7 +251,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 8856310,
    "expirationDate": "2026-10-11T20:08:00+02:00",
-   "numberOfBids": 1,
+   "numberOfBids": 0,
    "seller": "",
    "myBid": null,
    "nickname": "Le Normand",
@@ -311,7 +311,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 1473847,
    "expirationDate": "2026-10-11T20:08:00+02:00",
-   "numberOfBids": 1,
+   "numberOfBids": 0,
    "seller": "",
    "myBid": null,
    "nickname": "Nacho Perez",
@@ -326,7 +326,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 1998318,
    "expirationDate": "2026-10-11T20:08:00+02:00",
-   "numberOfBids": 1,
+   "numberOfBids": 0,
    "seller": "",
    "myBid": null,
    "nickname": "A. Abqar",
@@ -667,6 +667,51 @@
    "playerStatus": "ok"
   },
   {
+   "id": "1614",
+   "discr": "marketPlayerTeam",
+   "salePrice": 17667230,
+   "expirationDate": "2026-10-14T08:24:59+02:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Cardona",
+   "positionId": 2,
+   "marketValue": 1766723,
+   "points": 10,
+   "averagePoints": 1.25,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2995",
+   "discr": "marketPlayerTeam",
+   "salePrice": 358474310,
+   "expirationDate": "2026-10-14T08:25:12+02:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Mario Soriano",
+   "positionId": 3,
+   "marketValue": 35847431,
+   "points": 41,
+   "averagePoints": 5.857142857142857,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3089",
+   "discr": "marketPlayerTeam",
+   "salePrice": 549104710,
+   "expirationDate": "2026-10-14T08:25:26+02:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Ez Abde",
+   "positionId": 4,
+   "marketValue": 54910471,
+   "points": 24,
+   "averagePoints": 6.0,
+   "playerStatus": "ok"
+  },
+  {
    "id": "2354",
    "discr": "marketPlayerTeam",
    "salePrice": 84578589,
@@ -942,14 +987,14 @@
    "points": 338,
    "team_id": "37678052",
    "manager": "olegwarrior",
-   "teamValue": 238853006
+   "teamValue": 219636792
   },
   {
    "position": 4,
    "points": 318,
    "team_id": "37679249",
    "manager": "RamónBético",
-   "teamValue": 153153761
+   "teamValue": 172369975
   },
   {
    "position": 5,
