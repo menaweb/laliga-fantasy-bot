@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-10T23:00:58+0000",
+ "fetched_at": "2026-10-11T00:00:55+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -11,8 +11,8 @@
   "openingWeekDate": "2026-10-09T21:00:00+02:00",
   "closingWeekDate": "2026-10-13T03:00:00+02:00"
  },
- "money": 11102003,
- "investment": 9230545,
+ "money": 9230545,
+ "investment": 0,
  "team": {
   "teamValue": 154774258,
   "teamPoints": 222,
@@ -100,7 +100,7 @@
    "points": 36,
    "averagePoints": 5.142857142857143,
    "playerStatus": "ok",
-   "buyoutClause": 32156848,
+   "buyoutClause": 35899764,
    "lockedEnd": "2026-10-16T20:08:13+0200",
    "onSale": false
   },
@@ -251,9 +251,9 @@
    "discr": "marketPlayerLeague",
    "salePrice": 8856310,
    "expirationDate": "2026-10-11T20:08:00+02:00",
-   "numberOfBids": 2,
+   "numberOfBids": 1,
    "seller": "",
-   "myBid": 9230545,
+   "myBid": null,
    "nickname": "Le Normand",
    "positionId": 2,
    "marketValue": 8834674,
@@ -667,21 +667,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2552",
-   "discr": "marketPlayerTeam",
-   "salePrice": 86254780,
-   "expirationDate": "2026-10-11T01:42:10+02:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Jonny Otto",
-   "positionId": 2,
-   "marketValue": 20771857,
-   "points": 36,
-   "averagePoints": 4.5,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2354",
    "discr": "marketPlayerTeam",
    "salePrice": 84578589,
@@ -943,49 +928,49 @@
    "points": 406,
    "team_id": "37664721",
    "manager": "enriqsuar",
-   "teamValue": 500151844
+   "teamValue": 501132809
   },
   {
    "position": 2,
    "points": 340,
    "team_id": "37664261",
    "manager": "Javi Cepas",
-   "teamValue": 332860635
+   "teamValue": 337225962
   },
   {
    "position": 3,
    "points": 338,
    "team_id": "37678052",
    "manager": "olegwarrior",
-   "teamValue": 239394329
+   "teamValue": 238853006
   },
   {
    "position": 4,
    "points": 318,
    "team_id": "37679249",
    "manager": "RamónBético",
-   "teamValue": 153344045
+   "teamValue": 153153761
   },
   {
    "position": 5,
    "points": 287,
    "team_id": "37668923",
    "manager": "Paco!!",
-   "teamValue": 335376220
+   "teamValue": 338174943
   },
   {
    "position": 6,
    "points": 286,
    "team_id": "37675747",
    "manager": "Javi Trauma",
-   "teamValue": 286915279
+   "teamValue": 285893497
   },
   {
    "position": 7,
    "points": 268,
    "team_id": "37667518",
    "manager": "Rcoba",
-   "teamValue": 197404818
+   "teamValue": 196951676
   },
   {
    "position": 8,
@@ -999,7 +984,7 @@
    "points": 189,
    "team_id": "37681066",
    "manager": "Miguel Canuelo",
-   "teamValue": 129223575
+   "teamValue": 127239239
   }
  ]
 }
