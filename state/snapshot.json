@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T12:00:55+0000",
+ "fetched_at": "2026-10-11T13:00:53+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -84,7 +84,7 @@
    "teamId": "7",
    "marketValue": 3287322,
    "points": 19,
-   "averagePoints": 4.75,
+   "averagePoints": 3.8,
    "playerStatus": "ok",
    "buyoutClause": 4160857,
    "lockedEnd": "2026-10-11T20:08:12+0200",
@@ -154,7 +154,7 @@
    "teamId": "7",
    "marketValue": 8848809,
    "points": 28,
-   "averagePoints": 4.0,
+   "averagePoints": 3.5,
    "playerStatus": "ok",
    "buyoutClause": 10291509,
    "lockedEnd": "2026-10-19T23:11:39+0200",
@@ -363,7 +363,7 @@
    "positionId": 4,
    "marketValue": 5057325,
    "points": 34,
-   "averagePoints": 4.857142857142857,
+   "averagePoints": 4.25,
    "playerStatus": "ok"
   },
   {
@@ -378,7 +378,7 @@
    "positionId": 4,
    "marketValue": 702273,
    "points": 5,
-   "averagePoints": 0.8333333333333334,
+   "averagePoints": 0.7142857142857143,
    "playerStatus": "ok"
   },
   {
@@ -423,7 +423,7 @@
    "positionId": 3,
    "marketValue": 753324,
    "points": 16,
-   "averagePoints": 2.2857142857142856,
+   "averagePoints": 2.0,
    "playerStatus": "ok"
   },
   {
@@ -587,8 +587,8 @@
    "nickname": "Hugo Alvarez",
    "positionId": 3,
    "marketValue": 3618837,
-   "points": 29,
-   "averagePoints": 4.142857142857143,
+   "points": 30,
+   "averagePoints": 3.75,
    "playerStatus": "ok"
   },
   {
@@ -618,7 +618,7 @@
    "positionId": 2,
    "marketValue": 3182040,
    "points": 17,
-   "averagePoints": 2.4285714285714284,
+   "averagePoints": 2.125,
    "playerStatus": "ok"
   },
   {
@@ -843,7 +843,7 @@
    "positionId": 3,
    "marketValue": 21908550,
    "points": 35,
-   "averagePoints": 5.0,
+   "averagePoints": 4.375,
    "playerStatus": "ok"
   },
   {
@@ -918,7 +918,7 @@
    "positionId": 4,
    "marketValue": 41464061,
    "points": 48,
-   "averagePoints": 6.857142857142857,
+   "averagePoints": 6.0,
    "playerStatus": "ok"
   },
   {
@@ -983,7 +983,7 @@
   },
   {
    "position": 5,
-   "points": 287,
+   "points": 288,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 338174943
