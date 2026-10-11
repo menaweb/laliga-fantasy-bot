@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T15:00:54+0000",
+ "fetched_at": "2026-10-11T16:00:57+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -139,8 +139,8 @@
    "positionId": 3,
    "teamId": "26",
    "marketValue": 843085,
-   "points": 14,
-   "averagePoints": 1.75,
+   "points": 13,
+   "averagePoints": 1.625,
    "playerStatus": "ok",
    "buyoutClause": 2393361,
    "lockedEnd": "2026-09-01T20:08:29+0200",
@@ -167,8 +167,8 @@
    "positionId": 4,
    "teamId": "16",
    "marketValue": 47627396,
-   "points": 33,
-   "averagePoints": 4.125,
+   "points": 32,
+   "averagePoints": 4.0,
    "playerStatus": "ok",
    "buyoutClause": 91332677,
    "lockedEnd": "2026-08-20T20:08:11+0200",
@@ -677,8 +677,8 @@
    "nickname": "Mario Soriano",
    "positionId": 3,
    "marketValue": 35847431,
-   "points": 41,
-   "averagePoints": 5.125,
+   "points": 48,
+   "averagePoints": 6.0,
    "playerStatus": "ok"
   },
   {
@@ -827,8 +827,8 @@
    "nickname": "Sucic",
    "positionId": 3,
    "marketValue": 25601763,
-   "points": 41,
-   "averagePoints": 5.125,
+   "points": 40,
+   "averagePoints": 5.0,
    "playerStatus": "ok"
   },
   {
@@ -947,29 +947,29 @@
    "nickname": "Bil Nsongo",
    "positionId": 4,
    "marketValue": 7209500,
-   "points": 25,
-   "averagePoints": 3.125,
+   "points": 27,
+   "averagePoints": 3.375,
    "playerStatus": "ok"
   }
  ],
  "standing": [
   {
    "position": 1,
-   "points": 406,
+   "points": 413,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 501132809
   },
   {
    "position": 2,
-   "points": 350,
+   "points": 349,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 337225962
   },
   {
    "position": 3,
-   "points": 338,
+   "points": 346,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 219636792
@@ -990,7 +990,7 @@
   },
   {
    "position": 6,
-   "points": 292,
+   "points": 290,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 285893497
@@ -1004,7 +1004,7 @@
   },
   {
    "position": 8,
-   "points": 249,
+   "points": 247,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 154774258
