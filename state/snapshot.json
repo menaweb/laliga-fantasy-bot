@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-11T13:58:43+0000",
+ "fetched_at": "2026-10-11T14:00:55+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -83,8 +83,8 @@
    "positionId": 2,
    "teamId": "7",
    "marketValue": 3287322,
-   "points": 23,
-   "averagePoints": 4.6,
+   "points": 25,
+   "averagePoints": 5.0,
    "playerStatus": "ok",
    "buyoutClause": 4160857,
    "lockedEnd": "2026-10-11T20:08:12+0200",
@@ -153,8 +153,8 @@
    "positionId": 3,
    "teamId": "7",
    "marketValue": 8848809,
-   "points": 33,
-   "averagePoints": 4.125,
+   "points": 35,
+   "averagePoints": 4.375,
    "playerStatus": "ok",
    "buyoutClause": 10291509,
    "lockedEnd": "2026-10-19T23:11:39+0200",
@@ -362,8 +362,8 @@
    "nickname": "T. Morente",
    "positionId": 4,
    "marketValue": 5057325,
-   "points": 35,
-   "averagePoints": 4.375,
+   "points": 36,
+   "averagePoints": 4.5,
    "playerStatus": "ok"
   },
   {
@@ -422,8 +422,8 @@
    "nickname": "Morcillo",
    "positionId": 3,
    "marketValue": 753324,
-   "points": 20,
-   "averagePoints": 2.5,
+   "points": 22,
+   "averagePoints": 2.75,
    "playerStatus": "ok"
   },
   {
@@ -587,8 +587,8 @@
    "nickname": "Hugo Alvarez",
    "positionId": 3,
    "marketValue": 3618837,
-   "points": 34,
-   "averagePoints": 4.25,
+   "points": 36,
+   "averagePoints": 4.5,
    "playerStatus": "ok"
   },
   {
@@ -617,8 +617,8 @@
    "nickname": "Álvaro Núñez",
    "positionId": 2,
    "marketValue": 3182040,
-   "points": 21,
-   "averagePoints": 2.625,
+   "points": 23,
+   "averagePoints": 2.875,
    "playerStatus": "ok"
   },
   {
@@ -842,8 +842,8 @@
    "nickname": "Ilaix Moriba",
    "positionId": 3,
    "marketValue": 21908550,
-   "points": 39,
-   "averagePoints": 4.875,
+   "points": 41,
+   "averagePoints": 5.125,
    "playerStatus": "ok"
   },
   {
@@ -917,8 +917,8 @@
    "nickname": "Fer Niño",
    "positionId": 4,
    "marketValue": 41464061,
-   "points": 50,
-   "averagePoints": 6.25,
+   "points": 51,
+   "averagePoints": 6.375,
    "playerStatus": "ok"
   },
   {
@@ -962,7 +962,7 @@
   },
   {
    "position": 2,
-   "points": 346,
+   "points": 349,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 337225962
@@ -976,21 +976,21 @@
   },
   {
    "position": 4,
-   "points": 324,
+   "points": 326,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 172369975
   },
   {
    "position": 5,
-   "points": 292,
+   "points": 294,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 338174943
   },
   {
    "position": 6,
-   "points": 289,
+   "points": 292,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 285893497
@@ -1004,7 +1004,7 @@
   },
   {
    "position": 8,
-   "points": 246,
+   "points": 250,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 154774258
