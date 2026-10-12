@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T01:00:54+0000",
+ "fetched_at": "2026-10-12T02:00:52+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -11,13 +11,13 @@
   "openingWeekDate": "2026-10-09T21:00:00+02:00",
   "closingWeekDate": "2026-10-13T03:00:00+02:00"
  },
- "money": 9230545,
+ "money": 5230545,
  "investment": 0,
  "team": {
-  "teamValue": 154570667,
+  "teamValue": 158420317,
   "teamPoints": 222,
   "position": 8,
-  "playersNumber": 12
+  "playersNumber": 13
  },
  "squad": [
   {
@@ -130,6 +130,20 @@
    "playerStatus": "ok",
    "buyoutClause": 12707271,
    "lockedEnd": "2026-09-24T20:33:22+0200",
+   "onSale": false
+  },
+  {
+   "ptid": "98748204",
+   "id": "3182",
+   "nickname": "Lemar",
+   "positionId": 3,
+   "teamId": "7",
+   "marketValue": 3849650,
+   "points": 23,
+   "averagePoints": 4.6,
+   "playerStatus": "ok",
+   "buyoutClause": 4000000,
+   "lockedEnd": "2026-10-26T03:01:14+0100",
    "onSale": false
   },
   {
@@ -963,7 +977,7 @@
    "points": 301,
    "team_id": "37675747",
    "manager": "Javi Trauma",
-   "teamValue": 283952743
+   "teamValue": 280103093
   },
   {
    "position": 7,
@@ -977,7 +991,7 @@
    "points": 250,
    "team_id": "37682094",
    "manager": "menaweb",
-   "teamValue": 154570667
+   "teamValue": 158420317
   },
   {
    "position": 9,
