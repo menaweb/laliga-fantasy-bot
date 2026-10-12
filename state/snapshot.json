@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T20:14:43+0000",
+ "fetched_at": "2026-10-12T21:00:56+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -97,8 +97,8 @@
    "positionId": 2,
    "teamId": "17",
    "marketValue": 24929687,
-   "points": 36,
-   "averagePoints": 4.5,
+   "points": 33,
+   "averagePoints": 4.125,
    "playerStatus": "ok",
    "buyoutClause": 35899764,
    "lockedEnd": "2026-10-16T20:08:13+0200",
@@ -346,8 +346,8 @@
    "nickname": "Félix Correia",
    "positionId": 4,
    "marketValue": 4899193,
-   "points": 14,
-   "averagePoints": 2.8,
+   "points": 19,
+   "averagePoints": 3.8,
    "playerStatus": "ok"
   },
   {
@@ -811,8 +811,8 @@
    "nickname": "Kike Salas",
    "positionId": 2,
    "marketValue": 13919135,
-   "points": 27,
-   "averagePoints": 4.5,
+   "points": 25,
+   "averagePoints": 4.166666666666667,
    "playerStatus": "ok"
   },
   {
@@ -901,8 +901,8 @@
    "nickname": "Ryan",
    "positionId": 1,
    "marketValue": 24429358,
-   "points": 46,
-   "averagePoints": 5.75,
+   "points": 45,
+   "averagePoints": 5.625,
    "playerStatus": "ok"
   }
  ],
@@ -923,14 +923,14 @@
   },
   {
    "position": 3,
-   "points": 358,
+   "points": 355,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 340986019
   },
   {
    "position": 4,
-   "points": 340,
+   "points": 352,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 174744352
@@ -951,14 +951,14 @@
   },
   {
    "position": 7,
-   "points": 269,
+   "points": 267,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 196406774
   },
   {
    "position": 8,
-   "points": 250,
+   "points": 247,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 158420317
