@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T19:00:58+0000",
+ "fetched_at": "2026-10-12T20:00:56+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -486,6 +486,21 @@
    "playerStatus": "ok"
   },
   {
+   "id": "3104",
+   "discr": "marketPlayerTeam",
+   "salePrice": 854976450,
+   "expirationDate": "2026-10-15T21:28:55+02:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Lamine Yamal",
+   "positionId": 4,
+   "marketValue": 193029283,
+   "points": 109,
+   "averagePoints": 13.625,
+   "playerStatus": "ok"
+  },
+  {
    "id": "1337",
    "discr": "marketPlayerTeam",
    "salePrice": 281827070,
@@ -533,8 +548,8 @@
   {
    "id": "3054",
    "discr": "marketPlayerTeam",
-   "salePrice": 10857849,
-   "expirationDate": "2026-10-12T21:02:23+02:00",
+   "salePrice": 25480894,
+   "expirationDate": "2026-10-15T21:27:52+02:00",
    "numberOfBids": null,
    "seller": "37668923",
    "myBid": null,
@@ -623,8 +638,8 @@
   {
    "id": "2078",
    "discr": "marketPlayerTeam",
-   "salePrice": 23457896,
-   "expirationDate": "2026-10-12T21:02:40+02:00",
+   "salePrice": 23645897,
+   "expirationDate": "2026-10-15T21:28:16+02:00",
    "numberOfBids": null,
    "seller": "37668923",
    "myBid": null,
@@ -638,8 +653,8 @@
   {
    "id": "2626",
    "discr": "marketPlayerTeam",
-   "salePrice": 65487589,
-   "expirationDate": "2026-10-12T21:03:30+02:00",
+   "salePrice": 49785046,
+   "expirationDate": "2026-10-15T21:28:27+02:00",
    "numberOfBids": null,
    "seller": "37668923",
    "myBid": null,
@@ -766,8 +781,8 @@
    "nickname": "Vlachodimos",
    "positionId": 1,
    "marketValue": 30587017,
-   "points": 46,
-   "averagePoints": 5.75,
+   "points": 47,
+   "averagePoints": 5.875,
    "playerStatus": "ok"
   },
   {
@@ -796,8 +811,8 @@
    "nickname": "Kike Salas",
    "positionId": 2,
    "marketValue": 13919135,
-   "points": 24,
-   "averagePoints": 4.0,
+   "points": 27,
+   "averagePoints": 4.5,
    "playerStatus": "ok"
   },
   {
@@ -886,15 +901,15 @@
    "nickname": "Ryan",
    "positionId": 1,
    "marketValue": 24429358,
-   "points": 45,
-   "averagePoints": 5.625,
+   "points": 46,
+   "averagePoints": 5.75,
    "playerStatus": "ok"
   }
  ],
  "standing": [
   {
    "position": 1,
-   "points": 426,
+   "points": 427,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 532766932
@@ -908,14 +923,14 @@
   },
   {
    "position": 3,
-   "points": 356,
+   "points": 357,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 340986019
   },
   {
    "position": 4,
-   "points": 343,
+   "points": 342,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 174744352
@@ -936,7 +951,7 @@
   },
   {
    "position": 7,
-   "points": 268,
+   "points": 269,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 196406774
