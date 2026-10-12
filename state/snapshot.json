@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T20:00:56+0000",
+ "fetched_at": "2026-10-12T20:14:43+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -346,8 +346,8 @@
    "nickname": "Félix Correia",
    "positionId": 4,
    "marketValue": 4899193,
-   "points": 15,
-   "averagePoints": 3.0,
+   "points": 14,
+   "averagePoints": 2.8,
    "playerStatus": "ok"
   },
   {
@@ -923,14 +923,14 @@
   },
   {
    "position": 3,
-   "points": 357,
+   "points": 358,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 340986019
   },
   {
    "position": 4,
-   "points": 342,
+   "points": 340,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 174744352
