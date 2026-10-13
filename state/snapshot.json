@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T20:00:56+0000",
+ "fetched_at": "2026-10-13T21:01:02+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -528,21 +528,6 @@
    "marketValue": 49491218,
    "points": 52,
    "averagePoints": 6.5,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3116",
-   "discr": "marketPlayerTeam",
-   "salePrice": 27924926,
-   "expirationDate": "2026-10-13T22:49:19+02:00",
-   "numberOfBids": null,
-   "seller": "37667518",
-   "myBid": null,
-   "nickname": "Bernardo Silva",
-   "positionId": 3,
-   "marketValue": 26481620,
-   "points": 23,
-   "averagePoints": 2.875,
    "playerStatus": "ok"
   },
   {
