@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T15:01:03+0000",
+ "fetched_at": "2026-10-13T16:01:05+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -1113,6 +1113,21 @@
    "marketValue": 82109369,
    "points": 49,
    "averagePoints": 6.125,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2958",
+   "discr": "marketPlayerTeam",
+   "salePrice": 1200000,
+   "expirationDate": "2026-10-16T17:24:54+02:00",
+   "numberOfBids": null,
+   "seller": "37664261",
+   "myBid": null,
+   "nickname": "Morcillo",
+   "positionId": 3,
+   "marketValue": 761568,
+   "points": 22,
+   "averagePoints": 2.75,
    "playerStatus": "ok"
   }
  ],
