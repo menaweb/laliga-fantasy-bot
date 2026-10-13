@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-13T21:01:02+0000",
+ "fetched_at": "2026-10-13T22:00:57+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -295,7 +295,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 9588795,
    "expirationDate": "2026-10-14T20:08:00+02:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Rubén García",
@@ -370,7 +370,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 14375548,
    "expirationDate": "2026-10-14T20:08:00+02:00",
-   "numberOfBids": 1,
+   "numberOfBids": 2,
    "seller": "",
    "myBid": null,
    "nickname": "Javi Hernández",
@@ -816,21 +816,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2673",
-   "discr": "marketPlayerTeam",
-   "salePrice": 1000000,
-   "expirationDate": "2026-10-15T23:25:45+02:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "Paco Cortes",
-   "positionId": 4,
-   "marketValue": 566554,
-   "points": 7,
-   "averagePoints": 0.875,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2746",
    "discr": "marketPlayerTeam",
    "salePrice": 18000000,
@@ -1039,6 +1024,21 @@
    "points": 58,
    "averagePoints": 8.285714285714286,
    "playerStatus": "ok"
+  },
+  {
+   "id": "3262",
+   "discr": "marketPlayerTeam",
+   "salePrice": 5100000,
+   "expirationDate": "2026-10-16T23:45:05+02:00",
+   "numberOfBids": null,
+   "seller": "37664261",
+   "myBid": null,
+   "nickname": "Félix Correia",
+   "positionId": 4,
+   "marketValue": 4846578,
+   "points": 23,
+   "averagePoints": 4.6,
+   "playerStatus": "ok"
   }
  ],
  "standing": [
@@ -1061,7 +1061,7 @@
    "points": 360,
    "team_id": "37664261",
    "manager": "Javi Cepas",
-   "teamValue": 354960624
+   "teamValue": 354394070
   },
   {
    "position": 4,
