@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T09:01:00+0000",
+ "fetched_at": "2026-10-14T10:01:02+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -127,7 +127,7 @@
    "marketValue": 4774373,
    "points": 26,
    "averagePoints": 3.25,
-   "playerStatus": "ok",
+   "playerStatus": "injured",
    "buyoutClause": 12707271,
    "lockedEnd": "2026-09-24T20:33:22+0200",
    "onSale": false
