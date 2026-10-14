@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T10:05:31+0000",
+ "fetched_at": "2026-10-14T11:00:59+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -501,6 +501,21 @@
    "playerStatus": "ok"
   },
   {
+   "id": "2520",
+   "discr": "marketPlayerTeam",
+   "salePrice": 559657680,
+   "expirationDate": "2026-10-17T12:05:45+02:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Roberto",
+   "positionId": 4,
+   "marketValue": 55965768,
+   "points": 52,
+   "averagePoints": 6.5,
+   "playerStatus": "ok"
+  },
+  {
    "id": "2457",
    "discr": "marketPlayerTeam",
    "salePrice": 56854785,
@@ -543,6 +558,21 @@
    "marketValue": 26542116,
    "points": 44,
    "averagePoints": 5.5,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3143",
+   "discr": "marketPlayerTeam",
+   "salePrice": 714628500,
+   "expirationDate": "2026-10-17T12:05:57+02:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Diomande",
+   "positionId": 4,
+   "marketValue": 71462850,
+   "points": 41,
+   "averagePoints": 5.125,
    "playerStatus": "ok"
   },
   {
@@ -678,6 +708,21 @@
    "marketValue": 38036609,
    "points": 53,
    "averagePoints": 6.625,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3089",
+   "discr": "marketPlayerTeam",
+   "salePrice": 584243800,
+   "expirationDate": "2026-10-17T12:05:51+02:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Ez Abde",
+   "positionId": 4,
+   "marketValue": 58424380,
+   "points": 32,
+   "averagePoints": 6.4,
    "playerStatus": "ok"
   },
   {
