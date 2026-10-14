@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T06:00:56+0000",
+ "fetched_at": "2026-10-14T07:00:57+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -588,51 +588,6 @@
    "marketValue": 1114091,
    "points": 14,
    "averagePoints": 2.8,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "1614",
-   "discr": "marketPlayerTeam",
-   "salePrice": 17667230,
-   "expirationDate": "2026-10-14T08:24:59+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Cardona",
-   "positionId": 2,
-   "marketValue": 1741313,
-   "points": 10,
-   "averagePoints": 1.25,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2995",
-   "discr": "marketPlayerTeam",
-   "salePrice": 358474310,
-   "expirationDate": "2026-10-14T08:25:12+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Mario Soriano",
-   "positionId": 3,
-   "marketValue": 38036609,
-   "points": 53,
-   "averagePoints": 6.625,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3089",
-   "discr": "marketPlayerTeam",
-   "salePrice": 549104710,
-   "expirationDate": "2026-10-14T08:25:26+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Ez Abde",
-   "positionId": 4,
-   "marketValue": 58424380,
-   "points": 32,
-   "averagePoints": 6.4,
    "playerStatus": "ok"
   },
   {
