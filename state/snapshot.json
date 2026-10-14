@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T15:04:58+0000",
+ "fetched_at": "2026-10-14T16:01:02+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -363,7 +363,7 @@
    "marketValue": 35791247,
    "points": 41,
    "averagePoints": 5.857142857142857,
-   "playerStatus": "injured"
+   "playerStatus": "doubtful"
   },
   {
    "id": "3161",
@@ -573,36 +573,6 @@
    "marketValue": 71462850,
    "points": 41,
    "averagePoints": 5.125,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2772",
-   "discr": "marketPlayerTeam",
-   "salePrice": 480575270,
-   "expirationDate": "2026-10-14T18:57:00+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "C. Soler",
-   "positionId": 3,
-   "marketValue": 50381571,
-   "points": 52,
-   "averagePoints": 6.5,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "1565",
-   "discr": "marketPlayerTeam",
-   "salePrice": 348908320,
-   "expirationDate": "2026-10-15T16:37:50+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Barrios",
-   "positionId": 3,
-   "marketValue": 36266988,
-   "points": 30,
-   "averagePoints": 6.0,
    "playerStatus": "ok"
   },
   {
@@ -1113,6 +1083,36 @@
    "marketValue": 4889214,
    "points": 23,
    "averagePoints": 4.6,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "1565",
+   "discr": "marketPlayerTeam",
+   "salePrice": 362669880,
+   "expirationDate": "2026-10-17T17:45:57+02:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Barrios",
+   "positionId": 3,
+   "marketValue": 36266988,
+   "points": 30,
+   "averagePoints": 6.0,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2772",
+   "discr": "marketPlayerTeam",
+   "salePrice": 503815710,
+   "expirationDate": "2026-10-17T17:46:05+02:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "C. Soler",
+   "positionId": 3,
+   "marketValue": 50381571,
+   "points": 52,
+   "averagePoints": 6.5,
    "playerStatus": "ok"
   }
  ],
