@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-14T14:01:02+0000",
+ "fetched_at": "2026-10-14T15:01:02+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -295,7 +295,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 9588795,
    "expirationDate": "2026-10-14T20:08:00+02:00",
-   "numberOfBids": 1,
+   "numberOfBids": 2,
    "seller": "",
    "myBid": null,
    "nickname": "Rubén García",
@@ -996,21 +996,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2755",
-   "discr": "marketPlayerTeam",
-   "salePrice": 47584896,
-   "expirationDate": "2026-10-15T09:51:08+02:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Ryan",
-   "positionId": 1,
-   "marketValue": 23807691,
-   "points": 48,
-   "averagePoints": 6.0,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2973",
    "discr": "marketPlayerTeam",
    "salePrice": 7500000,
@@ -1165,7 +1150,7 @@
    "points": 308,
    "team_id": "37668923",
    "manager": "Paco!!",
-   "teamValue": 365162713
+   "teamValue": 341355022
   },
   {
    "position": 6,
