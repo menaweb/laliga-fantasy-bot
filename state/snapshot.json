@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T14:01:00+0000",
+ "fetched_at": "2026-10-15T14:55:00+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -560,36 +560,6 @@
    "points": 32,
    "averagePoints": 6.4,
    "playerStatus": "ok"
-  },
-  {
-   "id": "2759",
-   "discr": "marketPlayerTeam",
-   "salePrice": 305870170,
-   "expirationDate": "2026-10-15T16:37:16+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Vlachodimos",
-   "positionId": 1,
-   "marketValue": 29712695,
-   "points": 52,
-   "averagePoints": 6.5,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3081",
-   "discr": "marketPlayerTeam",
-   "salePrice": 164623190,
-   "expirationDate": "2026-10-15T16:37:26+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Ratiu",
-   "positionId": 2,
-   "marketValue": 15321782,
-   "points": 18,
-   "averagePoints": 2.5714285714285716,
-   "playerStatus": "doubtful"
   },
   {
    "id": "3155",
