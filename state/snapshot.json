@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T16:00:59+0000",
+ "fetched_at": "2026-10-15T17:01:01+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -412,6 +412,21 @@
    "playerStatus": "ok"
   },
   {
+   "id": "74",
+   "discr": "marketPlayerTeam",
+   "salePrice": 54879654,
+   "expirationDate": "2026-10-18T18:49:37+02:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Yuri",
+   "positionId": 2,
+   "marketValue": 20191081,
+   "points": 31,
+   "averagePoints": 4.428571428571429,
+   "playerStatus": "ok"
+  },
+  {
    "id": "1775",
    "discr": "marketPlayerTeam",
    "salePrice": 590920680,
@@ -424,6 +439,21 @@
    "marketValue": 59959640,
    "points": 27,
    "averagePoints": 3.375,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2548",
+   "discr": "marketPlayerTeam",
+   "salePrice": 54980884,
+   "expirationDate": "2026-10-18T18:50:48+02:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Riquelme",
+   "positionId": 3,
+   "marketValue": 14989961,
+   "points": 38,
+   "averagePoints": 4.75,
    "playerStatus": "ok"
   },
   {
@@ -562,6 +592,36 @@
    "playerStatus": "ok"
   },
   {
+   "id": "2552",
+   "discr": "marketPlayerTeam",
+   "salePrice": 68458759,
+   "expirationDate": "2026-10-18T18:50:19+02:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Jonny Otto",
+   "positionId": 2,
+   "marketValue": 19962136,
+   "points": 36,
+   "averagePoints": 4.5,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2354",
+   "discr": "marketPlayerTeam",
+   "salePrice": 86542758,
+   "expirationDate": "2026-10-18T18:49:58+02:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Eric",
+   "positionId": 2,
+   "marketValue": 46513516,
+   "points": 41,
+   "averagePoints": 5.125,
+   "playerStatus": "ok"
+  },
+  {
    "id": "3155",
    "discr": "marketPlayerTeam",
    "salePrice": 821759230,
@@ -574,6 +634,21 @@
    "marketValue": 82175923,
    "points": 62,
    "averagePoints": 7.75,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2941",
+   "discr": "marketPlayerTeam",
+   "salePrice": 24578496,
+   "expirationDate": "2026-10-18T18:51:15+02:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "T. Morente",
+   "positionId": 4,
+   "marketValue": 5121393,
+   "points": 36,
+   "averagePoints": 4.5,
    "playerStatus": "ok"
   },
   {
