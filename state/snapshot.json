@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-15T19:04:16+0000",
+ "fetched_at": "2026-10-15T20:00:56+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -484,51 +484,6 @@
    "marketValue": 56331290,
    "points": 52,
    "averagePoints": 6.5,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3054",
-   "discr": "marketPlayerTeam",
-   "salePrice": 25480894,
-   "expirationDate": "2026-10-15T21:27:52+02:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Recio",
-   "positionId": 2,
-   "marketValue": 3488559,
-   "points": 32,
-   "averagePoints": 4.0,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2078",
-   "discr": "marketPlayerTeam",
-   "salePrice": 23645897,
-   "expirationDate": "2026-10-15T21:28:16+02:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Hugo Alvarez",
-   "positionId": 3,
-   "marketValue": 4214678,
-   "points": 36,
-   "averagePoints": 4.5,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2626",
-   "discr": "marketPlayerTeam",
-   "salePrice": 49785046,
-   "expirationDate": "2026-10-15T21:28:27+02:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Deossa",
-   "positionId": 3,
-   "marketValue": 14293913,
-   "points": 43,
-   "averagePoints": 5.375,
    "playerStatus": "ok"
   },
   {
