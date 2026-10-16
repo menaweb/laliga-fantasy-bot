@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T15:01:02+0000",
+ "fetched_at": "2026-10-16T16:01:01+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -637,21 +637,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2772",
-   "discr": "marketPlayerTeam",
-   "salePrice": 503815710,
-   "expirationDate": "2026-10-17T17:46:05+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "C. Soler",
-   "positionId": 3,
-   "marketValue": 51672732,
-   "points": 52,
-   "averagePoints": 6.5,
-   "playerStatus": "ok"
-  },
-  {
    "id": "652",
    "discr": "marketPlayerTeam",
    "salePrice": 42548709,
@@ -994,6 +979,21 @@
    "marketValue": 4520943,
    "points": 26,
    "averagePoints": 3.25,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2772",
+   "discr": "marketPlayerTeam",
+   "salePrice": 516727320,
+   "expirationDate": "2026-10-19T17:48:21+02:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "C. Soler",
+   "positionId": 3,
+   "marketValue": 51672732,
+   "points": 52,
+   "averagePoints": 6.5,
    "playerStatus": "ok"
   }
  ],
