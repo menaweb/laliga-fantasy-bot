@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-16T20:01:00+0000",
+ "fetched_at": "2026-10-16T20:59:27+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -139,8 +139,8 @@
    "positionId": 3,
    "teamId": "26",
    "marketValue": 800285,
-   "points": 15,
-   "averagePoints": 1.6666666666666667,
+   "points": 17,
+   "averagePoints": 1.8888888888888888,
    "playerStatus": "ok",
    "buyoutClause": 2393361,
    "lockedEnd": "2026-09-01T20:08:29+0200",
@@ -557,8 +557,8 @@
    "nickname": "Mario Soriano",
    "positionId": 3,
    "marketValue": 40049038,
-   "points": 53,
-   "averagePoints": 5.888888888888889,
+   "points": 52,
+   "averagePoints": 5.777777777777778,
    "playerStatus": "ok"
   },
   {
@@ -1045,7 +1045,7 @@
  "standing": [
   {
    "position": 1,
-   "points": 432,
+   "points": 431,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 521162466
@@ -1066,7 +1066,7 @@
   },
   {
    "position": 4,
-   "points": 360,
+   "points": 358,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 184058464
@@ -1094,7 +1094,7 @@
   },
   {
    "position": 8,
-   "points": 250,
+   "points": 252,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 151705702
