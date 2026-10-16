@@ -1,10 +1,10 @@
 {
- "fetched_at": "2026-10-16T19:00:55+0000",
+ "fetched_at": "2026-10-16T20:01:00+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
  "week": {
-  "isLive": false,
+  "isLive": true,
   "nextWeek": 10,
   "previousWeek": 8,
   "weekNumber": 9,
@@ -140,7 +140,7 @@
    "teamId": "26",
    "marketValue": 800285,
    "points": 15,
-   "averagePoints": 1.875,
+   "averagePoints": 1.6666666666666667,
    "playerStatus": "ok",
    "buyoutClause": 2393361,
    "lockedEnd": "2026-09-01T20:08:29+0200",
@@ -558,7 +558,7 @@
    "positionId": 3,
    "marketValue": 40049038,
    "points": 53,
-   "averagePoints": 6.625,
+   "averagePoints": 5.888888888888889,
    "playerStatus": "ok"
   },
   {
@@ -828,7 +828,7 @@
    "positionId": 3,
    "marketValue": 6484607,
    "points": 30,
-   "averagePoints": 4.285714285714286,
+   "averagePoints": 3.75,
    "playerStatus": "ok"
   },
   {
@@ -1052,7 +1052,7 @@
   },
   {
    "position": 2,
-   "points": 372,
+   "points": 373,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 221493151
