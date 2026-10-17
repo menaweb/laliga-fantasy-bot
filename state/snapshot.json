@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T22:00:58+0000",
+ "fetched_at": "2026-10-17T22:13:39+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -693,51 +693,6 @@
    "marketValue": 38945242,
    "points": 34,
    "averagePoints": 5.666666666666667,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2634",
-   "discr": "marketPlayerTeam",
-   "salePrice": 60000000,
-   "expirationDate": "2026-10-18T00:03:53+02:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "Joan García",
-   "positionId": 1,
-   "marketValue": 61873634,
-   "points": 63,
-   "averagePoints": 7.875,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2511",
-   "discr": "marketPlayerTeam",
-   "salePrice": 54870858,
-   "expirationDate": "2026-10-18T00:12:46+02:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "R. Terrats",
-   "positionId": 3,
-   "marketValue": 20274924,
-   "points": 42,
-   "averagePoints": 6.0,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2504",
-   "discr": "marketPlayerTeam",
-   "salePrice": 84525874,
-   "expirationDate": "2026-10-18T00:13:00+02:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Ayoze",
-   "positionId": 4,
-   "marketValue": 29615833,
-   "points": 44,
-   "averagePoints": 4.888888888888889,
    "playerStatus": "ok"
   },
   {
