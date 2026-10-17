@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T13:00:56+0000",
+ "fetched_at": "2026-10-17T13:40:01+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -542,8 +542,8 @@
    "nickname": "Grimaldo",
    "positionId": 2,
    "marketValue": 83915910,
-   "points": 62,
-   "averagePoints": 6.888888888888889,
+   "points": 63,
+   "averagePoints": 7.0,
    "playerStatus": "ok"
   },
   {
@@ -572,8 +572,8 @@
    "nickname": "Barrios",
    "positionId": 3,
    "marketValue": 38945242,
-   "points": 31,
-   "averagePoints": 5.166666666666667,
+   "points": 30,
+   "averagePoints": 5.0,
    "playerStatus": "ok"
   },
   {
@@ -917,8 +917,8 @@
    "nickname": "Riedel",
    "positionId": 2,
    "marketValue": 4568341,
-   "points": 26,
-   "averagePoints": 2.888888888888889,
+   "points": 27,
+   "averagePoints": 3.0,
    "playerStatus": "ok"
   },
   {
@@ -955,7 +955,7 @@
  "standing": [
   {
    "position": 1,
-   "points": 435,
+   "points": 434,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 527831753
@@ -976,7 +976,7 @@
   },
   {
    "position": 4,
-   "points": 363,
+   "points": 364,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 368782387
