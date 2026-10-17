@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T19:19:13+0000",
+ "fetched_at": "2026-10-17T20:00:53+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -811,8 +811,8 @@
    "nickname": "Laporte",
    "positionId": 2,
    "marketValue": 44337531,
-   "points": 37,
-   "averagePoints": 4.625,
+   "points": 36,
+   "averagePoints": 4.5,
    "playerStatus": "ok"
   },
   {
@@ -1073,21 +1073,21 @@
   },
   {
    "position": 3,
-   "points": 387,
+   "points": 386,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 221956090
   },
   {
    "position": 4,
-   "points": 365,
+   "points": 366,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 170451126
   },
   {
    "position": 5,
-   "points": 322,
+   "points": 321,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 291195416
