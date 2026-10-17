@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T14:00:59+0000",
+ "fetched_at": "2026-10-17T15:00:58+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -12,7 +12,7 @@
   "closingWeekDate": "2026-10-20T03:00:00+02:00"
  },
  "money": 12191402,
- "investment": 0,
+ "investment": 11399762,
  "team": {
   "teamValue": 150872354,
   "teamPoints": 250,
@@ -126,7 +126,7 @@
    "teamId": "7",
    "marketValue": 4188502,
    "points": 23,
-   "averagePoints": 4.6,
+   "averagePoints": 3.8333333333333335,
    "playerStatus": "ok",
    "buyoutClause": 4188502,
    "lockedEnd": "2026-10-26T03:01:14+0100",
@@ -153,8 +153,8 @@
    "positionId": 3,
    "teamId": "7",
    "marketValue": 9640356,
-   "points": 35,
-   "averagePoints": 4.375,
+   "points": 34,
+   "averagePoints": 3.7777777777777777,
    "playerStatus": "ok",
    "buyoutClause": 10291509,
    "lockedEnd": "2026-10-19T23:11:39+0200",
@@ -182,7 +182,7 @@
    "teamId": "20",
    "marketValue": 25315152,
    "points": 40,
-   "averagePoints": 5.0,
+   "averagePoints": 4.444444444444445,
    "playerStatus": "ok",
    "buyoutClause": 51555905,
    "lockedEnd": "2026-08-19T00:06:12+0200",
@@ -236,14 +236,14 @@
    "discr": "marketPlayerLeague",
    "salePrice": 37780168,
    "expirationDate": "2026-10-17T20:08:00+02:00",
-   "numberOfBids": 1,
+   "numberOfBids": 0,
    "seller": "",
    "myBid": null,
    "nickname": "Mikautadze",
    "positionId": 4,
    "marketValue": 37589494,
    "points": 47,
-   "averagePoints": 5.875,
+   "averagePoints": 5.222222222222222,
    "playerStatus": "ok"
   },
   {
@@ -296,7 +296,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 4983845,
    "expirationDate": "2026-10-17T20:08:00+02:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "A. Rebbach",
@@ -333,7 +333,7 @@
    "positionId": 2,
    "marketValue": 557051,
    "points": 16,
-   "averagePoints": 3.2,
+   "averagePoints": 2.6666666666666665,
    "playerStatus": "ok"
   },
   {
@@ -363,7 +363,7 @@
    "positionId": 2,
    "marketValue": 3165109,
    "points": 13,
-   "averagePoints": 1.625,
+   "averagePoints": 1.4444444444444444,
    "playerStatus": "ok"
   },
   {
@@ -558,7 +558,7 @@
    "positionId": 4,
    "marketValue": 5125484,
    "points": 36,
-   "averagePoints": 4.5,
+   "averagePoints": 4.0,
    "playerStatus": "ok"
   },
   {
@@ -662,8 +662,8 @@
    "nickname": "Freeman",
    "positionId": 2,
    "marketValue": 4249979,
-   "points": 27,
-   "averagePoints": 3.375,
+   "points": 29,
+   "averagePoints": 3.2222222222222223,
    "playerStatus": "ok"
   },
   {
@@ -677,8 +677,8 @@
    "nickname": "Revivo",
    "positionId": 2,
    "marketValue": 3584157,
-   "points": 25,
-   "averagePoints": 5.0,
+   "points": 26,
+   "averagePoints": 4.333333333333333,
    "playerStatus": "ok"
   },
   {
@@ -723,7 +723,7 @@
    "positionId": 3,
    "marketValue": 846809,
    "points": 22,
-   "averagePoints": 2.75,
+   "averagePoints": 2.4444444444444446,
    "playerStatus": "ok"
   },
   {
@@ -768,7 +768,7 @@
    "positionId": 4,
    "marketValue": 9421291,
    "points": 33,
-   "averagePoints": 4.125,
+   "averagePoints": 3.6666666666666665,
    "playerStatus": "ok"
   },
   {
@@ -858,7 +858,7 @@
    "positionId": 4,
    "marketValue": 29615833,
    "points": 39,
-   "averagePoints": 4.875,
+   "averagePoints": 4.333333333333333,
    "playerStatus": "ok"
   },
   {
@@ -976,7 +976,7 @@
   },
   {
    "position": 4,
-   "points": 368,
+   "points": 371,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 368782387
@@ -990,7 +990,7 @@
   },
   {
    "position": 6,
-   "points": 306,
+   "points": 307,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 282796406
@@ -1004,7 +1004,7 @@
   },
   {
    "position": 8,
-   "points": 258,
+   "points": 257,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 150872354
