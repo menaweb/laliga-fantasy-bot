@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-17T17:04:12+0000",
+ "fetched_at": "2026-10-17T18:00:55+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -377,8 +377,8 @@
    "nickname": "Llorente ",
    "positionId": 2,
    "marketValue": 4530659,
-   "points": 15,
-   "averagePoints": 2.5,
+   "points": 13,
+   "averagePoints": 2.1666666666666665,
    "playerStatus": "ok"
   },
   {
@@ -542,8 +542,8 @@
    "nickname": "Ez Abde",
    "positionId": 4,
    "marketValue": 61094966,
-   "points": 32,
-   "averagePoints": 5.333333333333333,
+   "points": 35,
+   "averagePoints": 5.833333333333333,
    "playerStatus": "ok"
   },
   {
@@ -692,8 +692,8 @@
    "nickname": "Joan García",
    "positionId": 1,
    "marketValue": 61873634,
-   "points": 58,
-   "averagePoints": 7.25,
+   "points": 59,
+   "averagePoints": 7.375,
    "playerStatus": "ok"
   },
   {
@@ -872,8 +872,8 @@
    "nickname": "Lamine Yamal",
    "positionId": 4,
    "marketValue": 193941762,
-   "points": 114,
-   "averagePoints": 12.666666666666666,
+   "points": 118,
+   "averagePoints": 13.11111111111111,
    "playerStatus": "ok"
   },
   {
@@ -1015,28 +1015,28 @@
  "standing": [
   {
    "position": 1,
-   "points": 444,
+   "points": 447,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 470913004
   },
   {
    "position": 2,
-   "points": 395,
+   "points": 400,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 368782387
   },
   {
    "position": 3,
-   "points": 386,
+   "points": 384,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 221956090
   },
   {
    "position": 4,
-   "points": 371,
+   "points": 364,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 185193988
@@ -1050,7 +1050,7 @@
   },
   {
    "position": 6,
-   "points": 307,
+   "points": 304,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 282796406
