@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T14:00:54+0000",
+ "fetched_at": "2026-10-18T14:31:27+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -302,7 +302,7 @@
    "positionId": 2,
    "marketValue": 36516902,
    "points": 53,
-   "averagePoints": 6.625,
+   "averagePoints": 5.888888888888889,
    "playerStatus": "ok"
   },
   {
@@ -361,8 +361,8 @@
    "nickname": "Iván Martín",
    "positionId": 3,
    "marketValue": 5365246,
-   "points": 25,
-   "averagePoints": 3.125,
+   "points": 26,
+   "averagePoints": 3.25,
    "playerStatus": "ok"
   },
   {
@@ -482,7 +482,7 @@
    "positionId": 2,
    "marketValue": 26191709,
    "points": 43,
-   "averagePoints": 5.375,
+   "averagePoints": 4.777777777777778,
    "playerStatus": "ok"
   },
   {
@@ -512,7 +512,7 @@
    "positionId": 3,
    "marketValue": 4701495,
    "points": 36,
-   "averagePoints": 4.5,
+   "averagePoints": 4.0,
    "playerStatus": "ok"
   },
   {
@@ -542,7 +542,7 @@
    "positionId": 2,
    "marketValue": 3695668,
    "points": 23,
-   "averagePoints": 2.875,
+   "averagePoints": 2.5555555555555554,
    "playerStatus": "ok"
   },
   {
@@ -602,7 +602,7 @@
    "positionId": 2,
    "marketValue": 19619388,
    "points": 36,
-   "averagePoints": 4.5,
+   "averagePoints": 4.0,
    "playerStatus": "ok"
   },
   {
@@ -872,7 +872,7 @@
    "positionId": 3,
    "marketValue": 27398207,
    "points": 41,
-   "averagePoints": 5.125,
+   "averagePoints": 4.555555555555555,
    "playerStatus": "ok"
   },
   {
