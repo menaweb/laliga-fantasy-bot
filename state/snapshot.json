@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T23:00:55+0000",
+ "fetched_at": "2026-10-18T23:03:17+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -1099,14 +1099,14 @@
    "points": 425,
    "team_id": "37664261",
    "manager": "Javi Cepas",
-   "teamValue": 359178516
+   "teamValue": 361945121
   },
   {
    "position": 3,
    "points": 422,
    "team_id": "37678052",
    "manager": "olegwarrior",
-   "teamValue": 222356165
+   "teamValue": 223274143
   },
   {
    "position": 4,
@@ -1148,7 +1148,7 @@
    "points": 189,
    "team_id": "37681066",
    "manager": "Miguel Canuelo",
-   "teamValue": 98944036
+   "teamValue": 97552726
   }
  ]
 }
