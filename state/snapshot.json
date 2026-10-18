@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T15:00:59+0000",
+ "fetched_at": "2026-10-18T16:00:58+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -242,7 +242,7 @@
    "positionId": 5,
    "marketValue": 578232,
    "points": 19,
-   "averagePoints": 2.375,
+   "averagePoints": 2.111111111111111,
    "playerStatus": "ok"
   },
   {
@@ -481,8 +481,8 @@
    "nickname": "Tenaglia",
    "positionId": 2,
    "marketValue": 26191709,
-   "points": 43,
-   "averagePoints": 4.777777777777778,
+   "points": 41,
+   "averagePoints": 4.555555555555555,
    "playerStatus": "ok"
   },
   {
@@ -511,8 +511,8 @@
    "nickname": "Hugo Alvarez",
    "positionId": 3,
    "marketValue": 4701495,
-   "points": 37,
-   "averagePoints": 4.111111111111111,
+   "points": 36,
+   "averagePoints": 4.0,
    "playerStatus": "ok"
   },
   {
@@ -1029,7 +1029,7 @@
  "standing": [
   {
    "position": 1,
-   "points": 449,
+   "points": 447,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 579257605
@@ -1050,14 +1050,14 @@
   },
   {
    "position": 4,
-   "points": 377,
+   "points": 378,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 171129905
   },
   {
    "position": 5,
-   "points": 350,
+   "points": 349,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 291584343
@@ -1074,7 +1074,7 @@
    "points": 297,
    "team_id": "37667518",
    "manager": "Rcoba",
-   "teamValue": 156309247
+   "teamValue": 167665502
   },
   {
    "position": 8,
@@ -1088,7 +1088,7 @@
    "points": 189,
    "team_id": "37681066",
    "manager": "Miguel Canuelo",
-   "teamValue": 110300291
+   "teamValue": 98944036
   }
  ]
 }
