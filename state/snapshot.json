@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T13:00:56+0000",
+ "fetched_at": "2026-10-18T14:00:54+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -41,8 +41,8 @@
    "positionId": 2,
    "teamId": "49",
    "marketValue": 1331551,
-   "points": 19,
-   "averagePoints": 2.111111111111111,
+   "points": 23,
+   "averagePoints": 2.5555555555555554,
    "playerStatus": "ok",
    "buyoutClause": 1557922,
    "lockedEnd": "2026-09-21T21:05:53+0200",
@@ -361,8 +361,8 @@
    "nickname": "Iván Martín",
    "positionId": 3,
    "marketValue": 5365246,
-   "points": 24,
-   "averagePoints": 3.0,
+   "points": 25,
+   "averagePoints": 3.125,
    "playerStatus": "ok"
   },
   {
@@ -998,7 +998,7 @@
   },
   {
    "position": 3,
-   "points": 400,
+   "points": 406,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 222356165
@@ -1012,28 +1012,28 @@
   },
   {
    "position": 5,
-   "points": 341,
+   "points": 349,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 291584343
   },
   {
    "position": 6,
-   "points": 328,
+   "points": 347,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 280297629
   },
   {
    "position": 7,
-   "points": 295,
+   "points": 297,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 156309247
   },
   {
    "position": 8,
-   "points": 271,
+   "points": 275,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 159334454
