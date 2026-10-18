@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T12:00:58+0000",
+ "fetched_at": "2026-10-18T13:00:56+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -41,8 +41,8 @@
    "positionId": 2,
    "teamId": "49",
    "marketValue": 1331551,
-   "points": 17,
-   "averagePoints": 2.125,
+   "points": 19,
+   "averagePoints": 2.111111111111111,
    "playerStatus": "ok",
    "buyoutClause": 1557922,
    "lockedEnd": "2026-09-21T21:05:53+0200",
@@ -362,7 +362,7 @@
    "positionId": 3,
    "marketValue": 5365246,
    "points": 24,
-   "averagePoints": 3.4285714285714284,
+   "averagePoints": 3.0,
    "playerStatus": "ok"
   },
   {
@@ -408,7 +408,7 @@
    "marketValue": 69463344,
    "points": 49,
    "averagePoints": 7.0,
-   "playerStatus": "ok"
+   "playerStatus": "injured"
   },
   {
    "id": "3036",
@@ -1012,14 +1012,14 @@
   },
   {
    "position": 5,
-   "points": 340,
+   "points": 341,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 291584343
   },
   {
    "position": 6,
-   "points": 321,
+   "points": 328,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 280297629
@@ -1033,7 +1033,7 @@
   },
   {
    "position": 8,
-   "points": 269,
+   "points": 271,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 159334454
