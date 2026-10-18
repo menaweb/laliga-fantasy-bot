@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T14:31:27+0000",
+ "fetched_at": "2026-10-18T15:00:59+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -415,7 +415,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 10486003,
    "expirationDate": "2026-10-18T20:08:00+02:00",
-   "numberOfBids": 1,
+   "numberOfBids": 0,
    "seller": "",
    "myBid": null,
    "nickname": "Dani Lorenzo",
@@ -511,8 +511,8 @@
    "nickname": "Hugo Alvarez",
    "positionId": 3,
    "marketValue": 4701495,
-   "points": 36,
-   "averagePoints": 4.0,
+   "points": 37,
+   "averagePoints": 4.111111111111111,
    "playerStatus": "ok"
   },
   {
@@ -636,6 +636,21 @@
    "playerStatus": "doubtful"
   },
   {
+   "id": "3155",
+   "discr": "marketPlayerTeam",
+   "salePrice": 847303970,
+   "expirationDate": "2026-10-21T16:46:02+02:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Grimaldo",
+   "positionId": 2,
+   "marketValue": 84730397,
+   "points": 66,
+   "averagePoints": 7.333333333333333,
+   "playerStatus": "ok"
+  },
+  {
    "id": "2941",
    "discr": "marketPlayerTeam",
    "salePrice": 24578496,
@@ -678,6 +693,21 @@
    "marketValue": 39816676,
    "points": 34,
    "averagePoints": 5.666666666666667,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3143",
+   "discr": "marketPlayerTeam",
+   "salePrice": 782556510,
+   "expirationDate": "2026-10-21T16:46:21+02:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Diomande",
+   "positionId": 4,
+   "marketValue": 78255651,
+   "points": 41,
+   "averagePoints": 5.125,
    "playerStatus": "ok"
   },
   {
@@ -979,6 +1009,21 @@
    "points": 33,
    "averagePoints": 4.125,
    "playerStatus": "ok"
+  },
+  {
+   "id": "1674",
+   "discr": "marketPlayerTeam",
+   "salePrice": 1009685530,
+   "expirationDate": "2026-10-21T16:46:09+02:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Arda Güler",
+   "positionId": 3,
+   "marketValue": 100968553,
+   "points": 69,
+   "averagePoints": 8.625,
+   "playerStatus": "ok"
   }
  ],
  "standing": [
@@ -1005,14 +1050,14 @@
   },
   {
    "position": 4,
-   "points": 376,
+   "points": 377,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 171129905
   },
   {
    "position": 5,
-   "points": 349,
+   "points": 350,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 291584343
