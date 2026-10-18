@@ -20,13 +20,6 @@
  ],
  "runs": [
   {
-   "ts": "2026-09-30T16:00:59.295808+00:00",
-   "mode": "LIVE",
-   "actions": 0,
-   "spend": 0,
-   "requests": 22
-  },
-  {
    "ts": "2026-09-30T17:00:54.730687+00:00",
    "mode": "LIVE",
    "actions": 0,
@@ -3512,6 +3505,11 @@
    "ts": "2026-10-18T05:48:01.211776+00:00",
    "mode": "LIVE",
    "error": "api: GET /v1/competition/1/league/017900934/market -> HTTP 502: <html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.30.5</center"
+  },
+  {
+   "ts": "2026-10-18T06:00:54.940230+00:00",
+   "mode": "LIVE",
+   "error": "api: GET /v1/competition/1/leagues/017900934/teams/37682094 -> HTTP 502: <html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.30."
   }
  ],
  "live_writes_seen": [
