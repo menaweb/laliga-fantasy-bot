@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T05:00:57+0000",
+ "fetched_at": "2026-10-18T07:00:55+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -636,21 +636,6 @@
    "playerStatus": "doubtful"
   },
   {
-   "id": "3155",
-   "discr": "marketPlayerTeam",
-   "salePrice": 821759230,
-   "expirationDate": "2026-10-18T07:24:13+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Grimaldo",
-   "positionId": 2,
-   "marketValue": 84730397,
-   "points": 66,
-   "averagePoints": 7.333333333333333,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2941",
    "discr": "marketPlayerTeam",
    "salePrice": 24578496,
@@ -693,21 +678,6 @@
    "marketValue": 39816676,
    "points": 34,
    "averagePoints": 5.666666666666667,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3143",
-   "discr": "marketPlayerTeam",
-   "salePrice": 731489100,
-   "expirationDate": "2026-10-18T07:35:17+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Diomande",
-   "positionId": 4,
-   "marketValue": 78255651,
-   "points": 41,
-   "averagePoints": 5.125,
    "playerStatus": "ok"
   },
   {
