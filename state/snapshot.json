@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T20:34:14+0000",
+ "fetched_at": "2026-10-18T21:00:57+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -83,8 +83,8 @@
    "positionId": 2,
    "teamId": "17",
    "marketValue": 23426588,
-   "points": 33,
-   "averagePoints": 3.6666666666666665,
+   "points": 32,
+   "averagePoints": 3.5555555555555554,
    "playerStatus": "ok",
    "buyoutClause": 35899764,
    "lockedEnd": "2026-10-16T20:08:13+0200",
@@ -230,6 +230,201 @@
   ]
  },
  "market": [
+  {
+   "id": "2951",
+   "discr": "marketPlayerLeague",
+   "salePrice": 578232,
+   "expirationDate": "2026-10-19T20:08:00+02:00",
+   "numberOfBids": 0,
+   "seller": "",
+   "myBid": null,
+   "nickname": "Sánchez Flores",
+   "positionId": 5,
+   "marketValue": 578232,
+   "points": 19,
+   "averagePoints": 2.111111111111111,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2959",
+   "discr": "marketPlayerLeague",
+   "salePrice": 578232,
+   "expirationDate": "2026-10-19T20:08:00+02:00",
+   "numberOfBids": 0,
+   "seller": "",
+   "myBid": null,
+   "nickname": "Luis García",
+   "positionId": 5,
+   "marketValue": 578232,
+   "points": 24,
+   "averagePoints": 2.6666666666666665,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "1938",
+   "discr": "marketPlayerLeague",
+   "salePrice": 723361,
+   "expirationDate": "2026-10-19T20:08:00+02:00",
+   "numberOfBids": 0,
+   "seller": "",
+   "myBid": null,
+   "nickname": "Pol Lozano",
+   "positionId": 3,
+   "marketValue": 723361,
+   "points": 10,
+   "averagePoints": 1.1111111111111112,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "644",
+   "discr": "marketPlayerLeague",
+   "salePrice": 17269875,
+   "expirationDate": "2026-10-19T20:08:00+02:00",
+   "numberOfBids": 0,
+   "seller": "",
+   "myBid": null,
+   "nickname": "Sergio Herrera",
+   "positionId": 1,
+   "marketValue": 17269875,
+   "points": 22,
+   "averagePoints": 2.4444444444444446,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2434",
+   "discr": "marketPlayerLeague",
+   "salePrice": 1002262,
+   "expirationDate": "2026-10-19T20:08:00+02:00",
+   "numberOfBids": 0,
+   "seller": "",
+   "myBid": null,
+   "nickname": "Rodrygo",
+   "positionId": 4,
+   "marketValue": 1002262,
+   "points": 0,
+   "averagePoints": 0.0,
+   "playerStatus": "injured"
+  },
+  {
+   "id": "2640",
+   "discr": "marketPlayerLeague",
+   "salePrice": 1284009,
+   "expirationDate": "2026-10-19T20:08:00+02:00",
+   "numberOfBids": 0,
+   "seller": "",
+   "myBid": null,
+   "nickname": "Mario Martín",
+   "positionId": 3,
+   "marketValue": 1284009,
+   "points": 8,
+   "averagePoints": 1.6,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3257",
+   "discr": "marketPlayerLeague",
+   "salePrice": 589492,
+   "expirationDate": "2026-10-19T20:08:00+02:00",
+   "numberOfBids": 0,
+   "seller": "",
+   "myBid": null,
+   "nickname": "Diallo",
+   "positionId": 3,
+   "marketValue": 589492,
+   "points": 0,
+   "averagePoints": 0.0,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2501",
+   "discr": "marketPlayerLeague",
+   "salePrice": 580284,
+   "expirationDate": "2026-10-19T20:08:00+02:00",
+   "numberOfBids": 0,
+   "seller": "",
+   "myBid": null,
+   "nickname": "Nico Serrano",
+   "positionId": 4,
+   "marketValue": 580284,
+   "points": 2,
+   "averagePoints": 0.4,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3183",
+   "discr": "marketPlayerLeague",
+   "salePrice": 3121107,
+   "expirationDate": "2026-10-19T20:08:00+02:00",
+   "numberOfBids": 0,
+   "seller": "",
+   "myBid": null,
+   "nickname": "Dubasin",
+   "positionId": 4,
+   "marketValue": 3121107,
+   "points": 21,
+   "averagePoints": 2.3333333333333335,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2295",
+   "discr": "marketPlayerLeague",
+   "salePrice": 8649005,
+   "expirationDate": "2026-10-19T20:08:00+02:00",
+   "numberOfBids": 0,
+   "seller": "",
+   "myBid": null,
+   "nickname": "Febas",
+   "positionId": 3,
+   "marketValue": 8649005,
+   "points": 13,
+   "averagePoints": 2.1666666666666665,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3018",
+   "discr": "marketPlayerLeague",
+   "salePrice": 782589,
+   "expirationDate": "2026-10-19T20:08:00+02:00",
+   "numberOfBids": 0,
+   "seller": "",
+   "myBid": null,
+   "nickname": "Eriksson",
+   "positionId": 1,
+   "marketValue": 782589,
+   "points": 0,
+   "averagePoints": 0.0,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3173",
+   "discr": "marketPlayerLeague",
+   "salePrice": 591820,
+   "expirationDate": "2026-10-19T20:08:00+02:00",
+   "numberOfBids": 0,
+   "seller": "",
+   "myBid": null,
+   "nickname": "Cheikh Thiam",
+   "positionId": 3,
+   "marketValue": 591820,
+   "points": 0,
+   "averagePoints": 0.0,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "1337",
+   "discr": "marketPlayerLeague",
+   "salePrice": 26191709,
+   "expirationDate": "2026-10-19T20:08:00+02:00",
+   "numberOfBids": 0,
+   "seller": "",
+   "myBid": null,
+   "nickname": "Tenaglia",
+   "positionId": 2,
+   "marketValue": 26191709,
+   "points": 44,
+   "averagePoints": 4.888888888888889,
+   "playerStatus": "ok"
+  },
   {
    "id": "3035",
    "discr": "marketPlayerTeam",
@@ -406,8 +601,8 @@
    "nickname": "Diomande",
    "positionId": 4,
    "marketValue": 78255651,
-   "points": 44,
-   "averagePoints": 4.888888888888889,
+   "points": 49,
+   "averagePoints": 5.444444444444445,
    "playerStatus": "ok"
   },
   {
@@ -481,8 +676,8 @@
    "nickname": "A. Castrín",
    "positionId": 2,
    "marketValue": 11373505,
-   "points": 31,
-   "averagePoints": 3.4444444444444446,
+   "points": 29,
+   "averagePoints": 3.2222222222222223,
    "playerStatus": "ok"
   },
   {
@@ -556,8 +751,8 @@
    "nickname": "Tchouaméni",
    "positionId": 3,
    "marketValue": 23129420,
-   "points": 16,
-   "averagePoints": 3.2,
+   "points": 19,
+   "averagePoints": 3.8,
    "playerStatus": "ok"
   },
   {
@@ -706,8 +901,8 @@
    "nickname": "Vlachodimos",
    "positionId": 1,
    "marketValue": 29183818,
-   "points": 51,
-   "averagePoints": 5.666666666666667,
+   "points": 49,
+   "averagePoints": 5.444444444444445,
    "playerStatus": "ok"
   },
   {
@@ -729,31 +924,31 @@
  "standing": [
   {
    "position": 1,
-   "points": 458,
+   "points": 461,
    "team_id": "37664721",
    "manager": "enriqsuar",
-   "teamValue": 468335499
+   "teamValue": 609153950
   },
   {
    "position": 2,
-   "points": 416,
-   "team_id": "37678052",
-   "manager": "olegwarrior",
-   "teamValue": 222356165
+   "points": 418,
+   "team_id": "37664261",
+   "manager": "Javi Cepas",
+   "teamValue": 364955845
   },
   {
    "position": 3,
-   "points": 415,
-   "team_id": "37664261",
-   "manager": "Javi Cepas",
-   "teamValue": 364361108
+   "points": 417,
+   "team_id": "37678052",
+   "manager": "olegwarrior",
+   "teamValue": 222356165
   },
   {
    "position": 4,
    "points": 383,
    "team_id": "37679249",
    "manager": "RamónBético",
-   "teamValue": 171129905
+   "teamValue": 179991031
   },
   {
    "position": 5,
@@ -771,14 +966,14 @@
   },
   {
    "position": 7,
-   "points": 299,
+   "points": 298,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 167665502
   },
   {
    "position": 8,
-   "points": 287,
+   "points": 286,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 159334454
