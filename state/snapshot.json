@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T18:01:04+0000",
+ "fetched_at": "2026-10-18T18:02:24+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -421,8 +421,8 @@
    "nickname": "Dani Lorenzo",
    "positionId": 3,
    "marketValue": 10583509,
-   "points": 33,
-   "averagePoints": 4.125,
+   "points": 32,
+   "averagePoints": 4.0,
    "playerStatus": "ok"
   },
   {
@@ -974,7 +974,7 @@
   },
   {
    "position": 6,
-   "points": 349,
+   "points": 351,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 280297629
