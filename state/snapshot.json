@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-18T20:00:53+0000",
+ "fetched_at": "2026-10-18T20:34:14+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -481,8 +481,8 @@
    "nickname": "A. Castrín",
    "positionId": 2,
    "marketValue": 11373505,
-   "points": 32,
-   "averagePoints": 3.5555555555555554,
+   "points": 31,
+   "averagePoints": 3.4444444444444446,
    "playerStatus": "ok"
   },
   {
@@ -556,8 +556,8 @@
    "nickname": "Tchouaméni",
    "positionId": 3,
    "marketValue": 23129420,
-   "points": 15,
-   "averagePoints": 3.0,
+   "points": 16,
+   "averagePoints": 3.2,
    "playerStatus": "ok"
   },
   {
@@ -661,8 +661,8 @@
    "nickname": "Félix Correia",
    "positionId": 4,
    "marketValue": 5269653,
-   "points": 21,
-   "averagePoints": 3.5,
+   "points": 22,
+   "averagePoints": 3.6666666666666665,
    "playerStatus": "ok"
   },
   {
@@ -691,8 +691,8 @@
    "nickname": "Arda Güler",
    "positionId": 3,
    "marketValue": 100968553,
-   "points": 74,
-   "averagePoints": 8.222222222222221,
+   "points": 75,
+   "averagePoints": 8.333333333333334,
    "playerStatus": "ok"
   },
   {
@@ -706,8 +706,8 @@
    "nickname": "Vlachodimos",
    "positionId": 1,
    "marketValue": 29183818,
-   "points": 52,
-   "averagePoints": 5.777777777777778,
+   "points": 51,
+   "averagePoints": 5.666666666666667,
    "playerStatus": "ok"
   },
   {
@@ -729,7 +729,7 @@
  "standing": [
   {
    "position": 1,
-   "points": 459,
+   "points": 458,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 468335499
@@ -743,7 +743,7 @@
   },
   {
    "position": 3,
-   "points": 413,
+   "points": 415,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 364361108
@@ -771,7 +771,7 @@
   },
   {
    "position": 7,
-   "points": 297,
+   "points": 299,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 167665502
