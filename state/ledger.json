@@ -21,13 +21,6 @@
  ],
  "runs": [
   {
-   "ts": "2026-10-01T15:00:59.455432+00:00",
-   "mode": "LIVE",
-   "actions": 0,
-   "spend": 0,
-   "requests": 22
-  },
-  {
    "ts": "2026-10-01T16:00:57.366025+00:00",
    "mode": "LIVE",
    "actions": 0,
@@ -3505,6 +3498,11 @@
    "actions": 0,
    "spend": 0,
    "requests": 23
+  },
+  {
+   "ts": "2026-10-19T03:00:56.325330+00:00",
+   "mode": "LIVE",
+   "error": "api: GET /v1/competition/1/teams/37682094/lineup -> HTTP 502: <html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.30.5</center>\r"
   }
  ],
  "live_writes_seen": [
