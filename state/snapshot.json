@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T14:01:00+0000",
+ "fetched_at": "2026-10-19T15:01:01+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -1053,6 +1053,21 @@
    "marketValue": 40601548,
    "points": 34,
    "averagePoints": 5.666666666666667,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2464",
+   "discr": "marketPlayerTeam",
+   "salePrice": 27000000,
+   "expirationDate": "2026-10-22T16:05:58+02:00",
+   "numberOfBids": null,
+   "seller": "37664261",
+   "myBid": null,
+   "nickname": "Pepelu",
+   "positionId": 3,
+   "marketValue": 21916045,
+   "points": 49,
+   "averagePoints": 5.444444444444445,
    "playerStatus": "ok"
   }
  ],
