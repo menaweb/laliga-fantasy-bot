@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T02:00:51+0000",
+ "fetched_at": "2026-10-19T05:00:55+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -415,7 +415,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 26191709,
    "expirationDate": "2026-10-19T20:08:00+02:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Tenaglia",
@@ -976,8 +976,8 @@
    "nickname": "Arda Güler",
    "positionId": 3,
    "marketValue": 101715367,
-   "points": 83,
-   "averagePoints": 9.222222222222221,
+   "points": 0,
+   "averagePoints": 0.0,
    "playerStatus": "ok"
   },
   {
