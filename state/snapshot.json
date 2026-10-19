@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T21:01:04+0000",
+ "fetched_at": "2026-10-19T22:00:58+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -526,8 +526,8 @@
    "nickname": "R. Terrats",
    "positionId": 3,
    "marketValue": 20530476,
-   "points": 2,
-   "averagePoints": 2.0,
+   "points": 44,
+   "averagePoints": 5.5,
    "playerStatus": "ok"
   },
   {
@@ -588,21 +588,6 @@
    "marketValue": 15244188,
    "points": 43,
    "averagePoints": 4.777777777777778,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2529",
-   "discr": "marketPlayerTeam",
-   "salePrice": 1000000,
-   "expirationDate": "2026-10-20T20:38:45+02:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "Rubén S.",
-   "positionId": 2,
-   "marketValue": 564975,
-   "points": 18,
-   "averagePoints": 3.0,
    "playerStatus": "ok"
   },
   {
@@ -726,21 +711,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "3239",
-   "discr": "marketPlayerTeam",
-   "salePrice": 2600000,
-   "expirationDate": "2026-10-20T20:41:05+02:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "Mayol",
-   "positionId": 3,
-   "marketValue": 1029661,
-   "points": 14,
-   "averagePoints": 2.3333333333333335,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2693",
    "discr": "marketPlayerTeam",
    "salePrice": 1700000,
@@ -796,8 +766,8 @@
    "nickname": "Arda Güler",
    "positionId": 3,
    "marketValue": 101715367,
-   "points": 0,
-   "averagePoints": 0.0,
+   "points": 14,
+   "averagePoints": 14.0,
    "playerStatus": "ok"
   },
   {
@@ -873,21 +843,6 @@
    "marketValue": 38232116,
    "points": 56,
    "averagePoints": 6.222222222222222,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2446",
-   "discr": "marketPlayerTeam",
-   "salePrice": 600000,
-   "expirationDate": "2026-10-21T23:31:07+02:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "Zakharyan",
-   "positionId": 3,
-   "marketValue": 596712,
-   "points": 13,
-   "averagePoints": 1.4444444444444444,
    "playerStatus": "ok"
   },
   {
@@ -1046,7 +1001,7 @@
    "points": 425,
    "team_id": "37664261",
    "manager": "Javi Cepas",
-   "teamValue": 361945121
+   "teamValue": 359753773
   },
   {
    "position": 4,
