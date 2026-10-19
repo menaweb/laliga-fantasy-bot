@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T05:00:55+0000",
+ "fetched_at": "2026-10-19T06:01:00+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -172,7 +172,7 @@
    "playerStatus": "ok",
    "buyoutClause": 91332677,
    "lockedEnd": "2026-08-20T20:08:11+0200",
-   "onSale": true
+   "onSale": false
   },
   {
    "ptid": "16809996",
@@ -186,7 +186,7 @@
    "playerStatus": "ok",
    "buyoutClause": 51555905,
    "lockedEnd": "2026-08-19T00:06:12+0200",
-   "onSale": false
+   "onSale": true
   },
   {
    "ptid": "102098317",
@@ -438,6 +438,21 @@
    "marketValue": 19386672,
    "points": 31,
    "averagePoints": 3.875,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "356",
+   "discr": "marketPlayerTeam",
+   "salePrice": 45000000,
+   "expirationDate": "2026-10-22T07:51:11+02:00",
+   "numberOfBids": null,
+   "seller": "37682094",
+   "myBid": null,
+   "nickname": "Gerard",
+   "positionId": 4,
+   "marketValue": 24513608,
+   "points": 42,
+   "averagePoints": 4.666666666666667,
    "playerStatus": "ok"
   },
   {
@@ -948,21 +963,6 @@
    "marketValue": 5364364,
    "points": 24,
    "averagePoints": 4.0,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3091",
-   "discr": "marketPlayerTeam",
-   "salePrice": 74000000,
-   "expirationDate": "2026-10-20T20:43:03+02:00",
-   "numberOfBids": null,
-   "seller": "37682094",
-   "myBid": null,
-   "nickname": "Oyarzabal",
-   "positionId": 4,
-   "marketValue": 46555538,
-   "points": 49,
-   "averagePoints": 5.444444444444445,
    "playerStatus": "ok"
   },
   {
