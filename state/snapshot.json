@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T21:00:23+0000",
+ "fetched_at": "2026-10-19T21:01:04+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -27,8 +27,8 @@
    "positionId": 1,
    "teamId": "14",
    "marketValue": 4711656,
-   "points": 16,
-   "averagePoints": 3.2,
+   "points": 18,
+   "averagePoints": 3.6,
    "playerStatus": "ok",
    "buyoutClause": 5226274,
    "lockedEnd": "2026-09-29T22:56:47+0200",
@@ -526,8 +526,8 @@
    "nickname": "R. Terrats",
    "positionId": 3,
    "marketValue": 20530476,
-   "points": 1,
-   "averagePoints": 1.0,
+   "points": 2,
+   "averagePoints": 2.0,
    "playerStatus": "ok"
   },
   {
