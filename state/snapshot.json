@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T06:01:00+0000",
+ "fetched_at": "2026-10-19T07:00:57+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -531,21 +531,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2995",
-   "discr": "marketPlayerTeam",
-   "salePrice": 410676950,
-   "expirationDate": "2026-10-20T17:10:04+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Mario Soriano",
-   "positionId": 3,
-   "marketValue": 41761236,
-   "points": 55,
-   "averagePoints": 6.111111111111111,
-   "playerStatus": "ok"
-  },
-  {
    "id": "3089",
    "discr": "marketPlayerTeam",
    "salePrice": 610949660,
@@ -618,21 +603,6 @@
    "marketValue": 44642075,
    "points": 45,
    "averagePoints": 5.0,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "1565",
-   "discr": "marketPlayerTeam",
-   "salePrice": 389452420,
-   "expirationDate": "2026-10-20T17:50:20+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Barrios",
-   "positionId": 3,
-   "marketValue": 40601548,
-   "points": 34,
-   "averagePoints": 5.666666666666667,
    "playerStatus": "ok"
   },
   {
@@ -724,21 +694,6 @@
    "points": 53,
    "averagePoints": 6.625,
    "playerStatus": "suspended"
-  },
-  {
-   "id": "2772",
-   "discr": "marketPlayerTeam",
-   "salePrice": 516727320,
-   "expirationDate": "2026-10-19T17:48:21+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "C. Soler",
-   "positionId": 3,
-   "marketValue": 53372652,
-   "points": 58,
-   "averagePoints": 6.444444444444445,
-   "playerStatus": "ok"
   },
   {
    "id": "3065",
@@ -1084,6 +1039,21 @@
    "points": 17,
    "averagePoints": 1.8888888888888888,
    "playerStatus": "ok"
+  },
+  {
+   "id": "1565",
+   "discr": "marketPlayerTeam",
+   "salePrice": 406015480,
+   "expirationDate": "2026-10-22T08:21:33+02:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Barrios",
+   "positionId": 3,
+   "marketValue": 40601548,
+   "points": 34,
+   "averagePoints": 5.666666666666667,
+   "playerStatus": "ok"
   }
  ],
  "standing": [
@@ -1092,7 +1062,7 @@
    "points": 469,
    "team_id": "37664721",
    "manager": "enriqsuar",
-   "teamValue": 619280446
+   "teamValue": 524146558
   },
   {
    "position": 2,
