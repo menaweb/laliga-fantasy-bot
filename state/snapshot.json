@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-20T21:00:58+0000",
+ "fetched_at": "2026-10-20T22:00:53+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -456,6 +456,21 @@
    "playerStatus": "ok"
   },
   {
+   "id": "2078",
+   "discr": "marketPlayerTeam",
+   "salePrice": 24587509,
+   "expirationDate": "2026-10-23T23:39:09+02:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Hugo Alvarez",
+   "positionId": 3,
+   "marketValue": 4981897,
+   "points": 39,
+   "averagePoints": 4.333333333333333,
+   "playerStatus": "ok"
+  },
+  {
    "id": "2626",
    "discr": "marketPlayerTeam",
    "salePrice": 43769854,
@@ -588,6 +603,21 @@
    "marketValue": 32711507,
    "points": 53,
    "averagePoints": 6.625,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3065",
+   "discr": "marketPlayerTeam",
+   "salePrice": 88542569,
+   "expirationDate": "2026-10-23T23:38:17+02:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Laporte",
+   "positionId": 2,
+   "marketValue": 43763083,
+   "points": 45,
+   "averagePoints": 5.625,
    "playerStatus": "ok"
   },
   {
@@ -813,6 +843,36 @@
    "marketValue": 19445583,
    "points": 48,
    "averagePoints": 5.333333333333333,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2934",
+   "discr": "marketPlayerTeam",
+   "salePrice": 34852679,
+   "expirationDate": "2026-10-23T23:37:58+02:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Freeman",
+   "positionId": 2,
+   "marketValue": 5179654,
+   "points": 37,
+   "averagePoints": 4.111111111111111,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "1210",
+   "discr": "marketPlayerTeam",
+   "salePrice": 94625478,
+   "expirationDate": "2026-10-23T23:39:47+02:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Giuliano",
+   "positionId": 4,
+   "marketValue": 54418091,
+   "points": 55,
+   "averagePoints": 6.111111111111111,
    "playerStatus": "ok"
   }
  ],
