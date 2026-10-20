@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-20T00:00:59+0000",
+ "fetched_at": "2026-10-20T00:16:15+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -766,8 +766,8 @@
    "nickname": "Arda Güler",
    "positionId": 3,
    "marketValue": 103513158,
-   "points": 14,
-   "averagePoints": 14.0,
+   "points": 83,
+   "averagePoints": 9.222222222222221,
    "playerStatus": "ok"
   },
   {
