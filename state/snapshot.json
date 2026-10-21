@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T21:00:55+0000",
+ "fetched_at": "2026-10-21T22:00:55+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -325,7 +325,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 3854712,
    "expirationDate": "2026-10-22T20:08:00+02:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Peio Canales",
