@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T19:00:57+0000",
+ "fetched_at": "2026-10-21T20:01:02+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -331,8 +331,8 @@
    "nickname": "Peio Canales",
    "positionId": 3,
    "marketValue": 3854712,
-   "points": 18,
-   "averagePoints": 2.5714285714285716,
+   "points": 19,
+   "averagePoints": 2.7142857142857144,
    "playerStatus": "ok"
   },
   {
@@ -571,9 +571,9 @@
    "nickname": "Laporte",
    "positionId": 2,
    "marketValue": 44088854,
-   "points": 44,
-   "averagePoints": 5.5,
-   "playerStatus": "ok"
+   "points": 42,
+   "averagePoints": 5.25,
+   "playerStatus": "suspended"
   },
   {
    "id": "2680",
@@ -993,6 +993,21 @@
    "marketValue": 76889018,
    "points": 48,
    "averagePoints": 6.0,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2206",
+   "discr": "marketPlayerTeam",
+   "salePrice": 56457894,
+   "expirationDate": "2026-10-24T21:51:39+02:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Yoel Lago",
+   "positionId": 2,
+   "marketValue": 21719749,
+   "points": 55,
+   "averagePoints": 6.111111111111111,
    "playerStatus": "ok"
   }
  ],
