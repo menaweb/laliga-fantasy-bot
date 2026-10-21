@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T20:01:02+0000",
+ "fetched_at": "2026-10-21T20:05:32+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -331,8 +331,8 @@
    "nickname": "Peio Canales",
    "positionId": 3,
    "marketValue": 3854712,
-   "points": 19,
-   "averagePoints": 2.7142857142857144,
+   "points": 20,
+   "averagePoints": 2.857142857142857,
    "playerStatus": "ok"
   },
   {
@@ -571,8 +571,8 @@
    "nickname": "Laporte",
    "positionId": 2,
    "marketValue": 44088854,
-   "points": 42,
-   "averagePoints": 5.25,
+   "points": 44,
+   "averagePoints": 5.5,
    "playerStatus": "suspended"
   },
   {
