@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-21T06:00:56+0000",
+ "fetched_at": "2026-10-21T07:00:55+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -186,7 +186,7 @@
    "playerStatus": "ok",
    "buyoutClause": 51555905,
    "lockedEnd": "2026-08-19T00:06:12+0200",
-   "onSale": true
+   "onSale": false
   },
   {
    "ptid": "102098317",
@@ -423,21 +423,6 @@
    "marketValue": 593911,
    "points": 0,
    "averagePoints": 0.0,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "356",
-   "discr": "marketPlayerTeam",
-   "salePrice": 45000000,
-   "expirationDate": "2026-10-22T07:51:11+02:00",
-   "numberOfBids": null,
-   "seller": "37682094",
-   "myBid": null,
-   "nickname": "Gerard",
-   "positionId": 4,
-   "marketValue": 23625358,
-   "points": 42,
-   "averagePoints": 4.666666666666667,
    "playerStatus": "ok"
   },
   {
