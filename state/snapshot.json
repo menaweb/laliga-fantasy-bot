@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T21:01:00+0000",
+ "fetched_at": "2026-10-22T22:01:04+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -46,7 +46,7 @@
    "playerStatus": "ok",
    "buyoutClause": 1557922,
    "lockedEnd": "2026-09-21T21:05:53+0200",
-   "onSale": false
+   "onSale": true
   },
   {
    "ptid": "91535596",
@@ -227,10 +227,10 @@
    "77533011"
   ],
   "defender": [
-   "77354588",
    "90841292",
    "91535596",
-   "93815264"
+   "93815264",
+   "105309638"
   ],
   "midfield": [
    "37055594",
@@ -947,6 +947,21 @@
    "marketValue": 3836845,
    "points": 21,
    "averagePoints": 3.0,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3026",
+   "discr": "marketPlayerTeam",
+   "salePrice": 1315246,
+   "expirationDate": "2026-10-25T23:01:19+01:00",
+   "numberOfBids": null,
+   "seller": "37682094",
+   "myBid": null,
+   "nickname": "Pablo Ramón",
+   "positionId": 2,
+   "marketValue": 1312244,
+   "points": 23,
+   "averagePoints": 2.5555555555555554,
    "playerStatus": "ok"
   }
  ],
