@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T06:01:08+0000",
+ "fetched_at": "2026-10-22T07:00:54+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -966,21 +966,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "3210",
-   "discr": "marketPlayerTeam",
-   "salePrice": 768890180,
-   "expirationDate": "2026-10-24T13:50:28+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Gordon",
-   "positionId": 4,
-   "marketValue": 77064318,
-   "points": 48,
-   "averagePoints": 6.0,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2206",
    "discr": "marketPlayerTeam",
    "salePrice": 56457894,
@@ -1002,7 +987,7 @@
    "points": 469,
    "team_id": "37664721",
    "manager": "enriqsuar",
-   "teamValue": 552441428
+   "teamValue": 475377110
   },
   {
    "position": 2,
