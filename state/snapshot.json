@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T20:00:39+0000",
+ "fetched_at": "2026-10-22T21:01:00+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -11,13 +11,13 @@
   "openingWeekDate": "2026-10-23T21:00:00+02:00",
   "closingWeekDate": "2026-10-27T03:00:00+01:00"
  },
- "money": 5091640,
- "investment": 4803909,
+ "money": 287731,
+ "investment": 0,
  "team": {
-  "teamValue": 159988544,
+  "teamValue": 164076222,
   "teamPoints": 293,
   "position": 8,
-  "playersNumber": 13
+  "playersNumber": 14
  },
  "squad": [
   {
@@ -74,6 +74,20 @@
    "playerStatus": "ok",
    "buyoutClause": 10209502,
    "lockedEnd": "2026-09-29T21:01:19+0200",
+   "onSale": false
+  },
+  {
+   "ptid": "105309638",
+   "id": "3263",
+   "nickname": "Revivo",
+   "positionId": 2,
+   "teamId": "7",
+   "marketValue": 4087678,
+   "points": 31,
+   "averagePoints": 5.166666666666667,
+   "playerStatus": "ok",
+   "buyoutClause": 4803909,
+   "lockedEnd": "2026-11-05T22:53:51+0100",
    "onSale": false
   },
   {
@@ -456,21 +470,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2626",
-   "discr": "marketPlayerTeam",
-   "salePrice": 43769854,
-   "expirationDate": "2026-10-22T22:28:44+02:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Deossa",
-   "positionId": 3,
-   "marketValue": 15215219,
-   "points": 43,
-   "averagePoints": 4.777777777777778,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2552",
    "discr": "marketPlayerTeam",
    "salePrice": 42547845,
@@ -591,21 +590,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "3263",
-   "discr": "marketPlayerTeam",
-   "salePrice": 4250000,
-   "expirationDate": "2026-10-24T00:53:12+02:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "Revivo",
-   "positionId": 2,
-   "marketValue": 4087678,
-   "points": 31,
-   "averagePoints": 5.166666666666667,
-   "playerStatus": "ok"
-  },
-  {
    "id": "1480",
    "discr": "marketPlayerTeam",
    "salePrice": 25000000,
@@ -678,36 +662,6 @@
    "marketValue": 5501656,
    "points": 24,
    "averagePoints": 4.0,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "1337",
-   "discr": "marketPlayerTeam",
-   "salePrice": 49578546,
-   "expirationDate": "2026-10-22T22:25:06+02:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Tenaglia",
-   "positionId": 2,
-   "marketValue": 25336649,
-   "points": 44,
-   "averagePoints": 4.888888888888889,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2569",
-   "discr": "marketPlayerTeam",
-   "salePrice": 48708546,
-   "expirationDate": "2026-10-22T22:32:01+02:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Ibañez",
-   "positionId": 3,
-   "marketValue": 20393901,
-   "points": 48,
-   "averagePoints": 5.333333333333333,
    "playerStatus": "ok"
   },
   {
@@ -964,6 +918,36 @@
    "points": 45,
    "averagePoints": 5.0,
    "playerStatus": "ok"
+  },
+  {
+   "id": "3284",
+   "discr": "marketPlayerTeam",
+   "salePrice": 9500000,
+   "expirationDate": "2026-10-25T22:54:57+01:00",
+   "numberOfBids": null,
+   "seller": "37664261",
+   "myBid": null,
+   "nickname": "Carvajal",
+   "positionId": 2,
+   "marketValue": 8754265,
+   "points": 2,
+   "averagePoints": 2.0,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3023",
+   "discr": "marketPlayerTeam",
+   "salePrice": 3900000,
+   "expirationDate": "2026-10-25T22:55:11+01:00",
+   "numberOfBids": null,
+   "seller": "37664261",
+   "myBid": null,
+   "nickname": "Peio Canales",
+   "positionId": 3,
+   "marketValue": 3836845,
+   "points": 21,
+   "averagePoints": 3.0,
+   "playerStatus": "ok"
   }
  ],
  "standing": [
@@ -986,7 +970,7 @@
    "points": 425,
    "team_id": "37664261",
    "manager": "Javi Cepas",
-   "teamValue": 379823174
+   "teamValue": 375735496
   },
   {
    "position": 4,
@@ -1021,7 +1005,7 @@
    "points": 293,
    "team_id": "37682094",
    "manager": "menaweb",
-   "teamValue": 159988544
+   "teamValue": 164076222
   },
   {
    "position": 9,
