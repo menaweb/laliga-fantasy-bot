@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-22T15:12:01+0000",
+ "fetched_at": "2026-10-22T16:01:00+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -681,36 +681,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "3090",
-   "discr": "marketPlayerTeam",
-   "salePrice": 446420750,
-   "expirationDate": "2026-10-22T20:24:04+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Isco",
-   "positionId": 3,
-   "marketValue": 47787790,
-   "points": 45,
-   "averagePoints": 5.0,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2346",
-   "discr": "marketPlayerTeam",
-   "salePrice": 37184990,
-   "expirationDate": "2026-10-22T20:24:20+02:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Álvaro Núñez",
-   "positionId": 2,
-   "marketValue": 3540417,
-   "points": 23,
-   "averagePoints": 2.5555555555555554,
-   "playerStatus": "injured"
-  },
-  {
    "id": "1337",
    "discr": "marketPlayerTeam",
    "salePrice": 49578546,
@@ -978,6 +948,36 @@
    "marketValue": 87839725,
    "points": 55,
    "averagePoints": 6.111111111111111,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2346",
+   "discr": "marketPlayerTeam",
+   "salePrice": 35404170,
+   "expirationDate": "2026-10-25T17:58:39+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Álvaro Núñez",
+   "positionId": 2,
+   "marketValue": 3540417,
+   "points": 23,
+   "averagePoints": 2.5555555555555554,
+   "playerStatus": "injured"
+  },
+  {
+   "id": "3090",
+   "discr": "marketPlayerTeam",
+   "salePrice": 477877900,
+   "expirationDate": "2026-10-25T17:58:56+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Isco",
+   "positionId": 3,
+   "marketValue": 47787790,
+   "points": 45,
+   "averagePoints": 5.0,
    "playerStatus": "ok"
   }
  ],
