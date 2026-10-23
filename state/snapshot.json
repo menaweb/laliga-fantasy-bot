@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T17:01:02+0000",
+ "fetched_at": "2026-10-23T18:01:02+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -920,21 +920,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "3143",
-   "discr": "marketPlayerTeam",
-   "salePrice": 878397250,
-   "expirationDate": "2026-10-25T12:03:42+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Diomande",
-   "positionId": 4,
-   "marketValue": 89841844,
-   "points": 55,
-   "averagePoints": 6.111111111111111,
-   "playerStatus": "ok"
-  },
-  {
    "id": "3090",
    "discr": "marketPlayerTeam",
    "salePrice": 477877900,
@@ -992,6 +977,51 @@
    "marketValue": 1325288,
    "points": 23,
    "averagePoints": 2.5555555555555554,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2562",
+   "discr": "marketPlayerTeam",
+   "salePrice": 386748160,
+   "expirationDate": "2026-10-26T19:02:00+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Marc Pubill",
+   "positionId": 2,
+   "marketValue": 38674816,
+   "points": 33,
+   "averagePoints": 3.6666666666666665,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2843",
+   "discr": "marketPlayerTeam",
+   "salePrice": 587743760,
+   "expirationDate": "2026-10-26T19:02:06+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Xavi Espart",
+   "positionId": 2,
+   "marketValue": 58774376,
+   "points": 60,
+   "averagePoints": 6.666666666666667,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3143",
+   "discr": "marketPlayerTeam",
+   "salePrice": 898418440,
+   "expirationDate": "2026-10-26T19:03:00+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Diomande",
+   "positionId": 4,
+   "marketValue": 89841844,
+   "points": 55,
+   "averagePoints": 6.111111111111111,
    "playerStatus": "ok"
   }
  ],
