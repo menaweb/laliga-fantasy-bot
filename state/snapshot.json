@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T19:00:59+0000",
+ "fetched_at": "2026-10-23T19:07:08+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -11,13 +11,13 @@
   "openingWeekDate": "2026-10-23T21:00:00+02:00",
   "closingWeekDate": "2026-10-27T03:00:00+01:00"
  },
- "money": 287731,
+ "money": 1598848,
  "investment": 0,
  "team": {
-  "teamValue": 165290403,
+  "teamValue": 163965115,
   "teamPoints": 293,
   "position": 8,
-  "playersNumber": 14
+  "playersNumber": 13
  },
  "squad": [
   {
@@ -35,20 +35,6 @@
    "onSale": false
   },
   {
-   "ptid": "66953203",
-   "id": "3026",
-   "nickname": "Pablo Ramón",
-   "positionId": 2,
-   "teamId": "49",
-   "marketValue": 1325288,
-   "points": 23,
-   "averagePoints": 2.5555555555555554,
-   "playerStatus": "ok",
-   "buyoutClause": 1557922,
-   "lockedEnd": "2026-09-21T21:05:53+0200",
-   "onSale": true
-  },
-  {
    "ptid": "91535596",
    "id": "3041",
    "nickname": "Rafita",
@@ -56,7 +42,7 @@
    "teamId": "12",
    "marketValue": 7719798,
    "points": 34,
-   "averagePoints": 3.7777777777777777,
+   "averagePoints": 3.4,
    "playerStatus": "ok",
    "buyoutClause": 7880348,
    "lockedEnd": "2026-10-12T21:01:12+0200",
@@ -70,7 +56,7 @@
    "teamId": "12",
    "marketValue": 2998475,
    "points": 22,
-   "averagePoints": 2.4444444444444446,
+   "averagePoints": 2.2,
    "playerStatus": "ok",
    "buyoutClause": 10209502,
    "lockedEnd": "2026-09-29T21:01:19+0200",
@@ -286,7 +272,7 @@
    "positionId": 4,
    "marketValue": 555679,
    "points": 5,
-   "averagePoints": 1.0,
+   "averagePoints": 0.8333333333333334,
    "playerStatus": "ok"
   },
   {
@@ -451,7 +437,7 @@
    "positionId": 2,
    "marketValue": 3781988,
    "points": 30,
-   "averagePoints": 3.3333333333333335,
+   "averagePoints": 3.0,
    "playerStatus": "ok"
   },
   {
@@ -496,7 +482,7 @@
    "positionId": 2,
    "marketValue": 18807111,
    "points": 39,
-   "averagePoints": 4.333333333333333,
+   "averagePoints": 3.9,
    "playerStatus": "ok"
   },
   {
@@ -571,7 +557,7 @@
    "positionId": 3,
    "marketValue": 33704210,
    "points": 53,
-   "averagePoints": 6.625,
+   "averagePoints": 5.888888888888889,
    "playerStatus": "ok"
   },
   {
@@ -691,7 +677,7 @@
    "positionId": 2,
    "marketValue": 25277845,
    "points": 44,
-   "averagePoints": 4.888888888888889,
+   "averagePoints": 4.4,
    "playerStatus": "ok"
   },
   {
@@ -706,7 +692,7 @@
    "positionId": 3,
    "marketValue": 20825282,
    "points": 48,
-   "averagePoints": 5.333333333333333,
+   "averagePoints": 4.8,
    "playerStatus": "ok"
   },
   {
@@ -841,7 +827,7 @@
    "positionId": 2,
    "marketValue": 44015830,
    "points": 56,
-   "averagePoints": 6.222222222222222,
+   "averagePoints": 5.6,
    "playerStatus": "ok"
   },
   {
@@ -980,21 +966,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "3026",
-   "discr": "marketPlayerTeam",
-   "salePrice": 1315246,
-   "expirationDate": "2026-10-25T23:01:19+01:00",
-   "numberOfBids": null,
-   "seller": "37682094",
-   "myBid": null,
-   "nickname": "Pablo Ramón",
-   "positionId": 2,
-   "marketValue": 1325288,
-   "points": 23,
-   "averagePoints": 2.5555555555555554,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2562",
    "discr": "marketPlayerTeam",
    "salePrice": 386748160,
@@ -1110,7 +1081,7 @@
    "points": 293,
    "team_id": "37682094",
    "manager": "menaweb",
-   "teamValue": 165290403
+   "teamValue": 163965115
   },
   {
    "position": 9,
