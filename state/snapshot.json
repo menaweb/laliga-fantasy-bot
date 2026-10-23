@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-23T19:07:08+0000",
+ "fetched_at": "2026-10-23T20:01:01+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -55,8 +55,8 @@
    "positionId": 2,
    "teamId": "12",
    "marketValue": 2998475,
-   "points": 22,
-   "averagePoints": 2.2,
+   "points": 23,
+   "averagePoints": 2.3,
    "playerStatus": "ok",
    "buyoutClause": 10209502,
    "lockedEnd": "2026-09-29T21:01:19+0200",
@@ -241,8 +241,8 @@
    "nickname": "Funes",
    "positionId": 5,
    "marketValue": 609267,
-   "points": 0,
-   "averagePoints": 0.0,
+   "points": 5,
+   "averagePoints": 2.5,
    "playerStatus": "ok"
   },
   {
@@ -436,8 +436,8 @@
    "nickname": "Recio",
    "positionId": 2,
    "marketValue": 3781988,
-   "points": 30,
-   "averagePoints": 3.0,
+   "points": 31,
+   "averagePoints": 3.1,
    "playerStatus": "ok"
   },
   {
@@ -556,8 +556,8 @@
    "nickname": "Ángel Pérez",
    "positionId": 3,
    "marketValue": 33704210,
-   "points": 53,
-   "averagePoints": 5.888888888888889,
+   "points": 54,
+   "averagePoints": 6.0,
    "playerStatus": "ok"
   },
   {
@@ -826,8 +826,8 @@
    "nickname": "Koski",
    "positionId": 2,
    "marketValue": 44015830,
-   "points": 56,
-   "averagePoints": 5.6,
+   "points": 57,
+   "averagePoints": 5.7,
    "playerStatus": "ok"
   },
   {
@@ -1029,7 +1029,7 @@
  "standing": [
   {
    "position": 1,
-   "points": 469,
+   "points": 470,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 576302959
@@ -1050,7 +1050,7 @@
   },
   {
    "position": 4,
-   "points": 383,
+   "points": 384,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 143944805
@@ -1064,7 +1064,7 @@
   },
   {
    "position": 6,
-   "points": 357,
+   "points": 359,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 348892663
