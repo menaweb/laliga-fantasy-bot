@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T15:01:01+0000",
+ "fetched_at": "2026-10-24T16:01:00+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -97,8 +97,8 @@
    "positionId": 2,
    "teamId": "8",
    "marketValue": 16859245,
-   "points": 33,
-   "averagePoints": 3.6666666666666665,
+   "points": 34,
+   "averagePoints": 3.7777777777777777,
    "playerStatus": "ok",
    "buyoutClause": 31116110,
    "lockedEnd": "2026-10-11T20:32:33+0200",
@@ -331,8 +331,8 @@
    "nickname": "Belocian",
    "positionId": 2,
    "marketValue": 1384110,
-   "points": 10,
-   "averagePoints": 1.4285714285714286,
+   "points": 17,
+   "averagePoints": 2.4285714285714284,
    "playerStatus": "ok"
   },
   {
@@ -391,8 +391,8 @@
    "nickname": "Edu Expósito",
    "positionId": 3,
    "marketValue": 31976136,
-   "points": 48,
-   "averagePoints": 4.8,
+   "points": 52,
+   "averagePoints": 5.2,
    "playerStatus": "ok"
   },
   {
@@ -616,8 +616,8 @@
    "nickname": "A. Fortuño",
    "positionId": 1,
    "marketValue": 924150,
-   "points": 17,
-   "averagePoints": 1.7,
+   "points": 18,
+   "averagePoints": 1.8,
    "playerStatus": "ok"
   },
   {
@@ -990,7 +990,7 @@
   },
   {
    "position": 4,
-   "points": 402,
+   "points": 403,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 142349880
@@ -1004,14 +1004,14 @@
   },
   {
    "position": 6,
-   "points": 360,
+   "points": 365,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 226859508
   },
   {
    "position": 7,
-   "points": 327,
+   "points": 328,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 165088382
