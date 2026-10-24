@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T17:00:58+0000",
+ "fetched_at": "2026-10-24T18:00:57+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -195,8 +195,8 @@
    "positionId": 4,
    "teamId": "20",
    "marketValue": 12856236,
-   "points": 42,
-   "averagePoints": 4.2,
+   "points": 43,
+   "averagePoints": 4.3,
    "playerStatus": "ok",
    "buyoutClause": 12856236,
    "lockedEnd": "2026-10-31T20:28:52+0100",
@@ -385,7 +385,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 31757471,
    "expirationDate": "2026-10-24T20:08:00+02:00",
-   "numberOfBids": 1,
+   "numberOfBids": 2,
    "seller": "",
    "myBid": null,
    "nickname": "Edu Expósito",
@@ -721,8 +721,8 @@
    "nickname": "Pepelu",
    "positionId": 3,
    "marketValue": 26736718,
-   "points": 49,
-   "averagePoints": 4.9,
+   "points": 53,
+   "averagePoints": 5.3,
    "playerStatus": "ok"
   },
   {
@@ -976,14 +976,14 @@
   },
   {
    "position": 2,
-   "points": 439,
+   "points": 440,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 262208311
   },
   {
    "position": 3,
-   "points": 431,
+   "points": 435,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 378321870
@@ -1011,14 +1011,14 @@
   },
   {
    "position": 7,
-   "points": 333,
+   "points": 334,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 165088382
   },
   {
    "position": 8,
-   "points": 310,
+   "points": 312,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 164695218
