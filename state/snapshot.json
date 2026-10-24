@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T08:00:57+0000",
+ "fetched_at": "2026-10-24T09:01:00+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -310,7 +310,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 1297522,
    "expirationDate": "2026-10-24T20:08:00+02:00",
-   "numberOfBids": 1,
+   "numberOfBids": 0,
    "seller": "",
    "myBid": null,
    "nickname": "Gorrotxa",
