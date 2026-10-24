@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-24T19:26:47+0000",
+ "fetched_at": "2026-10-24T20:00:56+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -576,21 +576,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2206",
-   "discr": "marketPlayerTeam",
-   "salePrice": 56457894,
-   "expirationDate": "2026-10-24T21:51:39+02:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Yoel Lago",
-   "positionId": 2,
-   "marketValue": 22973273,
-   "points": 55,
-   "averagePoints": 6.111111111111111,
-   "playerStatus": "ok"
-  },
-  {
    "id": "68",
    "discr": "marketPlayerTeam",
    "salePrice": 78545223,
@@ -886,8 +871,8 @@
    "nickname": "Barrios",
    "positionId": 3,
    "marketValue": 43409754,
-   "points": 34,
-   "averagePoints": 4.857142857142857,
+   "points": 33,
+   "averagePoints": 4.714285714285714,
    "playerStatus": "ok"
   },
   {
@@ -984,14 +969,14 @@
  "standing": [
   {
    "position": 1,
-   "points": 483,
+   "points": 482,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 572922671
   },
   {
    "position": 2,
-   "points": 442,
+   "points": 444,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 262208311
@@ -1019,7 +1004,7 @@
   },
   {
    "position": 6,
-   "points": 373,
+   "points": 375,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 226859508
