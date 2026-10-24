@@ -24,13 +24,6 @@
  ],
  "runs": [
   {
-   "ts": "2026-10-07T02:17:25.924759+00:00",
-   "mode": "LIVE",
-   "actions": 0,
-   "spend": 0,
-   "requests": 22
-  },
-  {
    "ts": "2026-10-07T03:00:53.111090+00:00",
    "mode": "LIVE",
    "error": "api: GET /v1/competition/1/leagues/017900934/teams/37664721 -> HTTP 500: {\"code\":500,\"message\":\"Internal Server Error\"}"
@@ -3496,6 +3489,13 @@
   },
   {
    "ts": "2026-10-24T12:37:51.486727+00:00",
+   "mode": "LIVE",
+   "actions": 0,
+   "spend": 0,
+   "requests": 22
+  },
+  {
+   "ts": "2026-10-24T13:00:58.403781+00:00",
    "mode": "LIVE",
    "actions": 0,
    "spend": 0,
