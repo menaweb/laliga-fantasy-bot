@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T13:01:01+0000",
+ "fetched_at": "2026-10-25T14:00:59+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -363,7 +363,7 @@
    "positionId": 3,
    "marketValue": 1213256,
    "points": 23,
-   "averagePoints": 3.2857142857142856,
+   "averagePoints": 2.875,
    "playerStatus": "ok"
   },
   {
@@ -512,8 +512,8 @@
    "nickname": "R. Terrats",
    "positionId": 3,
    "marketValue": 19648601,
-   "points": 44,
-   "averagePoints": 5.5,
+   "points": 42,
+   "averagePoints": 4.666666666666667,
    "playerStatus": "ok"
   },
   {
@@ -617,8 +617,8 @@
    "nickname": "Unai Simón",
    "positionId": 1,
    "marketValue": 38104671,
-   "points": 65,
-   "averagePoints": 7.222222222222222,
+   "points": 66,
+   "averagePoints": 6.6,
    "playerStatus": "ok"
   },
   {
@@ -707,8 +707,8 @@
    "nickname": "Carvajal",
    "positionId": 2,
    "marketValue": 9959629,
-   "points": 2,
-   "averagePoints": 2.0,
+   "points": 0,
+   "averagePoints": 0.0,
    "playerStatus": "ok"
   },
   {
@@ -768,7 +768,7 @@
    "positionId": 3,
    "marketValue": 3826223,
    "points": 21,
-   "averagePoints": 3.0,
+   "averagePoints": 2.625,
    "playerStatus": "ok"
   },
   {
@@ -984,7 +984,7 @@
   },
   {
    "position": 3,
-   "points": 441,
+   "points": 439,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 384693908
@@ -998,7 +998,7 @@
   },
   {
    "position": 5,
-   "points": 391,
+   "points": 390,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 332980889
@@ -1019,7 +1019,7 @@
   },
   {
    "position": 8,
-   "points": 323,
+   "points": 321,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 158301620
