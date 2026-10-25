@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T21:01:03+0000",
+ "fetched_at": "2026-10-25T21:41:35+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -646,8 +646,8 @@
    "nickname": "Joan García",
    "positionId": 1,
    "marketValue": 63278512,
-   "points": 63,
-   "averagePoints": 7.0,
+   "points": 65,
+   "averagePoints": 7.222222222222222,
    "playerStatus": "ok"
   },
   {
@@ -691,8 +691,8 @@
    "nickname": "Konaté",
    "positionId": 2,
    "marketValue": 30584072,
-   "points": 30,
-   "averagePoints": 3.0,
+   "points": 31,
+   "averagePoints": 3.1,
    "playerStatus": "ok"
   },
   {
@@ -781,8 +781,8 @@
    "nickname": "Lamine Yamal",
    "positionId": 4,
    "marketValue": 194498933,
-   "points": 124,
-   "averagePoints": 12.4,
+   "points": 125,
+   "averagePoints": 12.5,
    "playerStatus": "ok"
   },
   {
@@ -984,7 +984,7 @@
  "standing": [
   {
    "position": 1,
-   "points": 506,
+   "points": 508,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 584746863
@@ -998,7 +998,7 @@
   },
   {
    "position": 3,
-   "points": 439,
+   "points": 443,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 391585022
@@ -1019,7 +1019,7 @@
   },
   {
    "position": 6,
-   "points": 389,
+   "points": 390,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 249071787
