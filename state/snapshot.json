@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T14:00:59+0000",
+ "fetched_at": "2026-10-25T15:01:05+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -362,8 +362,8 @@
    "nickname": "Francho",
    "positionId": 3,
    "marketValue": 1213256,
-   "points": 23,
-   "averagePoints": 2.875,
+   "points": 24,
+   "averagePoints": 3.0,
    "playerStatus": "ok"
   },
   {
@@ -512,8 +512,8 @@
    "nickname": "R. Terrats",
    "positionId": 3,
    "marketValue": 19648601,
-   "points": 42,
-   "averagePoints": 4.666666666666667,
+   "points": 45,
+   "averagePoints": 5.0,
    "playerStatus": "ok"
   },
   {
@@ -617,8 +617,8 @@
    "nickname": "Unai Simón",
    "positionId": 1,
    "marketValue": 38104671,
-   "points": 66,
-   "averagePoints": 6.6,
+   "points": 75,
+   "averagePoints": 7.5,
    "playerStatus": "ok"
   },
   {
@@ -767,8 +767,8 @@
    "nickname": "Peio Canales",
    "positionId": 3,
    "marketValue": 3826223,
-   "points": 21,
-   "averagePoints": 2.625,
+   "points": 27,
+   "averagePoints": 3.375,
    "playerStatus": "ok"
   },
   {
@@ -977,7 +977,7 @@
   },
   {
    "position": 2,
-   "points": 448,
+   "points": 464,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 249666130
@@ -998,7 +998,7 @@
   },
   {
    "position": 5,
-   "points": 390,
+   "points": 402,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 332980889
