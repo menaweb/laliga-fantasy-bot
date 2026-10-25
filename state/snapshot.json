@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T16:01:01+0000",
+ "fetched_at": "2026-10-25T16:04:53+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -256,8 +256,8 @@
    "nickname": "Manuel Pellegrini",
    "positionId": 5,
    "marketValue": 795835,
-   "points": 32,
-   "averagePoints": 3.5555555555555554,
+   "points": 34,
+   "averagePoints": 3.4,
    "playerStatus": "ok"
   },
   {
