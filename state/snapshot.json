@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T17:00:59+0000",
+ "fetched_at": "2026-10-25T18:01:04+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -41,8 +41,8 @@
    "positionId": 2,
    "teamId": "5",
    "marketValue": 5071015,
-   "points": 36,
-   "averagePoints": 3.6,
+   "points": 45,
+   "averagePoints": 4.5,
    "playerStatus": "ok",
    "buyoutClause": 6887943,
    "lockedEnd": "2026-11-08T16:02:09+0100",
@@ -168,7 +168,7 @@
    "teamId": "16",
    "marketValue": 52604873,
    "points": 49,
-   "averagePoints": 5.444444444444445,
+   "averagePoints": 4.9,
    "playerStatus": "ok",
    "buyoutClause": 91332677,
    "lockedEnd": "2026-08-20T20:08:11+0200",
@@ -317,7 +317,7 @@
    "positionId": 3,
    "marketValue": 652229,
    "points": 5,
-   "averagePoints": 1.0,
+   "averagePoints": 0.8333333333333334,
    "playerStatus": "injured"
   },
   {
@@ -466,8 +466,8 @@
    "nickname": "Hugo Alvarez",
    "positionId": 3,
    "marketValue": 5573701,
-   "points": 39,
-   "averagePoints": 3.9,
+   "points": 41,
+   "averagePoints": 4.1,
    "playerStatus": "ok"
   },
   {
@@ -481,8 +481,8 @@
    "nickname": "Deossa",
    "positionId": 3,
    "marketValue": 15383473,
-   "points": 43,
-   "averagePoints": 4.3,
+   "points": 48,
+   "averagePoints": 4.8,
    "playerStatus": "ok"
   },
   {
@@ -512,7 +512,7 @@
    "positionId": 3,
    "marketValue": 27729541,
    "points": 43,
-   "averagePoints": 4.777777777777778,
+   "averagePoints": 4.3,
    "playerStatus": "ok"
   },
   {
@@ -616,8 +616,8 @@
    "nickname": "Yoel Lago",
    "positionId": 2,
    "marketValue": 23479350,
-   "points": 55,
-   "averagePoints": 5.5,
+   "points": 63,
+   "averagePoints": 6.3,
    "playerStatus": "ok"
   },
   {
@@ -916,8 +916,8 @@
    "nickname": "Isco",
    "positionId": 3,
    "marketValue": 51442352,
-   "points": 46,
-   "averagePoints": 4.6,
+   "points": 52,
+   "averagePoints": 5.2,
    "playerStatus": "ok"
   },
   {
@@ -946,8 +946,8 @@
    "nickname": "Ez Abde",
    "positionId": 4,
    "marketValue": 70821702,
-   "points": 37,
-   "averagePoints": 5.285714285714286,
+   "points": 42,
+   "averagePoints": 6.0,
    "playerStatus": "ok"
   },
   {
@@ -979,19 +979,34 @@
    "points": 58,
    "averagePoints": 5.8,
    "playerStatus": "ok"
+  },
+  {
+   "id": "3073",
+   "discr": "marketPlayerTeam",
+   "salePrice": 9500000,
+   "expirationDate": "2026-10-28T18:59:07+01:00",
+   "numberOfBids": null,
+   "seller": "37664261",
+   "myBid": null,
+   "nickname": "Andrés Martín",
+   "positionId": 4,
+   "marketValue": 6102893,
+   "points": 28,
+   "averagePoints": 4.666666666666667,
+   "playerStatus": "ok"
   }
  ],
  "standing": [
   {
    "position": 1,
-   "points": 493,
+   "points": 504,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 584746863
   },
   {
    "position": 2,
-   "points": 466,
+   "points": 481,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 244595115
@@ -1005,21 +1020,21 @@
   },
   {
    "position": 4,
-   "points": 413,
+   "points": 414,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 140339384
   },
   {
    "position": 5,
-   "points": 402,
+   "points": 410,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 332980889
   },
   {
    "position": 6,
-   "points": 376,
+   "points": 379,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 249071787
