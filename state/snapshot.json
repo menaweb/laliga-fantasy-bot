@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T15:01:05+0000",
+ "fetched_at": "2026-10-25T16:01:01+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -11,13 +11,13 @@
   "openingWeekDate": "2026-10-23T21:00:00+02:00",
   "closingWeekDate": "2026-10-27T03:00:00+01:00"
  },
- "money": 9579196,
+ "money": 2691253,
  "investment": 0,
  "team": {
-  "teamValue": 158147713,
+  "teamValue": 163218728,
   "teamPoints": 293,
   "position": 8,
-  "playersNumber": 12
+  "playersNumber": 13
  },
  "squad": [
   {
@@ -32,6 +32,20 @@
    "playerStatus": "ok",
    "buyoutClause": 5226274,
    "lockedEnd": "2026-09-29T22:56:47+0200",
+   "onSale": false
+  },
+  {
+   "ptid": "106505338",
+   "id": "2609",
+   "nickname": "Valentín Gómez",
+   "positionId": 2,
+   "teamId": "5",
+   "marketValue": 5071015,
+   "points": 36,
+   "averagePoints": 3.6,
+   "playerStatus": "ok",
+   "buyoutClause": 6887943,
+   "lockedEnd": "2026-11-08T16:02:09+0100",
    "onSale": false
   },
   {
@@ -378,7 +392,7 @@
    "positionId": 4,
    "marketValue": 724934,
    "points": 7,
-   "averagePoints": 2.3333333333333335,
+   "averagePoints": 1.75,
    "playerStatus": "ok"
   },
   {
@@ -453,7 +467,7 @@
    "positionId": 3,
    "marketValue": 5573701,
    "points": 39,
-   "averagePoints": 4.333333333333333,
+   "averagePoints": 3.9,
    "playerStatus": "ok"
   },
   {
@@ -468,7 +482,7 @@
    "positionId": 3,
    "marketValue": 15383473,
    "points": 43,
-   "averagePoints": 4.777777777777778,
+   "averagePoints": 4.3,
    "playerStatus": "ok"
   },
   {
@@ -603,7 +617,7 @@
    "positionId": 2,
    "marketValue": 23479350,
    "points": 55,
-   "averagePoints": 6.111111111111111,
+   "averagePoints": 5.5,
    "playerStatus": "ok"
   },
   {
@@ -902,8 +916,8 @@
    "nickname": "Isco",
    "positionId": 3,
    "marketValue": 51442352,
-   "points": 45,
-   "averagePoints": 5.0,
+   "points": 46,
+   "averagePoints": 4.6,
    "playerStatus": "ok"
   },
   {
@@ -933,7 +947,7 @@
    "positionId": 4,
    "marketValue": 70821702,
    "points": 37,
-   "averagePoints": 6.166666666666667,
+   "averagePoints": 5.285714285714286,
    "playerStatus": "ok"
   },
   {
@@ -970,17 +984,17 @@
  "standing": [
   {
    "position": 1,
-   "points": 492,
+   "points": 493,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 584746863
   },
   {
    "position": 2,
-   "points": 464,
+   "points": 465,
    "team_id": "37678052",
    "manager": "olegwarrior",
-   "teamValue": 249666130
+   "teamValue": 244595115
   },
   {
    "position": 3,
@@ -1015,7 +1029,7 @@
    "points": 346,
    "team_id": "37682094",
    "manager": "menaweb",
-   "teamValue": 158147713
+   "teamValue": 163218728
   },
   {
    "position": 8,
