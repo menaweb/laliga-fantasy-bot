@@ -1,5 +1,15 @@
 {
- "bids": [],
+ "bids": [
+  {
+   "market_id": "61264497",
+   "player_id": "3262",
+   "money": 6276246,
+   "kind": "offer",
+   "bid_id": "192286665",
+   "placed_at": "2026-10-26T23:01:23+0000",
+   "reason": "+2.2 pts al once · 5.9 pts esp (ppg 5.3×1.0+prior 5.6 · ok · @ GET 1.12 · prob starter 100% · tend7 +3%)"
+  }
+ ],
  "listings": [],
  "handled_offers": [
   "83167330",
@@ -23,13 +33,6 @@
   "186208947"
  ],
  "runs": [
-  {
-   "ts": "2026-10-09T17:00:50.400507+00:00",
-   "mode": "LIVE",
-   "actions": 0,
-   "spend": 0,
-   "requests": 22
-  },
   {
    "ts": "2026-10-09T18:00:55.279909+00:00",
    "mode": "LIVE",
@@ -3501,6 +3504,13 @@
    "mode": "LIVE",
    "actions": 0,
    "spend": 0,
+   "requests": 23
+  },
+  {
+   "ts": "2026-10-26T23:01:03.586778+00:00",
+   "mode": "LIVE",
+   "actions": 1,
+   "spend": 6276246,
    "requests": 23
   }
  ],
