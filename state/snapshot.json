@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T19:12:30+0000",
+ "fetched_at": "2026-10-26T20:01:06+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -752,7 +752,7 @@
    "positionId": 2,
    "marketValue": 6919444,
    "points": 15,
-   "averagePoints": 1.6666666666666667,
+   "averagePoints": 1.5,
    "playerStatus": "ok"
   },
   {
