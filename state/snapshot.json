@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T20:01:06+0000",
+ "fetched_at": "2026-10-26T21:01:08+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -84,7 +84,7 @@
    "teamId": "17",
    "marketValue": 21200751,
    "points": 34,
-   "averagePoints": 3.7777777777777777,
+   "averagePoints": 3.4,
    "playerStatus": "ok",
    "buyoutClause": 35899764,
    "lockedEnd": "2026-10-16T20:08:13+0200",
@@ -112,7 +112,7 @@
    "teamId": "17",
    "marketValue": 3482833,
    "points": 26,
-   "averagePoints": 3.25,
+   "averagePoints": 2.888888888888889,
    "playerStatus": "ok",
    "buyoutClause": 12707271,
    "lockedEnd": "2026-09-24T20:33:22+0200",
@@ -616,8 +616,8 @@
    "nickname": "Vlachodimos",
    "positionId": 1,
    "marketValue": 26871787,
-   "points": 51,
-   "averagePoints": 5.666666666666667,
+   "points": 50,
+   "averagePoints": 5.0,
    "playerStatus": "ok"
   },
   {
@@ -676,8 +676,8 @@
    "nickname": "Fofana",
    "positionId": 3,
    "marketValue": 33508698,
-   "points": 38,
-   "averagePoints": 6.333333333333333,
+   "points": 41,
+   "averagePoints": 5.857142857142857,
    "playerStatus": "ok"
   },
   {
@@ -766,8 +766,8 @@
    "nickname": "A. Castrín",
    "positionId": 2,
    "marketValue": 10687677,
-   "points": 32,
-   "averagePoints": 3.5555555555555554,
+   "points": 33,
+   "averagePoints": 3.3,
    "playerStatus": "ok"
   },
   {
@@ -917,7 +917,7 @@
    "positionId": 4,
    "marketValue": 5532390,
    "points": 24,
-   "averagePoints": 4.0,
+   "averagePoints": 3.4285714285714284,
    "playerStatus": "ok"
   },
   {
@@ -969,7 +969,7 @@
  "standing": [
   {
    "position": 1,
-   "points": 520,
+   "points": 522,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 433562576
@@ -983,7 +983,7 @@
   },
   {
    "position": 3,
-   "points": 454,
+   "points": 455,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 410060622
@@ -1004,7 +1004,7 @@
   },
   {
    "position": 6,
-   "points": 399,
+   "points": 398,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 249976267
@@ -1018,7 +1018,7 @@
   },
   {
    "position": 8,
-   "points": 330,
+   "points": 331,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 163444523
