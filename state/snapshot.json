@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T12:01:09+0000",
+ "fetched_at": "2026-10-26T12:50:20+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -11,13 +11,13 @@
   "openingWeekDate": "2026-10-23T21:00:00+02:00",
   "closingWeekDate": "2026-10-27T03:00:00+01:00"
  },
- "money": 2691253,
+ "money": 8364937,
  "investment": 0,
  "team": {
-  "teamValue": 164342178,
+  "teamValue": 158668494,
   "teamPoints": 293,
   "position": 8,
-  "playersNumber": 13
+  "playersNumber": 12
  },
  "squad": [
   {
@@ -119,20 +119,6 @@
    "onSale": false
   },
   {
-   "ptid": "98748204",
-   "id": "3182",
-   "nickname": "Lemar",
-   "positionId": 3,
-   "teamId": "7",
-   "marketValue": 5673684,
-   "points": 42,
-   "averagePoints": 6.0,
-   "playerStatus": "ok",
-   "buyoutClause": 5673684,
-   "lockedEnd": "2026-10-26T03:01:14+0100",
-   "onSale": false
-  },
-  {
    "ptid": "37055594",
    "id": "2991",
    "nickname": "D. Villares",
@@ -220,8 +206,7 @@
   "midfield": [
    "37055594",
    "71117586",
-   "95452113",
-   "98748204"
+   "95452113"
   ],
   "striker": [
    "16809996",
@@ -1029,14 +1014,14 @@
    "points": 349,
    "team_id": "37682094",
    "manager": "menaweb",
-   "teamValue": 164342178
+   "teamValue": 158668494
   },
   {
    "position": 8,
    "points": 330,
    "team_id": "37667518",
    "manager": "Rcoba",
-   "teamValue": 157770839
+   "teamValue": 163444523
   },
   {
    "position": 9,
