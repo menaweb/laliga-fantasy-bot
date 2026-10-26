@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T12:50:20+0000",
+ "fetched_at": "2026-10-26T13:01:07+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -12,7 +12,7 @@
   "closingWeekDate": "2026-10-27T03:00:00+01:00"
  },
  "money": 8364937,
- "investment": 0,
+ "investment": 3863355,
  "team": {
   "teamValue": 158668494,
   "teamPoints": 293,
@@ -295,9 +295,9 @@
    "discr": "marketPlayerLeague",
    "salePrice": 3176089,
    "expirationDate": "2026-10-26T20:08:00+01:00",
-   "numberOfBids": 2,
+   "numberOfBids": 3,
    "seller": "",
-   "myBid": null,
+   "myBid": 3863355,
    "nickname": "Moi Gómez",
    "positionId": 3,
    "marketValue": 3192856,
@@ -633,7 +633,7 @@
    "marketValue": 63826131,
    "points": 62,
    "averagePoints": 6.2,
-   "playerStatus": "doubtful"
+   "playerStatus": "injured"
   },
   {
    "id": "2938",
