@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T21:01:08+0000",
+ "fetched_at": "2026-10-26T22:01:01+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -83,8 +83,8 @@
    "positionId": 2,
    "teamId": "17",
    "marketValue": 21200751,
-   "points": 34,
-   "averagePoints": 3.4,
+   "points": 43,
+   "averagePoints": 4.3,
    "playerStatus": "ok",
    "buyoutClause": 35899764,
    "lockedEnd": "2026-10-16T20:08:13+0200",
@@ -591,21 +591,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "3107",
-   "discr": "marketPlayerTeam",
-   "salePrice": 35000000,
-   "expirationDate": "2026-10-26T23:02:07+01:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "Konaté",
-   "positionId": 2,
-   "marketValue": 30680605,
-   "points": 34,
-   "averagePoints": 3.4,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2759",
    "discr": "marketPlayerTeam",
    "salePrice": 275313390,
@@ -616,8 +601,8 @@
    "nickname": "Vlachodimos",
    "positionId": 1,
    "marketValue": 26871787,
-   "points": 50,
-   "averagePoints": 5.0,
+   "points": 61,
+   "averagePoints": 6.1,
    "playerStatus": "ok"
   },
   {
@@ -676,8 +661,8 @@
    "nickname": "Fofana",
    "positionId": 3,
    "marketValue": 33508698,
-   "points": 41,
-   "averagePoints": 5.857142857142857,
+   "points": 51,
+   "averagePoints": 7.285714285714286,
    "playerStatus": "ok"
   },
   {
@@ -711,81 +696,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2565",
-   "discr": "marketPlayerTeam",
-   "salePrice": 1500000,
-   "expirationDate": "2026-10-28T23:28:53+01:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "A. Fortuño",
-   "positionId": 1,
-   "marketValue": 1043062,
-   "points": 25,
-   "averagePoints": 2.5,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2634",
-   "discr": "marketPlayerTeam",
-   "salePrice": 65000000,
-   "expirationDate": "2026-10-28T23:29:01+01:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "Joan García",
-   "positionId": 1,
-   "marketValue": 62965410,
-   "points": 68,
-   "averagePoints": 7.555555555555555,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "1890",
-   "discr": "marketPlayerTeam",
-   "salePrice": 6900000,
-   "expirationDate": "2026-10-28T23:29:11+01:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "Boyomo",
-   "positionId": 2,
-   "marketValue": 6919444,
-   "points": 15,
-   "averagePoints": 1.5,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2680",
-   "discr": "marketPlayerTeam",
-   "salePrice": 25000000,
-   "expirationDate": "2026-10-28T23:29:24+01:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "A. Castrín",
-   "positionId": 2,
-   "marketValue": 10687677,
-   "points": 33,
-   "averagePoints": 3.3,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2785",
-   "discr": "marketPlayerTeam",
-   "salePrice": 6002000,
-   "expirationDate": "2026-10-28T23:29:36+01:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "Riedel",
-   "positionId": 2,
-   "marketValue": 5145449,
-   "points": 31,
-   "averagePoints": 3.1,
-   "playerStatus": "ok"
-  },
-  {
    "id": "3284",
    "discr": "marketPlayerTeam",
    "salePrice": 25000000,
@@ -798,66 +708,6 @@
    "marketValue": 10211486,
    "points": 0,
    "averagePoints": 0.0,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "1480",
-   "discr": "marketPlayerTeam",
-   "salePrice": 35000000,
-   "expirationDate": "2026-10-28T23:29:57+01:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "Tchouaméni",
-   "positionId": 3,
-   "marketValue": 25538504,
-   "points": 28,
-   "averagePoints": 4.666666666666667,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2464",
-   "discr": "marketPlayerTeam",
-   "salePrice": 35000000,
-   "expirationDate": "2026-10-28T23:30:09+01:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "Pepelu",
-   "positionId": 3,
-   "marketValue": 29113428,
-   "points": 58,
-   "averagePoints": 5.8,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2626",
-   "discr": "marketPlayerTeam",
-   "salePrice": 20000000,
-   "expirationDate": "2026-10-28T23:30:45+01:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "Deossa",
-   "positionId": 3,
-   "marketValue": 15350894,
-   "points": 48,
-   "averagePoints": 4.8,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2958",
-   "discr": "marketPlayerTeam",
-   "salePrice": 2000000,
-   "expirationDate": "2026-10-28T23:30:56+01:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "Morcillo",
-   "positionId": 3,
-   "marketValue": 1133695,
-   "points": 34,
-   "averagePoints": 3.4,
    "playerStatus": "ok"
   },
   {
@@ -916,8 +766,8 @@
    "nickname": "Félix Correia",
    "positionId": 4,
    "marketValue": 5532390,
-   "points": 24,
-   "averagePoints": 3.4285714285714284,
+   "points": 37,
+   "averagePoints": 5.285714285714286,
    "playerStatus": "ok"
   },
   {
@@ -969,24 +819,24 @@
  "standing": [
   {
    "position": 1,
-   "points": 522,
+   "points": 543,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 433562576
   },
   {
    "position": 2,
-   "points": 481,
+   "points": 482,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 245720983
   },
   {
    "position": 3,
-   "points": 455,
+   "points": 476,
    "team_id": "37664261",
    "manager": "Javi Cepas",
-   "teamValue": 410060622
+   "teamValue": 404915173
   },
   {
    "position": 4,
@@ -1004,21 +854,21 @@
   },
   {
    "position": 6,
-   "points": 398,
+   "points": 399,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 249976267
   },
   {
    "position": 7,
-   "points": 349,
+   "points": 358,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 158668494
   },
   {
    "position": 8,
-   "points": 331,
+   "points": 345,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 163444523
