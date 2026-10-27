@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T20:01:07+0000",
+ "fetched_at": "2026-10-27T21:01:04+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -667,6 +667,21 @@
    "playerStatus": "ok"
   },
   {
+   "id": "3077",
+   "discr": "marketPlayerTeam",
+   "salePrice": 76512111,
+   "expirationDate": "2026-10-30T21:19:58+01:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Edu Expósito",
+   "positionId": 3,
+   "marketValue": 33920693,
+   "points": 58,
+   "averagePoints": 5.8,
+   "playerStatus": "ok"
+  },
+  {
    "id": "3089",
    "discr": "marketPlayerTeam",
    "salePrice": 717956970,
@@ -1024,6 +1039,36 @@
    "marketValue": 31081005,
    "points": 47,
    "averagePoints": 5.222222222222222,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2355",
+   "discr": "marketPlayerTeam",
+   "salePrice": 58451111,
+   "expirationDate": "2026-10-30T21:19:39+01:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Kounde",
+   "positionId": 2,
+   "marketValue": 19690530,
+   "points": 38,
+   "averagePoints": 4.222222222222222,
+   "playerStatus": "doubtful"
+  },
+  {
+   "id": "3185",
+   "discr": "marketPlayerTeam",
+   "salePrice": 18524966,
+   "expirationDate": "2026-10-30T21:20:14+01:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Gerenabarrena",
+   "positionId": 3,
+   "marketValue": 2196916,
+   "points": 26,
+   "averagePoints": 2.6,
    "playerStatus": "ok"
   }
  ],
