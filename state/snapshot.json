@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T14:01:10+0000",
+ "fetched_at": "2026-10-27T15:01:11+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -191,9 +191,9 @@
  ],
  "xi": {
   "formation": [
-   4,
+   5,
    3,
-   3
+   2
   ],
   "goalkeeper": [
    "77533011"
@@ -202,7 +202,8 @@
    "77354588",
    "90841292",
    "93815264",
-   "105309638"
+   "105309638",
+   "106505338"
   ],
   "midfield": [
    "37055594",
@@ -211,8 +212,7 @@
   ],
   "striker": [
    "16809996",
-   "18792297",
-   "102098317"
+   "18792297"
   ]
  },
  "market": [
@@ -1054,6 +1054,21 @@
    "marketValue": 1186706,
    "points": 34,
    "averagePoints": 3.4,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2577",
+   "discr": "marketPlayerTeam",
+   "salePrice": 4630161,
+   "expirationDate": "2026-10-30T15:48:47+01:00",
+   "numberOfBids": null,
+   "seller": "37667518",
+   "myBid": null,
+   "nickname": "A. Rebbach",
+   "positionId": 3,
+   "marketValue": 4630161,
+   "points": 31,
+   "averagePoints": 3.1,
    "playerStatus": "ok"
   }
  ],
