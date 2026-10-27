@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T22:01:02+0000",
+ "fetched_at": "2026-10-27T23:01:03+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -427,21 +427,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2078",
-   "discr": "marketPlayerTeam",
-   "salePrice": 23457899,
-   "expirationDate": "2026-10-27T23:06:37+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Hugo Alvarez",
-   "positionId": 3,
-   "marketValue": 5696497,
-   "points": 41,
-   "averagePoints": 4.1,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2941",
    "discr": "marketPlayerTeam",
    "salePrice": 16524111,
@@ -544,51 +529,6 @@
    "marketValue": 21696132,
    "points": 52,
    "averagePoints": 5.2,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2934",
-   "discr": "marketPlayerTeam",
-   "salePrice": 25469777,
-   "expirationDate": "2026-10-27T23:05:59+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Freeman",
-   "positionId": 2,
-   "marketValue": 8322972,
-   "points": 50,
-   "averagePoints": 5.0,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "1210",
-   "discr": "marketPlayerTeam",
-   "salePrice": 74651111,
-   "expirationDate": "2026-10-27T23:06:16+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Giuliano",
-   "positionId": 4,
-   "marketValue": 51667475,
-   "points": 56,
-   "averagePoints": 5.6,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2206",
-   "discr": "marketPlayerTeam",
-   "salePrice": 48222246,
-   "expirationDate": "2026-10-27T23:06:51+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Yoel Lago",
-   "positionId": 2,
-   "marketValue": 24604286,
-   "points": 63,
-   "averagePoints": 6.3,
    "playerStatus": "ok"
   },
   {
