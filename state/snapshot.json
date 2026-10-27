@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T03:01:03+0000",
+ "fetched_at": "2026-10-27T04:01:01+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -11,12 +11,12 @@
   "openingWeekDate": "2026-10-30T21:00:00+01:00",
   "closingWeekDate": "2026-11-03T03:00:00+01:00"
  },
- "money": 8364937,
+ "money": 14864937,
  "investment": 6276246,
  "team": {
   "teamValue": 159225428,
-  "teamPoints": 293,
-  "position": 8,
+  "teamPoints": 358,
+  "position": 7,
   "playersNumber": 12
  },
  "squad": [
@@ -191,14 +191,15 @@
  ],
  "xi": {
   "formation": [
-   3,
    4,
+   3,
    3
   ],
   "goalkeeper": [
    "77533011"
   ],
   "defender": [
+   "77354588",
    "90841292",
    "93815264",
    "105309638"
