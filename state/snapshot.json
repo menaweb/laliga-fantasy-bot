@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-27T04:54:31+0000",
+ "fetched_at": "2026-10-27T06:01:02+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -1024,6 +1024,21 @@
    "marketValue": 53981196,
    "points": 52,
    "averagePoints": 5.2,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2445",
+   "discr": "marketPlayerTeam",
+   "salePrice": 6274507,
+   "expirationDate": "2026-10-30T06:28:31+01:00",
+   "numberOfBids": null,
+   "seller": "37667518",
+   "myBid": null,
+   "nickname": "Olasagasti",
+   "positionId": 3,
+   "marketValue": 6274507,
+   "points": 40,
+   "averagePoints": 4.0,
    "playerStatus": "ok"
   }
  ],
