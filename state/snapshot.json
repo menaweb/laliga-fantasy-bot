@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T21:01:03+0000",
+ "fetched_at": "2026-10-28T22:01:02+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -484,21 +484,6 @@
    "marketValue": 62194970,
    "points": 51,
    "averagePoints": 5.1,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2444",
-   "discr": "marketPlayerTeam",
-   "salePrice": 46213981,
-   "expirationDate": "2026-10-31T21:56:31+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Sucic",
-   "positionId": 3,
-   "marketValue": 27864098,
-   "points": 49,
-   "averagePoints": 4.9,
    "playerStatus": "ok"
   },
   {
@@ -1204,6 +1189,21 @@
    "marketValue": 24241445,
    "points": 47,
    "averagePoints": 5.222222222222222,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2444",
+   "discr": "marketPlayerTeam",
+   "salePrice": 34150000,
+   "expirationDate": "2026-10-31T22:02:34+01:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Sucic",
+   "positionId": 3,
+   "marketValue": 27864098,
+   "points": 49,
+   "averagePoints": 4.9,
    "playerStatus": "ok"
   }
  ],
