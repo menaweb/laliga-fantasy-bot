@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T18:01:08+0000",
+ "fetched_at": "2026-10-28T19:01:04+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -326,7 +326,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 17204712,
    "expirationDate": "2026-10-28T20:08:00+01:00",
-   "numberOfBids": 1,
+   "numberOfBids": 2,
    "seller": "",
    "myBid": null,
    "nickname": "Satriano",
@@ -1024,6 +1024,21 @@
    "marketValue": 5042188,
    "points": 24,
    "averagePoints": 3.4285714285714284,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "265",
+   "discr": "marketPlayerTeam",
+   "salePrice": 4642714,
+   "expirationDate": "2026-10-31T19:56:44+01:00",
+   "numberOfBids": null,
+   "seller": "37667518",
+   "myBid": null,
+   "nickname": "Zubeldia",
+   "positionId": 2,
+   "marketValue": 4642714,
+   "points": 15,
+   "averagePoints": 1.875,
    "playerStatus": "ok"
   }
  ],
