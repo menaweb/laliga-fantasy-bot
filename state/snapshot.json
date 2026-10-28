@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-28T08:20:31+0000",
+ "fetched_at": "2026-10-28T09:01:08+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -412,36 +412,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2457",
-   "discr": "marketPlayerTeam",
-   "salePrice": 65258559,
-   "expirationDate": "2026-10-28T09:27:12+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Dimitrievski",
-   "positionId": 1,
-   "marketValue": 19317331,
-   "points": 56,
-   "averagePoints": 5.6,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2941",
-   "discr": "marketPlayerTeam",
-   "salePrice": 16524111,
-   "expirationDate": "2026-10-28T09:29:06+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "T. Morente",
-   "positionId": 4,
-   "marketValue": 4344345,
-   "points": 38,
-   "averagePoints": 3.8,
-   "playerStatus": "ok"
-  },
-  {
    "id": "3209",
    "discr": "marketPlayerTeam",
    "salePrice": 66004061,
@@ -454,51 +424,6 @@
    "marketValue": 62194970,
    "points": 51,
    "averagePoints": 5.1,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2444",
-   "discr": "marketPlayerTeam",
-   "salePrice": 56851111,
-   "expirationDate": "2026-10-28T09:27:50+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Sucic",
-   "positionId": 3,
-   "marketValue": 27864098,
-   "points": 49,
-   "averagePoints": 4.9,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2511",
-   "discr": "marketPlayerTeam",
-   "salePrice": 54872211,
-   "expirationDate": "2026-10-28T09:28:11+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "R. Terrats",
-   "positionId": 3,
-   "marketValue": 18907775,
-   "points": 45,
-   "averagePoints": 5.0,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2932",
-   "discr": "marketPlayerTeam",
-   "salePrice": 68521744,
-   "expirationDate": "2026-10-28T09:28:37+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Ángel Pérez",
-   "positionId": 3,
-   "marketValue": 37962550,
-   "points": 59,
-   "averagePoints": 6.555555555555555,
    "playerStatus": "ok"
   },
   {
@@ -1045,7 +970,7 @@
  "standing": [
   {
    "position": 1,
-   "points": 543,
+   "points": 557,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 481431687
@@ -1059,24 +984,24 @@
   },
   {
    "position": 3,
-   "points": 476,
+   "points": 478,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 372496328
   },
   {
    "position": 4,
-   "points": 417,
-   "team_id": "37679249",
-   "manager": "RamónBético",
-   "teamValue": 163476458
-  },
-  {
-   "position": 5,
-   "points": 416,
+   "points": 421,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 341033575
+  },
+  {
+   "position": 5,
+   "points": 421,
+   "team_id": "37679249",
+   "manager": "RamónBético",
+   "teamValue": 163476458
   },
   {
    "position": 6,
@@ -1094,14 +1019,14 @@
   },
   {
    "position": 8,
-   "points": 345,
+   "points": 347,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 164334481
   },
   {
    "position": 9,
-   "points": 189,
+   "points": 192,
    "team_id": "37681066",
    "manager": "Miguel Canuelo",
    "teamValue": 94945016
