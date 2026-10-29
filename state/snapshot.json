@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T18:01:04+0000",
+ "fetched_at": "2026-10-29T19:01:02+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -484,51 +484,6 @@
    "marketValue": 18721192,
    "points": 45,
    "averagePoints": 5.0,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2932",
-   "discr": "marketPlayerTeam",
-   "salePrice": 65212111,
-   "expirationDate": "2026-10-31T21:57:20+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Ángel Pérez",
-   "positionId": 3,
-   "marketValue": 38472183,
-   "points": 59,
-   "averagePoints": 6.555555555555555,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "1337",
-   "discr": "marketPlayerTeam",
-   "salePrice": 35469888,
-   "expirationDate": "2026-10-29T19:32:52+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Tenaglia",
-   "positionId": 2,
-   "marketValue": 23252124,
-   "points": 47,
-   "averagePoints": 4.7,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2569",
-   "discr": "marketPlayerTeam",
-   "salePrice": 46785549,
-   "expirationDate": "2026-10-29T19:33:05+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Ibañez",
-   "positionId": 3,
-   "marketValue": 21838974,
-   "points": 52,
-   "averagePoints": 5.2,
    "playerStatus": "ok"
   },
   {
