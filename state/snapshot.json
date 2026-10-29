@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T13:01:07+0000",
+ "fetched_at": "2026-10-29T14:01:10+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -341,7 +341,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 938600,
    "expirationDate": "2026-10-29T20:08:00+01:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Valentini",
@@ -371,7 +371,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 3903060,
    "expirationDate": "2026-10-29T20:08:00+01:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Maffeo",
@@ -1027,21 +1027,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "3121",
-   "discr": "marketPlayerTeam",
-   "salePrice": 1909660,
-   "expirationDate": "2026-10-31T11:23:01+01:00",
-   "numberOfBids": null,
-   "seller": "37679249",
-   "myBid": null,
-   "nickname": "Dieng",
-   "positionId": 3,
-   "marketValue": 897494,
-   "points": 12,
-   "averagePoints": 1.2,
-   "playerStatus": "ok"
-  },
-  {
    "id": "3133",
    "discr": "marketPlayerTeam",
    "salePrice": 5042188,
@@ -1211,7 +1196,7 @@
    "points": 421,
    "team_id": "37679249",
    "manager": "RamónBético",
-   "teamValue": 161755928
+   "teamValue": 160858434
   },
   {
    "position": 6,
