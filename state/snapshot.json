@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T07:01:07+0000",
+ "fetched_at": "2026-10-29T08:01:01+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -664,36 +664,6 @@
    "marketValue": 35208247,
    "points": 58,
    "averagePoints": 5.8,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3089",
-   "discr": "marketPlayerTeam",
-   "salePrice": 717956970,
-   "expirationDate": "2026-10-29T08:08:14+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Ez Abde",
-   "positionId": 4,
-   "marketValue": 73838142,
-   "points": 42,
-   "averagePoints": 6.0,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "1565",
-   "discr": "marketPlayerTeam",
-   "salePrice": 440323390,
-   "expirationDate": "2026-10-29T08:08:29+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Barrios",
-   "positionId": 3,
-   "marketValue": 42859692,
-   "points": 35,
-   "averagePoints": 5.0,
    "playerStatus": "ok"
   },
   {
