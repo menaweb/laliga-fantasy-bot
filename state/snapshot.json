@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T14:10:21+0000",
+ "fetched_at": "2026-10-29T15:01:04+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -967,21 +967,6 @@
    "playerStatus": "injured"
   },
   {
-   "id": "3185",
-   "discr": "marketPlayerTeam",
-   "salePrice": 18524966,
-   "expirationDate": "2026-10-30T21:20:14+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Gerenabarrena",
-   "positionId": 3,
-   "marketValue": 2166641,
-   "points": 26,
-   "averagePoints": 2.6,
-   "playerStatus": "ok"
-  },
-  {
    "id": "3262",
    "discr": "marketPlayerTeam",
    "salePrice": 54867120,
@@ -1189,7 +1174,7 @@
    "points": 421,
    "team_id": "37668923",
    "manager": "Paco!!",
-   "teamValue": 458069982
+   "teamValue": 455903341
   },
   {
    "position": 5,
