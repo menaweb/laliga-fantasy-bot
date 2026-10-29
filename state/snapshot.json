@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T21:01:00+0000",
+ "fetched_at": "2026-10-29T22:01:02+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -457,21 +457,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2941",
-   "discr": "marketPlayerTeam",
-   "salePrice": 10874111,
-   "expirationDate": "2026-10-31T21:58:06+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "T. Morente",
-   "positionId": 4,
-   "marketValue": 4261567,
-   "points": 38,
-   "averagePoints": 3.8,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2511",
    "discr": "marketPlayerTeam",
    "salePrice": 29541212,
@@ -484,6 +469,36 @@
    "marketValue": 18721192,
    "points": 45,
    "averagePoints": 5.0,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "1337",
+   "discr": "marketPlayerTeam",
+   "salePrice": 48254311,
+   "expirationDate": "2026-11-01T22:38:34+01:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Tenaglia",
+   "positionId": 2,
+   "marketValue": 23252124,
+   "points": 47,
+   "averagePoints": 4.7,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2569",
+   "discr": "marketPlayerTeam",
+   "salePrice": 57243511,
+   "expirationDate": "2026-11-01T22:38:53+01:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Ibañez",
+   "positionId": 3,
+   "marketValue": 21838974,
+   "points": 52,
+   "averagePoints": 5.2,
    "playerStatus": "ok"
   },
   {
@@ -1144,7 +1159,7 @@
    "points": 421,
    "team_id": "37668923",
    "manager": "Paco!!",
-   "teamValue": 455881191
+   "teamValue": 451619624
   },
   {
    "position": 5,
