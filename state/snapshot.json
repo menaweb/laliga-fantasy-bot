@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T17:01:08+0000",
+ "fetched_at": "2026-10-29T18:01:04+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -667,6 +667,21 @@
    "playerStatus": "ok"
   },
   {
+   "id": "3089",
+   "discr": "marketPlayerTeam",
+   "salePrice": 738346210,
+   "expirationDate": "2026-11-01T18:22:02+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Ez Abde",
+   "positionId": 4,
+   "marketValue": 73834621,
+   "points": 42,
+   "averagePoints": 6.0,
+   "playerStatus": "ok"
+  },
+  {
    "id": "184",
    "discr": "marketPlayerTeam",
    "salePrice": 38075000,
@@ -874,21 +889,6 @@
    "marketValue": 26272500,
    "points": 61,
    "averagePoints": 6.1,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3090",
-   "discr": "marketPlayerTeam",
-   "salePrice": 526330470,
-   "expirationDate": "2026-10-29T23:12:37+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Isco",
-   "positionId": 3,
-   "marketValue": 56638011,
-   "points": 52,
-   "averagePoints": 5.2,
    "playerStatus": "ok"
   },
   {
@@ -1145,6 +1145,21 @@
    "points": 28,
    "averagePoints": 2.8,
    "playerStatus": "ok"
+  },
+  {
+   "id": "3090",
+   "discr": "marketPlayerTeam",
+   "salePrice": 566380110,
+   "expirationDate": "2026-11-01T18:22:07+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Isco",
+   "positionId": 3,
+   "marketValue": 56638011,
+   "points": 52,
+   "averagePoints": 5.2,
+   "playerStatus": "ok"
   }
  ],
  "standing": [
@@ -1153,63 +1168,63 @@
    "points": 557,
    "team_id": "37664721",
    "manager": "enriqsuar",
-   "teamValue": 529561642
+   "teamValue": 529537851
   },
   {
    "position": 2,
    "points": 482,
    "team_id": "37678052",
    "manager": "olegwarrior",
-   "teamValue": 234007789
+   "teamValue": 233999795
   },
   {
    "position": 3,
    "points": 478,
    "team_id": "37664261",
    "manager": "Javi Cepas",
-   "teamValue": 334639440
+   "teamValue": 334621415
   },
   {
    "position": 4,
    "points": 421,
    "team_id": "37668923",
    "manager": "Paco!!",
-   "teamValue": 455903341
+   "teamValue": 455881191
   },
   {
    "position": 5,
    "points": 421,
    "team_id": "37679249",
    "manager": "RamónBético",
-   "teamValue": 160858434
+   "teamValue": 160853830
   },
   {
    "position": 6,
    "points": 399,
    "team_id": "37675747",
    "manager": "Javi Trauma",
-   "teamValue": 232171304
+   "teamValue": 232163803
   },
   {
    "position": 7,
    "points": 358,
    "team_id": "37682094",
    "manager": "menaweb",
-   "teamValue": 159852346
+   "teamValue": 159846128
   },
   {
    "position": 8,
    "points": 347,
    "team_id": "37667518",
    "manager": "Rcoba",
-   "teamValue": 165292815
+   "teamValue": 165285619
   },
   {
    "position": 9,
    "points": 192,
    "team_id": "37681066",
    "manager": "Miguel Canuelo",
-   "teamValue": 95263573
+   "teamValue": 95259456
   }
  ]
 }
