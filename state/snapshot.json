@@ -1,10 +1,10 @@
 {
- "fetched_at": "2026-10-30T20:01:02+0000",
+ "fetched_at": "2026-10-30T21:01:04+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
  "week": {
-  "isLive": false,
+  "isLive": true,
   "nextWeek": 12,
   "previousWeek": 10,
   "weekNumber": 11,
@@ -98,7 +98,7 @@
    "teamId": "8",
    "marketValue": 15287603,
    "points": 38,
-   "averagePoints": 4.222222222222222,
+   "averagePoints": 3.8,
    "playerStatus": "ok",
    "buyoutClause": 31116110,
    "lockedEnd": "2026-10-11T20:32:33+0200",
@@ -168,8 +168,8 @@
    "teamId": "20",
    "marketValue": 21335317,
    "points": 46,
-   "averagePoints": 4.6,
-   "playerStatus": "ok",
+   "averagePoints": 4.181818181818182,
+   "playerStatus": "injured",
    "buyoutClause": 51555905,
    "lockedEnd": "2026-08-19T00:06:12+0200",
    "onSale": false
@@ -363,7 +363,7 @@
    "positionId": 4,
    "marketValue": 32810144,
    "points": 47,
-   "averagePoints": 4.7,
+   "averagePoints": 4.2727272727272725,
    "playerStatus": "ok"
   },
   {
@@ -393,7 +393,7 @@
    "positionId": 2,
    "marketValue": 7923515,
    "points": 14,
-   "averagePoints": 1.75,
+   "averagePoints": 1.5555555555555556,
    "playerStatus": "ok"
   },
   {
@@ -483,7 +483,7 @@
    "positionId": 2,
    "marketValue": 10182895,
    "points": 50,
-   "averagePoints": 5.0,
+   "averagePoints": 4.545454545454546,
    "playerStatus": "ok"
   },
   {
@@ -514,21 +514,6 @@
    "marketValue": 26077958,
    "points": 63,
    "averagePoints": 6.3,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3077",
-   "discr": "marketPlayerTeam",
-   "salePrice": 76512111,
-   "expirationDate": "2026-10-30T21:19:58+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Edu Expósito",
-   "positionId": 3,
-   "marketValue": 35569069,
-   "points": 58,
-   "averagePoints": 5.8,
    "playerStatus": "ok"
   },
   {
@@ -572,8 +557,8 @@
    "nickname": "A. Fortuño",
    "positionId": 1,
    "marketValue": 1353837,
-   "points": 25,
-   "averagePoints": 2.5,
+   "points": 27,
+   "averagePoints": 2.4545454545454546,
    "playerStatus": "ok"
   },
   {
@@ -872,8 +857,8 @@
    "nickname": "Cardona",
    "positionId": 2,
    "marketValue": 2743825,
-   "points": 28,
-   "averagePoints": 2.8,
+   "points": 27,
+   "averagePoints": 2.4545454545454546,
    "playerStatus": "ok"
   },
   {
@@ -955,14 +940,14 @@
  "standing": [
   {
    "position": 1,
-   "points": 557,
+   "points": 556,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 532855499
   },
   {
    "position": 2,
-   "points": 482,
+   "points": 484,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 265489971
