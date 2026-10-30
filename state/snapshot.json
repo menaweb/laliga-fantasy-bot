@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T21:01:04+0000",
+ "fetched_at": "2026-10-30T22:00:58+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -97,8 +97,8 @@
    "positionId": 2,
    "teamId": "8",
    "marketValue": 15287603,
-   "points": 38,
-   "averagePoints": 3.8,
+   "points": 47,
+   "averagePoints": 4.7,
    "playerStatus": "ok",
    "buyoutClause": 31116110,
    "lockedEnd": "2026-10-11T20:32:33+0200",
@@ -167,8 +167,8 @@
    "positionId": 4,
    "teamId": "20",
    "marketValue": 21335317,
-   "points": 46,
-   "averagePoints": 4.181818181818182,
+   "points": 48,
+   "averagePoints": 4.363636363636363,
    "playerStatus": "injured",
    "buyoutClause": 51555905,
    "lockedEnd": "2026-08-19T00:06:12+0200",
@@ -362,8 +362,8 @@
    "nickname": "Ayoze",
    "positionId": 4,
    "marketValue": 32810144,
-   "points": 47,
-   "averagePoints": 4.2727272727272725,
+   "points": 49,
+   "averagePoints": 4.454545454545454,
    "playerStatus": "ok"
   },
   {
@@ -392,8 +392,8 @@
    "nickname": "C. Romero",
    "positionId": 2,
    "marketValue": 7923515,
-   "points": 14,
-   "averagePoints": 1.5555555555555556,
+   "points": 15,
+   "averagePoints": 1.6666666666666667,
    "playerStatus": "ok"
   },
   {
@@ -482,8 +482,8 @@
    "nickname": "Freeman",
    "positionId": 2,
    "marketValue": 10182895,
-   "points": 50,
-   "averagePoints": 4.545454545454546,
+   "points": 52,
+   "averagePoints": 4.7272727272727275,
    "playerStatus": "ok"
   },
   {
@@ -557,8 +557,8 @@
    "nickname": "A. Fortuño",
    "positionId": 1,
    "marketValue": 1353837,
-   "points": 27,
-   "averagePoints": 2.4545454545454546,
+   "points": 38,
+   "averagePoints": 3.4545454545454546,
    "playerStatus": "ok"
   },
   {
@@ -712,36 +712,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "3262",
-   "discr": "marketPlayerTeam",
-   "salePrice": 54867120,
-   "expirationDate": "2026-10-30T22:03:03+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Félix Correia",
-   "positionId": 4,
-   "marketValue": 5997757,
-   "points": 37,
-   "averagePoints": 5.285714285714286,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2549",
-   "discr": "marketPlayerTeam",
-   "salePrice": 298039920,
-   "expirationDate": "2026-10-30T22:03:13+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Navarro",
-   "positionId": 3,
-   "marketValue": 28855919,
-   "points": 51,
-   "averagePoints": 5.1,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2335",
    "discr": "marketPlayerTeam",
    "salePrice": 3320108,
@@ -857,8 +827,8 @@
    "nickname": "Cardona",
    "positionId": 2,
    "marketValue": 2743825,
-   "points": 27,
-   "averagePoints": 2.4545454545454546,
+   "points": 28,
+   "averagePoints": 2.5454545454545454,
    "playerStatus": "ok"
   },
   {
@@ -940,14 +910,14 @@
  "standing": [
   {
    "position": 1,
-   "points": 556,
+   "points": 557,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 532855499
   },
   {
    "position": 2,
-   "points": 484,
+   "points": 490,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 265489971
@@ -961,7 +931,7 @@
   },
   {
    "position": 4,
-   "points": 421,
+   "points": 431,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 393312193
@@ -982,14 +952,14 @@
   },
   {
    "position": 7,
-   "points": 358,
+   "points": 369,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 160169776
   },
   {
    "position": 8,
-   "points": 347,
+   "points": 352,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 135593701
