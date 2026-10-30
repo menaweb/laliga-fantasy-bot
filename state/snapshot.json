@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T15:01:07+0000",
+ "fetched_at": "2026-10-30T16:01:05+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -832,21 +832,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "3137",
-   "discr": "marketPlayerTeam",
-   "salePrice": 42587111,
-   "expirationDate": "2026-10-31T21:54:36+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Satriano",
-   "positionId": 4,
-   "marketValue": 17201092,
-   "points": 51,
-   "averagePoints": 5.1,
-   "playerStatus": "ok"
-  },
-  {
    "id": "3193",
    "discr": "marketPlayerTeam",
    "salePrice": 95412811,
@@ -1024,7 +1009,7 @@
    "points": 421,
    "team_id": "37668923",
    "manager": "Paco!!",
-   "teamValue": 410513285
+   "teamValue": 393312193
   },
   {
    "position": 5,
