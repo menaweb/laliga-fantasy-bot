@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T08:01:03+0000",
+ "fetched_at": "2026-10-30T09:01:06+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -442,21 +442,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2511",
-   "discr": "marketPlayerTeam",
-   "salePrice": 29541212,
-   "expirationDate": "2026-10-31T21:57:03+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "R. Terrats",
-   "positionId": 3,
-   "marketValue": 18643558,
-   "points": 45,
-   "averagePoints": 5.0,
-   "playerStatus": "ok"
-  },
-  {
    "id": "1337",
    "discr": "marketPlayerTeam",
    "salePrice": 48254311,
@@ -680,21 +665,6 @@
    "points": 47,
    "averagePoints": 5.222222222222222,
    "playerStatus": "ok"
-  },
-  {
-   "id": "2355",
-   "discr": "marketPlayerTeam",
-   "salePrice": 58451111,
-   "expirationDate": "2026-10-30T21:19:39+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Kounde",
-   "positionId": 2,
-   "marketValue": 18996546,
-   "points": 38,
-   "averagePoints": 4.222222222222222,
-   "playerStatus": "injured"
   },
   {
    "id": "3262",
@@ -934,7 +904,7 @@
    "points": 421,
    "team_id": "37668923",
    "manager": "Paco!!",
-   "teamValue": 448153389
+   "teamValue": 410513285
   },
   {
    "position": 5,
