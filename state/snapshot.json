@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T14:01:57+0000",
+ "fetched_at": "2026-10-30T15:01:07+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -739,21 +739,6 @@
    "marketValue": 107487181,
    "points": 61,
    "averagePoints": 6.1,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2577",
-   "discr": "marketPlayerTeam",
-   "salePrice": 4630161,
-   "expirationDate": "2026-10-30T15:48:47+01:00",
-   "numberOfBids": null,
-   "seller": "37667518",
-   "myBid": null,
-   "nickname": "A. Rebbach",
-   "positionId": 3,
-   "marketValue": 4408897,
-   "points": 31,
-   "averagePoints": 3.1,
    "playerStatus": "ok"
   },
   {
