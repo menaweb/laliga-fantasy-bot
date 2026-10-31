@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T21:01:00+0000",
+ "fetched_at": "2026-10-31T21:26:51+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -757,21 +757,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2444",
-   "discr": "marketPlayerTeam",
-   "salePrice": 34150000,
-   "expirationDate": "2026-10-31T22:02:34+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Sucic",
-   "positionId": 3,
-   "marketValue": 29162273,
-   "points": 49,
-   "averagePoints": 4.9,
-   "playerStatus": "ok"
-  },
-  {
    "id": "3152",
    "discr": "marketPlayerTeam",
    "salePrice": 422163900,
@@ -916,7 +901,7 @@
   },
   {
    "position": 4,
-   "points": 443,
+   "points": 444,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 321372890
@@ -930,7 +915,7 @@
   },
   {
    "position": 6,
-   "points": 403,
+   "points": 404,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 264252094
