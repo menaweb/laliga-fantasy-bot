@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T16:01:03+0000",
+ "fetched_at": "2026-10-31T17:01:03+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -497,8 +497,8 @@
    "nickname": "Yoel Lago",
    "positionId": 2,
    "marketValue": 26439082,
-   "points": 63,
-   "averagePoints": 5.7272727272727275,
+   "points": 62,
+   "averagePoints": 5.636363636363637,
    "playerStatus": "ok"
   },
   {
@@ -992,7 +992,7 @@
   },
   {
    "position": 2,
-   "points": 490,
+   "points": 491,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 266102955
@@ -1006,14 +1006,14 @@
   },
   {
    "position": 4,
-   "points": 446,
+   "points": 445,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 395995007
   },
   {
    "position": 5,
-   "points": 424,
+   "points": 429,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 162961340
@@ -1034,7 +1034,7 @@
   },
   {
    "position": 8,
-   "points": 355,
+   "points": 354,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 136613353
