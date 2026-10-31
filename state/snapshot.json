@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T10:01:04+0000",
+ "fetched_at": "2026-10-31T11:01:09+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -427,21 +427,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2564",
-   "discr": "marketPlayerTeam",
-   "salePrice": 2431474,
-   "expirationDate": "2026-10-31T11:23:30+01:00",
-   "numberOfBids": null,
-   "seller": "37679249",
-   "myBid": null,
-   "nickname": "Aleñá",
-   "positionId": 3,
-   "marketValue": 1368283,
-   "points": 25,
-   "averagePoints": 2.5,
-   "playerStatus": "ok"
-  },
-  {
    "id": "1337",
    "discr": "marketPlayerTeam",
    "salePrice": 48254311,
@@ -829,36 +814,6 @@
    "marketValue": 28682452,
    "points": 51,
    "averagePoints": 5.1,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2335",
-   "discr": "marketPlayerTeam",
-   "salePrice": 3320108,
-   "expirationDate": "2026-10-31T11:22:38+01:00",
-   "numberOfBids": null,
-   "seller": "37679249",
-   "myBid": null,
-   "nickname": "Areso",
-   "positionId": 2,
-   "marketValue": 2173879,
-   "points": 20,
-   "averagePoints": 2.0,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3133",
-   "discr": "marketPlayerTeam",
-   "salePrice": 5042188,
-   "expirationDate": "2026-10-31T11:23:09+01:00",
-   "numberOfBids": null,
-   "seller": "37679249",
-   "myBid": null,
-   "nickname": "Mangala",
-   "positionId": 3,
-   "marketValue": 4752237,
-   "points": 24,
-   "averagePoints": 3.4285714285714284,
    "playerStatus": "ok"
   },
   {
