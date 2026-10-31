@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T17:40:05+0000",
+ "fetched_at": "2026-10-31T18:01:02+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -572,8 +572,8 @@
    "nickname": "Ez Abde",
    "positionId": 4,
    "marketValue": 74226444,
-   "points": 42,
-   "averagePoints": 5.25,
+   "points": 43,
+   "averagePoints": 5.375,
    "playerStatus": "ok"
   },
   {
@@ -917,8 +917,8 @@
    "nickname": "Isco",
    "positionId": 3,
    "marketValue": 58746621,
-   "points": 52,
-   "averagePoints": 4.7272727272727275,
+   "points": 54,
+   "averagePoints": 4.909090909090909,
    "playerStatus": "ok"
   },
   {
@@ -985,7 +985,7 @@
  "standing": [
   {
    "position": 1,
-   "points": 576,
+   "points": 579,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 534876540
