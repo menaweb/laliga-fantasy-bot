@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T21:26:51+0000",
+ "fetched_at": "2026-10-31T22:01:00+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -422,8 +422,8 @@
    "nickname": "Tenaglia",
    "positionId": 2,
    "marketValue": 22530268,
-   "points": 43,
-   "averagePoints": 3.909090909090909,
+   "points": 44,
+   "averagePoints": 4.0,
    "playerStatus": "ok"
   },
   {
@@ -901,21 +901,21 @@
   },
   {
    "position": 4,
-   "points": 444,
+   "points": 447,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 321372890
   },
   {
    "position": 5,
-   "points": 441,
+   "points": 447,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 162961340
   },
   {
    "position": 6,
-   "points": 404,
+   "points": 410,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 264252094
