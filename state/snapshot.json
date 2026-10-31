@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T14:01:13+0000",
+ "fetched_at": "2026-10-31T15:01:17+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -482,8 +482,8 @@
    "nickname": "Giuliano",
    "positionId": 4,
    "marketValue": 49279874,
-   "points": 57,
-   "averagePoints": 5.181818181818182,
+   "points": 67,
+   "averagePoints": 6.090909090909091,
    "playerStatus": "ok"
   },
   {
@@ -512,8 +512,8 @@
    "nickname": "Marc Pubill",
    "positionId": 2,
    "marketValue": 44162011,
-   "points": 42,
-   "averagePoints": 3.8181818181818183,
+   "points": 52,
+   "averagePoints": 4.7272727272727275,
    "playerStatus": "ok"
   },
   {
@@ -842,8 +842,8 @@
    "nickname": "Kang-In Lee",
    "positionId": 3,
    "marketValue": 74622117,
-   "points": 71,
-   "averagePoints": 6.454545454545454,
+   "points": 75,
+   "averagePoints": 6.818181818181818,
    "playerStatus": "ok"
   },
   {
@@ -932,8 +932,8 @@
    "nickname": "Barrios",
    "positionId": 3,
    "marketValue": 42097748,
-   "points": 35,
-   "averagePoints": 4.375,
+   "points": 43,
+   "averagePoints": 5.375,
    "playerStatus": "ok"
   },
   {
@@ -985,7 +985,7 @@
  "standing": [
   {
    "position": 1,
-   "points": 558,
+   "points": 576,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 534876540
@@ -1006,21 +1006,21 @@
   },
   {
    "position": 4,
-   "points": 432,
+   "points": 446,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 395995007
   },
   {
    "position": 5,
-   "points": 421,
+   "points": 424,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 162961340
   },
   {
    "position": 6,
-   "points": 399,
+   "points": 402,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 264252094
@@ -1034,7 +1034,7 @@
   },
   {
    "position": 8,
-   "points": 353,
+   "points": 355,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 136613353
