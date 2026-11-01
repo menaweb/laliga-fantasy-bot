@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T10:00:56+0000",
+ "fetched_at": "2026-11-01T11:00:59+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -251,7 +251,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 1474968,
    "expirationDate": "2026-11-01T20:08:00+01:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Pablo Ramón",
@@ -326,7 +326,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 23205721,
    "expirationDate": "2026-11-01T20:08:00+01:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Renato Veiga",
@@ -589,21 +589,6 @@
    "marketValue": 34269847,
    "points": 66,
    "averagePoints": 6.6,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2565",
-   "discr": "marketPlayerTeam",
-   "salePrice": 1800000,
-   "expirationDate": "2026-11-02T13:36:27+01:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "A. Fortuño",
-   "positionId": 1,
-   "marketValue": 1532513,
-   "points": 38,
-   "averagePoints": 3.4545454545454546,
    "playerStatus": "ok"
   },
   {
@@ -949,6 +934,21 @@
    "marketValue": 38819813,
    "points": 60,
    "averagePoints": 6.0,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2565",
+   "discr": "marketPlayerTeam",
+   "salePrice": 20000000,
+   "expirationDate": "2026-11-04T11:59:47+01:00",
+   "numberOfBids": null,
+   "seller": "37664261",
+   "myBid": null,
+   "nickname": "A. Fortuño",
+   "positionId": 1,
+   "marketValue": 1532513,
+   "points": 38,
+   "averagePoints": 3.4545454545454546,
    "playerStatus": "ok"
   }
  ],
