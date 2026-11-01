@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T14:00:57+0000",
+ "fetched_at": "2026-11-01T14:59:39+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -83,8 +83,8 @@
    "positionId": 2,
    "teamId": "17",
    "marketValue": 21554373,
-   "points": 42,
-   "averagePoints": 3.8181818181818183,
+   "points": 41,
+   "averagePoints": 3.727272727272727,
    "playerStatus": "ok",
    "buyoutClause": 35899764,
    "lockedEnd": "2026-10-16T20:08:13+0200",
@@ -587,8 +587,8 @@
    "nickname": "David Soria",
    "positionId": 1,
    "marketValue": 34269847,
-   "points": 66,
-   "averagePoints": 6.0,
+   "points": 67,
+   "averagePoints": 6.090909090909091,
    "playerStatus": "ok"
   },
   {
@@ -617,8 +617,8 @@
    "nickname": "A. Castrín",
    "positionId": 2,
    "marketValue": 11166211,
-   "points": 44,
-   "averagePoints": 4.0,
+   "points": 41,
+   "averagePoints": 3.727272727272727,
    "playerStatus": "ok"
   },
   {
@@ -752,8 +752,8 @@
    "nickname": "Vlachodimos",
    "positionId": 1,
    "marketValue": 25838829,
-   "points": 61,
-   "averagePoints": 5.545454545454546,
+   "points": 60,
+   "averagePoints": 5.454545454545454,
    "playerStatus": "ok"
   },
   {
@@ -955,7 +955,7 @@
  "standing": [
   {
    "position": 1,
-   "points": 594,
+   "points": 593,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 538205610
@@ -969,7 +969,7 @@
   },
   {
    "position": 3,
-   "points": 483,
+   "points": 481,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 385433568
@@ -997,14 +997,14 @@
   },
   {
    "position": 7,
-   "points": 380,
+   "points": 379,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 160289968
   },
   {
    "position": 8,
-   "points": 356,
+   "points": 354,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 136570378
