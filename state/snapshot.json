@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T20:01:03+0000",
+ "fetched_at": "2026-11-01T21:01:02+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -511,8 +511,8 @@
    "nickname": "Unai Simón",
    "positionId": 1,
    "marketValue": 40756250,
-   "points": 75,
-   "averagePoints": 6.818181818181818,
+   "points": 76,
+   "averagePoints": 6.909090909090909,
    "playerStatus": "ok"
   },
   {
@@ -616,8 +616,8 @@
    "nickname": "H. Rincón",
    "positionId": 2,
    "marketValue": 1029802,
-   "points": 21,
-   "averagePoints": 1.9090909090909092,
+   "points": 23,
+   "averagePoints": 2.090909090909091,
    "playerStatus": "ok"
   },
   {
@@ -796,8 +796,8 @@
    "nickname": "Guedes",
    "positionId": 4,
    "marketValue": 27273785,
-   "points": 47,
-   "averagePoints": 4.7,
+   "points": 46,
+   "averagePoints": 4.6,
    "playerStatus": "ok"
   },
   {
@@ -931,8 +931,8 @@
    "nickname": "Sucic",
    "positionId": 3,
    "marketValue": 29588495,
-   "points": 49,
-   "averagePoints": 4.454545454545454,
+   "points": 53,
+   "averagePoints": 4.818181818181818,
    "playerStatus": "ok"
   },
   {
@@ -968,7 +968,7 @@
   },
   {
    "position": 3,
-   "points": 526,
+   "points": 528,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 386525303
@@ -982,14 +982,14 @@
   },
   {
    "position": 5,
-   "points": 447,
+   "points": 451,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 345669512
   },
   {
    "position": 6,
-   "points": 419,
+   "points": 417,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 264107020
