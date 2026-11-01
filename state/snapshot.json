@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-01T18:01:01+0000",
+ "fetched_at": "2026-11-01T19:01:00+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -69,8 +69,8 @@
    "positionId": 2,
    "teamId": "7",
    "marketValue": 6269762,
-   "points": 42,
-   "averagePoints": 5.25,
+   "points": 44,
+   "averagePoints": 5.5,
    "playerStatus": "ok",
    "buyoutClause": 6269762,
    "lockedEnd": "2026-11-05T22:53:51+0100",
@@ -139,8 +139,8 @@
    "positionId": 3,
    "teamId": "7",
    "marketValue": 9279980,
-   "points": 38,
-   "averagePoints": 3.4545454545454546,
+   "points": 39,
+   "averagePoints": 3.5454545454545454,
    "playerStatus": "ok",
    "buyoutClause": 10291509,
    "lockedEnd": "2026-10-19T23:11:39+0200",
@@ -531,51 +531,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2938",
-   "discr": "marketPlayerTeam",
-   "salePrice": 476730630,
-   "expirationDate": "2026-11-03T08:50:43+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Koski",
-   "positionId": 2,
-   "marketValue": 47085092,
-   "points": 57,
-   "averagePoints": 5.181818181818182,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "1674",
-   "discr": "marketPlayerTeam",
-   "salePrice": 1217524470,
-   "expirationDate": "2026-11-03T08:50:50+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Arda Güler",
-   "positionId": 3,
-   "marketValue": 122308327,
-   "points": 106,
-   "averagePoints": 9.636363636363637,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3265",
-   "discr": "marketPlayerTeam",
-   "salePrice": 371033950,
-   "expirationDate": "2026-11-03T08:51:14+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Fofana",
-   "positionId": 3,
-   "marketValue": 37952084,
-   "points": 54,
-   "averagePoints": 6.75,
-   "playerStatus": "ok"
-  },
-  {
    "id": "3077",
    "discr": "marketPlayerTeam",
    "salePrice": 71254311,
@@ -691,8 +646,8 @@
    "nickname": "Pepelu",
    "positionId": 3,
    "marketValue": 36490731,
-   "points": 58,
-   "averagePoints": 5.2727272727272725,
+   "points": 59,
+   "averagePoints": 5.363636363636363,
    "playerStatus": "ok"
   },
   {
@@ -1006,21 +961,21 @@
   },
   {
    "position": 2,
-   "points": 535,
+   "points": 536,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 266459246
   },
   {
    "position": 3,
-   "points": 515,
+   "points": 516,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 386525303
   },
   {
    "position": 4,
-   "points": 450,
+   "points": 449,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 161261329
@@ -1034,14 +989,14 @@
   },
   {
    "position": 6,
-   "points": 416,
+   "points": 414,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 264107020
   },
   {
    "position": 7,
-   "points": 383,
+   "points": 386,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 174329238
