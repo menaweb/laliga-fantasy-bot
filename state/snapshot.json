@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T20:01:19+0000",
+ "fetched_at": "2026-11-02T21:01:03+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -601,8 +601,8 @@
    "nickname": "Boyomo",
    "positionId": 2,
    "marketValue": 6887723,
-   "points": 18,
-   "averagePoints": 1.6363636363636365,
+   "points": 19,
+   "averagePoints": 1.7272727272727273,
    "playerStatus": "ok"
   },
   {
@@ -1051,8 +1051,8 @@
    "nickname": "Yeremay",
    "positionId": 4,
    "marketValue": 35766269,
-   "points": 47,
-   "averagePoints": 4.7,
+   "points": 49,
+   "averagePoints": 4.9,
    "playerStatus": "ok"
   },
   {
@@ -1096,21 +1096,21 @@
   },
   {
    "position": 2,
-   "points": 539,
+   "points": 544,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 280883470
   },
   {
    "position": 3,
-   "points": 530,
+   "points": 533,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 458415873
   },
   {
    "position": 4,
-   "points": 468,
+   "points": 472,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 158638367
