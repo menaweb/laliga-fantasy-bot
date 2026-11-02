@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T06:00:59+0000",
+ "fetched_at": "2026-11-02T07:01:06+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -636,21 +636,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2464",
-   "discr": "marketPlayerTeam",
-   "salePrice": 40000000,
-   "expirationDate": "2026-11-02T13:37:43+01:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "Pepelu",
-   "positionId": 3,
-   "marketValue": 37536621,
-   "points": 66,
-   "averagePoints": 6.0,
-   "playerStatus": "ok"
-  },
-  {
    "id": "3023",
    "discr": "marketPlayerTeam",
    "salePrice": 4250000,
@@ -711,6 +696,21 @@
    "playerStatus": "ok"
   },
   {
+   "id": "2445",
+   "discr": "marketPlayerTeam",
+   "salePrice": 6018252,
+   "expirationDate": "2026-11-05T07:57:41+01:00",
+   "numberOfBids": null,
+   "seller": "37667518",
+   "myBid": null,
+   "nickname": "Olasagasti",
+   "positionId": 3,
+   "marketValue": 6018252,
+   "points": 43,
+   "averagePoints": 3.909090909090909,
+   "playerStatus": "ok"
+  },
+  {
    "id": "2958",
    "discr": "marketPlayerTeam",
    "salePrice": 14223090,
@@ -723,6 +723,21 @@
    "marketValue": 1484346,
    "points": 37,
    "averagePoints": 3.3636363636363638,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2577",
+   "discr": "marketPlayerTeam",
+   "salePrice": 4195591,
+   "expirationDate": "2026-11-05T07:58:09+01:00",
+   "numberOfBids": null,
+   "seller": "37667518",
+   "myBid": null,
+   "nickname": "A. Rebbach",
+   "positionId": 3,
+   "marketValue": 4195591,
+   "points": 30,
+   "averagePoints": 2.727272727272727,
    "playerStatus": "ok"
   },
   {
@@ -986,7 +1001,7 @@
    "points": 530,
    "team_id": "37664261",
    "manager": "Javi Cepas",
-   "teamValue": 393982062
+   "teamValue": 356445441
   },
   {
    "position": 4,
@@ -1021,7 +1036,7 @@
    "points": 376,
    "team_id": "37667518",
    "manager": "Rcoba",
-   "teamValue": 151151267
+   "teamValue": 188687888
   },
   {
    "position": 9,
