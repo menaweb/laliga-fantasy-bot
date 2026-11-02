@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T08:01:05+0000",
+ "fetched_at": "2026-11-02T09:01:14+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -516,21 +516,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "68",
-   "discr": "marketPlayerTeam",
-   "salePrice": 69852211,
-   "expirationDate": "2026-11-03T21:07:40+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Unai Simón",
-   "positionId": 1,
-   "marketValue": 40906740,
-   "points": 82,
-   "averagePoints": 7.454545454545454,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2562",
    "discr": "marketPlayerTeam",
    "salePrice": 441620110,
@@ -1015,7 +1000,7 @@
    "points": 463,
    "team_id": "37668923",
    "manager": "Paco!!",
-   "teamValue": 347869140
+   "teamValue": 306962400
   },
   {
    "position": 6,
