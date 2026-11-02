@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T21:01:03+0000",
+ "fetched_at": "2026-11-02T22:01:00+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -391,8 +391,8 @@
    "nickname": "Aubameyang",
    "positionId": 4,
    "marketValue": 42494106,
-   "points": 65,
-   "averagePoints": 8.125,
+   "points": 67,
+   "averagePoints": 8.375,
    "playerStatus": "doubtful"
   },
   {
@@ -1051,8 +1051,8 @@
    "nickname": "Yeremay",
    "positionId": 4,
    "marketValue": 35766269,
-   "points": 49,
-   "averagePoints": 4.9,
+   "points": 55,
+   "averagePoints": 5.5,
    "playerStatus": "ok"
   },
   {
@@ -1096,21 +1096,21 @@
   },
   {
    "position": 2,
-   "points": 544,
+   "points": 550,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 280883470
   },
   {
    "position": 3,
-   "points": 533,
+   "points": 539,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 458415873
   },
   {
    "position": 4,
-   "points": 472,
+   "points": 475,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 158638367
@@ -1124,7 +1124,7 @@
   },
   {
    "position": 6,
-   "points": 424,
+   "points": 426,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 264878071
@@ -1138,7 +1138,7 @@
   },
   {
    "position": 8,
-   "points": 376,
+   "points": 377,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 188687888
