@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T23:27:01+0000",
+ "fetched_at": "2026-11-03T00:01:07+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -385,7 +385,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 42494106,
    "expirationDate": "2026-11-03T20:08:00+01:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Aubameyang",
@@ -469,6 +469,21 @@
    "points": 24,
    "averagePoints": 2.6666666666666665,
    "playerStatus": "suspended"
+  },
+  {
+   "id": "3209",
+   "discr": "marketPlayerTeam",
+   "salePrice": 55665490,
+   "expirationDate": "2026-11-06T00:31:47+01:00",
+   "numberOfBids": null,
+   "seller": "37675747",
+   "myBid": null,
+   "nickname": "Adeyemi",
+   "positionId": 4,
+   "marketValue": 55665490,
+   "points": 54,
+   "averagePoints": 4.909090909090909,
+   "playerStatus": "ok"
   },
   {
    "id": "1337",
@@ -1054,6 +1069,21 @@
    "points": 97,
    "averagePoints": 8.818181818181818,
    "playerStatus": "ok"
+  },
+  {
+   "id": "3258",
+   "discr": "marketPlayerTeam",
+   "salePrice": 27363675,
+   "expirationDate": "2026-11-06T00:31:59+01:00",
+   "numberOfBids": null,
+   "seller": "37675747",
+   "myBid": null,
+   "nickname": "Gabriel Jesus",
+   "positionId": 4,
+   "marketValue": 27363675,
+   "points": 41,
+   "averagePoints": 5.125,
+   "playerStatus": "ok"
   }
  ],
  "standing": [
@@ -1069,21 +1099,21 @@
    "points": 550,
    "team_id": "37678052",
    "manager": "olegwarrior",
-   "teamValue": 280883470
+   "teamValue": 281912847
   },
   {
    "position": 3,
    "points": 539,
    "team_id": "37664261",
    "manager": "Javi Cepas",
-   "teamValue": 458415873
+   "teamValue": 465633441
   },
   {
    "position": 4,
    "points": 475,
    "team_id": "37679249",
    "manager": "RamónBético",
-   "teamValue": 158638367
+   "teamValue": 157752238
   },
   {
    "position": 5,
@@ -1118,7 +1148,7 @@
    "points": 192,
    "team_id": "37681066",
    "manager": "Miguel Canuelo",
-   "teamValue": 96662435
+   "teamValue": 97240520
   }
  ]
 }
