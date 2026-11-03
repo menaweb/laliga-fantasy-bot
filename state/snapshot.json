@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T07:01:07+0000",
+ "fetched_at": "2026-11-03T08:01:05+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -561,21 +561,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2562",
-   "discr": "marketPlayerTeam",
-   "salePrice": 441620110,
-   "expirationDate": "2026-11-03T08:50:33+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Marc Pubill",
-   "positionId": 2,
-   "marketValue": 47150337,
-   "points": 52,
-   "averagePoints": 4.7272727272727275,
-   "playerStatus": "ok"
-  },
-  {
    "id": "3077",
    "discr": "marketPlayerTeam",
    "salePrice": 71254311,
@@ -711,21 +696,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2759",
-   "discr": "marketPlayerTeam",
-   "salePrice": 259829140,
-   "expirationDate": "2026-11-03T08:50:25+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Vlachodimos",
-   "positionId": 1,
-   "marketValue": 25304762,
-   "points": 63,
-   "averagePoints": 5.7272727272727275,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2445",
    "discr": "marketPlayerTeam",
    "salePrice": 6018252,
@@ -741,21 +711,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2958",
-   "discr": "marketPlayerTeam",
-   "salePrice": 14223090,
-   "expirationDate": "2026-11-03T08:51:09+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Morcillo",
-   "positionId": 3,
-   "marketValue": 1509312,
-   "points": 37,
-   "averagePoints": 3.3636363636363638,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2577",
    "discr": "marketPlayerTeam",
    "salePrice": 4195591,
@@ -768,21 +723,6 @@
    "marketValue": 4111800,
    "points": 30,
    "averagePoints": 2.727272727272727,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3262",
-   "discr": "marketPlayerTeam",
-   "salePrice": 61997280,
-   "expirationDate": "2026-11-03T08:51:27+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Félix Correia",
-   "positionId": 4,
-   "marketValue": 6912905,
-   "points": 48,
-   "averagePoints": 6.0,
    "playerStatus": "ok"
   },
   {
