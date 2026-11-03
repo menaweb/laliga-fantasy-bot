@@ -1,15 +1,15 @@
 {
- "fetched_at": "2026-11-03T02:01:02+0000",
+ "fetched_at": "2026-11-03T03:01:06+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
  "week": {
-  "isLive": true,
-  "nextWeek": 12,
-  "previousWeek": 10,
-  "weekNumber": 11,
-  "openingWeekDate": "2026-10-30T21:00:00+01:00",
-  "closingWeekDate": "2026-11-03T03:00:00+01:00"
+  "isLive": false,
+  "nextWeek": 13,
+  "previousWeek": 11,
+  "weekNumber": 12,
+  "openingWeekDate": "2026-11-06T21:00:00+01:00",
+  "closingWeekDate": "2026-11-09T03:00:00+01:00"
  },
  "money": 825667,
  "investment": 0,
