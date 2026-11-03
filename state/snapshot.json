@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-03T18:01:18+0000",
+ "fetched_at": "2026-11-03T19:01:06+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -400,7 +400,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 37461116,
    "expirationDate": "2026-11-03T20:08:00+01:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Laporte",
@@ -561,6 +561,21 @@
    "playerStatus": "ok"
   },
   {
+   "id": "2562",
+   "discr": "marketPlayerTeam",
+   "salePrice": 47143063,
+   "expirationDate": "2026-11-06T19:05:35+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Marc Pubill",
+   "positionId": 2,
+   "marketValue": 47143063,
+   "points": 52,
+   "averagePoints": 4.7272727272727275,
+   "playerStatus": "ok"
+  },
+  {
    "id": "3077",
    "discr": "marketPlayerTeam",
    "salePrice": 71254311,
@@ -696,6 +711,21 @@
    "playerStatus": "ok"
   },
   {
+   "id": "2759",
+   "discr": "marketPlayerTeam",
+   "salePrice": 253030380,
+   "expirationDate": "2026-11-06T19:05:22+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Vlachodimos",
+   "positionId": 1,
+   "marketValue": 25303038,
+   "points": 63,
+   "averagePoints": 5.7272727272727275,
+   "playerStatus": "ok"
+  },
+  {
    "id": "2445",
    "discr": "marketPlayerTeam",
    "salePrice": 6018252,
@@ -711,6 +741,21 @@
    "playerStatus": "ok"
   },
   {
+   "id": "2958",
+   "discr": "marketPlayerTeam",
+   "salePrice": 15091200,
+   "expirationDate": "2026-11-06T19:05:44+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Morcillo",
+   "positionId": 3,
+   "marketValue": 1509120,
+   "points": 37,
+   "averagePoints": 3.3636363636363638,
+   "playerStatus": "ok"
+  },
+  {
    "id": "2577",
    "discr": "marketPlayerTeam",
    "salePrice": 4195591,
@@ -723,6 +768,21 @@
    "marketValue": 4111602,
    "points": 30,
    "averagePoints": 2.727272727272727,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3262",
+   "discr": "marketPlayerTeam",
+   "salePrice": 69114980,
+   "expirationDate": "2026-11-06T19:06:01+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Félix Correia",
+   "positionId": 4,
+   "marketValue": 6911498,
+   "points": 48,
+   "averagePoints": 6.0,
    "playerStatus": "ok"
   },
   {
@@ -1024,6 +1084,21 @@
    "points": 41,
    "averagePoints": 5.125,
    "playerStatus": "ok"
+  },
+  {
+   "id": "74",
+   "discr": "marketPlayerTeam",
+   "salePrice": 227980050,
+   "expirationDate": "2026-11-06T19:05:28+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Yuri",
+   "positionId": 2,
+   "marketValue": 22798005,
+   "points": 53,
+   "averagePoints": 5.3,
+   "playerStatus": "ok"
   }
  ],
  "standing": [
@@ -1032,42 +1107,42 @@
    "points": 621,
    "team_id": "37664721",
    "manager": "enriqsuar",
-   "teamValue": 591293632
+   "teamValue": 591231132
   },
   {
    "position": 2,
    "points": 550,
    "team_id": "37678052",
    "manager": "olegwarrior",
-   "teamValue": 281912847
+   "teamValue": 281883216
   },
   {
    "position": 3,
    "points": 539,
    "team_id": "37664261",
    "manager": "Javi Cepas",
-   "teamValue": 465633441
+   "teamValue": 465571942
   },
   {
    "position": 4,
    "points": 475,
    "team_id": "37679249",
    "manager": "RamónBético",
-   "teamValue": 157752238
+   "teamValue": 157739824
   },
   {
    "position": 5,
    "points": 463,
    "team_id": "37668923",
    "manager": "Paco!!",
-   "teamValue": 358431637
+   "teamValue": 358391255
   },
   {
    "position": 6,
    "points": 426,
    "team_id": "37675747",
    "manager": "Javi Trauma",
-   "teamValue": 263347061
+   "teamValue": 263325316
   },
   {
    "position": 7,
@@ -1081,14 +1156,14 @@
    "points": 377,
    "team_id": "37667518",
    "manager": "Rcoba",
-   "teamValue": 190231271
+   "teamValue": 190211036
   },
   {
    "position": 9,
    "points": 192,
    "team_id": "37681066",
    "manager": "Miguel Canuelo",
-   "teamValue": 97240520
+   "teamValue": 97229986
   }
  ]
 }
