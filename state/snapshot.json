@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T13:01:06+0000",
+ "fetched_at": "2026-11-04T14:01:06+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -650,6 +650,51 @@
    "playerStatus": "ok"
   },
   {
+   "id": "1565",
+   "discr": "marketPlayerTeam",
+   "salePrice": 411462490,
+   "expirationDate": "2026-11-07T14:28:01+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Barrios",
+   "positionId": 3,
+   "marketValue": 41146249,
+   "points": 43,
+   "averagePoints": 5.375,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3090",
+   "discr": "marketPlayerTeam",
+   "salePrice": 651947150,
+   "expirationDate": "2026-11-07T14:27:47+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Isco",
+   "positionId": 3,
+   "marketValue": 65194715,
+   "points": 67,
+   "averagePoints": 6.090909090909091,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3089",
+   "discr": "marketPlayerTeam",
+   "salePrice": 746670770,
+   "expirationDate": "2026-11-07T14:27:54+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Ez Abde",
+   "positionId": 4,
+   "marketValue": 74667077,
+   "points": 49,
+   "averagePoints": 6.125,
+   "playerStatus": "ok"
+  },
+  {
    "id": "1674",
    "discr": "marketPlayerTeam",
    "salePrice": 1223083270,
@@ -887,6 +932,21 @@
    "marketValue": 1912093,
    "points": 38,
    "averagePoints": 3.4545454545454546,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "204",
+   "discr": "marketPlayerTeam",
+   "salePrice": 1257799,
+   "expirationDate": "2026-11-07T14:16:02+01:00",
+   "numberOfBids": null,
+   "seller": "37667518",
+   "myBid": null,
+   "nickname": "Aitor Fdez",
+   "positionId": 1,
+   "marketValue": 1257799,
+   "points": 21,
+   "averagePoints": 1.9090909090909092,
    "playerStatus": "ok"
   }
  ],
