@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T12:01:11+0000",
+ "fetched_at": "2026-11-04T13:01:06+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -339,7 +339,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 3985139,
    "expirationDate": "2026-11-04T20:08:00+01:00",
-   "numberOfBids": 1,
+   "numberOfBids": 0,
    "seller": "",
    "myBid": null,
    "nickname": "Dotor",
@@ -917,14 +917,14 @@
    "points": 475,
    "team_id": "37679249",
    "manager": "RamónBético",
-   "teamValue": 149958680
+   "teamValue": 162487523
   },
   {
    "position": 5,
    "points": 463,
    "team_id": "37668923",
    "manager": "Paco!!",
-   "teamValue": 375704663
+   "teamValue": 363175820
   },
   {
    "position": 6,
