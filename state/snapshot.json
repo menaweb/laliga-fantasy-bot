@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T18:01:14+0000",
+ "fetched_at": "2026-11-04T19:01:08+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -932,6 +932,21 @@
    "marketValue": 1257799,
    "points": 21,
    "averagePoints": 1.9090909090909092,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "1614",
+   "discr": "marketPlayerTeam",
+   "salePrice": 29431310,
+   "expirationDate": "2026-11-07T19:13:10+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Cardona",
+   "positionId": 2,
+   "marketValue": 2943131,
+   "points": 28,
+   "averagePoints": 2.5454545454545454,
    "playerStatus": "ok"
   }
  ],
