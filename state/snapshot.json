@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-04T05:01:06+0000",
+ "fetched_at": "2026-11-04T06:01:02+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -369,7 +369,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 598521,
    "expirationDate": "2026-11-04T20:08:00+01:00",
-   "numberOfBids": 1,
+   "numberOfBids": 0,
    "seller": "",
    "myBid": null,
    "nickname": "Fran González",
@@ -872,6 +872,21 @@
    "marketValue": 3972596,
    "points": 30,
    "averagePoints": 3.3333333333333335,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2565",
+   "discr": "marketPlayerTeam",
+   "salePrice": 19120930,
+   "expirationDate": "2026-11-07T06:56:11+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "A. Fortuño",
+   "positionId": 1,
+   "marketValue": 1912093,
+   "points": 38,
+   "averagePoints": 3.4545454545454546,
    "playerStatus": "ok"
   }
  ],
