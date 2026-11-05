@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T06:33:45+0000",
+ "fetched_at": "2026-11-05T07:01:09+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -485,21 +485,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2445",
-   "discr": "marketPlayerTeam",
-   "salePrice": 6018252,
-   "expirationDate": "2026-11-05T07:57:41+01:00",
-   "numberOfBids": null,
-   "seller": "37667518",
-   "myBid": null,
-   "nickname": "Olasagasti",
-   "positionId": 3,
-   "marketValue": 5875633,
-   "points": 43,
-   "averagePoints": 3.909090909090909,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2958",
    "discr": "marketPlayerTeam",
    "salePrice": 15091200,
@@ -512,21 +497,6 @@
    "marketValue": 1567403,
    "points": 37,
    "averagePoints": 3.3636363636363638,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2577",
-   "discr": "marketPlayerTeam",
-   "salePrice": 4195591,
-   "expirationDate": "2026-11-05T07:58:09+01:00",
-   "numberOfBids": null,
-   "seller": "37667518",
-   "myBid": null,
-   "nickname": "A. Rebbach",
-   "positionId": 3,
-   "marketValue": 3978452,
-   "points": 30,
-   "averagePoints": 2.727272727272727,
    "playerStatus": "ok"
   },
   {
