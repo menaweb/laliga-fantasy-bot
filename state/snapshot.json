@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T09:01:08+0000",
+ "fetched_at": "2026-11-05T10:01:10+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -602,21 +602,6 @@
    "marketValue": 74282740,
    "points": 49,
    "averagePoints": 6.125,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3103",
-   "discr": "marketPlayerTeam",
-   "salePrice": 1796815600,
-   "expirationDate": "2026-11-05T10:24:42+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Mbappé",
-   "positionId": 4,
-   "marketValue": 180940478,
-   "points": 135,
-   "averagePoints": 12.272727272727273,
    "playerStatus": "ok"
   },
   {
