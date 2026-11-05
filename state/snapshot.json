@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T18:01:14+0000",
+ "fetched_at": "2026-11-05T19:01:13+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -309,7 +309,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 10853603,
    "expirationDate": "2026-11-05T20:08:00+01:00",
-   "numberOfBids": 1,
+   "numberOfBids": 2,
    "seller": "",
    "myBid": null,
    "nickname": "Bil Nsongo",
