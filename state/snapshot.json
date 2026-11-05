@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:01:17+0000",
+ "fetched_at": "2026-11-05T15:01:12+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -605,6 +605,21 @@
    "playerStatus": "ok"
   },
   {
+   "id": "3103",
+   "discr": "marketPlayerTeam",
+   "salePrice": 1809404780,
+   "expirationDate": "2026-11-08T15:58:17+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Mbappé",
+   "positionId": 4,
+   "marketValue": 180940478,
+   "points": 135,
+   "averagePoints": 12.272727272727273,
+   "playerStatus": "ok"
+  },
+  {
    "id": "2418",
    "discr": "marketPlayerTeam",
    "salePrice": 26100000,
@@ -888,6 +903,21 @@
    "points": 6,
    "averagePoints": 0.5454545454545454,
    "playerStatus": "ok"
+  },
+  {
+   "id": "2453",
+   "discr": "marketPlayerTeam",
+   "salePrice": 206063420,
+   "expirationDate": "2026-11-08T15:58:10+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Agoumé",
+   "positionId": 3,
+   "marketValue": 20606342,
+   "points": 46,
+   "averagePoints": 4.181818181818182,
+   "playerStatus": "ok"
   }
  ],
  "standing": [
@@ -896,7 +926,7 @@
    "points": 621,
    "team_id": "37664721",
    "manager": "enriqsuar",
-   "teamValue": 449365397
+   "teamValue": 469971739
   },
   {
    "position": 2,
@@ -945,7 +975,7 @@
    "points": 377,
    "team_id": "37667518",
    "manager": "Rcoba",
-   "teamValue": 184634537
+   "teamValue": 164028195
   },
   {
    "position": 9,
