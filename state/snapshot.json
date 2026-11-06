@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T08:01:08+0000",
+ "fetched_at": "2026-11-06T09:01:10+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -12,7 +12,7 @@
   "closingWeekDate": "2026-11-09T03:00:00+01:00"
  },
  "money": 9851941,
- "investment": 825751,
+ "investment": 0,
  "team": {
   "teamValue": 164470646,
   "teamPoints": 395,
@@ -369,9 +369,9 @@
    "discr": "marketPlayerLeague",
    "salePrice": 832967,
    "expirationDate": "2026-11-06T20:08:00+01:00",
-   "numberOfBids": 1,
+   "numberOfBids": 0,
    "seller": "",
-   "myBid": 825751,
+   "myBid": null,
    "nickname": "J. Musso",
    "positionId": 1,
    "marketValue": 825751,
