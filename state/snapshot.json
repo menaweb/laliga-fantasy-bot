@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T07:01:10+0000",
+ "fetched_at": "2026-11-06T08:01:08+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -11,8 +11,8 @@
   "openingWeekDate": "2026-11-06T21:00:00+01:00",
   "closingWeekDate": "2026-11-09T03:00:00+01:00"
  },
- "money": 9751941,
- "investment": 0,
+ "money": 9851941,
+ "investment": 825751,
  "team": {
   "teamValue": 164470646,
   "teamPoints": 395,
@@ -172,7 +172,7 @@
    "playerStatus": "injured",
    "buyoutClause": 51555905,
    "lockedEnd": "2026-08-19T00:06:12+0200",
-   "onSale": false
+   "onSale": true
   },
   {
    "ptid": "110261021",
@@ -369,9 +369,9 @@
    "discr": "marketPlayerLeague",
    "salePrice": 832967,
    "expirationDate": "2026-11-06T20:08:00+01:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
-   "myBid": null,
+   "myBid": 825751,
    "nickname": "J. Musso",
    "positionId": 1,
    "marketValue": 825751,
@@ -783,6 +783,21 @@
    "points": 16,
    "averagePoints": 1.4545454545454546,
    "playerStatus": "ok"
+  },
+  {
+   "id": "356",
+   "discr": "marketPlayerTeam",
+   "salePrice": 48000000,
+   "expirationDate": "2026-11-09T08:18:51+01:00",
+   "numberOfBids": null,
+   "seller": "37682094",
+   "myBid": null,
+   "nickname": "Gerard",
+   "positionId": 4,
+   "marketValue": 18225584,
+   "points": 48,
+   "averagePoints": 4.363636363636363,
+   "playerStatus": "injured"
   }
  ],
  "standing": [
