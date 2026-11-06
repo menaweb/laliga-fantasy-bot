@@ -3,7 +3,7 @@ from datetime import datetime
 
 from ..config import ABSOLUTE_CAP, POS_NAMES
 from ..models import Action
-from .squad import best_xi, weakest_in_xi, xi_set
+from .squad import best_xi, gaps, weakest_in_xi, xi_set
 
 RAISE_FACTOR = 2  # pagas X y la cláusula sube 2X (app oficial)
 
@@ -18,6 +18,7 @@ def plan_clause_pays(snap, valuer, cfg, now: datetime, budget: int) -> list:
     xi = best_xi(entries, valuer, snap.formations or ["4,4,2"]) or snap.current_xi()
     room = cfg.squad.max_size - len(snap.squad())
     departed = snap.recent_departures(int(cfg.bids.get("rebuy_veto_days", 0) or 0), now)
+    emergency_pos = set(gaps(entries, valuer, cfg))   # posiciones donde no se puede alinear a 11: se relajan calidad y mejora
     cands = []
     for r in snap.rival_squads():
         p = r["player"]
@@ -28,11 +29,13 @@ def plan_clause_pays(snap, valuer, cfg, now: datetime, budget: int) -> list:
             continue
         if not clause_open(r["lockedEnd"], now):
             continue
-        if valuer.exp(p) < float(cfg.bids.get("min_exp_signing", 0) or 0):
+        emergency = POS_NAMES[p["positionId"]] in emergency_pos
+        floor = float(cfg.bids.get("min_exp_emergency", 0) or 0) if emergency else float(cfg.bids.get("min_exp_signing", 0) or 0)
+        if valuer.exp(p) < floor:
             continue
         weakest = weakest_in_xi(entries, xi, valuer, p["positionId"])
         g = valuer.exp(p) - (valuer.exp(weakest["player"]) if weakest else 0.0)
-        if g < cfg.clauses.pay_min_gain_points:
+        if g < cfg.clauses.pay_min_gain_points and not emergency:
             continue
         cands.append((g / cl * 1e6, g, cl, r))
     cands.sort(key=lambda t: -t[0])
