@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T15:01:11+0000",
+ "fetched_at": "2026-11-06T16:01:09+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -471,21 +471,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "1210",
-   "discr": "marketPlayerTeam",
-   "salePrice": 333333333,
-   "expirationDate": "2026-11-09T00:22:37+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Giuliano",
-   "positionId": 4,
-   "marketValue": 51915579,
-   "points": 67,
-   "averagePoints": 6.090909090909091,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2206",
    "discr": "marketPlayerTeam",
    "salePrice": 985421125,
@@ -807,63 +792,63 @@
    "points": 621,
    "team_id": "37664721",
    "manager": "enriqsuar",
-   "teamValue": 472255742
+   "teamValue": 472259472
   },
   {
    "position": 2,
    "points": 550,
    "team_id": "37678052",
    "manager": "olegwarrior",
-   "teamValue": 288198706
+   "teamValue": 288201171
   },
   {
    "position": 3,
    "points": 539,
    "team_id": "37664261",
    "manager": "Javi Cepas",
-   "teamValue": 404301553
+   "teamValue": 404303163
   },
   {
    "position": 4,
    "points": 475,
    "team_id": "37679249",
    "manager": "RamónBético",
-   "teamValue": 162017595
+   "teamValue": 162018247
   },
   {
    "position": 5,
    "points": 463,
    "team_id": "37668923",
    "manager": "Paco!!",
-   "teamValue": 365679988
+   "teamValue": 365681839
   },
   {
    "position": 6,
    "points": 426,
    "team_id": "37675747",
    "manager": "Javi Trauma",
-   "teamValue": 253126488
+   "teamValue": 253127510
   },
   {
    "position": 7,
    "points": 395,
    "team_id": "37682094",
    "manager": "menaweb",
-   "teamValue": 165711865
+   "teamValue": 165712734
   },
   {
    "position": 8,
    "points": 377,
    "team_id": "37667518",
    "manager": "Rcoba",
-   "teamValue": 164181855
+   "teamValue": 164183426
   },
   {
    "position": 9,
    "points": 192,
    "team_id": "37681066",
    "manager": "Miguel Canuelo",
-   "teamValue": 99843199
+   "teamValue": 99843800
   }
  ]
 }
