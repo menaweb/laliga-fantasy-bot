@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T20:01:10+0000",
+ "fetched_at": "2026-11-06T21:01:11+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -83,8 +83,8 @@
    "positionId": 2,
    "teamId": "17",
    "marketValue": 21158449,
-   "points": 45,
-   "averagePoints": 3.75,
+   "points": 44,
+   "averagePoints": 3.6666666666666665,
    "playerStatus": "ok",
    "buyoutClause": 35899764,
    "lockedEnd": "2026-10-16T20:08:13+0200",
@@ -466,8 +466,8 @@
    "nickname": "Ibañez",
    "positionId": 3,
    "marketValue": 21356609,
-   "points": 52,
-   "averagePoints": 4.333333333333333,
+   "points": 51,
+   "averagePoints": 4.25,
    "playerStatus": "ok"
   },
   {
@@ -571,8 +571,8 @@
    "nickname": "Félix Correia",
    "positionId": 4,
    "marketValue": 7978280,
-   "points": 48,
-   "averagePoints": 5.333333333333333,
+   "points": 49,
+   "averagePoints": 5.444444444444445,
    "playerStatus": "ok"
   },
   {
@@ -646,8 +646,8 @@
    "nickname": "Ángel Pérez",
    "positionId": 3,
    "marketValue": 36663204,
-   "points": 60,
-   "averagePoints": 5.454545454545454,
+   "points": 58,
+   "averagePoints": 5.2727272727272725,
    "playerStatus": "ok"
   },
   {
@@ -826,8 +826,8 @@
    "nickname": "Agoumé",
    "positionId": 3,
    "marketValue": 20701652,
-   "points": 46,
-   "averagePoints": 3.8333333333333335,
+   "points": 45,
+   "averagePoints": 3.75,
    "playerStatus": "ok"
   },
   {
@@ -1042,7 +1042,7 @@
   },
   {
    "position": 5,
-   "points": 463,
+   "points": 460,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 388950455
@@ -1056,14 +1056,14 @@
   },
   {
    "position": 7,
-   "points": 395,
+   "points": 394,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 165712734
   },
   {
    "position": 8,
-   "points": 377,
+   "points": 376,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 164183426
