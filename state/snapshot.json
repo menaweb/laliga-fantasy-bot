@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T16:21:25+0000",
+ "fetched_at": "2026-11-07T17:01:06+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -97,8 +97,8 @@
    "positionId": 2,
    "teamId": "8",
    "marketValue": 16837110,
-   "points": 48,
-   "averagePoints": 4.363636363636363,
+   "points": 47,
+   "averagePoints": 4.2727272727272725,
    "playerStatus": "ok",
    "buyoutClause": 31116110,
    "lockedEnd": "2026-10-11T20:32:33+0200",
@@ -111,8 +111,8 @@
    "positionId": 3,
    "teamId": "26",
    "marketValue": 747394,
-   "points": 24,
-   "averagePoints": 2.0,
+   "points": 23,
+   "averagePoints": 1.9166666666666667,
    "playerStatus": "ok",
    "buyoutClause": 2393361,
    "lockedEnd": "2026-09-01T20:08:29+0200",
@@ -1026,7 +1026,7 @@
   },
   {
    "position": 7,
-   "points": 405,
+   "points": 403,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 164951243
