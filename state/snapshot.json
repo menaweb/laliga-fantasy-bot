@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T16:01:09+0000",
+ "fetched_at": "2026-11-07T16:21:25+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -496,8 +496,8 @@
    "nickname": "Edu Expósito",
    "positionId": 3,
    "marketValue": 42135990,
-   "points": 66,
-   "averagePoints": 5.5,
+   "points": 67,
+   "averagePoints": 5.583333333333333,
    "playerStatus": "ok"
   },
   {
@@ -984,7 +984,7 @@
  "standing": [
   {
    "position": 1,
-   "points": 638,
+   "points": 639,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 571763616
@@ -1012,7 +1012,7 @@
   },
   {
    "position": 5,
-   "points": 471,
+   "points": 472,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 389186205
