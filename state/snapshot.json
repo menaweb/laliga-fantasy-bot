@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T18:01:08+0000",
+ "fetched_at": "2026-11-07T19:01:05+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -27,8 +27,8 @@
    "positionId": 1,
    "teamId": "13",
    "marketValue": 1222195,
-   "points": 21,
-   "averagePoints": 1.75,
+   "points": 23,
+   "averagePoints": 1.9166666666666667,
    "playerStatus": "ok",
    "buyoutClause": 2800000,
    "lockedEnd": "2026-11-20T15:28:45+0100",
@@ -256,8 +256,8 @@
    "nickname": "Edin Terzic",
    "positionId": 5,
    "marketValue": 844811,
-   "points": 26,
-   "averagePoints": 2.6,
+   "points": 28,
+   "averagePoints": 2.5454545454545454,
    "playerStatus": "ok"
   },
   {
@@ -711,21 +711,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "1614",
-   "discr": "marketPlayerTeam",
-   "salePrice": 29431310,
-   "expirationDate": "2026-11-07T19:13:10+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Cardona",
-   "positionId": 2,
-   "marketValue": 3016904,
-   "points": 28,
-   "averagePoints": 2.5454545454545454,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2562",
    "discr": "marketPlayerTeam",
    "salePrice": 488478200,
@@ -931,8 +916,8 @@
    "nickname": "Peio Canales",
    "positionId": 3,
    "marketValue": 4153442,
-   "points": 30,
-   "averagePoints": 3.0,
+   "points": 29,
+   "averagePoints": 2.9,
    "playerStatus": "ok"
   },
   {
@@ -991,21 +976,21 @@
   },
   {
    "position": 2,
-   "points": 566,
+   "points": 565,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 290354911
   },
   {
    "position": 3,
-   "points": 548,
+   "points": 547,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 411203396
   },
   {
    "position": 4,
-   "points": 481,
+   "points": 482,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 389186205
@@ -1019,21 +1004,21 @@
   },
   {
    "position": 6,
-   "points": 436,
+   "points": 435,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 253385282
   },
   {
    "position": 7,
-   "points": 414,
+   "points": 416,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 164951243
   },
   {
    "position": 8,
-   "points": 389,
+   "points": 390,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 165601817
