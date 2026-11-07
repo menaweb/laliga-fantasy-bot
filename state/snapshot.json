@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T05:01:07+0000",
+ "fetched_at": "2026-11-07T06:01:06+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -738,21 +738,6 @@
    "marketValue": 24635516,
    "points": 53,
    "averagePoints": 5.3,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2565",
-   "discr": "marketPlayerTeam",
-   "salePrice": 19120930,
-   "expirationDate": "2026-11-07T06:56:11+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "A. Fortuño",
-   "positionId": 1,
-   "marketValue": 2324156,
-   "points": 38,
-   "averagePoints": 3.4545454545454546,
    "playerStatus": "ok"
   },
   {
