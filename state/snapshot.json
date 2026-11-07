@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T13:01:08+0000",
+ "fetched_at": "2026-11-07T14:01:05+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -55,8 +55,8 @@
    "positionId": 2,
    "teamId": "12",
    "marketValue": 2475847,
-   "points": 32,
-   "averagePoints": 2.6666666666666665,
+   "points": 31,
+   "averagePoints": 2.5833333333333335,
    "playerStatus": "ok",
    "buyoutClause": 10209502,
    "lockedEnd": "2026-09-29T21:01:19+0200",
@@ -606,36 +606,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "1565",
-   "discr": "marketPlayerTeam",
-   "salePrice": 411462490,
-   "expirationDate": "2026-11-07T14:28:01+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Barrios",
-   "positionId": 3,
-   "marketValue": 40332822,
-   "points": 43,
-   "averagePoints": 5.375,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3089",
-   "discr": "marketPlayerTeam",
-   "salePrice": 746670770,
-   "expirationDate": "2026-11-07T14:27:54+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Ez Abde",
-   "positionId": 4,
-   "marketValue": 73576144,
-   "points": 49,
-   "averagePoints": 6.125,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2932",
    "discr": "marketPlayerTeam",
    "salePrice": 111111111,
@@ -1035,7 +1005,7 @@
   },
   {
    "position": 4,
-   "points": 477,
+   "points": 476,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 161912994
@@ -1056,7 +1026,7 @@
   },
   {
    "position": 7,
-   "points": 404,
+   "points": 403,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 164951243
