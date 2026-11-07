@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-07T20:49:54+0000",
+ "fetched_at": "2026-11-07T21:01:05+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -1102,7 +1102,7 @@
   },
   {
    "position": 5,
-   "points": 485,
+   "points": 484,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 161912994
@@ -1123,7 +1123,7 @@
   },
   {
    "position": 8,
-   "points": 396,
+   "points": 397,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 165601817
