@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T21:01:11+0000",
+ "fetched_at": "2026-11-08T22:01:06+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -527,8 +527,8 @@
    "nickname": "Barrios",
    "positionId": 3,
    "marketValue": 40109723,
-   "points": 43,
-   "averagePoints": 4.777777777777778,
+   "points": 46,
+   "averagePoints": 5.111111111111111,
    "playerStatus": "ok"
   },
   {
@@ -722,8 +722,8 @@
    "nickname": "Grimaldo",
    "positionId": 2,
    "marketValue": 98046973,
-   "points": 94,
-   "averagePoints": 7.833333333333333,
+   "points": 95,
+   "averagePoints": 7.916666666666667,
    "playerStatus": "ok"
   },
   {
@@ -752,8 +752,8 @@
    "nickname": "Giuliano",
    "positionId": 4,
    "marketValue": 52521260,
-   "points": 71,
-   "averagePoints": 5.916666666666667,
+   "points": 75,
+   "averagePoints": 6.25,
    "playerStatus": "ok"
   },
   {
@@ -1045,7 +1045,7 @@
  "standing": [
   {
    "position": 1,
-   "points": 680,
+   "points": 684,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 590532729
@@ -1066,7 +1066,7 @@
   },
   {
    "position": 4,
-   "points": 517,
+   "points": 521,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 357609108
@@ -1080,7 +1080,7 @@
   },
   {
    "position": 6,
-   "points": 464,
+   "points": 471,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 266312530
