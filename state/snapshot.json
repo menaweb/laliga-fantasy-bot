@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T17:01:10+0000",
+ "fetched_at": "2026-11-08T18:01:05+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -182,7 +182,7 @@
    "teamId": "6",
    "marketValue": 13611534,
    "points": 46,
-   "averagePoints": 4.181818181818182,
+   "averagePoints": 3.8333333333333335,
    "playerStatus": "ok",
    "buyoutClause": 14039270,
    "lockedEnd": "2026-11-15T18:01:17+0100",
@@ -341,14 +341,14 @@
    "discr": "marketPlayerLeague",
    "salePrice": 14320473,
    "expirationDate": "2026-11-08T20:08:00+01:00",
-   "numberOfBids": 3,
+   "numberOfBids": 2,
    "seller": "",
    "myBid": null,
    "nickname": "De Frutos",
    "positionId": 4,
    "marketValue": 14633694,
-   "points": 42,
-   "averagePoints": 4.2,
+   "points": 45,
+   "averagePoints": 4.5,
    "playerStatus": "ok"
   },
   {
@@ -363,7 +363,7 @@
    "positionId": 4,
    "marketValue": 690668,
    "points": 4,
-   "averagePoints": 0.4444444444444444,
+   "averagePoints": 0.4,
    "playerStatus": "ok"
   },
   {
@@ -408,7 +408,7 @@
    "positionId": 3,
    "marketValue": 990515,
    "points": 26,
-   "averagePoints": 2.888888888888889,
+   "averagePoints": 2.6,
    "playerStatus": "ok"
   },
   {
@@ -468,7 +468,7 @@
    "positionId": 2,
    "marketValue": 28984590,
    "points": 66,
-   "averagePoints": 6.0,
+   "averagePoints": 5.5,
    "playerStatus": "ok"
   },
   {
@@ -512,8 +512,8 @@
    "nickname": "Guedes",
    "positionId": 4,
    "marketValue": 29018291,
-   "points": 48,
-   "averagePoints": 4.363636363636363,
+   "points": 49,
+   "averagePoints": 4.454545454545454,
    "playerStatus": "ok"
   },
   {
@@ -648,7 +648,7 @@
    "positionId": 2,
    "marketValue": 3001784,
    "points": 28,
-   "averagePoints": 2.5454545454545454,
+   "averagePoints": 2.3333333333333335,
    "playerStatus": "ok"
   },
   {
@@ -677,8 +677,8 @@
    "nickname": "Boselli",
    "positionId": 2,
    "marketValue": 694657,
-   "points": 16,
-   "averagePoints": 1.4545454545454546,
+   "points": 17,
+   "averagePoints": 1.4166666666666667,
    "playerStatus": "ok"
   },
   {
@@ -693,7 +693,7 @@
    "positionId": 2,
    "marketValue": 21165339,
    "points": 39,
-   "averagePoints": 3.5454545454545454,
+   "averagePoints": 3.25,
    "playerStatus": "ok"
   },
   {
@@ -768,7 +768,7 @@
    "positionId": 4,
    "marketValue": 8058018,
    "points": 59,
-   "averagePoints": 5.9,
+   "averagePoints": 5.363636363636363,
    "playerStatus": "ok"
   },
   {
@@ -797,8 +797,8 @@
    "nickname": "Ochieng",
    "positionId": 4,
    "marketValue": 1160261,
-   "points": 28,
-   "averagePoints": 2.3333333333333335,
+   "points": 30,
+   "averagePoints": 2.5,
    "playerStatus": "ok"
   },
   {
@@ -813,7 +813,7 @@
    "positionId": 1,
    "marketValue": 15439491,
    "points": 46,
-   "averagePoints": 4.181818181818182,
+   "averagePoints": 3.8333333333333335,
    "playerStatus": "ok"
   },
   {
@@ -917,8 +917,8 @@
    "nickname": "Sucic",
    "positionId": 3,
    "marketValue": 35114019,
-   "points": 59,
-   "averagePoints": 4.916666666666667,
+   "points": 66,
+   "averagePoints": 5.5,
    "playerStatus": "ok"
   },
   {
@@ -1037,35 +1037,35 @@
   },
   {
    "position": 2,
-   "points": 596,
+   "points": 603,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 413005733
   },
   {
    "position": 3,
-   "points": 592,
+   "points": 597,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 292539617
   },
   {
    "position": 4,
-   "points": 495,
-   "team_id": "37668923",
-   "manager": "Paco!!",
-   "teamValue": 357609108
-  },
-  {
-   "position": 5,
-   "points": 495,
+   "points": 499,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 161087706
   },
   {
+   "position": 5,
+   "points": 496,
+   "team_id": "37668923",
+   "manager": "Paco!!",
+   "teamValue": 357609108
+  },
+  {
    "position": 6,
-   "points": 450,
+   "points": 461,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 253823469
@@ -1079,7 +1079,7 @@
   },
   {
    "position": 8,
-   "points": 413,
+   "points": 424,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 167077160
