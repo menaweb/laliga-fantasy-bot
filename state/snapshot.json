@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T18:01:05+0000",
+ "fetched_at": "2026-11-08T19:01:10+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -227,8 +227,8 @@
    "nickname": "Luís Castro",
    "positionId": 5,
    "marketValue": 629805,
-   "points": 18,
-   "averagePoints": 1.6363636363636365,
+   "points": 20,
+   "averagePoints": 1.6666666666666667,
    "playerStatus": "ok"
   },
   {
@@ -677,8 +677,8 @@
    "nickname": "Boselli",
    "positionId": 2,
    "marketValue": 694657,
-   "points": 17,
-   "averagePoints": 1.4166666666666667,
+   "points": 20,
+   "averagePoints": 1.6666666666666667,
    "playerStatus": "ok"
   },
   {
@@ -692,8 +692,8 @@
    "nickname": "Renato Veiga",
    "positionId": 2,
    "marketValue": 21165339,
-   "points": 39,
-   "averagePoints": 3.25,
+   "points": 40,
+   "averagePoints": 3.3333333333333335,
    "playerStatus": "ok"
   },
   {
@@ -812,8 +812,8 @@
    "nickname": "Gulácsi",
    "positionId": 1,
    "marketValue": 15439491,
-   "points": 46,
-   "averagePoints": 3.8333333333333335,
+   "points": 47,
+   "averagePoints": 3.9166666666666665,
    "playerStatus": "ok"
   },
   {
@@ -1037,7 +1037,7 @@
   },
   {
    "position": 2,
-   "points": 603,
+   "points": 604,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 413005733
@@ -1051,21 +1051,21 @@
   },
   {
    "position": 4,
-   "points": 499,
+   "points": 500,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 161087706
   },
   {
    "position": 5,
-   "points": 496,
+   "points": 498,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 357609108
   },
   {
    "position": 6,
-   "points": 461,
+   "points": 460,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 253823469
@@ -1079,7 +1079,7 @@
   },
   {
    "position": 8,
-   "points": 424,
+   "points": 425,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 167077160
