@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T07:13:56+0000",
+ "fetched_at": "2026-11-08T08:01:14+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -441,21 +441,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2435",
-   "discr": "marketPlayerTeam",
-   "salePrice": 23211152,
-   "expirationDate": "2026-11-08T08:45:47+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Marrero",
-   "positionId": 1,
-   "marketValue": 650122,
-   "points": 9,
-   "averagePoints": 0.8181818181818182,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2887",
    "discr": "marketPlayerTeam",
    "salePrice": 606248,
@@ -468,21 +453,6 @@
    "marketValue": 606248,
    "points": 20,
    "averagePoints": 2.0,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2457",
-   "discr": "marketPlayerTeam",
-   "salePrice": 86523256,
-   "expirationDate": "2026-11-08T08:45:59+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Dimitrievski",
-   "positionId": 1,
-   "marketValue": 17513568,
-   "points": 72,
-   "averagePoints": 6.0,
    "playerStatus": "ok"
   },
   {
@@ -876,21 +846,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "3180",
-   "discr": "marketPlayerTeam",
-   "salePrice": 111111111,
-   "expirationDate": "2026-11-09T20:10:07+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Alonso",
-   "positionId": 4,
-   "marketValue": 607099,
-   "points": 0,
-   "averagePoints": 0.0,
-   "playerStatus": "ok"
-  },
-  {
    "id": "3130",
    "discr": "marketPlayerTeam",
    "salePrice": 18500000,
@@ -1105,7 +1060,7 @@
    "points": 486,
    "team_id": "37668923",
    "manager": "Paco!!",
-   "teamValue": 358216207
+   "teamValue": 357609108
   },
   {
    "position": 6,
