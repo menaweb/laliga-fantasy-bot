@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T10:01:04+0000",
+ "fetched_at": "2026-11-08T11:01:09+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -768,6 +768,36 @@
    "marketValue": 3001784,
    "points": 28,
    "averagePoints": 2.5454545454545454,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2562",
+   "discr": "marketPlayerTeam",
+   "salePrice": 507496060,
+   "expirationDate": "2026-11-11T11:56:19+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Marc Pubill",
+   "positionId": 2,
+   "marketValue": 50749606,
+   "points": 52,
+   "averagePoints": 4.7272727272727275,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3090",
+   "discr": "marketPlayerTeam",
+   "salePrice": 703397760,
+   "expirationDate": "2026-11-11T11:56:28+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Isco",
+   "positionId": 3,
+   "marketValue": 70339776,
+   "points": 67,
+   "averagePoints": 6.090909090909091,
    "playerStatus": "ok"
   },
   {
