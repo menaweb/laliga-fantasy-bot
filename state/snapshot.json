@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T07:01:08+0000",
+ "fetched_at": "2026-11-08T07:13:56+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -798,21 +798,6 @@
    "marketValue": 3001784,
    "points": 28,
    "averagePoints": 2.5454545454545454,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2912",
-   "discr": "marketPlayerTeam",
-   "salePrice": 592836,
-   "expirationDate": "2026-11-08T08:03:19+01:00",
-   "numberOfBids": null,
-   "seller": "37675747",
-   "myBid": null,
-   "nickname": "Julio Díaz",
-   "positionId": 2,
-   "marketValue": 603796,
-   "points": 6,
-   "averagePoints": 0.5,
    "playerStatus": "ok"
   },
   {
