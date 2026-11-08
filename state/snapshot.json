@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T14:01:09+0000",
+ "fetched_at": "2026-11-08T15:01:09+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -12,7 +12,7 @@
   "closingWeekDate": "2026-11-09T03:00:00+01:00"
  },
  "money": 14787012,
- "investment": 0,
+ "investment": 14667335,
  "team": {
   "teamValue": 155973778,
   "teamPoints": 395,
@@ -482,8 +482,8 @@
    "nickname": "Morcillo",
    "positionId": 3,
    "marketValue": 1642392,
-   "points": 37,
-   "averagePoints": 3.0833333333333335,
+   "points": 39,
+   "averagePoints": 3.25,
    "playerStatus": "ok"
   },
   {
@@ -542,8 +542,8 @@
    "nickname": "Ez Abde",
    "positionId": 4,
    "marketValue": 73002729,
-   "points": 49,
-   "averagePoints": 5.444444444444445,
+   "points": 53,
+   "averagePoints": 5.888888888888889,
    "playerStatus": "ok"
   },
   {
@@ -572,23 +572,8 @@
    "nickname": "Natan",
    "positionId": 2,
    "marketValue": 50914818,
-   "points": 64,
-   "averagePoints": 5.333333333333333,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3103",
-   "discr": "marketPlayerTeam",
-   "salePrice": 1809404780,
-   "expirationDate": "2026-11-08T15:58:17+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Mbappé",
-   "positionId": 4,
-   "marketValue": 180619012,
-   "points": 147,
-   "averagePoints": 12.25,
+   "points": 72,
+   "averagePoints": 6.0,
    "playerStatus": "ok"
   },
   {
@@ -664,21 +649,6 @@
    "marketValue": 50749606,
    "points": 52,
    "averagePoints": 4.7272727272727275,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3090",
-   "discr": "marketPlayerTeam",
-   "salePrice": 703397760,
-   "expirationDate": "2026-11-11T11:56:28+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Isco",
-   "positionId": 3,
-   "marketValue": 70339776,
-   "points": 69,
-   "averagePoints": 5.75,
    "playerStatus": "ok"
   },
   {
@@ -872,8 +842,8 @@
    "nickname": "V. Chust",
    "positionId": 2,
    "marketValue": 6392738,
-   "points": 46,
-   "averagePoints": 3.8333333333333335,
+   "points": 49,
+   "averagePoints": 4.083333333333333,
    "playerStatus": "ok"
   },
   {
@@ -902,8 +872,8 @@
    "nickname": "Revivo",
    "positionId": 2,
    "marketValue": 7635071,
-   "points": 47,
-   "averagePoints": 5.222222222222222,
+   "points": 56,
+   "averagePoints": 6.222222222222222,
    "playerStatus": "ok"
   },
   {
@@ -932,8 +902,8 @@
    "nickname": "Marc Roca",
    "positionId": 3,
    "marketValue": 30034967,
-   "points": 52,
-   "averagePoints": 4.333333333333333,
+   "points": 59,
+   "averagePoints": 4.916666666666667,
    "playerStatus": "ok"
   },
   {
@@ -1030,49 +1000,49 @@
  "standing": [
   {
    "position": 1,
-   "points": 669,
+   "points": 681,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 574731446
   },
   {
    "position": 2,
+   "points": 594,
+   "team_id": "37664261",
+   "manager": "Javi Cepas",
+   "teamValue": 413005733
+  },
+  {
+   "position": 3,
    "points": 591,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 292539617
   },
   {
-   "position": 3,
-   "points": 584,
-   "team_id": "37664261",
-   "manager": "Javi Cepas",
-   "teamValue": 413005733
-  },
-  {
    "position": 4,
-   "points": 488,
-   "team_id": "37679249",
-   "manager": "RamónBético",
-   "teamValue": 161087706
-  },
-  {
-   "position": 5,
-   "points": 487,
+   "points": 495,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 357609108
   },
   {
+   "position": 5,
+   "points": 495,
+   "team_id": "37679249",
+   "manager": "RamónBético",
+   "teamValue": 161087706
+  },
+  {
    "position": 6,
-   "points": 439,
+   "points": 446,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 253823469
   },
   {
    "position": 7,
-   "points": 421,
+   "points": 430,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 155973778
