@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T15:01:09+0000",
+ "fetched_at": "2026-11-08T15:03:41+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -144,7 +144,7 @@
    "playerStatus": "injured",
    "buyoutClause": 51555905,
    "lockedEnd": "2026-08-19T00:06:12+0200",
-   "onSale": true
+   "onSale": false
   },
   {
    "ptid": "18792297",
@@ -577,6 +577,21 @@
    "playerStatus": "ok"
   },
   {
+   "id": "3103",
+   "discr": "marketPlayerTeam",
+   "salePrice": 1806190120,
+   "expirationDate": "2026-11-11T16:02:38+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Mbappé",
+   "positionId": 4,
+   "marketValue": 180619012,
+   "points": 147,
+   "averagePoints": 12.25,
+   "playerStatus": "ok"
+  },
+  {
    "id": "74",
    "discr": "marketPlayerTeam",
    "salePrice": 240871440,
@@ -665,21 +680,6 @@
    "points": 16,
    "averagePoints": 1.4545454545454546,
    "playerStatus": "ok"
-  },
-  {
-   "id": "356",
-   "discr": "marketPlayerTeam",
-   "salePrice": 48000000,
-   "expirationDate": "2026-11-09T08:18:51+01:00",
-   "numberOfBids": null,
-   "seller": "37682094",
-   "myBid": null,
-   "nickname": "Gerard",
-   "positionId": 4,
-   "marketValue": 17315042,
-   "points": 48,
-   "averagePoints": 4.363636363636363,
-   "playerStatus": "injured"
   },
   {
    "id": "2728",
