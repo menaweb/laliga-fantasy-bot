@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T20:01:08+0000",
+ "fetched_at": "2026-11-08T21:01:11+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -155,7 +155,7 @@
    "marketValue": 51951261,
    "points": 53,
    "averagePoints": 4.818181818181818,
-   "playerStatus": "doubtful",
+   "playerStatus": "ok",
    "buyoutClause": 91332677,
    "lockedEnd": "2026-08-20T20:08:11+0200",
    "onSale": false
@@ -722,8 +722,8 @@
    "nickname": "Grimaldo",
    "positionId": 2,
    "marketValue": 98046973,
-   "points": 95,
-   "averagePoints": 7.916666666666667,
+   "points": 94,
+   "averagePoints": 7.833333333333333,
    "playerStatus": "ok"
   },
   {
@@ -752,8 +752,8 @@
    "nickname": "Giuliano",
    "positionId": 4,
    "marketValue": 52521260,
-   "points": 67,
-   "averagePoints": 5.583333333333333,
+   "points": 71,
+   "averagePoints": 5.916666666666667,
    "playerStatus": "ok"
   },
   {
@@ -1025,12 +1025,27 @@
    "points": 53,
    "averagePoints": 4.416666666666667,
    "playerStatus": "ok"
+  },
+  {
+   "id": "2217",
+   "discr": "marketPlayerTeam",
+   "salePrice": 30795799,
+   "expirationDate": "2026-11-11T21:31:09+01:00",
+   "numberOfBids": null,
+   "seller": "37679249",
+   "myBid": null,
+   "nickname": "Cucho",
+   "positionId": 4,
+   "marketValue": 25795799,
+   "points": 47,
+   "averagePoints": 5.222222222222222,
+   "playerStatus": "injured"
   }
  ],
  "standing": [
   {
    "position": 1,
-   "points": 681,
+   "points": 680,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 590532729
@@ -1051,7 +1066,7 @@
   },
   {
    "position": 4,
-   "points": 513,
+   "points": 517,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 357609108
