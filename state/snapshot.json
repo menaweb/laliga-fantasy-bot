@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T15:03:41+0000",
+ "fetched_at": "2026-11-08T16:01:08+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -155,7 +155,7 @@
    "marketValue": 51951261,
    "points": 53,
    "averagePoints": 4.818181818181818,
-   "playerStatus": "ok",
+   "playerStatus": "doubtful",
    "buyoutClause": 91332677,
    "lockedEnd": "2026-08-20T20:08:11+0200",
    "onSale": false
@@ -347,8 +347,8 @@
    "nickname": "De Frutos",
    "positionId": 4,
    "marketValue": 14633694,
-   "points": 42,
-   "averagePoints": 4.666666666666667,
+   "points": 43,
+   "averagePoints": 4.3,
    "playerStatus": "ok"
   },
   {
@@ -513,7 +513,7 @@
    "positionId": 4,
    "marketValue": 29018291,
    "points": 48,
-   "averagePoints": 4.8,
+   "averagePoints": 4.363636363636363,
    "playerStatus": "ok"
   },
   {
@@ -798,7 +798,7 @@
    "positionId": 4,
    "marketValue": 1160261,
    "points": 28,
-   "averagePoints": 2.5454545454545454,
+   "averagePoints": 2.3333333333333335,
    "playerStatus": "ok"
   },
   {
@@ -918,7 +918,7 @@
    "positionId": 3,
    "marketValue": 35114019,
    "points": 57,
-   "averagePoints": 5.181818181818182,
+   "averagePoints": 4.75,
    "playerStatus": "ok"
   },
   {
@@ -995,6 +995,36 @@
    "points": 80,
    "averagePoints": 6.666666666666667,
    "playerStatus": "ok"
+  },
+  {
+   "id": "3090",
+   "discr": "marketPlayerTeam",
+   "salePrice": 703397760,
+   "expirationDate": "2026-11-11T16:24:57+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Isco",
+   "positionId": 3,
+   "marketValue": 70339776,
+   "points": 77,
+   "averagePoints": 6.416666666666667,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2453",
+   "discr": "marketPlayerTeam",
+   "salePrice": 210135190,
+   "expirationDate": "2026-11-11T16:25:05+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Agoumé",
+   "positionId": 3,
+   "marketValue": 21013519,
+   "points": 53,
+   "averagePoints": 4.416666666666667,
+   "playerStatus": "ok"
   }
  ],
  "standing": [
@@ -1021,17 +1051,17 @@
   },
   {
    "position": 4,
-   "points": 495,
-   "team_id": "37668923",
-   "manager": "Paco!!",
-   "teamValue": 357609108
+   "points": 496,
+   "team_id": "37679249",
+   "manager": "RamónBético",
+   "teamValue": 161087706
   },
   {
    "position": 5,
    "points": 495,
-   "team_id": "37679249",
-   "manager": "RamónBético",
-   "teamValue": 161087706
+   "team_id": "37668923",
+   "manager": "Paco!!",
+   "teamValue": 357609108
   },
   {
    "position": 6,
@@ -1049,7 +1079,7 @@
   },
   {
    "position": 8,
-   "points": 414,
+   "points": 415,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 167077160
