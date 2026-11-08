@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T12:01:07+0000",
+ "fetched_at": "2026-11-08T13:01:11+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -11,13 +11,13 @@
   "openingWeekDate": "2026-11-06T21:00:00+01:00",
   "closingWeekDate": "2026-11-09T03:00:00+01:00"
  },
- "money": 7051941,
+ "money": 14787012,
  "investment": 0,
  "team": {
-  "teamValue": 163608849,
+  "teamValue": 155973778,
   "teamPoints": 395,
   "position": 7,
-  "playersNumber": 13
+  "playersNumber": 12
  },
  "squad": [
   {
@@ -42,7 +42,7 @@
    "teamId": "5",
    "marketValue": 6869094,
    "points": 45,
-   "averagePoints": 4.090909090909091,
+   "averagePoints": 3.75,
    "playerStatus": "ok",
    "buyoutClause": 6887943,
    "lockedEnd": "2026-11-08T16:02:09+0100",
@@ -60,20 +60,6 @@
    "playerStatus": "ok",
    "buyoutClause": 10209502,
    "lockedEnd": "2026-09-29T21:01:19+0200",
-   "onSale": false
-  },
-  {
-   "ptid": "105309638",
-   "id": "3263",
-   "nickname": "Revivo",
-   "positionId": 2,
-   "teamId": "7",
-   "marketValue": 7635071,
-   "points": 46,
-   "averagePoints": 5.75,
-   "playerStatus": "ok",
-   "buyoutClause": 7635071,
-   "lockedEnd": "2026-11-05T22:53:51+0100",
    "onSale": false
   },
   {
@@ -216,7 +202,6 @@
    "77354588",
    "90841292",
    "93815264",
-   "105309638",
    "106505338"
   ],
   "midfield": [
@@ -355,7 +340,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 14320473,
    "expirationDate": "2026-11-08T20:08:00+01:00",
-   "numberOfBids": 2,
+   "numberOfBids": 3,
    "seller": "",
    "myBid": null,
    "nickname": "De Frutos",
@@ -370,7 +355,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 688913,
    "expirationDate": "2026-11-08T20:08:00+01:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Yanis Musuayi",
@@ -400,7 +385,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 15595928,
    "expirationDate": "2026-11-08T20:08:00+01:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Marc Bernal",
@@ -486,21 +471,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2680",
-   "discr": "marketPlayerTeam",
-   "salePrice": 26000000,
-   "expirationDate": "2026-11-09T20:29:48+01:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "A. Castrín",
-   "positionId": 2,
-   "marketValue": 11561536,
-   "points": 47,
-   "averagePoints": 3.9166666666666665,
-   "playerStatus": "ok"
-  },
-  {
    "id": "3184",
    "discr": "marketPlayerTeam",
    "salePrice": 1800000,
@@ -516,21 +486,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "3143",
-   "discr": "marketPlayerTeam",
-   "salePrice": 150000000,
-   "expirationDate": "2026-11-09T20:33:46+01:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "Diomande",
-   "positionId": 4,
-   "marketValue": 122045579,
-   "points": 80,
-   "averagePoints": 6.666666666666667,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2958",
    "discr": "marketPlayerTeam",
    "salePrice": 15932240,
@@ -542,7 +497,7 @@
    "positionId": 3,
    "marketValue": 1642392,
    "points": 37,
-   "averagePoints": 3.3636363636363638,
+   "averagePoints": 3.0833333333333335,
    "playerStatus": "ok"
   },
   {
@@ -617,7 +572,7 @@
    "positionId": 4,
    "marketValue": 73002729,
    "points": 49,
-   "averagePoints": 6.125,
+   "averagePoints": 5.444444444444445,
    "playerStatus": "ok"
   },
   {
@@ -647,7 +602,7 @@
    "positionId": 2,
    "marketValue": 50914818,
    "points": 63,
-   "averagePoints": 5.7272727272727275,
+   "averagePoints": 5.25,
    "playerStatus": "ok"
   },
   {
@@ -677,7 +632,7 @@
    "positionId": 3,
    "marketValue": 30034967,
    "points": 52,
-   "averagePoints": 4.7272727272727275,
+   "averagePoints": 4.333333333333333,
    "playerStatus": "ok"
   },
   {
@@ -797,7 +752,7 @@
    "positionId": 3,
    "marketValue": 70339776,
    "points": 67,
-   "averagePoints": 6.090909090909091,
+   "averagePoints": 5.583333333333333,
    "playerStatus": "ok"
   },
   {
@@ -902,7 +857,7 @@
    "positionId": 2,
    "marketValue": 6392738,
    "points": 45,
-   "averagePoints": 4.090909090909091,
+   "averagePoints": 3.75,
    "playerStatus": "ok"
   },
   {
@@ -1054,6 +1009,36 @@
    "points": 28,
    "averagePoints": 2.5454545454545454,
    "playerStatus": "ok"
+  },
+  {
+   "id": "3263",
+   "discr": "marketPlayerTeam",
+   "salePrice": 9100000,
+   "expirationDate": "2026-11-11T13:37:16+01:00",
+   "numberOfBids": null,
+   "seller": "37664261",
+   "myBid": null,
+   "nickname": "Revivo",
+   "positionId": 2,
+   "marketValue": 7635071,
+   "points": 46,
+   "averagePoints": 5.111111111111111,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3143",
+   "discr": "marketPlayerTeam",
+   "salePrice": 170000000,
+   "expirationDate": "2026-11-11T13:37:27+01:00",
+   "numberOfBids": null,
+   "seller": "37664261",
+   "myBid": null,
+   "nickname": "Diomande",
+   "positionId": 4,
+   "marketValue": 122045579,
+   "points": 80,
+   "averagePoints": 6.666666666666667,
+   "playerStatus": "ok"
   }
  ],
  "standing": [
@@ -1076,7 +1061,7 @@
    "points": 583,
    "team_id": "37664261",
    "manager": "Javi Cepas",
-   "teamValue": 416932198
+   "teamValue": 413005733
   },
   {
    "position": 4,
@@ -1104,7 +1089,7 @@
    "points": 420,
    "team_id": "37682094",
    "manager": "menaweb",
-   "teamValue": 163608849
+   "teamValue": 155973778
   },
   {
    "position": 8,

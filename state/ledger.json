@@ -1,5 +1,15 @@
 {
- "bids": [],
+ "bids": [
+  {
+   "market_id": "66107765",
+   "player_id": "2973",
+   "money": 14667335,
+   "kind": "offer",
+   "bid_id": "214366811",
+   "placed_at": "2026-11-08T13:01:37+0000",
+   "reason": "HUECO DEL +4.8 pts al once · 4.8 pts esp (ppg 4.9×1.0+prior 7.9 · ok · @ ALA 1.10 · prob starter 80% · tend7 +16%)"
+  }
+ ],
  "listings": [],
  "handled_offers": [
   "83167330",
@@ -23,13 +33,6 @@
   "186208947"
  ],
  "runs": [
-  {
-   "ts": "2026-10-21T17:00:57.802092+00:00",
-   "mode": "LIVE",
-   "actions": 0,
-   "spend": 0,
-   "requests": 22
-  },
   {
    "ts": "2026-10-21T18:00:59.129165+00:00",
    "mode": "LIVE",
@@ -3522,6 +3525,13 @@
    "actions": 0,
    "spend": 0,
    "requests": 23
+  },
+  {
+   "ts": "2026-11-08T13:01:10.868248+00:00",
+   "mode": "LIVE",
+   "actions": 2,
+   "spend": 14667335,
+   "requests": 25
   }
  ],
  "live_writes_seen": [
