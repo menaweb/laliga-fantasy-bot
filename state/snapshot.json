@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T14:01:08+0000",
+ "fetched_at": "2026-11-09T15:01:11+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -251,7 +251,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 31336639,
    "expirationDate": "2026-11-09T20:08:00+01:00",
-   "numberOfBids": 1,
+   "numberOfBids": 2,
    "seller": "",
    "myBid": null,
    "nickname": "Iñaki Williams",
@@ -409,21 +409,6 @@
    "marketValue": 2305129,
    "points": 18,
    "averagePoints": 1.5,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "1300",
-   "discr": "marketPlayerTeam",
-   "salePrice": 5617279,
-   "expirationDate": "2026-11-11T07:29:21+01:00",
-   "numberOfBids": null,
-   "seller": "37675747",
-   "myBid": null,
-   "nickname": "Camavinga",
-   "positionId": 3,
-   "marketValue": 5619497,
-   "points": 32,
-   "averagePoints": 2.6666666666666665,
    "playerStatus": "ok"
   },
   {
@@ -817,21 +802,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2955",
-   "discr": "marketPlayerTeam",
-   "salePrice": 1160261,
-   "expirationDate": "2026-11-11T07:29:53+01:00",
-   "numberOfBids": null,
-   "seller": "37675747",
-   "myBid": null,
-   "nickname": "Ochieng",
-   "positionId": 4,
-   "marketValue": 1142175,
-   "points": 30,
-   "averagePoints": 2.5,
-   "playerStatus": "ok"
-  },
-  {
    "id": "3130",
    "discr": "marketPlayerTeam",
    "salePrice": 18500000,
@@ -1128,7 +1098,7 @@
    "points": 471,
    "team_id": "37675747",
    "manager": "Javi Trauma",
-   "teamValue": 266102448
+   "teamValue": 259340776
   },
   {
    "position": 7,
