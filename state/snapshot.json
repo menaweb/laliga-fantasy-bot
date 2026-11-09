@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T17:24:19+0000",
+ "fetched_at": "2026-11-09T18:01:10+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -472,21 +472,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2958",
-   "discr": "marketPlayerTeam",
-   "salePrice": 15932240,
-   "expirationDate": "2026-11-09T19:32:17+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Morcillo",
-   "positionId": 3,
-   "marketValue": 1651250,
-   "points": 39,
-   "averagePoints": 3.25,
-   "playerStatus": "ok"
-  },
-  {
    "id": "3262",
    "discr": "marketPlayerTeam",
    "salePrice": 79782800,
@@ -604,21 +589,6 @@
    "marketValue": 181005710,
    "points": 147,
    "averagePoints": 12.25,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "74",
-   "discr": "marketPlayerTeam",
-   "salePrice": 240871440,
-   "expirationDate": "2026-11-09T19:32:08+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Yuri",
-   "positionId": 2,
-   "marketValue": 25518359,
-   "points": 59,
-   "averagePoints": 5.363636363636363,
    "playerStatus": "ok"
   },
   {
@@ -1069,6 +1039,36 @@
    "marketValue": 15912417,
    "points": 41,
    "averagePoints": 3.4166666666666665,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2958",
+   "discr": "marketPlayerTeam",
+   "salePrice": 16512500,
+   "expirationDate": "2026-11-12T18:33:53+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Morcillo",
+   "positionId": 3,
+   "marketValue": 1651250,
+   "points": 39,
+   "averagePoints": 3.25,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "74",
+   "discr": "marketPlayerTeam",
+   "salePrice": 255183590,
+   "expirationDate": "2026-11-12T18:34:41+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Yuri",
+   "positionId": 2,
+   "marketValue": 25518359,
+   "points": 59,
+   "averagePoints": 5.363636363636363,
    "playerStatus": "ok"
   }
  ],
