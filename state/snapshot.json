@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T07:01:10+0000",
+ "fetched_at": "2026-11-09T08:01:07+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -457,6 +457,36 @@
    "playerStatus": "ok"
   },
   {
+   "id": "2569",
+   "discr": "marketPlayerTeam",
+   "salePrice": 32121252,
+   "expirationDate": "2026-11-12T08:27:57+01:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Ibañez",
+   "positionId": 3,
+   "marketValue": 20926202,
+   "points": 57,
+   "averagePoints": 4.75,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2206",
+   "discr": "marketPlayerTeam",
+   "salePrice": 52436521,
+   "expirationDate": "2026-11-12T08:27:10+01:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Yoel Lago",
+   "positionId": 2,
+   "marketValue": 29163421,
+   "points": 66,
+   "averagePoints": 5.5,
+   "playerStatus": "ok"
+  },
+  {
    "id": "2958",
    "discr": "marketPlayerTeam",
    "salePrice": 15932240,
@@ -502,6 +532,21 @@
    "playerStatus": "ok"
   },
   {
+   "id": "3085",
+   "discr": "marketPlayerTeam",
+   "salePrice": 35124128,
+   "expirationDate": "2026-11-12T08:28:43+01:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Guedes",
+   "positionId": 4,
+   "marketValue": 28797832,
+   "points": 49,
+   "averagePoints": 4.454545454545454,
+   "playerStatus": "ok"
+  },
+  {
    "id": "1565",
    "discr": "marketPlayerTeam",
    "salePrice": 403328220,
@@ -529,6 +574,36 @@
    "marketValue": 72056211,
    "points": 53,
    "averagePoints": 5.888888888888889,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2932",
+   "discr": "marketPlayerTeam",
+   "salePrice": 61055423,
+   "expirationDate": "2026-11-12T08:26:53+01:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Ángel Pérez",
+   "positionId": 3,
+   "marketValue": 35174608,
+   "points": 63,
+   "averagePoints": 5.7272727272727275,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2543",
+   "discr": "marketPlayerTeam",
+   "salePrice": 72134652,
+   "expirationDate": "2026-11-12T08:27:24+01:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Natan",
+   "positionId": 2,
+   "marketValue": 50637231,
+   "points": 72,
+   "averagePoints": 6.0,
    "playerStatus": "ok"
   },
   {
@@ -619,6 +694,21 @@
    "marketValue": 51617323,
    "points": 52,
    "averagePoints": 4.333333333333333,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2926",
+   "discr": "marketPlayerTeam",
+   "salePrice": 4215365,
+   "expirationDate": "2026-11-12T08:27:38+01:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Boselli",
+   "positionId": 2,
+   "marketValue": 695195,
+   "points": 22,
+   "averagePoints": 1.8333333333333333,
    "playerStatus": "ok"
   },
   {
