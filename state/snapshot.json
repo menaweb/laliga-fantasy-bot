@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T10:01:17+0000",
+ "fetched_at": "2026-11-09T11:01:11+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -251,7 +251,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 31336639,
    "expirationDate": "2026-11-09T20:08:00+01:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Iñaki Williams",
@@ -311,7 +311,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 652430,
    "expirationDate": "2026-11-09T20:08:00+01:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Hugo Sotelo",
@@ -386,7 +386,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 618368,
    "expirationDate": "2026-11-09T20:08:00+01:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Marc Santos",
@@ -1070,6 +1070,21 @@
    "points": 47,
    "averagePoints": 5.222222222222222,
    "playerStatus": "injured"
+  },
+  {
+   "id": "3229",
+   "discr": "marketPlayerTeam",
+   "salePrice": 700000,
+   "expirationDate": "2026-11-12T11:31:52+01:00",
+   "numberOfBids": null,
+   "seller": "37664261",
+   "myBid": null,
+   "nickname": "Yanis Musuayi",
+   "positionId": 4,
+   "marketValue": 691365,
+   "points": 4,
+   "averagePoints": 0.4,
+   "playerStatus": "ok"
   }
  ],
  "standing": [
