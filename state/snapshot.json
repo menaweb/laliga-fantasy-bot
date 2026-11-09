@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T15:01:11+0000",
+ "fetched_at": "2026-11-09T16:01:14+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -1054,6 +1054,21 @@
    "marketValue": 691365,
    "points": 4,
    "averagePoints": 0.4,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2784",
+   "discr": "marketPlayerTeam",
+   "salePrice": 159124170,
+   "expirationDate": "2026-11-12T16:34:48+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Marc Bernal",
+   "positionId": 3,
+   "marketValue": 15912417,
+   "points": 41,
+   "averagePoints": 3.4166666666666665,
    "playerStatus": "ok"
   }
  ],
