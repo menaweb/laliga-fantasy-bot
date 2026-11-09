@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T21:01:29+0000",
+ "fetched_at": "2026-11-09T22:01:12+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -295,7 +295,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 19561424,
    "expirationDate": "2026-11-10T20:08:00+01:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "R. Terrats",
@@ -310,7 +310,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 28379316,
    "expirationDate": "2026-11-10T20:08:00+01:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Navarro",
@@ -441,21 +441,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2564",
-   "discr": "marketPlayerTeam",
-   "salePrice": 3161452,
-   "expirationDate": "2026-11-12T06:24:43+01:00",
-   "numberOfBids": null,
-   "seller": "37679249",
-   "myBid": null,
-   "nickname": "Aleñá",
-   "positionId": 3,
-   "marketValue": 1161452,
-   "points": 25,
-   "averagePoints": 2.0833333333333335,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2569",
    "discr": "marketPlayerTeam",
    "salePrice": 32121252,
@@ -498,21 +483,6 @@
    "marketValue": 9290457,
    "points": 58,
    "averagePoints": 6.444444444444445,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2335",
-   "discr": "marketPlayerTeam",
-   "salePrice": 3759541,
-   "expirationDate": "2026-11-12T06:25:10+01:00",
-   "numberOfBids": null,
-   "seller": "37679249",
-   "myBid": null,
-   "nickname": "Areso",
-   "positionId": 2,
-   "marketValue": 1759541,
-   "points": 20,
-   "averagePoints": 1.6666666666666667,
    "playerStatus": "ok"
   },
   {
@@ -936,21 +906,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2217",
-   "discr": "marketPlayerTeam",
-   "salePrice": 30795799,
-   "expirationDate": "2026-11-11T21:31:09+01:00",
-   "numberOfBids": null,
-   "seller": "37679249",
-   "myBid": null,
-   "nickname": "Cucho",
-   "positionId": 4,
-   "marketValue": 25189720,
-   "points": 47,
-   "averagePoints": 5.222222222222222,
-   "playerStatus": "injured"
-  },
-  {
    "id": "3229",
    "discr": "marketPlayerTeam",
    "salePrice": 700000,
@@ -1075,7 +1030,7 @@
    "points": 505,
    "team_id": "37679249",
    "manager": "RamónBético",
-   "teamValue": 131690991
+   "teamValue": 103580278
   },
   {
    "position": 6,
