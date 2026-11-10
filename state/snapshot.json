@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T13:01:11+0000",
+ "fetched_at": "2026-11-10T14:01:09+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -280,7 +280,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 3176573,
    "expirationDate": "2026-11-10T20:08:00+01:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Pedrosa",
@@ -310,7 +310,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 28379316,
    "expirationDate": "2026-11-10T20:08:00+01:00",
-   "numberOfBids": 1,
+   "numberOfBids": 2,
    "seller": "",
    "myBid": null,
    "nickname": "Navarro",
@@ -385,7 +385,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 3365808,
    "expirationDate": "2026-11-10T20:08:00+01:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Rioja",
@@ -400,7 +400,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 1222604,
    "expirationDate": "2026-11-10T20:08:00+01:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Ifeanyi Ndukwe",
@@ -979,6 +979,51 @@
    "points": 65,
    "averagePoints": 5.416666666666667,
    "playerStatus": "ok"
+  },
+  {
+   "id": "3165",
+   "discr": "marketPlayerTeam",
+   "salePrice": 685000,
+   "expirationDate": "2026-11-13T14:04:53+01:00",
+   "numberOfBids": null,
+   "seller": "37664261",
+   "myBid": null,
+   "nickname": "Marc Santos",
+   "positionId": 2,
+   "marketValue": 623632,
+   "points": 6,
+   "averagePoints": 0.6666666666666666,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2395",
+   "discr": "marketPlayerTeam",
+   "salePrice": 656000,
+   "expirationDate": "2026-11-13T14:05:09+01:00",
+   "numberOfBids": null,
+   "seller": "37664261",
+   "myBid": null,
+   "nickname": "Hugo Sotelo",
+   "positionId": 3,
+   "marketValue": 655024,
+   "points": 7,
+   "averagePoints": 0.875,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2448",
+   "discr": "marketPlayerTeam",
+   "salePrice": 16000000,
+   "expirationDate": "2026-11-13T14:10:23+01:00",
+   "numberOfBids": null,
+   "seller": "37664261",
+   "myBid": null,
+   "nickname": "Oskarsson",
+   "positionId": 4,
+   "marketValue": 3965603,
+   "points": 44,
+   "averagePoints": 4.0,
+   "playerStatus": "ok"
   }
  ],
  "standing": [
@@ -994,7 +1039,7 @@
    "points": 612,
    "team_id": "37664261",
    "manager": "Javi Cepas",
-   "teamValue": 412726119
+   "teamValue": 416691722
   },
   {
    "position": 3,
@@ -1022,7 +1067,7 @@
    "points": 471,
    "team_id": "37675747",
    "manager": "Javi Trauma",
-   "teamValue": 260644855
+   "teamValue": 256679252
   },
   {
    "position": 7,
