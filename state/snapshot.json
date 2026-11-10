@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-10T16:01:15+0000",
+ "fetched_at": "2026-11-10T17:01:13+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -1023,6 +1023,36 @@
    "marketValue": 3965603,
    "points": 44,
    "averagePoints": 4.0,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3262",
+   "discr": "marketPlayerTeam",
+   "salePrice": 98432420,
+   "expirationDate": "2026-11-13T17:42:36+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Félix Correia",
+   "positionId": 4,
+   "marketValue": 9843242,
+   "points": 58,
+   "averagePoints": 6.444444444444445,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3077",
+   "discr": "marketPlayerTeam",
+   "salePrice": 445843030,
+   "expirationDate": "2026-11-13T17:42:44+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Edu Expósito",
+   "positionId": 3,
+   "marketValue": 44584303,
+   "points": 74,
+   "averagePoints": 6.166666666666667,
    "playerStatus": "ok"
   }
  ],
