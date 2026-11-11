@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T15:01:09+0000",
+ "fetched_at": "2026-11-11T16:01:08+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -471,21 +471,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "3103",
-   "discr": "marketPlayerTeam",
-   "salePrice": 1806190120,
-   "expirationDate": "2026-11-11T16:02:38+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Mbappé",
-   "positionId": 4,
-   "marketValue": 181961455,
-   "points": 147,
-   "averagePoints": 12.25,
-   "playerStatus": "doubtful"
-  },
-  {
    "id": "3065",
    "discr": "marketPlayerTeam",
    "salePrice": 65423211,
@@ -603,36 +588,6 @@
    "marketValue": 8100881,
    "points": 63,
    "averagePoints": 5.7272727272727275,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3090",
-   "discr": "marketPlayerTeam",
-   "salePrice": 703397760,
-   "expirationDate": "2026-11-11T16:24:57+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Isco",
-   "positionId": 3,
-   "marketValue": 75348524,
-   "points": 77,
-   "averagePoints": 6.416666666666667,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2453",
-   "discr": "marketPlayerTeam",
-   "salePrice": 210135190,
-   "expirationDate": "2026-11-11T16:25:05+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Agoumé",
-   "positionId": 3,
-   "marketValue": 22029725,
-   "points": 53,
-   "averagePoints": 4.416666666666667,
    "playerStatus": "ok"
   },
   {
