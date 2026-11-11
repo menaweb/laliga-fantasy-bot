@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T22:01:05+0000",
+ "fetched_at": "2026-11-11T23:01:05+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -333,7 +333,7 @@
    "marketValue": 633054,
    "points": 5,
    "averagePoints": 1.0,
-   "playerStatus": "injured"
+   "playerStatus": "doubtful"
   },
   {
    "id": "3086",
@@ -588,21 +588,6 @@
    "marketValue": 11629458,
    "points": 42,
    "averagePoints": 4.666666666666667,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "1210",
-   "discr": "marketPlayerTeam",
-   "salePrice": 85421232,
-   "expirationDate": "2026-11-14T08:09:54+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Giuliano",
-   "positionId": 4,
-   "marketValue": 55460642,
-   "points": 75,
-   "averagePoints": 6.25,
    "playerStatus": "ok"
   },
   {
