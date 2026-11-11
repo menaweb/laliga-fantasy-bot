@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-11T06:01:05+0000",
+ "fetched_at": "2026-11-11T07:01:21+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -250,7 +250,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 23687582,
    "expirationDate": "2026-11-11T20:08:00+01:00",
-   "numberOfBids": 3,
+   "numberOfBids": 4,
    "seller": "",
    "myBid": null,
    "nickname": "Bartra",
@@ -426,21 +426,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2887",
-   "discr": "marketPlayerTeam",
-   "salePrice": 606248,
-   "expirationDate": "2026-11-11T07:30:14+01:00",
-   "numberOfBids": null,
-   "seller": "37675747",
-   "myBid": null,
-   "nickname": "Mañas",
-   "positionId": 4,
-   "marketValue": 614618,
-   "points": 20,
-   "averagePoints": 2.0,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2569",
    "discr": "marketPlayerTeam",
    "salePrice": 32121252,
@@ -528,6 +513,21 @@
    "marketValue": 181961455,
    "points": 147,
    "averagePoints": 12.25,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3065",
+   "discr": "marketPlayerTeam",
+   "salePrice": 65423211,
+   "expirationDate": "2026-11-14T08:00:34+01:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Laporte",
+   "positionId": 2,
+   "marketValue": 34126401,
+   "points": 52,
+   "averagePoints": 5.2,
    "playerStatus": "ok"
   },
   {
