@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-12T07:01:12+0000",
+ "fetched_at": "2026-11-12T08:01:08+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -426,21 +426,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2569",
-   "discr": "marketPlayerTeam",
-   "salePrice": 32121252,
-   "expirationDate": "2026-11-12T08:27:57+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Ibañez",
-   "positionId": 3,
-   "marketValue": 20186336,
-   "points": 57,
-   "averagePoints": 4.75,
-   "playerStatus": "ok"
-  },
-  {
    "id": "1565",
    "discr": "marketPlayerTeam",
    "salePrice": 392582880,
@@ -453,21 +438,6 @@
    "marketValue": 39082379,
    "points": 46,
    "averagePoints": 5.111111111111111,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2543",
-   "discr": "marketPlayerTeam",
-   "salePrice": 72134652,
-   "expirationDate": "2026-11-12T08:27:24+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Natan",
-   "positionId": 2,
-   "marketValue": 51484228,
-   "points": 72,
-   "averagePoints": 6.0,
    "playerStatus": "ok"
   },
   {
@@ -543,21 +513,6 @@
    "marketValue": 52279699,
    "points": 52,
    "averagePoints": 4.333333333333333,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2926",
-   "discr": "marketPlayerTeam",
-   "salePrice": 4215365,
-   "expirationDate": "2026-11-12T08:27:38+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Boselli",
-   "positionId": 2,
-   "marketValue": 698261,
-   "points": 22,
-   "averagePoints": 1.8333333333333333,
    "playerStatus": "ok"
   },
   {
