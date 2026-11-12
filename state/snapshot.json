@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-12T13:01:09+0000",
+ "fetched_at": "2026-11-12T14:01:05+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -29,7 +29,7 @@
    "marketValue": 1171039,
    "points": 27,
    "averagePoints": 2.25,
-   "playerStatus": "ok",
+   "playerStatus": "injured",
    "buyoutClause": 2800000,
    "lockedEnd": "2026-11-20T15:28:45+0100",
    "onSale": false
@@ -918,6 +918,21 @@
    "marketValue": 8116515,
    "points": 27,
    "averagePoints": 2.4545454545454546,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2465",
+   "discr": "marketPlayerTeam",
+   "salePrice": 623960,
+   "expirationDate": "2026-11-15T14:24:16+01:00",
+   "numberOfBids": null,
+   "seller": "37664261",
+   "myBid": null,
+   "nickname": "Fran Pérez",
+   "positionId": 3,
+   "marketValue": 623960,
+   "points": 3,
+   "averagePoints": 0.2727272727272727,
    "playerStatus": "ok"
   }
  ],
