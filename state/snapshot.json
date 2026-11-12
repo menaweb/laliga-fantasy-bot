@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-12T18:01:04+0000",
+ "fetched_at": "2026-11-12T18:50:38+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -441,21 +441,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "3103",
-   "discr": "marketPlayerTeam",
-   "salePrice": 1819614550,
-   "expirationDate": "2026-11-14T18:20:51+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Mbappé",
-   "positionId": 4,
-   "marketValue": 182405039,
-   "points": 147,
-   "averagePoints": 12.25,
-   "playerStatus": "doubtful"
-  },
-  {
    "id": "3065",
    "discr": "marketPlayerTeam",
    "salePrice": 65423211,
@@ -741,6 +726,51 @@
    "playerStatus": "ok"
   },
   {
+   "id": "2784",
+   "discr": "marketPlayerTeam",
+   "salePrice": 157202740,
+   "expirationDate": "2026-11-15T19:42:03+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Marc Bernal",
+   "positionId": 3,
+   "marketValue": 15720274,
+   "points": 41,
+   "averagePoints": 3.4166666666666665,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2958",
+   "discr": "marketPlayerTeam",
+   "salePrice": 16487570,
+   "expirationDate": "2026-11-15T19:42:25+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Morcillo",
+   "positionId": 3,
+   "marketValue": 1648757,
+   "points": 39,
+   "averagePoints": 3.25,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "74",
+   "discr": "marketPlayerTeam",
+   "salePrice": 272505060,
+   "expirationDate": "2026-11-15T19:41:39+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Yuri",
+   "positionId": 2,
+   "marketValue": 27250506,
+   "points": 59,
+   "averagePoints": 5.363636363636363,
+   "playerStatus": "ok"
+  },
+  {
    "id": "2384",
    "discr": "marketPlayerTeam",
    "salePrice": 65423111,
@@ -889,6 +919,51 @@
    "points": 3,
    "averagePoints": 0.2727272727272727,
    "playerStatus": "ok"
+  },
+  {
+   "id": "121",
+   "discr": "marketPlayerTeam",
+   "salePrice": 263054250,
+   "expirationDate": "2026-11-15T19:41:45+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Bartra",
+   "positionId": 2,
+   "marketValue": 26305425,
+   "points": 67,
+   "averagePoints": 5.583333333333333,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "1715",
+   "discr": "marketPlayerTeam",
+   "salePrice": 1238922430,
+   "expirationDate": "2026-11-15T19:41:54+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Fermín",
+   "positionId": 3,
+   "marketValue": 123892243,
+   "points": 111,
+   "averagePoints": 9.25,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "1210",
+   "discr": "marketPlayerTeam",
+   "salePrice": 568997580,
+   "expirationDate": "2026-11-15T19:44:15+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Giuliano",
+   "positionId": 4,
+   "marketValue": 56899758,
+   "points": 75,
+   "averagePoints": 6.25,
+   "playerStatus": "ok"
   }
  ],
  "standing": [
@@ -897,7 +972,7 @@
    "points": 684,
    "team_id": "37664721",
    "manager": "enriqsuar",
-   "teamValue": 631304159
+   "teamValue": 505798878
   },
   {
    "position": 2,
@@ -918,7 +993,7 @@
    "points": 521,
    "team_id": "37668923",
    "manager": "Paco!!",
-   "teamValue": 294670956
+   "teamValue": 237771198
   },
   {
    "position": 5,
