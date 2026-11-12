@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-12T17:01:10+0000",
+ "fetched_at": "2026-11-12T18:01:04+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -738,36 +738,6 @@
    "marketValue": 22430109,
    "points": 53,
    "averagePoints": 4.416666666666667,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2958",
-   "discr": "marketPlayerTeam",
-   "salePrice": 16512500,
-   "expirationDate": "2026-11-12T18:33:53+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Morcillo",
-   "positionId": 3,
-   "marketValue": 1648757,
-   "points": 39,
-   "averagePoints": 3.25,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "74",
-   "discr": "marketPlayerTeam",
-   "salePrice": 255183590,
-   "expirationDate": "2026-11-12T18:34:41+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Yuri",
-   "positionId": 2,
-   "marketValue": 27250506,
-   "points": 59,
-   "averagePoints": 5.363636363636363,
    "playerStatus": "ok"
   },
   {
