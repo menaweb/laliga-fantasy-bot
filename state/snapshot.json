@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-13T18:01:07+0000",
+ "fetched_at": "2026-11-13T19:01:03+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -771,6 +771,51 @@
    "playerStatus": "ok"
   },
   {
+   "id": "2448",
+   "discr": "marketPlayerTeam",
+   "salePrice": 15600000,
+   "expirationDate": "2026-11-16T19:17:41+01:00",
+   "numberOfBids": null,
+   "seller": "37664261",
+   "myBid": null,
+   "nickname": "Oskarsson",
+   "positionId": 4,
+   "marketValue": 4561836,
+   "points": 44,
+   "averagePoints": 4.0,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3262",
+   "discr": "marketPlayerTeam",
+   "salePrice": 113726710,
+   "expirationDate": "2026-11-16T19:32:52+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Félix Correia",
+   "positionId": 4,
+   "marketValue": 11372671,
+   "points": 58,
+   "averagePoints": 6.444444444444445,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3077",
+   "discr": "marketPlayerTeam",
+   "salePrice": 474231500,
+   "expirationDate": "2026-11-16T19:32:31+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Edu Expósito",
+   "positionId": 3,
+   "marketValue": 47423150,
+   "points": 74,
+   "averagePoints": 6.166666666666667,
+   "playerStatus": "ok"
+  },
+  {
    "id": "1056",
    "discr": "marketPlayerTeam",
    "salePrice": 3150000,
@@ -933,6 +978,21 @@
    "marketValue": 78711061,
    "points": 77,
    "averagePoints": 6.416666666666667,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "1787",
+   "discr": "marketPlayerTeam",
+   "salePrice": 645423,
+   "expirationDate": "2026-11-16T19:17:26+01:00",
+   "numberOfBids": null,
+   "seller": "37664261",
+   "myBid": null,
+   "nickname": "Prados",
+   "positionId": 3,
+   "marketValue": 645423,
+   "points": 5,
+   "averagePoints": 0.5555555555555556,
    "playerStatus": "ok"
   }
  ],
