@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-13T13:01:08+0000",
+ "fetched_at": "2026-11-13T14:01:04+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -768,21 +768,6 @@
    "marketValue": 27926567,
    "points": 59,
    "averagePoints": 5.363636363636363,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2448",
-   "discr": "marketPlayerTeam",
-   "salePrice": 16000000,
-   "expirationDate": "2026-11-13T14:10:23+01:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "Oskarsson",
-   "positionId": 4,
-   "marketValue": 4561836,
-   "points": 44,
-   "averagePoints": 4.0,
    "playerStatus": "ok"
   },
   {
