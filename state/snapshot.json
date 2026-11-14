@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-14T06:01:02+0000",
+ "fetched_at": "2026-11-14T07:01:04+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -453,21 +453,6 @@
    "marketValue": 53062111,
    "points": 72,
    "averagePoints": 6.0,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3065",
-   "discr": "marketPlayerTeam",
-   "salePrice": 65423211,
-   "expirationDate": "2026-11-14T08:00:34+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Laporte",
-   "positionId": 2,
-   "marketValue": 32930436,
-   "points": 52,
-   "averagePoints": 5.2,
    "playerStatus": "ok"
   },
   {
