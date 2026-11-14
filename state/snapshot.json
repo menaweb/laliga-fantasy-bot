@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-14T17:01:06+0000",
+ "fetched_at": "2026-11-14T18:01:04+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -280,7 +280,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 48277281,
    "expirationDate": "2026-11-14T20:08:00+01:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Oblak",
@@ -513,21 +513,6 @@
    "marketValue": 2663593,
    "points": 28,
    "averagePoints": 2.3333333333333335,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2562",
-   "discr": "marketPlayerTeam",
-   "salePrice": 521957810,
-   "expirationDate": "2026-11-14T18:20:13+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Marc Pubill",
-   "positionId": 2,
-   "marketValue": 51932968,
-   "points": 52,
-   "averagePoints": 4.333333333333333,
    "playerStatus": "ok"
   },
   {
@@ -843,6 +828,36 @@
    "marketValue": 48201329,
    "points": 74,
    "averagePoints": 6.166666666666667,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "1056",
+   "discr": "marketPlayerTeam",
+   "salePrice": 3018241,
+   "expirationDate": "2026-11-17T18:41:54+01:00",
+   "numberOfBids": null,
+   "seller": "37664261",
+   "myBid": null,
+   "nickname": "Pedrosa",
+   "positionId": 2,
+   "marketValue": 3018241,
+   "points": 29,
+   "averagePoints": 2.9,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3227",
+   "discr": "marketPlayerTeam",
+   "salePrice": 1251221,
+   "expirationDate": "2026-11-17T18:41:58+01:00",
+   "numberOfBids": null,
+   "seller": "37664261",
+   "myBid": null,
+   "nickname": "Ifeanyi Ndukwe",
+   "positionId": 2,
+   "marketValue": 1251221,
+   "points": 34,
+   "averagePoints": 3.4,
    "playerStatus": "ok"
   },
   {
