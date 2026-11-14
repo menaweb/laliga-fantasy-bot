@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-14T00:01:04+0000",
+ "fetched_at": "2026-11-14T01:01:02+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -904,42 +904,42 @@
    "points": 612,
    "team_id": "37664261",
    "manager": "Javi Cepas",
-   "teamValue": 428882938
+   "teamValue": 434226481
   },
   {
    "position": 3,
    "points": 597,
    "team_id": "37678052",
    "manager": "olegwarrior",
-   "teamValue": 235042495
+   "teamValue": 233923774
   },
   {
    "position": 4,
    "points": 521,
    "team_id": "37668923",
    "manager": "Paco!!",
-   "teamValue": 301144042
+   "teamValue": 302317313
   },
   {
    "position": 5,
    "points": 505,
    "team_id": "37679249",
    "manager": "RamónBético",
-   "teamValue": 104585883
+   "teamValue": 103262264
   },
   {
    "position": 6,
    "points": 471,
    "team_id": "37675747",
    "manager": "Javi Trauma",
-   "teamValue": 292561243
+   "teamValue": 292337161
   },
   {
    "position": 7,
    "points": 432,
    "team_id": "37667518",
    "manager": "Rcoba",
-   "teamValue": 205825199
+   "teamValue": 207307069
   },
   {
    "position": 8,
@@ -953,7 +953,7 @@
    "points": 192,
    "team_id": "37681066",
    "manager": "Miguel Canuelo",
-   "teamValue": 107414138
+   "teamValue": 109083445
   }
  ]
 }
