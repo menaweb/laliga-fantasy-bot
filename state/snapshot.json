@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-14T09:01:04+0000",
+ "fetched_at": "2026-11-14T10:01:14+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -456,6 +456,21 @@
    "playerStatus": "ok"
   },
   {
+   "id": "3065",
+   "discr": "marketPlayerTeam",
+   "salePrice": 65852396,
+   "expirationDate": "2026-11-17T10:58:35+01:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Laporte",
+   "positionId": 2,
+   "marketValue": 32930436,
+   "points": 52,
+   "averagePoints": 5.2,
+   "playerStatus": "ok"
+  },
+  {
    "id": "2562",
    "discr": "marketPlayerTeam",
    "salePrice": 521957810,
@@ -468,6 +483,51 @@
    "marketValue": 51932968,
    "points": 52,
    "averagePoints": 4.333333333333333,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3177",
+   "discr": "marketPlayerTeam",
+   "salePrice": 42514447,
+   "expirationDate": "2026-11-17T10:58:51+01:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Vanja Drkusic",
+   "positionId": 2,
+   "marketValue": 1026092,
+   "points": 28,
+   "averagePoints": 2.5454545454545454,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3128",
+   "discr": "marketPlayerTeam",
+   "salePrice": 35685221,
+   "expirationDate": "2026-11-17T10:59:49+01:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Guido Rodríguez",
+   "positionId": 3,
+   "marketValue": 11169977,
+   "points": 42,
+   "averagePoints": 4.666666666666667,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2302",
+   "discr": "marketPlayerTeam",
+   "salePrice": 33562848,
+   "expirationDate": "2026-11-17T11:00:29+01:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "R. Brugué",
+   "positionId": 4,
+   "marketValue": 8230948,
+   "points": 63,
+   "averagePoints": 5.7272727272727275,
    "playerStatus": "ok"
   },
   {
@@ -666,6 +726,36 @@
    "playerStatus": "ok"
   },
   {
+   "id": "2384",
+   "discr": "marketPlayerTeam",
+   "salePrice": 75236222,
+   "expirationDate": "2026-11-17T10:59:13+01:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Unai Lopez",
+   "positionId": 3,
+   "marketValue": 31370139,
+   "points": 65,
+   "averagePoints": 5.416666666666667,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "91",
+   "discr": "marketPlayerTeam",
+   "salePrice": 74525458,
+   "expirationDate": "2026-11-17T11:00:01+01:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Iñaki Williams",
+   "positionId": 4,
+   "marketValue": 34017702,
+   "points": 65,
+   "averagePoints": 5.416666666666667,
+   "playerStatus": "ok"
+  },
+  {
    "id": "2448",
    "discr": "marketPlayerTeam",
    "salePrice": 15600000,
@@ -708,6 +798,21 @@
    "marketValue": 48201329,
    "points": 74,
    "averagePoints": 6.166666666666667,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2549",
+   "discr": "marketPlayerTeam",
+   "salePrice": 69853545,
+   "expirationDate": "2026-11-17T10:59:27+01:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Navarro",
+   "positionId": 3,
+   "marketValue": 31411380,
+   "points": 62,
+   "averagePoints": 5.166666666666667,
    "playerStatus": "ok"
   },
   {
