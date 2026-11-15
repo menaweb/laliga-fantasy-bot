@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-15T21:42:37+0000",
+ "fetched_at": "2026-11-15T22:01:03+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -516,21 +516,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2562",
-   "discr": "marketPlayerTeam",
-   "salePrice": 519329680,
-   "expirationDate": "2026-11-17T19:20:43+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Marc Pubill",
-   "positionId": 2,
-   "marketValue": 51384575,
-   "points": 52,
-   "averagePoints": 4.333333333333333,
-   "playerStatus": "injured"
-  },
-  {
    "id": "3177",
    "discr": "marketPlayerTeam",
    "salePrice": 42514447,
@@ -1032,7 +1017,7 @@
    "points": 684,
    "team_id": "37664721",
    "manager": "enriqsuar",
-   "teamValue": 584547744
+   "teamValue": 533163169
   },
   {
    "position": 2,
