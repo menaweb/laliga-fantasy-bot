@@ -25,13 +25,6 @@
  ],
  "runs": [
   {
-   "ts": "2026-10-28T21:01:01.851534+00:00",
-   "mode": "LIVE",
-   "actions": 0,
-   "spend": 0,
-   "requests": 22
-  },
-  {
    "ts": "2026-10-28T22:01:01.600581+00:00",
    "mode": "LIVE",
    "actions": 0,
@@ -3523,6 +3516,13 @@
    "actions": 0,
    "spend": 0,
    "requests": 22
+  },
+  {
+   "ts": "2026-11-16T00:01:06.822813+00:00",
+   "mode": "LIVE",
+   "actions": 1,
+   "spend": 1000000,
+   "requests": 26
   }
  ],
  "live_writes_seen": [
