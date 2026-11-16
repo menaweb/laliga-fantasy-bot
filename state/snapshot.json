@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-16T21:01:11+0000",
+ "fetched_at": "2026-11-16T22:01:06+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -11,13 +11,13 @@
   "openingWeekDate": "2026-11-20T21:00:00+01:00",
   "closingWeekDate": "2026-11-24T03:00:00+01:00"
  },
- "money": 2619677,
+ "money": 33735787,
  "investment": 0,
  "team": {
-  "teamValue": 161438292,
+  "teamValue": 139433918,
   "teamPoints": 430,
   "position": 8,
-  "playersNumber": 14
+  "playersNumber": 13
  },
  "squad": [
   {
@@ -88,20 +88,6 @@
    "playerStatus": "ok",
    "buyoutClause": 35899764,
    "lockedEnd": "2026-10-16T20:08:13+0200",
-   "onSale": false
-  },
-  {
-   "ptid": "90841292",
-   "id": "1930",
-   "nickname": "El Hilali",
-   "positionId": 2,
-   "teamId": "8",
-   "marketValue": 22004374,
-   "points": 56,
-   "averagePoints": 5.090909090909091,
-   "playerStatus": "ok",
-   "buyoutClause": 31116110,
-   "lockedEnd": "2026-10-11T20:32:33+0200",
    "onSale": false
   },
   {
@@ -228,7 +214,6 @@
   ],
   "defender": [
    "77354588",
-   "90841292",
    "93815264",
    "106505338"
   ],
@@ -1105,7 +1090,7 @@
    "points": 597,
    "team_id": "37678052",
    "manager": "olegwarrior",
-   "teamValue": 232039578
+   "teamValue": 275552489
   },
   {
    "position": 4,
@@ -1126,7 +1111,7 @@
    "points": 471,
    "team_id": "37675747",
    "manager": "Javi Trauma",
-   "teamValue": 292221850
+   "teamValue": 270713313
   },
   {
    "position": 7,
@@ -1140,7 +1125,7 @@
    "points": 430,
    "team_id": "37682094",
    "manager": "menaweb",
-   "teamValue": 161438292
+   "teamValue": 139433918
   },
   {
    "position": 9,
