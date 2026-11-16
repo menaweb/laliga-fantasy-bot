@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-16T09:01:08+0000",
+ "fetched_at": "2026-11-16T09:30:17+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -782,6 +782,21 @@
    "marketValue": 20616263,
    "points": 58,
    "averagePoints": 4.833333333333333,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3090",
+   "discr": "marketPlayerTeam",
+   "salePrice": 828702230,
+   "expirationDate": "2026-11-19T10:21:21+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Isco",
+   "positionId": 3,
+   "marketValue": 82870223,
+   "points": 77,
+   "averagePoints": 6.416666666666667,
    "playerStatus": "ok"
   },
   {
