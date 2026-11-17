@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-17T17:01:09+0000",
+ "fetched_at": "2026-11-17T18:01:17+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -229,7 +229,8 @@
   "defender": [
    "77354588",
    "93815264",
-   "106505338"
+   "106505338",
+   "116768974"
   ],
   "midfield": [
    "37055594",
@@ -664,21 +665,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "1210",
-   "discr": "marketPlayerTeam",
-   "salePrice": 617700990,
-   "expirationDate": "2026-11-18T19:37:22+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Giuliano",
-   "positionId": 4,
-   "marketValue": 64824225,
-   "points": 75,
-   "averagePoints": 6.25,
-   "playerStatus": "ok"
-  },
-  {
    "id": "3077",
    "discr": "marketPlayerTeam",
    "salePrice": 496537900,
@@ -706,21 +692,6 @@
    "marketValue": 13152931,
    "points": 58,
    "averagePoints": 6.444444444444445,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "74",
-   "discr": "marketPlayerTeam",
-   "salePrice": 294779670,
-   "expirationDate": "2026-11-19T19:52:02+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Yuri",
-   "positionId": 2,
-   "marketValue": 29960575,
-   "points": 59,
-   "averagePoints": 5.363636363636363,
    "playerStatus": "ok"
   },
   {
@@ -1030,7 +1001,7 @@
    "points": 684,
    "team_id": "37664721",
    "manager": "enriqsuar",
-   "teamValue": 551848583
+   "teamValue": 487024358
   },
   {
    "position": 2,
