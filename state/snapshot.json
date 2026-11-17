@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-17T08:01:15+0000",
+ "fetched_at": "2026-11-17T09:01:08+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -12,7 +12,7 @@
   "closingWeekDate": "2026-11-24T03:00:00+01:00"
  },
  "money": 33735787,
- "investment": 21400000,
+ "investment": 28495861,
  "team": {
   "teamValue": 138092124,
   "teamPoints": 430,
@@ -530,21 +530,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2565",
-   "discr": "marketPlayerTeam",
-   "salePrice": 33530870,
-   "expirationDate": "2026-11-17T12:48:37+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "A. Fortuño",
-   "positionId": 1,
-   "marketValue": 3744103,
-   "points": 49,
-   "averagePoints": 4.083333333333333,
-   "playerStatus": "ok"
-  },
-  {
    "id": "1614",
    "discr": "marketPlayerTeam",
    "salePrice": 26635930,
@@ -707,21 +692,6 @@
    "marketValue": 54881966,
    "points": 59,
    "averagePoints": 5.363636363636363,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3090",
-   "discr": "marketPlayerTeam",
-   "salePrice": 828702230,
-   "expirationDate": "2026-11-19T10:21:21+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Isco",
-   "positionId": 3,
-   "marketValue": 84040506,
-   "points": 77,
-   "averagePoints": 6.416666666666667,
    "playerStatus": "ok"
   },
   {
@@ -1127,6 +1097,36 @@
    "marketValue": 6353076,
    "points": 37,
    "averagePoints": 3.3636363636363638,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3090",
+   "discr": "marketPlayerTeam",
+   "salePrice": 840405060,
+   "expirationDate": "2026-11-20T09:48:01+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Isco",
+   "positionId": 3,
+   "marketValue": 84040506,
+   "points": 77,
+   "averagePoints": 6.416666666666667,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2565",
+   "discr": "marketPlayerTeam",
+   "salePrice": 37441030,
+   "expirationDate": "2026-11-20T09:50:04+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "A. Fortuño",
+   "positionId": 1,
+   "marketValue": 3744103,
+   "points": 49,
+   "averagePoints": 4.083333333333333,
    "playerStatus": "ok"
   }
  ],
