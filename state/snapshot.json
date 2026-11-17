@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-17T22:13:30+0000",
+ "fetched_at": "2026-11-17T23:01:17+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -309,7 +309,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 52429739,
    "expirationDate": "2026-11-18T20:08:00+01:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "C. Soler",
@@ -455,6 +455,21 @@
    "playerStatus": "ok"
   },
   {
+   "id": "2887",
+   "discr": "marketPlayerTeam",
+   "salePrice": 642290,
+   "expirationDate": "2026-11-20T23:46:17+01:00",
+   "numberOfBids": null,
+   "seller": "37675747",
+   "myBid": null,
+   "nickname": "Mañas",
+   "positionId": 4,
+   "marketValue": 642290,
+   "points": 20,
+   "averagePoints": 2.0,
+   "playerStatus": "ok"
+  },
+  {
    "id": "2569",
    "discr": "marketPlayerTeam",
    "salePrice": 35426954,
@@ -557,6 +572,21 @@
    "marketValue": 2504330,
    "points": 28,
    "averagePoints": 2.3333333333333335,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2912",
+   "discr": "marketPlayerTeam",
+   "salePrice": 640592,
+   "expirationDate": "2026-11-20T23:45:46+01:00",
+   "numberOfBids": null,
+   "seller": "37675747",
+   "myBid": null,
+   "nickname": "Julio Díaz",
+   "positionId": 2,
+   "marketValue": 640592,
+   "points": 6,
+   "averagePoints": 0.5,
    "playerStatus": "ok"
   },
   {
