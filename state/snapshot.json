@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-17T07:01:09+0000",
+ "fetched_at": "2026-11-17T08:01:15+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -452,6 +452,21 @@
    "marketValue": 19137446,
    "points": 57,
    "averagePoints": 4.75,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2445",
+   "discr": "marketPlayerTeam",
+   "salePrice": 6128833,
+   "expirationDate": "2026-11-20T08:43:02+01:00",
+   "numberOfBids": null,
+   "seller": "37667518",
+   "myBid": null,
+   "nickname": "Olasagasti",
+   "positionId": 3,
+   "marketValue": 6128833,
+   "points": 51,
+   "averagePoints": 4.25,
    "playerStatus": "ok"
   },
   {
@@ -1068,6 +1083,51 @@
    "points": 16,
    "averagePoints": 1.4545454545454546,
    "playerStatus": "injured"
+  },
+  {
+   "id": "3182",
+   "discr": "marketPlayerTeam",
+   "salePrice": 5992331,
+   "expirationDate": "2026-11-20T08:42:58+01:00",
+   "numberOfBids": null,
+   "seller": "37667518",
+   "myBid": null,
+   "nickname": "Lemar",
+   "positionId": 3,
+   "marketValue": 5992331,
+   "points": 44,
+   "averagePoints": 5.5,
+   "playerStatus": "doubtful"
+  },
+  {
+   "id": "3276",
+   "discr": "marketPlayerTeam",
+   "salePrice": 702705,
+   "expirationDate": "2026-11-20T08:43:07+01:00",
+   "numberOfBids": null,
+   "seller": "37667518",
+   "myBid": null,
+   "nickname": "Morante",
+   "positionId": 4,
+   "marketValue": 702705,
+   "points": 8,
+   "averagePoints": 1.3333333333333333,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3154",
+   "discr": "marketPlayerTeam",
+   "salePrice": 6353076,
+   "expirationDate": "2026-11-20T08:49:16+01:00",
+   "numberOfBids": null,
+   "seller": "37667518",
+   "myBid": null,
+   "nickname": "Enes Ünal",
+   "positionId": 4,
+   "marketValue": 6353076,
+   "points": 37,
+   "averagePoints": 3.3636363636363638,
+   "playerStatus": "ok"
   }
  ],
  "standing": [
