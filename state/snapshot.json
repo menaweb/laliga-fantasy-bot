@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-17T16:01:09+0000",
+ "fetched_at": "2026-11-17T17:01:09+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -11,13 +11,13 @@
   "openingWeekDate": "2026-11-20T21:00:00+01:00",
   "closingWeekDate": "2026-11-24T03:00:00+01:00"
  },
- "money": 33735787,
- "investment": 28495861,
+ "money": 24335787,
+ "investment": 7095861,
  "team": {
-  "teamValue": 138092124,
+  "teamValue": 145381369,
   "teamPoints": 430,
   "position": 8,
-  "playersNumber": 13
+  "playersNumber": 14
  },
  "squad": [
   {
@@ -46,6 +46,20 @@
    "playerStatus": "ok",
    "buyoutClause": 1000000,
    "lockedEnd": "2026-11-30T01:01:30+0100",
+   "onSale": false
+  },
+  {
+   "ptid": "116768974",
+   "id": "2596",
+   "nickname": "V. Chust",
+   "positionId": 2,
+   "teamId": "7",
+   "marketValue": 7289245,
+   "points": 49,
+   "averagePoints": 4.083333333333333,
+   "playerStatus": "ok",
+   "buyoutClause": 9400000,
+   "lockedEnd": "2026-12-01T17:26:33+0100",
    "onSale": false
   },
   {
@@ -279,7 +293,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 46592434,
    "expirationDate": "2026-11-17T20:08:00+01:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Konaté",
@@ -485,6 +499,21 @@
    "playerStatus": "ok"
   },
   {
+   "id": "1565",
+   "discr": "marketPlayerTeam",
+   "salePrice": 385280560,
+   "expirationDate": "2026-11-20T17:20:39+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Barrios",
+   "positionId": 3,
+   "marketValue": 38528056,
+   "points": 46,
+   "averagePoints": 5.111111111111111,
+   "playerStatus": "ok"
+  },
+  {
    "id": "2543",
    "discr": "marketPlayerTeam",
    "salePrice": 78542551,
@@ -497,6 +526,21 @@
    "marketValue": 55770397,
    "points": 72,
    "averagePoints": 6.0,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "1614",
+   "discr": "marketPlayerTeam",
+   "salePrice": 25043300,
+   "expirationDate": "2026-11-20T17:20:33+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Cardona",
+   "positionId": 2,
+   "marketValue": 2504330,
+   "points": 28,
+   "averagePoints": 2.3333333333333335,
    "playerStatus": "ok"
   },
   {
@@ -692,21 +736,6 @@
    "marketValue": 2918107,
    "points": 29,
    "averagePoints": 2.9,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2596",
-   "discr": "marketPlayerTeam",
-   "salePrice": 9400000,
-   "expirationDate": "2026-11-19T20:24:25+01:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "V. Chust",
-   "positionId": 2,
-   "marketValue": 7289245,
-   "points": 49,
-   "averagePoints": 4.083333333333333,
    "playerStatus": "ok"
   },
   {
@@ -1008,7 +1037,7 @@
    "points": 612,
    "team_id": "37664261",
    "manager": "Javi Cepas",
-   "teamValue": 418251327
+   "teamValue": 410962082
   },
   {
    "position": 3,
@@ -1050,7 +1079,7 @@
    "points": 430,
    "team_id": "37682094",
    "manager": "menaweb",
-   "teamValue": 138092124
+   "teamValue": 145381369
   },
   {
    "position": 9,

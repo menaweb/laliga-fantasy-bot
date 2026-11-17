@@ -10,15 +10,6 @@
    "reason": "+4.8 pts al once · 6.7 pts esp (ppg 6.2×1.0+prior 5.7 · ok · @ LEV 1.15 · prob starter 90% · tend7 +26%)"
   },
   {
-   "market_id": "69826163",
-   "player_id": "2596",
-   "money": 9400000,
-   "kind": "offer",
-   "bid_id": "228310924",
-   "placed_at": "2026-11-16T22:01:27+0000",
-   "reason": "+2.5 pts al once · 4.4 pts esp (ppg 4.1×1.0+prior 3.7 · ok · @ LEV 1.15 · prob starter 90% · tend7 +12%)"
-  },
-  {
    "market_id": "61353545",
    "player_id": "2445",
    "money": 7095861,
@@ -52,13 +43,6 @@
   "213523179"
  ],
  "runs": [
-  {
-   "ts": "2026-10-30T14:01:04.699852+00:00",
-   "mode": "LIVE",
-   "actions": 0,
-   "spend": 0,
-   "requests": 22
-  },
   {
    "ts": "2026-10-30T14:01:56.606643+00:00",
    "mode": "LIVE",
@@ -3551,6 +3535,13 @@
    "actions": 0,
    "spend": 0,
    "requests": 22
+  },
+  {
+   "ts": "2026-11-17T17:01:08.481874+00:00",
+   "mode": "LIVE",
+   "actions": 1,
+   "spend": 0,
+   "requests": 23
   }
  ],
  "live_writes_seen": [
