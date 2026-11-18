@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-18T21:01:07+0000",
+ "fetched_at": "2026-11-18T21:51:14+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -369,7 +369,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 1546892,
    "expirationDate": "2026-11-19T20:08:00+01:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Puado",
