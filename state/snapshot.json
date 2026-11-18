@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-18T20:01:02+0000",
+ "fetched_at": "2026-11-18T21:01:07+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -1082,6 +1082,21 @@
    "marketValue": 29540555,
    "points": 39,
    "averagePoints": 3.25,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "1674",
+   "discr": "marketPlayerTeam",
+   "salePrice": 1501381040,
+   "expirationDate": "2026-11-21T21:41:57+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Arda Güler",
+   "positionId": 3,
+   "marketValue": 150138104,
+   "points": 125,
+   "averagePoints": 10.416666666666666,
    "playerStatus": "ok"
   }
  ],
