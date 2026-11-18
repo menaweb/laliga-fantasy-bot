@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-18T22:01:04+0000",
+ "fetched_at": "2026-11-18T23:01:03+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -1097,6 +1097,21 @@
    "marketValue": 150138104,
    "points": 125,
    "averagePoints": 10.416666666666666,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3088",
+   "discr": "marketPlayerTeam",
+   "salePrice": 95342111,
+   "expirationDate": "2026-11-22T00:00:28+01:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Julián Alvarez",
+   "positionId": 4,
+   "marketValue": 75196056,
+   "points": 49,
+   "averagePoints": 6.125,
    "playerStatus": "ok"
   }
  ],
