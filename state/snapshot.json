@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-18T18:01:06+0000",
+ "fetched_at": "2026-11-18T19:01:25+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -309,7 +309,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 52429739,
    "expirationDate": "2026-11-18T20:08:00+01:00",
-   "numberOfBids": 1,
+   "numberOfBids": 2,
    "seller": "",
    "myBid": null,
    "nickname": "C. Soler",
@@ -354,7 +354,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 74277213,
    "expirationDate": "2026-11-18T20:08:00+01:00",
-   "numberOfBids": 1,
+   "numberOfBids": 2,
    "seller": "",
    "myBid": null,
    "nickname": "Julián Alvarez",
@@ -860,21 +860,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "3090",
-   "discr": "marketPlayerTeam",
-   "salePrice": 840405060,
-   "expirationDate": "2026-11-20T09:48:01+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Isco",
-   "positionId": 3,
-   "marketValue": 85126788,
-   "points": 77,
-   "averagePoints": 6.416666666666667,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2565",
    "discr": "marketPlayerTeam",
    "salePrice": 37441030,
@@ -1127,6 +1112,21 @@
    "marketValue": 14936952,
    "points": 41,
    "averagePoints": 3.4166666666666665,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3090",
+   "discr": "marketPlayerTeam",
+   "salePrice": 851267880,
+   "expirationDate": "2026-11-21T19:09:43+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Isco",
+   "positionId": 3,
+   "marketValue": 85126788,
+   "points": 77,
+   "averagePoints": 6.416666666666667,
    "playerStatus": "ok"
   }
  ],
