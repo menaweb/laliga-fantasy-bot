@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-19T21:25:28+0000",
+ "fetched_at": "2026-11-19T22:01:02+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -295,7 +295,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 25532362,
    "expirationDate": "2026-11-20T20:08:00+01:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Ayoze",
