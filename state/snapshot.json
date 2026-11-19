@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-19T14:01:15+0000",
+ "fetched_at": "2026-11-19T15:01:11+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -12,7 +12,7 @@
   "closingWeekDate": "2026-11-24T03:00:00+01:00"
  },
  "money": 24335787,
- "investment": 13088192,
+ "investment": 7095861,
  "team": {
   "teamValue": 143674017,
   "teamPoints": 430,
@@ -197,7 +197,7 @@
    "marketValue": 8888193,
    "points": 48,
    "averagePoints": 4.8,
-   "playerStatus": "injured",
+   "playerStatus": "doubtful",
    "buyoutClause": 11399762,
    "lockedEnd": "2026-10-31T20:28:52+0100",
    "onSale": false
@@ -339,7 +339,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 26915463,
    "expirationDate": "2026-11-19T20:08:00+01:00",
-   "numberOfBids": 1,
+   "numberOfBids": 2,
    "seller": "",
    "myBid": null,
    "nickname": "Yoel Lago",
@@ -828,21 +828,6 @@
    "points": 16,
    "averagePoints": 1.4545454545454546,
    "playerStatus": "injured"
-  },
-  {
-   "id": "3182",
-   "discr": "marketPlayerTeam",
-   "salePrice": 5992331,
-   "expirationDate": "2026-11-20T08:42:58+01:00",
-   "numberOfBids": null,
-   "seller": "37667518",
-   "myBid": null,
-   "nickname": "Lemar",
-   "positionId": 3,
-   "marketValue": 5894182,
-   "points": 44,
-   "averagePoints": 5.5,
-   "playerStatus": "ok"
   },
   {
    "id": "3276",
