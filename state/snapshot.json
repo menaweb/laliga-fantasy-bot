@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-19T12:01:08+0000",
+ "fetched_at": "2026-11-19T12:53:35+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -12,7 +12,7 @@
   "closingWeekDate": "2026-11-24T03:00:00+01:00"
  },
  "money": 24335787,
- "investment": 7095861,
+ "investment": 13088192,
  "team": {
   "teamValue": 143674017,
   "teamPoints": 430,
@@ -470,6 +470,36 @@
    "playerStatus": "ok"
   },
   {
+   "id": "2457",
+   "discr": "marketPlayerTeam",
+   "salePrice": 80745222,
+   "expirationDate": "2026-11-22T13:15:53+01:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Dimitrievski",
+   "positionId": 1,
+   "marketValue": 16198605,
+   "points": 72,
+   "averagePoints": 6.0,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2569",
+   "discr": "marketPlayerTeam",
+   "salePrice": 52541111,
+   "expirationDate": "2026-11-22T13:16:40+01:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Ibañez",
+   "positionId": 3,
+   "marketValue": 18969216,
+   "points": 57,
+   "averagePoints": 4.75,
+   "playerStatus": "ok"
+  },
+  {
    "id": "2445",
    "discr": "marketPlayerTeam",
    "salePrice": 6128833,
@@ -512,6 +542,21 @@
    "marketValue": 38973354,
    "points": 46,
    "averagePoints": 5.111111111111111,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2543",
+   "discr": "marketPlayerTeam",
+   "salePrice": 90858888,
+   "expirationDate": "2026-11-22T13:16:17+01:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Natan",
+   "positionId": 2,
+   "marketValue": 57168803,
+   "points": 72,
+   "averagePoints": 6.0,
    "playerStatus": "ok"
   },
   {
@@ -647,6 +692,36 @@
    "marketValue": 33627363,
    "points": 62,
    "averagePoints": 5.166666666666667,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "68",
+   "discr": "marketPlayerTeam",
+   "salePrice": 86985222,
+   "expirationDate": "2026-11-22T13:15:39+01:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Unai Simón",
+   "positionId": 1,
+   "marketValue": 38984569,
+   "points": 90,
+   "averagePoints": 7.5,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3002",
+   "discr": "marketPlayerTeam",
+   "salePrice": 52536522,
+   "expirationDate": "2026-11-22T13:16:56+01:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Iñigo Vicente",
+   "positionId": 4,
+   "marketValue": 19921999,
+   "points": 58,
+   "averagePoints": 4.833333333333333,
    "playerStatus": "ok"
   },
   {
