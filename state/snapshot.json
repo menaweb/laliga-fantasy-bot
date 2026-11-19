@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-19T15:01:11+0000",
+ "fetched_at": "2026-11-19T16:01:04+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -158,7 +158,7 @@
    "playerStatus": "injured",
    "buyoutClause": 51555905,
    "lockedEnd": "2026-08-19T00:06:12+0200",
-   "onSale": false
+   "onSale": true
   },
   {
    "ptid": "18792297",
@@ -725,21 +725,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2530",
-   "discr": "marketPlayerTeam",
-   "salePrice": 533828740,
-   "expirationDate": "2026-11-19T16:49:56+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Huijsen",
-   "positionId": 2,
-   "marketValue": 57419184,
-   "points": 59,
-   "averagePoints": 5.363636363636363,
-   "playerStatus": "ok"
-  },
-  {
    "id": "3077",
    "discr": "marketPlayerTeam",
    "salePrice": 496537900,
@@ -1173,6 +1158,21 @@
    "points": 49,
    "averagePoints": 6.125,
    "playerStatus": "ok"
+  },
+  {
+   "id": "356",
+   "discr": "marketPlayerTeam",
+   "salePrice": 13140991,
+   "expirationDate": "2026-11-22T16:02:17+01:00",
+   "numberOfBids": null,
+   "seller": "37682094",
+   "myBid": null,
+   "nickname": "Gerard",
+   "positionId": 4,
+   "marketValue": 13140991,
+   "points": 48,
+   "averagePoints": 4.363636363636363,
+   "playerStatus": "injured"
   }
  ],
  "standing": [
