@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-20T16:01:06+0000",
+ "fetched_at": "2026-11-20T17:01:10+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -485,21 +485,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "1565",
-   "discr": "marketPlayerTeam",
-   "salePrice": 385280560,
-   "expirationDate": "2026-11-20T17:20:39+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Barrios",
-   "positionId": 3,
-   "marketValue": 39405822,
-   "points": 46,
-   "averagePoints": 5.111111111111111,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2543",
    "discr": "marketPlayerTeam",
    "salePrice": 90858888,
@@ -527,21 +512,6 @@
    "marketValue": 32494795,
    "points": 52,
    "averagePoints": 5.2,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "1614",
-   "discr": "marketPlayerTeam",
-   "salePrice": 25043300,
-   "expirationDate": "2026-11-20T17:20:33+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Cardona",
-   "positionId": 2,
-   "marketValue": 2374554,
-   "points": 28,
-   "averagePoints": 2.3333333333333335,
    "playerStatus": "ok"
   },
   {
