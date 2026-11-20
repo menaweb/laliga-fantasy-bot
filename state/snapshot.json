@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-20T21:01:06+0000",
+ "fetched_at": "2026-11-20T22:01:03+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -12,7 +12,7 @@
   "closingWeekDate": "2026-11-24T03:00:00+01:00"
  },
  "money": 27500994,
- "investment": 0,
+ "investment": 15000000,
  "team": {
   "teamValue": 133865983,
   "teamPoints": 430,
@@ -421,8 +421,8 @@
    "nickname": "De Galarreta",
    "positionId": 3,
    "marketValue": 9833083,
-   "points": 41,
-   "averagePoints": 3.4166666666666665,
+   "points": 45,
+   "averagePoints": 3.75,
    "playerStatus": "ok"
   },
   {
@@ -541,8 +541,8 @@
    "nickname": "Unai Simón",
    "positionId": 1,
    "marketValue": 38903817,
-   "points": 92,
-   "averagePoints": 7.076923076923077,
+   "points": 96,
+   "averagePoints": 7.384615384615385,
    "playerStatus": "ok"
   },
   {
@@ -571,8 +571,8 @@
    "nickname": "Yuri",
    "positionId": 2,
    "marketValue": 31135090,
-   "points": 60,
-   "averagePoints": 5.0,
+   "points": 64,
+   "averagePoints": 5.333333333333333,
    "playerStatus": "ok"
   },
   {
@@ -691,8 +691,8 @@
    "nickname": "A. Fortuño",
    "positionId": 1,
    "marketValue": 4159686,
-   "points": 50,
-   "averagePoints": 3.8461538461538463,
+   "points": 63,
+   "averagePoints": 4.846153846153846,
    "playerStatus": "ok"
   },
   {
@@ -841,8 +841,8 @@
    "nickname": "Peio Canales",
    "positionId": 3,
    "marketValue": 5053901,
-   "points": 36,
-   "averagePoints": 3.272727272727273,
+   "points": 41,
+   "averagePoints": 3.727272727272727,
    "playerStatus": "ok"
   },
   {
@@ -886,8 +886,8 @@
    "nickname": "Nico Williams",
    "positionId": 4,
    "marketValue": 74889370,
-   "points": 67,
-   "averagePoints": 6.090909090909091,
+   "points": 74,
+   "averagePoints": 6.7272727272727275,
    "playerStatus": "ok"
   },
   {
@@ -916,8 +916,8 @@
    "nickname": "Puado",
    "positionId": 3,
    "marketValue": 1508741,
-   "points": 3,
-   "averagePoints": 0.5,
+   "points": 4,
+   "averagePoints": 0.6666666666666666,
    "playerStatus": "ok"
   },
   {
@@ -954,28 +954,28 @@
  "standing": [
   {
    "position": 1,
-   "points": 686,
+   "points": 703,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 633382083
   },
   {
    "position": 2,
-   "points": 615,
+   "points": 627,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 446867396
   },
   {
    "position": 3,
-   "points": 600,
+   "points": 607,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 234160894
   },
   {
    "position": 4,
-   "points": 524,
+   "points": 532,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 413963116
@@ -989,7 +989,7 @@
   },
   {
    "position": 6,
-   "points": 471,
+   "points": 472,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 326713329
