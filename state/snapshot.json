@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-20T22:01:03+0000",
+ "fetched_at": "2026-11-20T23:01:03+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -12,7 +12,7 @@
   "closingWeekDate": "2026-11-24T03:00:00+01:00"
  },
  "money": 27500994,
- "investment": 15000000,
+ "investment": 26148439,
  "team": {
   "teamValue": 133865983,
   "teamPoints": 430,
@@ -426,21 +426,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2887",
-   "discr": "marketPlayerTeam",
-   "salePrice": 642290,
-   "expirationDate": "2026-11-20T23:46:17+01:00",
-   "numberOfBids": null,
-   "seller": "37675747",
-   "myBid": null,
-   "nickname": "Mañas",
-   "positionId": 4,
-   "marketValue": 657382,
-   "points": 20,
-   "averagePoints": 2.0,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2457",
    "discr": "marketPlayerTeam",
    "salePrice": 80745222,
@@ -513,21 +498,6 @@
    "marketValue": 2374554,
    "points": 28,
    "averagePoints": 2.3333333333333335,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2912",
-   "discr": "marketPlayerTeam",
-   "salePrice": 640592,
-   "expirationDate": "2026-11-20T23:45:46+01:00",
-   "numberOfBids": null,
-   "seller": "37675747",
-   "myBid": null,
-   "nickname": "Julio Díaz",
-   "positionId": 2,
-   "marketValue": 655880,
-   "points": 6,
-   "averagePoints": 0.5,
    "playerStatus": "ok"
   },
   {
@@ -975,7 +945,7 @@
   },
   {
    "position": 4,
-   "points": 532,
+   "points": 531,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 413963116
