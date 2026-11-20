@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-20T01:01:05+0000",
+ "fetched_at": "2026-11-20T02:01:02+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -11,7 +11,7 @@
   "openingWeekDate": "2026-11-20T21:00:00+01:00",
   "closingWeekDate": "2026-11-24T03:00:00+01:00"
  },
- "money": 38005048,
+ "money": 31964467,
  "investment": 20500000,
  "team": {
   "teamValue": 130339637,
@@ -170,7 +170,7 @@
    "points": 59,
    "averagePoints": 4.916666666666667,
    "playerStatus": "ok",
-   "buyoutClause": 15101452,
+   "buyoutClause": 27182613,
    "lockedEnd": "2026-11-23T20:48:56+0100",
    "onSale": false
   },
