@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-20T17:01:10+0000",
+ "fetched_at": "2026-11-20T18:01:14+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -485,6 +485,21 @@
    "playerStatus": "ok"
   },
   {
+   "id": "1565",
+   "discr": "marketPlayerTeam",
+   "salePrice": 394058220,
+   "expirationDate": "2026-11-23T18:28:37+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Barrios",
+   "positionId": 3,
+   "marketValue": 39405822,
+   "points": 46,
+   "averagePoints": 5.111111111111111,
+   "playerStatus": "ok"
+  },
+  {
    "id": "2543",
    "discr": "marketPlayerTeam",
    "salePrice": 90858888,
@@ -512,6 +527,21 @@
    "marketValue": 32494795,
    "points": 52,
    "averagePoints": 5.2,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "1614",
+   "discr": "marketPlayerTeam",
+   "salePrice": 23745540,
+   "expirationDate": "2026-11-23T18:11:25+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Cardona",
+   "positionId": 2,
+   "marketValue": 2374554,
+   "points": 28,
+   "averagePoints": 2.3333333333333335,
    "playerStatus": "ok"
   },
   {
@@ -647,6 +677,21 @@
    "marketValue": 19792818,
    "points": 58,
    "averagePoints": 4.833333333333333,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2530",
+   "discr": "marketPlayerTeam",
+   "salePrice": 585030180,
+   "expirationDate": "2026-11-23T18:28:28+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Huijsen",
+   "positionId": 2,
+   "marketValue": 58503018,
+   "points": 59,
+   "averagePoints": 5.363636363636363,
    "playerStatus": "ok"
   },
   {
@@ -1083,6 +1128,21 @@
    "points": 27,
    "averagePoints": 2.25,
    "playerStatus": "injured"
+  },
+  {
+   "id": "2516",
+   "discr": "marketPlayerTeam",
+   "salePrice": 15087410,
+   "expirationDate": "2026-11-23T18:28:43+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Puado",
+   "positionId": 3,
+   "marketValue": 1508741,
+   "points": 3,
+   "averagePoints": 0.6,
+   "playerStatus": "ok"
   }
  ],
  "standing": [
