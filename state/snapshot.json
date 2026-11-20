@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-20T11:01:08+0000",
+ "fetched_at": "2026-11-20T11:25:08+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -46,7 +46,7 @@
    "playerStatus": "injured",
    "buyoutClause": 2800000,
    "lockedEnd": "2026-11-20T15:28:45+0100",
-   "onSale": false
+   "onSale": true
   },
   {
    "ptid": "116303752",
@@ -224,7 +224,7 @@
    3
   ],
   "goalkeeper": [
-   "116303752"
+   "117714278"
   ],
   "defender": [
    "77354588",
@@ -1098,6 +1098,21 @@
    "points": 80,
    "averagePoints": 6.666666666666667,
    "playerStatus": "ok"
+  },
+  {
+   "id": "204",
+   "discr": "marketPlayerTeam",
+   "salePrice": 1059499,
+   "expirationDate": "2026-11-23T12:02:29+01:00",
+   "numberOfBids": null,
+   "seller": "37682094",
+   "myBid": null,
+   "nickname": "Aitor Fdez",
+   "positionId": 1,
+   "marketValue": 1059499,
+   "points": 27,
+   "averagePoints": 2.25,
+   "playerStatus": "injured"
   }
  ],
  "standing": [
