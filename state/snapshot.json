@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-20T18:01:14+0000",
+ "fetched_at": "2026-11-20T19:01:05+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -354,7 +354,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 49888317,
    "expirationDate": "2026-11-20T20:08:00+01:00",
-   "numberOfBids": 1,
+   "numberOfBids": 0,
    "seller": "",
    "myBid": null,
    "nickname": "Á. Valles",
@@ -662,21 +662,6 @@
    "marketValue": 38903817,
    "points": 90,
    "averagePoints": 7.5,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3002",
-   "discr": "marketPlayerTeam",
-   "salePrice": 52536522,
-   "expirationDate": "2026-11-22T13:16:56+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Iñigo Vicente",
-   "positionId": 4,
-   "marketValue": 19792818,
-   "points": 58,
-   "averagePoints": 4.833333333333333,
    "playerStatus": "ok"
   },
   {
@@ -1172,7 +1157,7 @@
    "points": 521,
    "team_id": "37668923",
    "manager": "Paco!!",
-   "teamValue": 433755934
+   "teamValue": 413963116
   },
   {
    "position": 5,
