@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-20T10:01:05+0000",
+ "fetched_at": "2026-11-20T11:01:08+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -11,15 +11,29 @@
   "openingWeekDate": "2026-11-20T21:00:00+01:00",
   "closingWeekDate": "2026-11-24T03:00:00+01:00"
  },
- "money": 31964467,
- "investment": 20500000,
+ "money": 26464467,
+ "investment": 15000000,
  "team": {
-  "teamValue": 130339637,
+  "teamValue": 134925482,
   "teamPoints": 430,
   "position": 8,
-  "playersNumber": 13
+  "playersNumber": 14
  },
  "squad": [
+  {
+   "ptid": "117714278",
+   "id": "3267",
+   "nickname": "Emil Audero",
+   "positionId": 1,
+   "teamId": "14",
+   "marketValue": 4585845,
+   "points": 37,
+   "averagePoints": 4.625,
+   "playerStatus": "ok",
+   "buyoutClause": 5500000,
+   "lockedEnd": "2026-12-04T11:41:19+0100",
+   "onSale": false
+  },
   {
    "ptid": "112686516",
    "id": "204",
@@ -828,7 +842,7 @@
    "marketValue": 51040192,
    "points": 74,
    "averagePoints": 6.166666666666667,
-   "playerStatus": "ok"
+   "playerStatus": "injured"
   },
   {
    "id": "3262",
@@ -858,21 +872,6 @@
    "marketValue": 61406712,
    "points": 82,
    "averagePoints": 7.454545454545454,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3267",
-   "discr": "marketPlayerTeam",
-   "salePrice": 5500000,
-   "expirationDate": "2026-11-23T00:10:36+01:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "Emil Audero",
-   "positionId": 1,
-   "marketValue": 4585845,
-   "points": 37,
-   "averagePoints": 4.625,
    "playerStatus": "ok"
   },
   {
@@ -1114,7 +1113,7 @@
    "points": 612,
    "team_id": "37664261",
    "manager": "Javi Cepas",
-   "teamValue": 447438128
+   "teamValue": 442852283
   },
   {
    "position": 3,
@@ -1156,7 +1155,7 @@
    "points": 430,
    "team_id": "37682094",
    "manager": "menaweb",
-   "teamValue": 130339637
+   "teamValue": 134925482
   },
   {
    "position": 9,
