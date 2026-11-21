@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-21T17:23:53+0000",
+ "fetched_at": "2026-11-21T18:01:10+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -70,7 +70,7 @@
    "teamId": "5",
    "marketValue": 5573561,
    "points": 45,
-   "averagePoints": 3.75,
+   "averagePoints": 3.4615384615384617,
    "playerStatus": "ok",
    "buyoutClause": 6887943,
    "lockedEnd": "2026-11-08T16:02:09+0100",
@@ -98,7 +98,7 @@
    "teamId": "17",
    "marketValue": 24288977,
    "points": 54,
-   "averagePoints": 4.5,
+   "averagePoints": 4.153846153846154,
    "playerStatus": "ok",
    "buyoutClause": 35899764,
    "lockedEnd": "2026-10-16T20:08:13+0200",
@@ -140,7 +140,7 @@
    "teamId": "17",
    "marketValue": 1938741,
    "points": 26,
-   "averagePoints": 2.3636363636363638,
+   "averagePoints": 2.1666666666666665,
    "playerStatus": "ok",
    "buyoutClause": 12707271,
    "lockedEnd": "2026-09-24T20:33:22+0200",
@@ -241,8 +241,8 @@
    "nickname": "Manuel Pellegrini",
    "positionId": 5,
    "marketValue": 738016,
-   "points": 44,
-   "averagePoints": 3.6666666666666665,
+   "points": 46,
+   "averagePoints": 3.5384615384615383,
    "playerStatus": "ok"
   },
   {
@@ -316,8 +316,8 @@
    "nickname": "Marc Roca",
    "positionId": 3,
    "marketValue": 41329383,
-   "points": 59,
-   "averagePoints": 4.916666666666667,
+   "points": 60,
+   "averagePoints": 4.615384615384615,
    "playerStatus": "ok"
   },
   {
@@ -481,8 +481,8 @@
    "nickname": "Natan",
    "positionId": 2,
    "marketValue": 57625626,
-   "points": 72,
-   "averagePoints": 6.0,
+   "points": 73,
+   "averagePoints": 5.615384615384615,
    "playerStatus": "ok"
   },
   {
@@ -647,7 +647,7 @@
    "positionId": 3,
    "marketValue": 86406213,
    "points": 77,
-   "averagePoints": 6.416666666666667,
+   "averagePoints": 5.923076923076923,
    "playerStatus": "ok"
   },
   {
@@ -721,8 +721,8 @@
    "nickname": "Félix Correia",
    "positionId": 4,
    "marketValue": 14785474,
-   "points": 58,
-   "averagePoints": 6.444444444444445,
+   "points": 59,
+   "averagePoints": 5.9,
    "playerStatus": "ok"
   },
   {
@@ -752,7 +752,7 @@
    "positionId": 2,
    "marketValue": 698405,
    "points": 3,
-   "averagePoints": 1.0,
+   "averagePoints": 0.75,
    "playerStatus": "ok"
   },
   {
@@ -767,7 +767,7 @@
    "positionId": 2,
    "marketValue": 20752356,
    "points": 40,
-   "averagePoints": 3.3333333333333335,
+   "averagePoints": 3.076923076923077,
    "playerStatus": "ok"
   },
   {
@@ -954,7 +954,7 @@
  "standing": [
   {
    "position": 1,
-   "points": 703,
+   "points": 704,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 636531878
@@ -975,7 +975,7 @@
   },
   {
    "position": 4,
-   "points": 546,
+   "points": 547,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 415846260
