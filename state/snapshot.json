@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-21T13:01:03+0000",
+ "fetched_at": "2026-11-21T14:01:03+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -112,7 +112,7 @@
    "teamId": "26",
    "marketValue": 745833,
    "points": 25,
-   "averagePoints": 2.0833333333333335,
+   "averagePoints": 1.9230769230769231,
    "playerStatus": "ok",
    "buyoutClause": 2393361,
    "lockedEnd": "2026-09-01T20:08:29+0200",
@@ -168,7 +168,7 @@
    "teamId": "26",
    "marketValue": 15318807,
    "points": 59,
-   "averagePoints": 4.916666666666667,
+   "averagePoints": 4.538461538461538,
    "playerStatus": "ok",
    "buyoutClause": 27182613,
    "lockedEnd": "2026-11-23T20:48:56+0100",
@@ -452,7 +452,7 @@
    "positionId": 3,
    "marketValue": 18988717,
    "points": 57,
-   "averagePoints": 4.75,
+   "averagePoints": 4.384615384615385,
    "playerStatus": "ok"
   },
   {
@@ -1043,7 +1043,7 @@
   },
   {
    "position": 3,
-   "points": 607,
+   "points": 608,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 234154883
@@ -1057,7 +1057,7 @@
   },
   {
    "position": 5,
-   "points": 505,
+   "points": 506,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 132359458
