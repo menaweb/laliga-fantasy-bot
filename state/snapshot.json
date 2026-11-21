@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-21T14:01:03+0000",
+ "fetched_at": "2026-11-21T15:01:06+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -167,8 +167,8 @@
    "positionId": 4,
    "teamId": "26",
    "marketValue": 15318807,
-   "points": 59,
-   "averagePoints": 4.538461538461538,
+   "points": 61,
+   "averagePoints": 4.6923076923076925,
    "playerStatus": "ok",
    "buyoutClause": 27182613,
    "lockedEnd": "2026-11-23T20:48:56+0100",
@@ -451,8 +451,8 @@
    "nickname": "Ibañez",
    "positionId": 3,
    "marketValue": 18988717,
-   "points": 57,
-   "averagePoints": 4.384615384615385,
+   "points": 60,
+   "averagePoints": 4.615384615384615,
    "playerStatus": "ok"
   },
   {
@@ -1043,21 +1043,21 @@
   },
   {
    "position": 3,
-   "points": 608,
+   "points": 609,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 234154883
   },
   {
    "position": 4,
-   "points": 531,
+   "points": 534,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 415846260
   },
   {
    "position": 5,
-   "points": 506,
+   "points": 511,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 132359458
@@ -1071,14 +1071,14 @@
   },
   {
    "position": 7,
-   "points": 432,
+   "points": 434,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 121624533
   },
   {
    "position": 8,
-   "points": 430,
+   "points": 432,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 133825495
