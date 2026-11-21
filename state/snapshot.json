@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-21T22:01:07+0000",
+ "fetched_at": "2026-11-21T23:01:06+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -195,8 +195,8 @@
    "positionId": 4,
    "teamId": "6",
    "marketValue": 10775879,
-   "points": 45,
-   "averagePoints": 3.4615384615384617,
+   "points": 46,
+   "averagePoints": 3.5384615384615383,
    "playerStatus": "ok",
    "buyoutClause": 14039270,
    "lockedEnd": "2026-11-15T18:01:17+0100",
@@ -616,8 +616,8 @@
    "nickname": "Huijsen",
    "positionId": 2,
    "marketValue": 59400910,
-   "points": 60,
-   "averagePoints": 5.0,
+   "points": 65,
+   "averagePoints": 5.416666666666667,
    "playerStatus": "ok"
   },
   {
@@ -631,8 +631,8 @@
    "nickname": "Konaté",
    "positionId": 2,
    "marketValue": 50241228,
-   "points": 51,
-   "averagePoints": 3.923076923076923,
+   "points": 55,
+   "averagePoints": 4.230769230769231,
    "playerStatus": "ok"
   },
   {
@@ -648,21 +648,6 @@
    "marketValue": 141210090,
    "points": 111,
    "averagePoints": 9.25,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3088",
-   "discr": "marketPlayerTeam",
-   "salePrice": 95342111,
-   "expirationDate": "2026-11-22T00:00:28+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Julián Alvarez",
-   "positionId": 4,
-   "marketValue": 76748565,
-   "points": 49,
-   "averagePoints": 6.125,
    "playerStatus": "ok"
   },
   {
@@ -706,8 +691,8 @@
    "nickname": "Courtois",
    "positionId": 1,
    "marketValue": 61414057,
-   "points": 84,
-   "averagePoints": 7.0,
+   "points": 88,
+   "averagePoints": 7.333333333333333,
    "playerStatus": "ok"
   },
   {
@@ -826,8 +811,8 @@
    "nickname": "Bernardo Silva",
    "positionId": 3,
    "marketValue": 30816464,
-   "points": 39,
-   "averagePoints": 3.0,
+   "points": 41,
+   "averagePoints": 3.1538461538461537,
    "playerStatus": "ok"
   },
   {
@@ -871,8 +856,8 @@
    "nickname": "Diomande",
    "positionId": 4,
    "marketValue": 125614251,
-   "points": 81,
-   "averagePoints": 6.230769230769231,
+   "points": 85,
+   "averagePoints": 6.538461538461538,
    "playerStatus": "ok"
   },
   {
@@ -924,14 +909,14 @@
  "standing": [
   {
    "position": 1,
-   "points": 724,
+   "points": 735,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 586122936
   },
   {
    "position": 2,
-   "points": 640,
+   "points": 650,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 461803389
@@ -945,14 +930,14 @@
   },
   {
    "position": 4,
-   "points": 552,
+   "points": 556,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 457175643
   },
   {
    "position": 5,
-   "points": 509,
+   "points": 511,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 132359458
@@ -973,7 +958,7 @@
   },
   {
    "position": 8,
-   "points": 440,
+   "points": 441,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 133825495
