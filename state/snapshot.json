@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-21T15:01:06+0000",
+ "fetched_at": "2026-11-21T16:01:10+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -28,7 +28,7 @@
    "teamId": "14",
    "marketValue": 4574887,
    "points": 37,
-   "averagePoints": 4.625,
+   "averagePoints": 4.111111111111111,
    "playerStatus": "ok",
    "buyoutClause": 5500000,
    "lockedEnd": "2026-12-04T11:41:19+0100",
@@ -272,7 +272,7 @@
    "positionId": 4,
    "marketValue": 725413,
    "points": 15,
-   "averagePoints": 1.3636363636363635,
+   "averagePoints": 1.25,
    "playerStatus": "ok"
   },
   {
@@ -377,7 +377,7 @@
    "positionId": 4,
    "marketValue": 771303,
    "points": 28,
-   "averagePoints": 2.8,
+   "averagePoints": 2.5454545454545454,
    "playerStatus": "ok"
   },
   {
@@ -436,8 +436,8 @@
    "nickname": "Dimitrievski",
    "positionId": 1,
    "marketValue": 15983278,
-   "points": 72,
-   "averagePoints": 6.0,
+   "points": 75,
+   "averagePoints": 5.769230769230769,
    "playerStatus": "ok"
   },
   {
@@ -526,8 +526,8 @@
    "nickname": "Guido Rodríguez",
    "positionId": 3,
    "marketValue": 10509019,
-   "points": 42,
-   "averagePoints": 4.666666666666667,
+   "points": 43,
+   "averagePoints": 4.3,
    "playerStatus": "ok"
   },
   {
@@ -557,7 +557,7 @@
    "positionId": 3,
    "marketValue": 33593050,
    "points": 65,
-   "averagePoints": 5.416666666666667,
+   "averagePoints": 5.0,
    "playerStatus": "ok"
   },
   {
@@ -872,7 +872,7 @@
    "positionId": 3,
    "marketValue": 770056,
    "points": 29,
-   "averagePoints": 2.4166666666666665,
+   "averagePoints": 2.230769230769231,
    "playerStatus": "ok"
   },
   {
@@ -902,7 +902,7 @@
    "positionId": 3,
    "marketValue": 56250631,
    "points": 68,
-   "averagePoints": 5.666666666666667,
+   "averagePoints": 5.230769230769231,
    "playerStatus": "ok"
   },
   {
@@ -1043,14 +1043,14 @@
   },
   {
    "position": 3,
-   "points": 609,
+   "points": 613,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 234154883
   },
   {
    "position": 4,
-   "points": 534,
+   "points": 535,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 415846260
@@ -1071,7 +1071,7 @@
   },
   {
    "position": 7,
-   "points": 434,
+   "points": 436,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 121624533
