@@ -17,15 +17,6 @@
    "bid_id": "234217121",
    "placed_at": "2026-11-20T22:01:28+0000",
    "reason": "+1.2 pts al once · 5.7 pts esp (ppg 4.8×1.0+prior 2.3 · ok · vs GET 1.17 · prob starter 100% · tend7 +31%)"
-  },
-  {
-   "market_id": "705629202",
-   "player_id": "2617",
-   "money": 1430052,
-   "kind": "bid",
-   "bid_id": "61657370",
-   "placed_at": "2026-11-21T20:01:20+0000",
-   "reason": "+1.6 pts al once · 4.7 pts esp (ppg 4.0×1.0+prior 3.3 · ok · vs OSA 1.17 · prob starter 100% · tend7 +2%)"
   }
  ],
  "listings": [],
@@ -54,13 +45,6 @@
   "233932743"
  ],
  "runs": [
-  {
-   "ts": "2026-11-03T14:01:04.667289+00:00",
-   "mode": "LIVE",
-   "actions": 0,
-   "spend": 0,
-   "requests": 22
-  },
   {
    "ts": "2026-11-03T15:01:08.356623+00:00",
    "mode": "LIVE",
@@ -3551,6 +3535,13 @@
    "actions": 1,
    "spend": 1430052,
    "requests": 23
+  },
+  {
+   "ts": "2026-11-21T21:01:04.908299+00:00",
+   "mode": "LIVE",
+   "actions": 2,
+   "spend": 0,
+   "requests": 27
   }
  ],
  "live_writes_seen": [

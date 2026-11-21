@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-21T20:01:01+0000",
+ "fetched_at": "2026-11-21T21:01:05+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -12,7 +12,7 @@
   "closingWeekDate": "2026-11-24T03:00:00+01:00"
  },
  "money": 27500994,
- "investment": 20033219,
+ "investment": 21463271,
  "team": {
   "teamValue": 133825495,
   "teamPoints": 430,
@@ -196,7 +196,7 @@
    "teamId": "6",
    "marketValue": 10775879,
    "points": 46,
-   "averagePoints": 3.8333333333333335,
+   "averagePoints": 3.5384615384615383,
    "playerStatus": "ok",
    "buyoutClause": 14039270,
    "lockedEnd": "2026-11-15T18:01:17+0100",
@@ -415,9 +415,9 @@
    "discr": "marketPlayerLeague",
    "salePrice": 1280205,
    "expirationDate": "2026-11-22T20:08:00+01:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
-   "myBid": null,
+   "myBid": 1430052,
    "nickname": "Sadiq",
    "positionId": 4,
    "marketValue": 1280205,
@@ -617,7 +617,7 @@
    "positionId": 2,
    "marketValue": 59400910,
    "points": 59,
-   "averagePoints": 5.363636363636363,
+   "averagePoints": 4.916666666666667,
    "playerStatus": "ok"
   },
   {
@@ -632,22 +632,22 @@
    "positionId": 2,
    "marketValue": 50241228,
    "points": 50,
-   "averagePoints": 4.166666666666667,
+   "averagePoints": 3.8461538461538463,
    "playerStatus": "ok"
   },
   {
-   "id": "1674",
+   "id": "1715",
    "discr": "marketPlayerTeam",
-   "salePrice": 1501381040,
-   "expirationDate": "2026-11-21T21:41:57+01:00",
+   "salePrice": 141210090,
+   "expirationDate": "2026-11-24T21:22:41+01:00",
    "numberOfBids": null,
    "seller": "37664721",
    "myBid": null,
-   "nickname": "Arda Güler",
+   "nickname": "Fermín",
    "positionId": 3,
-   "marketValue": 151266165,
-   "points": 125,
-   "averagePoints": 10.416666666666666,
+   "marketValue": 141210090,
+   "points": 111,
+   "averagePoints": 9.25,
    "playerStatus": "ok"
   },
   {
@@ -681,21 +681,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "3077",
-   "discr": "marketPlayerTeam",
-   "salePrice": 509576260,
-   "expirationDate": "2026-11-22T17:02:46+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Edu Expósito",
-   "positionId": 3,
-   "marketValue": 50408942,
-   "points": 74,
-   "averagePoints": 6.166666666666667,
-   "playerStatus": "injured"
-  },
-  {
    "id": "3262",
    "discr": "marketPlayerTeam",
    "salePrice": 139778880,
@@ -721,8 +706,8 @@
    "nickname": "Courtois",
    "positionId": 1,
    "marketValue": 61414057,
-   "points": 82,
-   "averagePoints": 7.454545454545454,
+   "points": 83,
+   "averagePoints": 6.916666666666667,
    "playerStatus": "ok"
   },
   {
@@ -842,7 +827,7 @@
    "positionId": 3,
    "marketValue": 30816464,
    "points": 39,
-   "averagePoints": 3.25,
+   "averagePoints": 3.0,
    "playerStatus": "ok"
   },
   {
@@ -886,8 +871,8 @@
    "nickname": "Diomande",
    "positionId": 4,
    "marketValue": 125614251,
-   "points": 80,
-   "averagePoints": 6.666666666666667,
+   "points": 81,
+   "averagePoints": 6.230769230769231,
    "playerStatus": "ok"
   },
   {
@@ -939,14 +924,14 @@
  "standing": [
   {
    "position": 1,
-   "points": 723,
+   "points": 724,
    "team_id": "37664721",
    "manager": "enriqsuar",
-   "teamValue": 636531878
+   "teamValue": 586122936
   },
   {
    "position": 2,
-   "points": 637,
+   "points": 639,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 461803389
@@ -967,7 +952,7 @@
   },
   {
    "position": 5,
-   "points": 511,
+   "points": 512,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 132359458
