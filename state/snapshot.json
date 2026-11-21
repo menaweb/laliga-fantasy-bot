@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-21T12:01:02+0000",
+ "fetched_at": "2026-11-21T13:01:03+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -310,7 +310,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 40939478,
    "expirationDate": "2026-11-21T20:08:00+01:00",
-   "numberOfBids": 2,
+   "numberOfBids": 3,
    "seller": "",
    "myBid": null,
    "nickname": "Marc Roca",
