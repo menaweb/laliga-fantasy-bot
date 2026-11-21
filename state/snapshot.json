@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-21T18:01:10+0000",
+ "fetched_at": "2026-11-21T19:01:08+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -139,8 +139,8 @@
    "positionId": 3,
    "teamId": "17",
    "marketValue": 1938741,
-   "points": 26,
-   "averagePoints": 2.1666666666666665,
+   "points": 27,
+   "averagePoints": 2.25,
    "playerStatus": "ok",
    "buyoutClause": 12707271,
    "lockedEnd": "2026-09-24T20:33:22+0200",
@@ -241,8 +241,8 @@
    "nickname": "Manuel Pellegrini",
    "positionId": 5,
    "marketValue": 738016,
-   "points": 46,
-   "averagePoints": 3.5384615384615383,
+   "points": 49,
+   "averagePoints": 3.769230769230769,
    "playerStatus": "ok"
   },
   {
@@ -481,8 +481,8 @@
    "nickname": "Natan",
    "positionId": 2,
    "marketValue": 57625626,
-   "points": 73,
-   "averagePoints": 5.615384615384615,
+   "points": 74,
+   "averagePoints": 5.6923076923076925,
    "playerStatus": "ok"
   },
   {
@@ -636,21 +636,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "3090",
-   "discr": "marketPlayerTeam",
-   "salePrice": 851267880,
-   "expirationDate": "2026-11-21T19:09:43+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Isco",
-   "positionId": 3,
-   "marketValue": 86406213,
-   "points": 77,
-   "averagePoints": 5.923076923076923,
-   "playerStatus": "ok"
-  },
-  {
    "id": "1674",
    "discr": "marketPlayerTeam",
    "salePrice": 1501381040,
@@ -721,8 +706,8 @@
    "nickname": "Félix Correia",
    "positionId": 4,
    "marketValue": 14785474,
-   "points": 59,
-   "averagePoints": 5.9,
+   "points": 60,
+   "averagePoints": 6.0,
    "playerStatus": "ok"
   },
   {
@@ -954,7 +939,7 @@
  "standing": [
   {
    "position": 1,
-   "points": 704,
+   "points": 709,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 636531878
@@ -975,7 +960,7 @@
   },
   {
    "position": 4,
-   "points": 547,
+   "points": 548,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 415846260
@@ -996,14 +981,14 @@
   },
   {
    "position": 7,
-   "points": 440,
+   "points": 441,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 121624533
   },
   {
    "position": 8,
-   "points": 436,
+   "points": 437,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 133825495
