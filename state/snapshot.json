@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-21T17:01:07+0000",
+ "fetched_at": "2026-11-21T17:23:53+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -27,8 +27,8 @@
    "positionId": 1,
    "teamId": "14",
    "marketValue": 4574887,
-   "points": 37,
-   "averagePoints": 4.111111111111111,
+   "points": 41,
+   "averagePoints": 4.555555555555555,
    "playerStatus": "ok",
    "buyoutClause": 5500000,
    "lockedEnd": "2026-12-04T11:41:19+0100",
@@ -271,8 +271,8 @@
    "nickname": "Tsitaishvili",
    "positionId": 4,
    "marketValue": 725413,
-   "points": 15,
-   "averagePoints": 1.25,
+   "points": 18,
+   "averagePoints": 1.5,
    "playerStatus": "ok"
   },
   {
@@ -436,8 +436,8 @@
    "nickname": "Dimitrievski",
    "positionId": 1,
    "marketValue": 15983278,
-   "points": 75,
-   "averagePoints": 5.769230769230769,
+   "points": 85,
+   "averagePoints": 6.538461538461538,
    "playerStatus": "ok"
   },
   {
@@ -526,8 +526,8 @@
    "nickname": "Guido Rodríguez",
    "positionId": 3,
    "marketValue": 10509019,
-   "points": 43,
-   "averagePoints": 4.3,
+   "points": 49,
+   "averagePoints": 4.9,
    "playerStatus": "ok"
   },
   {
@@ -556,8 +556,8 @@
    "nickname": "Unai Lopez",
    "positionId": 3,
    "marketValue": 33593050,
-   "points": 66,
-   "averagePoints": 5.076923076923077,
+   "points": 70,
+   "averagePoints": 5.384615384615385,
    "playerStatus": "ok"
   },
   {
@@ -796,8 +796,8 @@
    "nickname": "Pedro Díaz",
    "positionId": 3,
    "marketValue": 770056,
-   "points": 29,
-   "averagePoints": 2.230769230769231,
+   "points": 32,
+   "averagePoints": 2.4615384615384617,
    "playerStatus": "ok"
   },
   {
@@ -826,8 +826,8 @@
    "nickname": "Pepelu",
    "positionId": 3,
    "marketValue": 56250631,
-   "points": 69,
-   "averagePoints": 5.3076923076923075,
+   "points": 75,
+   "averagePoints": 5.769230769230769,
    "playerStatus": "ok"
   },
   {
@@ -961,21 +961,21 @@
   },
   {
    "position": 2,
-   "points": 628,
+   "points": 634,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 448954275
   },
   {
    "position": 3,
-   "points": 612,
+   "points": 623,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 234154883
   },
   {
    "position": 4,
-   "points": 536,
+   "points": 546,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 415846260
@@ -996,14 +996,14 @@
   },
   {
    "position": 7,
-   "points": 436,
+   "points": 440,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 121624533
   },
   {
    "position": 8,
-   "points": 433,
+   "points": 436,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 133825495
