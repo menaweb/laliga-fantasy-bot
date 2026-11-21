@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-21T21:01:05+0000",
+ "fetched_at": "2026-11-21T22:01:07+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -12,7 +12,7 @@
   "closingWeekDate": "2026-11-24T03:00:00+01:00"
  },
  "money": 27500994,
- "investment": 21463271,
+ "investment": 20033219,
  "team": {
   "teamValue": 133825495,
   "teamPoints": 430,
@@ -195,8 +195,8 @@
    "positionId": 4,
    "teamId": "6",
    "marketValue": 10775879,
-   "points": 46,
-   "averagePoints": 3.5384615384615383,
+   "points": 45,
+   "averagePoints": 3.4615384615384617,
    "playerStatus": "ok",
    "buyoutClause": 14039270,
    "lockedEnd": "2026-11-15T18:01:17+0100",
@@ -415,9 +415,9 @@
    "discr": "marketPlayerLeague",
    "salePrice": 1280205,
    "expirationDate": "2026-11-22T20:08:00+01:00",
-   "numberOfBids": 1,
+   "numberOfBids": 0,
    "seller": "",
-   "myBid": 1430052,
+   "myBid": null,
    "nickname": "Sadiq",
    "positionId": 4,
    "marketValue": 1280205,
@@ -616,8 +616,8 @@
    "nickname": "Huijsen",
    "positionId": 2,
    "marketValue": 59400910,
-   "points": 59,
-   "averagePoints": 4.916666666666667,
+   "points": 60,
+   "averagePoints": 5.0,
    "playerStatus": "ok"
   },
   {
@@ -631,8 +631,8 @@
    "nickname": "Konaté",
    "positionId": 2,
    "marketValue": 50241228,
-   "points": 50,
-   "averagePoints": 3.8461538461538463,
+   "points": 51,
+   "averagePoints": 3.923076923076923,
    "playerStatus": "ok"
   },
   {
@@ -706,8 +706,8 @@
    "nickname": "Courtois",
    "positionId": 1,
    "marketValue": 61414057,
-   "points": 83,
-   "averagePoints": 6.916666666666667,
+   "points": 84,
+   "averagePoints": 7.0,
    "playerStatus": "ok"
   },
   {
@@ -931,7 +931,7 @@
   },
   {
    "position": 2,
-   "points": 639,
+   "points": 640,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 461803389
@@ -945,14 +945,14 @@
   },
   {
    "position": 4,
-   "points": 551,
+   "points": 552,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 457175643
   },
   {
    "position": 5,
-   "points": 512,
+   "points": 509,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 132359458
@@ -973,7 +973,7 @@
   },
   {
    "position": 8,
-   "points": 441,
+   "points": 440,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 133825495
