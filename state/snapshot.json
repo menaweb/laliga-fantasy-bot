@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-22T22:01:03+0000",
+ "fetched_at": "2026-11-22T23:01:13+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -480,8 +480,8 @@
    "nickname": "Barrios",
    "positionId": 3,
    "marketValue": 40590737,
-   "points": 51,
-   "averagePoints": 5.1,
+   "points": 54,
+   "averagePoints": 5.4,
    "playerStatus": "ok"
   },
   {
@@ -780,8 +780,8 @@
    "nickname": "Julián Alvarez",
    "positionId": 4,
    "marketValue": 77386904,
-   "points": 60,
-   "averagePoints": 6.666666666666667,
+   "points": 64,
+   "averagePoints": 7.111111111111111,
    "playerStatus": "ok"
   },
   {
@@ -1088,7 +1088,7 @@
  "standing": [
   {
    "position": 1,
-   "points": 748,
+   "points": 751,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 591720343
@@ -1109,28 +1109,28 @@
   },
   {
    "position": 4,
-   "points": 567,
+   "points": 571,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 400542041
   },
   {
    "position": 5,
-   "points": 526,
+   "points": 528,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 131003794
   },
   {
    "position": 6,
-   "points": 499,
+   "points": 502,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 323603229
   },
   {
    "position": 7,
-   "points": 465,
+   "points": 466,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 107154303
