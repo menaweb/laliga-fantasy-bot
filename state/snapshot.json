@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-22T19:29:08+0000",
+ "fetched_at": "2026-11-22T20:01:03+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -11,13 +11,13 @@
   "openingWeekDate": "2026-11-20T21:00:00+01:00",
   "closingWeekDate": "2026-11-24T03:00:00+01:00"
  },
- "money": 27500994,
- "investment": 0,
+ "money": 10675184,
+ "investment": 7344792,
  "team": {
-  "teamValue": 133042743,
+  "teamValue": 149868553,
   "teamPoints": 430,
   "position": 8,
-  "playersNumber": 13
+  "playersNumber": 14
  },
  "squad": [
   {
@@ -49,20 +49,6 @@
    "onSale": false
   },
   {
-   "ptid": "116768974",
-   "id": "2596",
-   "nickname": "V. Chust",
-   "positionId": 2,
-   "teamId": "7",
-   "marketValue": 7622977,
-   "points": 49,
-   "averagePoints": 4.083333333333333,
-   "playerStatus": "ok",
-   "buyoutClause": 9400000,
-   "lockedEnd": "2026-12-01T17:26:33+0100",
-   "onSale": false
-  },
-  {
    "ptid": "106505338",
    "id": "2609",
    "nickname": "Valentín Gómez",
@@ -74,6 +60,20 @@
    "playerStatus": "ok",
    "buyoutClause": 6887943,
    "lockedEnd": "2026-11-08T16:02:09+0100",
+   "onSale": false
+  },
+  {
+   "ptid": "116768974",
+   "id": "2596",
+   "nickname": "V. Chust",
+   "positionId": 2,
+   "teamId": "7",
+   "marketValue": 7622977,
+   "points": 49,
+   "averagePoints": 4.083333333333333,
+   "playerStatus": "ok",
+   "buyoutClause": 9400000,
+   "lockedEnd": "2026-12-01T17:26:33+0100",
    "onSale": false
   },
   {
@@ -119,6 +119,20 @@
    "onSale": false
   },
   {
+   "ptid": "71117586",
+   "id": "856",
+   "nickname": "Guridi",
+   "positionId": 3,
+   "teamId": "17",
+   "marketValue": 1899971,
+   "points": 30,
+   "averagePoints": 2.5,
+   "playerStatus": "ok",
+   "buyoutClause": 12707271,
+   "lockedEnd": "2026-09-24T20:33:22+0200",
+   "onSale": false
+  },
+  {
    "ptid": "95452113",
    "id": "2939",
    "nickname": "G. Villar",
@@ -133,17 +147,31 @@
    "onSale": false
   },
   {
-   "ptid": "71117586",
-   "id": "856",
-   "nickname": "Guridi",
-   "positionId": 3,
-   "teamId": "17",
-   "marketValue": 1899971,
-   "points": 30,
-   "averagePoints": 2.5,
+   "ptid": "102098317",
+   "id": "2477",
+   "nickname": "I. Akhomach",
+   "positionId": 4,
+   "teamId": "20",
+   "marketValue": 8492943,
+   "points": 48,
+   "averagePoints": 4.8,
+   "playerStatus": "doubtful",
+   "buyoutClause": 11399762,
+   "lockedEnd": "2026-10-31T20:28:52+0100",
+   "onSale": false
+  },
+  {
+   "ptid": "110261021",
+   "id": "2603",
+   "nickname": "Ferran Jutglà",
+   "positionId": 4,
+   "teamId": "6",
+   "marketValue": 10587154,
+   "points": 46,
+   "averagePoints": 3.5384615384615383,
    "playerStatus": "ok",
-   "buyoutClause": 12707271,
-   "lockedEnd": "2026-09-24T20:33:22+0200",
+   "buyoutClause": 14039270,
+   "lockedEnd": "2026-11-15T18:01:17+0100",
    "onSale": false
   },
   {
@@ -175,31 +203,17 @@
    "onSale": false
   },
   {
-   "ptid": "102098317",
-   "id": "2477",
-   "nickname": "I. Akhomach",
+   "ptid": "118452992",
+   "id": "886",
+   "nickname": "De Frutos",
    "positionId": 4,
-   "teamId": "20",
-   "marketValue": 8492943,
-   "points": 48,
-   "averagePoints": 4.8,
-   "playerStatus": "doubtful",
-   "buyoutClause": 11399762,
-   "lockedEnd": "2026-10-31T20:28:52+0100",
-   "onSale": false
-  },
-  {
-   "ptid": "110261021",
-   "id": "2603",
-   "nickname": "Ferran Jutglà",
-   "positionId": 4,
-   "teamId": "6",
-   "marketValue": 10587154,
-   "points": 46,
-   "averagePoints": 3.5384615384615383,
+   "teamId": "14",
+   "marketValue": 16825810,
+   "points": 51,
+   "averagePoints": 4.636363636363637,
    "playerStatus": "ok",
-   "buyoutClause": 14039270,
-   "lockedEnd": "2026-11-15T18:01:17+0100",
+   "buyoutClause": 16825810,
+   "lockedEnd": "2026-12-06T20:29:31+0100",
    "onSale": false
   }
  ],
@@ -376,8 +390,8 @@
    "nickname": "Pastor",
    "positionId": 2,
    "marketValue": 666991,
-   "points": 6,
-   "averagePoints": 0.5,
+   "points": 7,
+   "averagePoints": 0.5833333333333334,
    "playerStatus": "ok"
   },
   {
@@ -400,14 +414,14 @@
    "discr": "marketPlayerLeague",
    "salePrice": 6070077,
    "expirationDate": "2026-11-23T20:08:00+01:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
-   "myBid": null,
+   "myBid": 7344792,
    "nickname": "Niño",
    "positionId": 4,
    "marketValue": 6070077,
-   "points": 53,
-   "averagePoints": 5.888888888888889,
+   "points": 54,
+   "averagePoints": 6.0,
    "playerStatus": "ok"
   },
   {
@@ -467,7 +481,7 @@
    "positionId": 3,
    "marketValue": 40590737,
    "points": 46,
-   "averagePoints": 5.111111111111111,
+   "averagePoints": 4.6,
    "playerStatus": "ok"
   },
   {
@@ -767,7 +781,7 @@
    "positionId": 4,
    "marketValue": 77386904,
    "points": 49,
-   "averagePoints": 6.125,
+   "averagePoints": 5.444444444444445,
    "playerStatus": "ok"
   },
   {
@@ -976,8 +990,8 @@
    "nickname": "Boyomo",
    "positionId": 2,
    "marketValue": 6163960,
-   "points": 31,
-   "averagePoints": 2.3846153846153846,
+   "points": 34,
+   "averagePoints": 2.6153846153846154,
    "playerStatus": "ok"
   },
   {
@@ -1081,14 +1095,14 @@
   },
   {
    "position": 2,
-   "points": 662,
+   "points": 665,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 476752062
   },
   {
    "position": 3,
-   "points": 653,
+   "points": 657,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 233921516
@@ -1102,31 +1116,31 @@
   },
   {
    "position": 5,
-   "points": 519,
+   "points": 523,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 131003794
   },
   {
    "position": 6,
-   "points": 494,
+   "points": 495,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 323603229
   },
   {
    "position": 7,
-   "points": 459,
+   "points": 463,
    "team_id": "37667518",
    "manager": "Rcoba",
-   "teamValue": 123980113
+   "teamValue": 107154303
   },
   {
    "position": 8,
    "points": 451,
    "team_id": "37682094",
    "manager": "menaweb",
-   "teamValue": 133042743
+   "teamValue": 149868553
   },
   {
    "position": 9,
