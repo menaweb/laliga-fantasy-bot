@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-22T16:01:04+0000",
+ "fetched_at": "2026-11-22T17:01:04+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -153,8 +153,8 @@
    "positionId": 4,
    "teamId": "16",
    "marketValue": 43490349,
-   "points": 52,
-   "averagePoints": 4.333333333333333,
+   "points": 58,
+   "averagePoints": 4.833333333333333,
    "playerStatus": "ok",
    "buyoutClause": 91332677,
    "lockedEnd": "2026-08-20T20:08:11+0200",
@@ -257,7 +257,7 @@
    "positionId": 5,
    "marketValue": 730728,
    "points": 35,
-   "averagePoints": 3.1818181818181817,
+   "averagePoints": 2.9166666666666665,
    "playerStatus": "ok"
   },
   {
@@ -691,8 +691,8 @@
    "nickname": "Fermín",
    "positionId": 3,
    "marketValue": 141987420,
-   "points": 120,
-   "averagePoints": 9.23076923076923,
+   "points": 117,
+   "averagePoints": 9.0,
    "playerStatus": "suspended"
   },
   {
@@ -1074,7 +1074,7 @@
  "standing": [
   {
    "position": 1,
-   "points": 746,
+   "points": 743,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 591720343
@@ -1088,7 +1088,7 @@
   },
   {
    "position": 3,
-   "points": 638,
+   "points": 636,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 233921516
@@ -1109,24 +1109,24 @@
   },
   {
    "position": 6,
-   "points": 478,
+   "points": 482,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 323603229
   },
   {
    "position": 7,
-   "points": 444,
-   "team_id": "37667518",
-   "manager": "Rcoba",
-   "teamValue": 121552465
-  },
-  {
-   "position": 8,
-   "points": 440,
+   "points": 446,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 133042743
+  },
+  {
+   "position": 8,
+   "points": 445,
+   "team_id": "37667518",
+   "manager": "Rcoba",
+   "teamValue": 121552465
   },
   {
    "position": 9,
