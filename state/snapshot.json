@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-22T20:01:03+0000",
+ "fetched_at": "2026-11-22T21:01:14+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -11,7 +11,7 @@
   "openingWeekDate": "2026-11-20T21:00:00+01:00",
   "closingWeekDate": "2026-11-24T03:00:00+01:00"
  },
- "money": 10675184,
+ "money": 7344792,
  "investment": 7344792,
  "team": {
   "teamValue": 149868553,
@@ -158,7 +158,7 @@
    "playerStatus": "doubtful",
    "buyoutClause": 11399762,
    "lockedEnd": "2026-10-31T20:28:52+0100",
-   "onSale": false
+   "onSale": true
   },
   {
    "ptid": "110261021",
@@ -212,7 +212,7 @@
    "points": 51,
    "averagePoints": 4.636363636363637,
    "playerStatus": "ok",
-   "buyoutClause": 16825810,
+   "buyoutClause": 23486594,
    "lockedEnd": "2026-12-06T20:29:31+0100",
    "onSale": false
   }
@@ -480,8 +480,8 @@
    "nickname": "Barrios",
    "positionId": 3,
    "marketValue": 40590737,
-   "points": 46,
-   "averagePoints": 4.6,
+   "points": 47,
+   "averagePoints": 4.7,
    "playerStatus": "ok"
   },
   {
@@ -780,8 +780,8 @@
    "nickname": "Julián Alvarez",
    "positionId": 4,
    "marketValue": 77386904,
-   "points": 49,
-   "averagePoints": 5.444444444444445,
+   "points": 57,
+   "averagePoints": 6.333333333333333,
    "playerStatus": "ok"
   },
   {
@@ -1083,12 +1083,27 @@
    "points": 63,
    "averagePoints": 4.846153846153846,
    "playerStatus": "ok"
+  },
+  {
+   "id": "2477",
+   "discr": "marketPlayerTeam",
+   "salePrice": 8492943,
+   "expirationDate": "2026-11-25T21:01:24+01:00",
+   "numberOfBids": null,
+   "seller": "37682094",
+   "myBid": null,
+   "nickname": "I. Akhomach",
+   "positionId": 4,
+   "marketValue": 8492943,
+   "points": 48,
+   "averagePoints": 4.8,
+   "playerStatus": "doubtful"
   }
  ],
  "standing": [
   {
    "position": 1,
-   "points": 743,
+   "points": 744,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 591720343
@@ -1109,28 +1124,28 @@
   },
   {
    "position": 4,
-   "points": 556,
+   "points": 564,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 400542041
   },
   {
    "position": 5,
-   "points": 523,
+   "points": 521,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 131003794
   },
   {
    "position": 6,
-   "points": 495,
+   "points": 496,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 323603229
   },
   {
    "position": 7,
-   "points": 463,
+   "points": 460,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 107154303
