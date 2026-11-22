@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-22T13:01:04+0000",
+ "fetched_at": "2026-11-22T14:01:00+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -467,7 +467,7 @@
    "positionId": 2,
    "marketValue": 2293423,
    "points": 28,
-   "averagePoints": 2.3333333333333335,
+   "averagePoints": 2.1538461538461537,
    "playerStatus": "ok"
   },
   {
@@ -586,8 +586,8 @@
    "nickname": "Fermín",
    "positionId": 3,
    "marketValue": 141987420,
-   "points": 111,
-   "averagePoints": 9.25,
+   "points": 110,
+   "averagePoints": 8.461538461538462,
    "playerStatus": "ok"
   },
   {
@@ -909,7 +909,7 @@
  "standing": [
   {
    "position": 1,
-   "points": 735,
+   "points": 734,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 591720343
