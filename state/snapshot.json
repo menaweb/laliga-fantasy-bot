@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-22T18:01:14+0000",
+ "fetched_at": "2026-11-22T19:01:02+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -12,7 +12,7 @@
   "closingWeekDate": "2026-11-24T03:00:00+01:00"
  },
  "money": 27500994,
- "investment": 26956703,
+ "investment": 0,
  "team": {
   "teamValue": 133042743,
   "teamPoints": 430,
@@ -370,9 +370,9 @@
    "discr": "marketPlayerLeague",
    "salePrice": 23393182,
    "expirationDate": "2026-11-22T20:08:00+01:00",
-   "numberOfBids": 2,
+   "numberOfBids": 1,
    "seller": "",
-   "myBid": 26956703,
+   "myBid": null,
    "nickname": "Jon Martin",
    "positionId": 2,
    "marketValue": 23417795,
@@ -976,8 +976,8 @@
    "nickname": "Boyomo",
    "positionId": 2,
    "marketValue": 6163960,
-   "points": 23,
-   "averagePoints": 1.7692307692307692,
+   "points": 25,
+   "averagePoints": 1.9230769230769231,
    "playerStatus": "ok"
   },
   {
@@ -1026,21 +1026,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2565",
-   "discr": "marketPlayerTeam",
-   "salePrice": 44825800,
-   "expirationDate": "2026-11-25T15:30:06+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "A. Fortuño",
-   "positionId": 1,
-   "marketValue": 4482580,
-   "points": 63,
-   "averagePoints": 4.846153846153846,
-   "playerStatus": "ok"
-  },
-  {
    "id": "3262",
    "discr": "marketPlayerTeam",
    "salePrice": 152055380,
@@ -1069,6 +1054,21 @@
    "points": 56,
    "averagePoints": 6.222222222222222,
    "playerStatus": "ok"
+  },
+  {
+   "id": "2565",
+   "discr": "marketPlayerTeam",
+   "salePrice": 44825800,
+   "expirationDate": "2026-11-25T19:30:43+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "A. Fortuño",
+   "positionId": 1,
+   "marketValue": 4482580,
+   "points": 63,
+   "averagePoints": 4.846153846153846,
+   "playerStatus": "ok"
   }
  ],
  "standing": [
@@ -1081,14 +1081,14 @@
   },
   {
    "position": 2,
-   "points": 654,
+   "points": 656,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 453334267
   },
   {
    "position": 3,
-   "points": 649,
+   "points": 650,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 233921516
@@ -1102,7 +1102,7 @@
   },
   {
    "position": 5,
-   "points": 511,
+   "points": 512,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 131003794
@@ -1116,7 +1116,7 @@
   },
   {
    "position": 7,
-   "points": 453,
+   "points": 454,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 121552465
