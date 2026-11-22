@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-22T12:01:05+0000",
+ "fetched_at": "2026-11-22T13:01:04+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -426,36 +426,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2457",
-   "discr": "marketPlayerTeam",
-   "salePrice": 80745222,
-   "expirationDate": "2026-11-22T13:15:53+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Dimitrievski",
-   "positionId": 1,
-   "marketValue": 15889526,
-   "points": 85,
-   "averagePoints": 6.538461538461538,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2569",
-   "discr": "marketPlayerTeam",
-   "salePrice": 52541111,
-   "expirationDate": "2026-11-22T13:16:40+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Ibañez",
-   "positionId": 3,
-   "marketValue": 18834278,
-   "points": 60,
-   "averagePoints": 4.615384615384615,
-   "playerStatus": "ok"
-  },
-  {
    "id": "1565",
    "discr": "marketPlayerTeam",
    "salePrice": 394058220,
@@ -468,21 +438,6 @@
    "marketValue": 40590737,
    "points": 46,
    "averagePoints": 5.111111111111111,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2543",
-   "discr": "marketPlayerTeam",
-   "salePrice": 90858888,
-   "expirationDate": "2026-11-22T13:16:17+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Natan",
-   "positionId": 2,
-   "marketValue": 58020422,
-   "points": 77,
-   "averagePoints": 5.923076923076923,
    "playerStatus": "ok"
   },
   {
@@ -588,21 +543,6 @@
    "marketValue": 33904628,
    "points": 70,
    "averagePoints": 5.384615384615385,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "68",
-   "discr": "marketPlayerTeam",
-   "salePrice": 86985222,
-   "expirationDate": "2026-11-22T13:15:39+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Unai Simón",
-   "positionId": 1,
-   "marketValue": 38634094,
-   "points": 96,
-   "averagePoints": 7.384615384615385,
    "playerStatus": "ok"
   },
   {
