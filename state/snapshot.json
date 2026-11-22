@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-22T15:01:13+0000",
+ "fetched_at": "2026-11-22T16:01:04+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -12,7 +12,7 @@
   "closingWeekDate": "2026-11-24T03:00:00+01:00"
  },
  "money": 27500994,
- "investment": 0,
+ "investment": 26956703,
  "team": {
   "teamValue": 133042743,
   "teamPoints": 430,
@@ -42,7 +42,7 @@
    "teamId": "16",
    "marketValue": 694694,
    "points": 9,
-   "averagePoints": 0.75,
+   "averagePoints": 0.6923076923076923,
    "playerStatus": "ok",
    "buyoutClause": 1000000,
    "lockedEnd": "2026-11-30T01:01:30+0100",
@@ -153,8 +153,8 @@
    "positionId": 4,
    "teamId": "16",
    "marketValue": 43490349,
-   "points": 53,
-   "averagePoints": 4.818181818181818,
+   "points": 52,
+   "averagePoints": 4.333333333333333,
    "playerStatus": "ok",
    "buyoutClause": 91332677,
    "lockedEnd": "2026-08-20T20:08:11+0200",
@@ -370,14 +370,14 @@
    "discr": "marketPlayerLeague",
    "salePrice": 23393182,
    "expirationDate": "2026-11-22T20:08:00+01:00",
-   "numberOfBids": 2,
+   "numberOfBids": 3,
    "seller": "",
-   "myBid": null,
+   "myBid": 26956703,
    "nickname": "Jon Martin",
    "positionId": 2,
    "marketValue": 23417795,
    "points": 49,
-   "averagePoints": 4.454545454545454,
+   "averagePoints": 4.083333333333333,
    "playerStatus": "ok"
   },
   {
@@ -407,7 +407,7 @@
    "positionId": 2,
    "marketValue": 757566,
    "points": 3,
-   "averagePoints": 0.3,
+   "averagePoints": 0.2727272727272727,
    "playerStatus": "ok"
   },
   {
@@ -426,6 +426,36 @@
    "playerStatus": "ok"
   },
   {
+   "id": "2457",
+   "discr": "marketPlayerTeam",
+   "salePrice": 121324512,
+   "expirationDate": "2026-11-25T16:06:59+01:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Dimitrievski",
+   "positionId": 1,
+   "marketValue": 15889526,
+   "points": 85,
+   "averagePoints": 6.538461538461538,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2569",
+   "discr": "marketPlayerTeam",
+   "salePrice": 85464521,
+   "expirationDate": "2026-11-25T16:09:09+01:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Ibañez",
+   "positionId": 3,
+   "marketValue": 18834278,
+   "points": 60,
+   "averagePoints": 4.615384615384615,
+   "playerStatus": "ok"
+  },
+  {
    "id": "1565",
    "discr": "marketPlayerTeam",
    "salePrice": 394058220,
@@ -438,6 +468,36 @@
    "marketValue": 40590737,
    "points": 46,
    "averagePoints": 5.111111111111111,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2543",
+   "discr": "marketPlayerTeam",
+   "salePrice": 213154215,
+   "expirationDate": "2026-11-25T16:08:47+01:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Natan",
+   "positionId": 2,
+   "marketValue": 58020422,
+   "points": 77,
+   "averagePoints": 5.923076923076923,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3258",
+   "discr": "marketPlayerTeam",
+   "salePrice": 20156906,
+   "expirationDate": "2026-11-25T16:25:18+01:00",
+   "numberOfBids": null,
+   "seller": "37675747",
+   "myBid": null,
+   "nickname": "Gabriel Jesus",
+   "positionId": 4,
+   "marketValue": 20156906,
+   "points": 41,
+   "averagePoints": 4.1,
    "playerStatus": "ok"
   },
   {
@@ -466,8 +526,8 @@
    "nickname": "Cardona",
    "positionId": 2,
    "marketValue": 2293423,
-   "points": 28,
-   "averagePoints": 2.1538461538461537,
+   "points": 30,
+   "averagePoints": 2.3076923076923075,
    "playerStatus": "ok"
   },
   {
@@ -546,6 +606,21 @@
    "playerStatus": "ok"
   },
   {
+   "id": "68",
+   "discr": "marketPlayerTeam",
+   "salePrice": 108454236,
+   "expirationDate": "2026-11-25T16:08:26+01:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Unai Simón",
+   "positionId": 1,
+   "marketValue": 38634094,
+   "points": 96,
+   "averagePoints": 7.384615384615385,
+   "playerStatus": "ok"
+  },
+  {
    "id": "2530",
    "discr": "marketPlayerTeam",
    "salePrice": 585030180,
@@ -616,8 +691,8 @@
    "nickname": "Fermín",
    "positionId": 3,
    "marketValue": 141987420,
-   "points": 116,
-   "averagePoints": 8.923076923076923,
+   "points": 120,
+   "averagePoints": 9.23076923076923,
    "playerStatus": "suspended"
   },
   {
@@ -646,8 +721,8 @@
    "nickname": "Marc Bernal",
    "positionId": 3,
    "marketValue": 14968712,
-   "points": 39,
-   "averagePoints": 3.0,
+   "points": 41,
+   "averagePoints": 3.1538461538461537,
    "playerStatus": "ok"
   },
   {
@@ -782,7 +857,7 @@
    "positionId": 3,
    "marketValue": 47191049,
    "points": 66,
-   "averagePoints": 5.5,
+   "averagePoints": 5.076923076923077,
    "playerStatus": "ok"
   },
   {
@@ -841,8 +916,8 @@
    "nickname": "Oskarsson",
    "positionId": 4,
    "marketValue": 6321163,
-   "points": 44,
-   "averagePoints": 4.0,
+   "points": 43,
+   "averagePoints": 3.5833333333333335,
    "playerStatus": "ok"
   },
   {
@@ -979,26 +1054,41 @@
    "points": 63,
    "averagePoints": 6.3,
    "playerStatus": "ok"
+  },
+  {
+   "id": "3263",
+   "discr": "marketPlayerTeam",
+   "salePrice": 85454544,
+   "expirationDate": "2026-11-25T16:09:01+01:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Revivo",
+   "positionId": 2,
+   "marketValue": 11333134,
+   "points": 56,
+   "averagePoints": 6.222222222222222,
+   "playerStatus": "ok"
   }
  ],
  "standing": [
   {
    "position": 1,
-   "points": 740,
+   "points": 746,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 591720343
   },
   {
    "position": 2,
-   "points": 650,
+   "points": 649,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 453334267
   },
   {
    "position": 3,
-   "points": 636,
+   "points": 638,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 233921516
@@ -1012,28 +1102,28 @@
   },
   {
    "position": 5,
-   "points": 508,
+   "points": 510,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 131003794
   },
   {
    "position": 6,
-   "points": 477,
+   "points": 478,
    "team_id": "37675747",
    "manager": "Javi Trauma",
    "teamValue": 323603229
   },
   {
    "position": 7,
-   "points": 446,
+   "points": 444,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 121552465
   },
   {
    "position": 8,
-   "points": 441,
+   "points": 440,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 133042743
