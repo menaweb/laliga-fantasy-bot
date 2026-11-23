@@ -1,21 +1,11 @@
 {
- "bids": [
-  {
-   "market_id": "713279017",
-   "player_id": "3045",
-   "money": 7344792,
-   "bid_id": "61902684",
-   "kind": "bid",
-   "placed_at": null,
-   "reason": "detectada en el mercado"
-  }
- ],
+ "bids": [],
  "listings": [
   {
-   "market_id": "71918195",
-   "player_id": "2477",
-   "price": 8492943,
-   "listed_at": "2026-11-22T20:01:23+0000"
+   "market_id": "72308936",
+   "player_id": "2603",
+   "price": 10369733,
+   "listed_at": "2026-11-23T20:01:21+0000"
   }
  ],
  "handled_offers": [
@@ -40,16 +30,10 @@
   "186208947",
   "213523179",
   "232480231",
-  "233932743"
+  "233932743",
+  "238508453"
  ],
  "runs": [
-  {
-   "ts": "2026-11-05T14:01:16.250513+00:00",
-   "mode": "LIVE",
-   "actions": 0,
-   "spend": 0,
-   "requests": 22
-  },
   {
    "ts": "2026-11-05T15:01:11.221603+00:00",
    "mode": "LIVE",
@@ -3540,6 +3524,13 @@
    "actions": 0,
    "spend": 0,
    "requests": 23
+  },
+  {
+   "ts": "2026-11-23T20:00:59.791818+00:00",
+   "mode": "LIVE",
+   "actions": 2,
+   "spend": 0,
+   "requests": 28
   }
  ],
  "live_writes_seen": [
