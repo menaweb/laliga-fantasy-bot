@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-23T20:01:00+0000",
+ "fetched_at": "2026-11-23T21:01:04+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -11,13 +11,13 @@
   "openingWeekDate": "2026-11-20T21:00:00+01:00",
   "closingWeekDate": "2026-11-24T03:00:00+01:00"
  },
- "money": 0,
+ "money": 8944222,
  "investment": 0,
  "team": {
-  "teamValue": 155126439,
+  "teamValue": 146760699,
   "teamPoints": 430,
   "position": 8,
-  "playersNumber": 15
+  "playersNumber": 14
  },
  "squad": [
   {
@@ -55,8 +55,8 @@
    "positionId": 2,
    "teamId": "7",
    "marketValue": 7614736,
-   "points": 49,
-   "averagePoints": 4.083333333333333,
+   "points": 51,
+   "averagePoints": 3.923076923076923,
    "playerStatus": "ok",
    "buyoutClause": 9400000,
    "lockedEnd": "2026-12-01T17:26:33+0100",
@@ -140,7 +140,7 @@
    "teamId": "7",
    "marketValue": 7932854,
    "points": 45,
-   "averagePoints": 4.090909090909091,
+   "averagePoints": 3.75,
    "playerStatus": "ok",
    "buyoutClause": 10291509,
    "lockedEnd": "2026-10-19T23:11:39+0200",
@@ -200,20 +200,6 @@
    "playerStatus": "ok",
    "buyoutClause": 14039270,
    "lockedEnd": "2026-11-15T18:01:17+0100",
-   "onSale": false
-  },
-  {
-   "ptid": "102098317",
-   "id": "2477",
-   "nickname": "I. Akhomach",
-   "positionId": 4,
-   "teamId": "20",
-   "marketValue": 8365740,
-   "points": 48,
-   "averagePoints": 4.8,
-   "playerStatus": "doubtful",
-   "buyoutClause": 11399762,
-   "lockedEnd": "2026-10-31T20:28:52+0100",
    "onSale": true
   },
   {
@@ -315,8 +301,8 @@
    "positionId": 2,
    "marketValue": 807505,
    "points": 18,
-   "averagePoints": 1.5,
-   "playerStatus": "ok"
+   "averagePoints": 1.3846153846153846,
+   "playerStatus": "injured"
   },
   {
    "id": "2735",
@@ -360,7 +346,7 @@
    "positionId": 3,
    "marketValue": 684629,
    "points": 9,
-   "averagePoints": 0.75,
+   "averagePoints": 0.6923076923076923,
    "playerStatus": "ok"
   },
   {
@@ -428,7 +414,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 15106030,
    "expirationDate": "2026-11-24T20:08:00+01:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Gulácsi",
@@ -570,7 +556,7 @@
    "positionId": 4,
    "marketValue": 8703535,
    "points": 63,
-   "averagePoints": 5.7272727272727275,
+   "averagePoints": 5.25,
    "playerStatus": "ok"
   },
   {
@@ -660,7 +646,7 @@
    "positionId": 3,
    "marketValue": 1574703,
    "points": 39,
-   "averagePoints": 3.25,
+   "averagePoints": 3.0,
    "playerStatus": "ok"
   },
   {
@@ -780,7 +766,7 @@
    "positionId": 2,
    "marketValue": 1254746,
    "points": 34,
-   "averagePoints": 3.4,
+   "averagePoints": 3.090909090909091,
    "playerStatus": "ok"
   },
   {
@@ -945,7 +931,7 @@
    "positionId": 2,
    "marketValue": 11529709,
    "points": 56,
-   "averagePoints": 6.222222222222222,
+   "averagePoints": 5.6,
    "playerStatus": "ok"
   },
   {
@@ -962,21 +948,6 @@
    "points": 63,
    "averagePoints": 4.846153846153846,
    "playerStatus": "ok"
-  },
-  {
-   "id": "2477",
-   "discr": "marketPlayerTeam",
-   "salePrice": 8492943,
-   "expirationDate": "2026-11-25T21:01:24+01:00",
-   "numberOfBids": null,
-   "seller": "37682094",
-   "myBid": null,
-   "nickname": "I. Akhomach",
-   "positionId": 4,
-   "marketValue": 8365740,
-   "points": 48,
-   "averagePoints": 4.8,
-   "playerStatus": "doubtful"
   },
   {
    "id": "1614",
@@ -1082,6 +1053,21 @@
    "points": 49,
    "averagePoints": 6.125,
    "playerStatus": "injured"
+  },
+  {
+   "id": "2603",
+   "discr": "marketPlayerTeam",
+   "salePrice": 10369733,
+   "expirationDate": "2026-11-26T21:01:22+01:00",
+   "numberOfBids": null,
+   "seller": "37682094",
+   "myBid": null,
+   "nickname": "Ferran Jutglà",
+   "positionId": 4,
+   "marketValue": 10369733,
+   "points": 46,
+   "averagePoints": 3.5384615384615383,
+   "playerStatus": "ok"
   }
  ],
  "standing": [
@@ -1129,17 +1115,17 @@
   },
   {
    "position": 7,
-   "points": 466,
+   "points": 465,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 197953405
   },
   {
    "position": 8,
-   "points": 451,
+   "points": 453,
    "team_id": "37682094",
    "manager": "menaweb",
-   "teamValue": 155126439
+   "teamValue": 146760699
   },
   {
    "position": 9,
