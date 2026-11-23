@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-23T22:01:04+0000",
+ "fetched_at": "2026-11-23T23:01:05+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -930,8 +930,8 @@
    "nickname": "Revivo",
    "positionId": 2,
    "marketValue": 11529709,
-   "points": 72,
-   "averagePoints": 7.2,
+   "points": 71,
+   "averagePoints": 7.1,
    "playerStatus": "ok"
   },
   {
@@ -1080,14 +1080,14 @@
   },
   {
    "position": 2,
-   "points": 681,
+   "points": 680,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 452080692
   },
   {
    "position": 3,
-   "points": 664,
+   "points": 665,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 234500717
@@ -1115,7 +1115,7 @@
   },
   {
    "position": 7,
-   "points": 477,
+   "points": 476,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 197953405
