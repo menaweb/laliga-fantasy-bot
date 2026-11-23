@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-23T11:01:09+0000",
+ "fetched_at": "2026-11-23T12:01:14+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -470,21 +470,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "1565",
-   "discr": "marketPlayerTeam",
-   "salePrice": 394058220,
-   "expirationDate": "2026-11-23T18:28:37+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Barrios",
-   "positionId": 3,
-   "marketValue": 41256063,
-   "points": 54,
-   "averagePoints": 5.4,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2543",
    "discr": "marketPlayerTeam",
    "salePrice": 213154215,
@@ -527,21 +512,6 @@
    "marketValue": 32798074,
    "points": 54,
    "averagePoints": 4.909090909090909,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "1614",
-   "discr": "marketPlayerTeam",
-   "salePrice": 23745540,
-   "expirationDate": "2026-11-23T18:11:25+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Cardona",
-   "positionId": 2,
-   "marketValue": 2247515,
-   "points": 30,
-   "averagePoints": 2.3076923076923075,
    "playerStatus": "ok"
   },
   {
@@ -632,21 +602,6 @@
    "marketValue": 38464981,
    "points": 96,
    "averagePoints": 7.384615384615385,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2530",
-   "discr": "marketPlayerTeam",
-   "salePrice": 585030180,
-   "expirationDate": "2026-11-23T18:28:28+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Huijsen",
-   "positionId": 2,
-   "marketValue": 61802826,
-   "points": 65,
-   "averagePoints": 5.416666666666667,
    "playerStatus": "ok"
   },
   {
@@ -903,6 +858,51 @@
    "points": 48,
    "averagePoints": 4.8,
    "playerStatus": "doubtful"
+  },
+  {
+   "id": "1614",
+   "discr": "marketPlayerTeam",
+   "salePrice": 22475150,
+   "expirationDate": "2026-11-26T12:59:18+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Cardona",
+   "positionId": 2,
+   "marketValue": 2247515,
+   "points": 30,
+   "averagePoints": 2.3076923076923075,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2530",
+   "discr": "marketPlayerTeam",
+   "salePrice": 618028260,
+   "expirationDate": "2026-11-26T12:59:24+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Huijsen",
+   "positionId": 2,
+   "marketValue": 61802826,
+   "points": 65,
+   "averagePoints": 5.416666666666667,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "1565",
+   "discr": "marketPlayerTeam",
+   "salePrice": 412560630,
+   "expirationDate": "2026-11-26T12:59:29+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Barrios",
+   "positionId": 3,
+   "marketValue": 41256063,
+   "points": 54,
+   "averagePoints": 5.4,
+   "playerStatus": "ok"
   }
  ],
  "standing": [
