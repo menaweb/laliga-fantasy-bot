@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-23T21:14:55+0000",
+ "fetched_at": "2026-11-23T22:01:04+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -55,8 +55,8 @@
    "positionId": 2,
    "teamId": "7",
    "marketValue": 7614736,
-   "points": 51,
-   "averagePoints": 3.923076923076923,
+   "points": 55,
+   "averagePoints": 4.230769230769231,
    "playerStatus": "ok",
    "buyoutClause": 9400000,
    "lockedEnd": "2026-12-01T17:26:33+0100",
@@ -139,8 +139,8 @@
    "positionId": 3,
    "teamId": "7",
    "marketValue": 7932854,
-   "points": 45,
-   "averagePoints": 3.75,
+   "points": 50,
+   "averagePoints": 4.166666666666667,
    "playerStatus": "ok",
    "buyoutClause": 10291509,
    "lockedEnd": "2026-10-19T23:11:39+0200",
@@ -300,8 +300,8 @@
    "nickname": "Jeremy Toljan",
    "positionId": 2,
    "marketValue": 807505,
-   "points": 18,
-   "averagePoints": 1.3846153846153846,
+   "points": 20,
+   "averagePoints": 1.5384615384615385,
    "playerStatus": "injured"
   },
   {
@@ -555,8 +555,8 @@
    "nickname": "R. Brugué",
    "positionId": 4,
    "marketValue": 8703535,
-   "points": 63,
-   "averagePoints": 5.25,
+   "points": 67,
+   "averagePoints": 5.583333333333333,
    "playerStatus": "ok"
   },
   {
@@ -645,8 +645,8 @@
    "nickname": "Morcillo",
    "positionId": 3,
    "marketValue": 1574703,
-   "points": 39,
-   "averagePoints": 3.0,
+   "points": 44,
+   "averagePoints": 3.3846153846153846,
    "playerStatus": "ok"
   },
   {
@@ -930,8 +930,8 @@
    "nickname": "Revivo",
    "positionId": 2,
    "marketValue": 11529709,
-   "points": 56,
-   "averagePoints": 5.6,
+   "points": 72,
+   "averagePoints": 7.2,
    "playerStatus": "ok"
   },
   {
@@ -1080,28 +1080,28 @@
   },
   {
    "position": 2,
-   "points": 665,
+   "points": 681,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 452080692
   },
   {
    "position": 3,
-   "points": 657,
+   "points": 664,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 234500717
   },
   {
    "position": 4,
-   "points": 571,
+   "points": 575,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 406756224
   },
   {
    "position": 5,
-   "points": 528,
+   "points": 534,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 129376704
@@ -1115,14 +1115,14 @@
   },
   {
    "position": 7,
-   "points": 465,
+   "points": 477,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 197953405
   },
   {
    "position": 8,
-   "points": 453,
+   "points": 462,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 146760699
