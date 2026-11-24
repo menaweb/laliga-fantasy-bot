@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-24T17:01:08+0000",
+ "fetched_at": "2026-11-24T17:32:40+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -962,6 +962,21 @@
    "marketValue": 89529216,
    "points": 86,
    "averagePoints": 6.615384615384615,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3184",
+   "discr": "marketPlayerTeam",
+   "salePrice": 2500000,
+   "expirationDate": "2026-11-27T18:26:17+01:00",
+   "numberOfBids": null,
+   "seller": "37664261",
+   "myBid": null,
+   "nickname": "H. Rincón",
+   "positionId": 2,
+   "marketValue": 1912574,
+   "points": 31,
+   "averagePoints": 2.3846153846153846,
    "playerStatus": "ok"
   }
  ],
