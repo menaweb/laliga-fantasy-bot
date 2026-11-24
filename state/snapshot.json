@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-24T03:01:07+0000",
+ "fetched_at": "2026-11-24T04:01:02+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -11,11 +11,11 @@
   "openingWeekDate": "2026-11-27T21:00:00+01:00",
   "closingWeekDate": "2026-12-01T03:00:00+01:00"
  },
- "money": 8944222,
+ "money": 12144222,
  "investment": 0,
  "team": {
   "teamValue": 146374508,
-  "teamPoints": 430,
+  "teamPoints": 462,
   "position": 8,
   "playersNumber": 14
  },
