@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-24T07:01:06+0000",
+ "fetched_at": "2026-11-24T08:01:02+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -500,36 +500,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "3128",
-   "discr": "marketPlayerTeam",
-   "salePrice": 65423165,
-   "expirationDate": "2026-11-24T08:13:34+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Guido Rodríguez",
-   "positionId": 3,
-   "marketValue": 10411159,
-   "points": 49,
-   "averagePoints": 4.9,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2302",
-   "discr": "marketPlayerTeam",
-   "salePrice": 54875489,
-   "expirationDate": "2026-11-24T08:14:14+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "R. Brugué",
-   "positionId": 4,
-   "marketValue": 8695327,
-   "points": 67,
-   "averagePoints": 5.583333333333333,
-   "playerStatus": "ok"
-  },
-  {
    "id": "68",
    "discr": "marketPlayerTeam",
    "salePrice": 108454236,
@@ -542,21 +512,6 @@
    "marketValue": 38234223,
    "points": 96,
    "averagePoints": 7.384615384615385,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3107",
-   "discr": "marketPlayerTeam",
-   "salePrice": 98564522,
-   "expirationDate": "2026-11-24T08:12:53+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Konaté",
-   "positionId": 2,
-   "marketValue": 51813958,
-   "points": 55,
-   "averagePoints": 4.230769230769231,
    "playerStatus": "ok"
   },
   {
