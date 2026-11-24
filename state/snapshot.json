@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-24T21:01:05+0000",
+ "fetched_at": "2026-11-24T22:01:00+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -11,13 +11,13 @@
   "openingWeekDate": "2026-11-27T21:00:00+01:00",
   "closingWeekDate": "2026-12-01T03:00:00+01:00"
  },
- "money": 23198225,
+ "money": 7698225,
  "investment": 2805634,
  "team": {
-  "teamValue": 136224146,
+  "teamValue": 146635305,
   "teamPoints": 462,
   "position": 8,
-  "playersNumber": 13
+  "playersNumber": 14
  },
  "squad": [
   {
@@ -105,20 +105,6 @@
    "onSale": false
   },
   {
-   "ptid": "37055594",
-   "id": "2991",
-   "nickname": "D. Villares",
-   "positionId": 3,
-   "teamId": "26",
-   "marketValue": 750431,
-   "points": 25,
-   "averagePoints": 1.9230769230769231,
-   "playerStatus": "ok",
-   "buyoutClause": 2393361,
-   "lockedEnd": "2026-09-01T20:08:29+0200",
-   "onSale": false
-  },
-  {
    "ptid": "71117586",
    "id": "856",
    "nickname": "Guridi",
@@ -133,6 +119,34 @@
    "onSale": false
   },
   {
+   "ptid": "119228365",
+   "id": "3128",
+   "nickname": "Guido Rodríguez",
+   "positionId": 3,
+   "teamId": "18",
+   "marketValue": 10411159,
+   "points": 49,
+   "averagePoints": 4.9,
+   "playerStatus": "ok",
+   "buyoutClause": 15500000,
+   "lockedEnd": "2026-12-08T22:01:29+0100",
+   "onSale": false
+  },
+  {
+   "ptid": "37055594",
+   "id": "2991",
+   "nickname": "D. Villares",
+   "positionId": 3,
+   "teamId": "26",
+   "marketValue": 750431,
+   "points": 25,
+   "averagePoints": 1.9230769230769231,
+   "playerStatus": "ok",
+   "buyoutClause": 2393361,
+   "lockedEnd": "2026-09-01T20:08:29+0200",
+   "onSale": false
+  },
+  {
    "ptid": "95452113",
    "id": "2939",
    "nickname": "G. Villar",
@@ -144,34 +158,6 @@
    "playerStatus": "ok",
    "buyoutClause": 10291509,
    "lockedEnd": "2026-10-19T23:11:39+0200",
-   "onSale": false
-  },
-  {
-   "ptid": "118452992",
-   "id": "886",
-   "nickname": "De Frutos",
-   "positionId": 4,
-   "teamId": "14",
-   "marketValue": 17051189,
-   "points": 51,
-   "averagePoints": 4.636363636363637,
-   "playerStatus": "ok",
-   "buyoutClause": 23486594,
-   "lockedEnd": "2026-12-06T20:29:31+0100",
-   "onSale": false
-  },
-  {
-   "ptid": "18792297",
-   "id": "3091",
-   "nickname": "Oyarzabal",
-   "positionId": 4,
-   "teamId": "16",
-   "marketValue": 43764243,
-   "points": 63,
-   "averagePoints": 5.25,
-   "playerStatus": "ok",
-   "buyoutClause": 91332677,
-   "lockedEnd": "2026-08-20T20:08:11+0200",
    "onSale": false
   },
   {
@@ -200,6 +186,34 @@
    "playerStatus": "ok",
    "buyoutClause": 27182613,
    "lockedEnd": "2026-11-23T20:48:56+0100",
+   "onSale": false
+  },
+  {
+   "ptid": "18792297",
+   "id": "3091",
+   "nickname": "Oyarzabal",
+   "positionId": 4,
+   "teamId": "16",
+   "marketValue": 43764243,
+   "points": 63,
+   "averagePoints": 5.25,
+   "playerStatus": "ok",
+   "buyoutClause": 91332677,
+   "lockedEnd": "2026-08-20T20:08:11+0200",
+   "onSale": false
+  },
+  {
+   "ptid": "118452992",
+   "id": "886",
+   "nickname": "De Frutos",
+   "positionId": 4,
+   "teamId": "14",
+   "marketValue": 17051189,
+   "points": 51,
+   "averagePoints": 4.636363636363637,
+   "playerStatus": "ok",
+   "buyoutClause": 23486594,
+   "lockedEnd": "2026-12-06T20:29:31+0100",
    "onSale": false
   }
  ],
@@ -295,7 +309,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 10921654,
    "expirationDate": "2026-11-25T20:08:00+01:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Blanco",
@@ -310,7 +324,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 5861507,
    "expirationDate": "2026-11-25T20:08:00+01:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Dolan",
@@ -415,7 +429,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 3232126,
    "expirationDate": "2026-11-25T20:08:00+01:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
    "myBid": null,
    "nickname": "Redondo",
@@ -603,21 +617,6 @@
    "marketValue": 708470,
    "points": 9,
    "averagePoints": 2.25,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2429",
-   "discr": "marketPlayerTeam",
-   "salePrice": 22500000,
-   "expirationDate": "2026-11-26T15:20:30+01:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "Fran García",
-   "positionId": 2,
-   "marketValue": 20695886,
-   "points": 43,
-   "averagePoints": 3.3076923076923075,
    "playerStatus": "ok"
   },
   {
@@ -964,7 +963,7 @@
    "points": 680,
    "team_id": "37664261",
    "manager": "Javi Cepas",
-   "teamValue": 453373296
+   "teamValue": 432677410
   },
   {
    "position": 3,
@@ -978,7 +977,7 @@
    "points": 575,
    "team_id": "37668923",
    "manager": "Paco!!",
-   "teamValue": 390699174
+   "teamValue": 380288015
   },
   {
    "position": 5,
@@ -1006,7 +1005,7 @@
    "points": 462,
    "team_id": "37682094",
    "manager": "menaweb",
-   "teamValue": 136224146
+   "teamValue": 146635305
   },
   {
    "position": 9,
