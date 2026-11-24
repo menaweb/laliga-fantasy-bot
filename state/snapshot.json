@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-24T16:01:05+0000",
+ "fetched_at": "2026-11-24T17:01:08+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -530,21 +530,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "1715",
-   "discr": "marketPlayerTeam",
-   "salePrice": 141210090,
-   "expirationDate": "2026-11-24T21:22:41+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Fermín",
-   "positionId": 3,
-   "marketValue": 138272403,
-   "points": 117,
-   "averagePoints": 9.0,
-   "playerStatus": "suspended"
-  },
-  {
    "id": "2958",
    "discr": "marketPlayerTeam",
    "salePrice": 15926560,
@@ -986,7 +971,7 @@
    "points": 751,
    "team_id": "37664721",
    "manager": "enriqsuar",
-   "teamValue": 598388139
+   "teamValue": 460115736
   },
   {
    "position": 2,
