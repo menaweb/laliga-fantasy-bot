@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-24T20:01:02+0000",
+ "fetched_at": "2026-11-24T21:01:05+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -11,13 +11,13 @@
   "openingWeekDate": "2026-11-27T21:00:00+01:00",
   "closingWeekDate": "2026-12-01T03:00:00+01:00"
  },
- "money": 12144222,
- "investment": 0,
+ "money": 23198225,
+ "investment": 2805634,
  "team": {
-  "teamValue": 146374508,
+  "teamValue": 136224146,
   "teamPoints": 462,
   "position": 8,
-  "playersNumber": 14
+  "playersNumber": 13
  },
  "squad": [
   {
@@ -189,20 +189,6 @@
    "onSale": false
   },
   {
-   "ptid": "110261021",
-   "id": "2603",
-   "nickname": "Ferran Jutglà",
-   "positionId": 4,
-   "teamId": "6",
-   "marketValue": 10150362,
-   "points": 46,
-   "averagePoints": 3.5384615384615383,
-   "playerStatus": "ok",
-   "buyoutClause": 14039270,
-   "lockedEnd": "2026-11-15T18:01:17+0100",
-   "onSale": true
-  },
-  {
    "ptid": "114144953",
    "id": "2973",
    "nickname": "Bil Nsongo",
@@ -294,9 +280,9 @@
    "discr": "marketPlayerLeague",
    "salePrice": 2693997,
    "expirationDate": "2026-11-25T20:08:00+01:00",
-   "numberOfBids": 0,
+   "numberOfBids": 1,
    "seller": "",
-   "myBid": null,
+   "myBid": 2805634,
    "nickname": "P. Martínez",
    "positionId": 3,
    "marketValue": 2693997,
@@ -935,21 +921,6 @@
    "playerStatus": "injured"
   },
   {
-   "id": "2603",
-   "discr": "marketPlayerTeam",
-   "salePrice": 10369733,
-   "expirationDate": "2026-11-26T21:01:22+01:00",
-   "numberOfBids": null,
-   "seller": "37682094",
-   "myBid": null,
-   "nickname": "Ferran Jutglà",
-   "positionId": 4,
-   "marketValue": 10150362,
-   "points": 46,
-   "averagePoints": 3.5384615384615383,
-   "playerStatus": "ok"
-  },
-  {
    "id": "3090",
    "discr": "marketPlayerTeam",
    "salePrice": 895292160,
@@ -1035,7 +1006,7 @@
    "points": 462,
    "team_id": "37682094",
    "manager": "menaweb",
-   "teamValue": 146374508
+   "teamValue": 136224146
   },
   {
    "position": 9,
