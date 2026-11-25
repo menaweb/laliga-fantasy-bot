@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-25T14:01:18+0000",
+ "fetched_at": "2026-11-25T15:01:18+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -515,51 +515,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2958",
-   "discr": "marketPlayerTeam",
-   "salePrice": 15926560,
-   "expirationDate": "2026-11-25T15:28:32+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Morcillo",
-   "positionId": 3,
-   "marketValue": 1543073,
-   "points": 44,
-   "averagePoints": 3.3846153846153846,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2784",
-   "discr": "marketPlayerTeam",
-   "salePrice": 149687120,
-   "expirationDate": "2026-11-25T15:28:26+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Marc Bernal",
-   "positionId": 3,
-   "marketValue": 14482396,
-   "points": 41,
-   "averagePoints": 3.1538461538461537,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "1674",
-   "discr": "marketPlayerTeam",
-   "salePrice": 1516831150,
-   "expirationDate": "2026-11-25T15:28:20+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Arda Güler",
-   "positionId": 3,
-   "marketValue": 151225736,
-   "points": 131,
-   "averagePoints": 10.076923076923077,
-   "playerStatus": "ok"
-  },
-  {
    "id": "230",
    "discr": "marketPlayerTeam",
    "salePrice": 63000000,
@@ -722,21 +677,6 @@
    "marketValue": 1392458,
    "points": 4,
    "averagePoints": 0.6666666666666666,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3262",
-   "discr": "marketPlayerTeam",
-   "salePrice": 152055380,
-   "expirationDate": "2026-11-25T15:30:14+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Félix Correia",
-   "positionId": 4,
-   "marketValue": 16390144,
-   "points": 63,
-   "averagePoints": 6.3,
    "playerStatus": "ok"
   },
   {
