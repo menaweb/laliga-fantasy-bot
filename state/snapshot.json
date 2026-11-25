@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-25T10:01:06+0000",
+ "fetched_at": "2026-11-25T11:01:05+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -470,21 +470,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "3177",
-   "discr": "marketPlayerTeam",
-   "salePrice": 54846425,
-   "expirationDate": "2026-11-25T12:00:29+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Vanja Drkusic",
-   "positionId": 2,
-   "marketValue": 938553,
-   "points": 28,
-   "averagePoints": 2.3333333333333335,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2302",
    "discr": "marketPlayerTeam",
    "salePrice": 45758526,
@@ -572,21 +557,6 @@
    "marketValue": 151225736,
    "points": 131,
    "averagePoints": 10.076923076923077,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3088",
-   "discr": "marketPlayerTeam",
-   "salePrice": 321542155,
-   "expirationDate": "2026-11-25T12:01:06+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Julián Alvarez",
-   "positionId": 4,
-   "marketValue": 81807644,
-   "points": 64,
-   "averagePoints": 7.111111111111111,
    "playerStatus": "ok"
   },
   {
@@ -752,21 +722,6 @@
    "marketValue": 1392458,
    "points": 4,
    "averagePoints": 0.6666666666666666,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2418",
-   "discr": "marketPlayerTeam",
-   "salePrice": 98548674,
-   "expirationDate": "2026-11-25T12:00:52+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Marc Roca",
-   "positionId": 3,
-   "marketValue": 44396413,
-   "points": 65,
-   "averagePoints": 5.0,
    "playerStatus": "ok"
   },
   {
