@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-25T06:01:14+0000",
+ "fetched_at": "2026-11-25T07:01:10+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -485,6 +485,21 @@
    "playerStatus": "ok"
   },
   {
+   "id": "2302",
+   "discr": "marketPlayerTeam",
+   "salePrice": 45758526,
+   "expirationDate": "2026-11-28T07:06:02+01:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "R. Brugué",
+   "positionId": 4,
+   "marketValue": 8661725,
+   "points": 67,
+   "averagePoints": 5.583333333333333,
+   "playerStatus": "ok"
+  },
+  {
    "id": "68",
    "discr": "marketPlayerTeam",
    "salePrice": 108454236,
@@ -497,6 +512,21 @@
    "marketValue": 37946243,
    "points": 96,
    "averagePoints": 7.384615384615385,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "3107",
+   "discr": "marketPlayerTeam",
+   "salePrice": 125412553,
+   "expirationDate": "2026-11-28T07:07:19+01:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Konaté",
+   "positionId": 2,
+   "marketValue": 52044269,
+   "points": 55,
+   "averagePoints": 4.230769230769231,
    "playerStatus": "ok"
   },
   {
@@ -932,6 +962,21 @@
    "marketValue": 1932334,
    "points": 31,
    "averagePoints": 2.3846153846153846,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2384",
+   "discr": "marketPlayerTeam",
+   "salePrice": 85652236,
+   "expirationDate": "2026-11-28T07:07:38+01:00",
+   "numberOfBids": null,
+   "seller": "37668923",
+   "myBid": null,
+   "nickname": "Unai Lopez",
+   "positionId": 3,
+   "marketValue": 34968478,
+   "points": 70,
+   "averagePoints": 5.384615384615385,
    "playerStatus": "ok"
   }
  ],
