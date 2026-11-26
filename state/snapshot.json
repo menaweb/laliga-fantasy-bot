@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-26T17:01:04+0000",
+ "fetched_at": "2026-11-26T18:01:04+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -691,21 +691,6 @@
    "marketValue": 83488703,
    "points": 64,
    "averagePoints": 7.111111111111111,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2516",
-   "discr": "marketPlayerTeam",
-   "salePrice": 14469060,
-   "expirationDate": "2026-11-26T18:44:17+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Puado",
-   "positionId": 3,
-   "marketValue": 1365976,
-   "points": 4,
-   "averagePoints": 0.6666666666666666,
    "playerStatus": "ok"
   },
   {
