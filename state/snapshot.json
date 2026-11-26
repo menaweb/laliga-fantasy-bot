@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-26T18:01:04+0000",
+ "fetched_at": "2026-11-26T19:01:04+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -278,7 +278,7 @@
    "discr": "marketPlayerLeague",
    "salePrice": 87883518,
    "expirationDate": "2026-11-26T20:08:00+01:00",
-   "numberOfBids": 1,
+   "numberOfBids": 2,
    "seller": "",
    "myBid": null,
    "nickname": "Vini Jr.",
@@ -694,6 +694,21 @@
    "playerStatus": "ok"
   },
   {
+   "id": "2516",
+   "discr": "marketPlayerTeam",
+   "salePrice": 13659760,
+   "expirationDate": "2026-11-29T19:11:59+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Puado",
+   "positionId": 3,
+   "marketValue": 1365976,
+   "points": 4,
+   "averagePoints": 0.6666666666666666,
+   "playerStatus": "ok"
+  },
+  {
    "id": "2418",
    "discr": "marketPlayerTeam",
    "salePrice": 215464874,
@@ -736,6 +751,36 @@
    "marketValue": 12436846,
    "points": 71,
    "averagePoints": 7.1,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "1614",
+   "discr": "marketPlayerTeam",
+   "salePrice": 21231750,
+   "expirationDate": "2026-11-29T19:11:46+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Cardona",
+   "positionId": 2,
+   "marketValue": 2123175,
+   "points": 30,
+   "averagePoints": 2.3076923076923075,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2530",
+   "discr": "marketPlayerTeam",
+   "salePrice": 646088960,
+   "expirationDate": "2026-11-29T19:11:34+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Huijsen",
+   "positionId": 2,
+   "marketValue": 64608896,
+   "points": 65,
+   "averagePoints": 5.416666666666667,
    "playerStatus": "ok"
   },
   {
@@ -916,6 +961,21 @@
    "marketValue": 40180508,
    "points": 71,
    "averagePoints": 5.461538461538462,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2400",
+   "discr": "marketPlayerTeam",
+   "salePrice": 9979490,
+   "expirationDate": "2026-11-29T19:12:16+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Pere Milla",
+   "positionId": 4,
+   "marketValue": 997949,
+   "points": 18,
+   "averagePoints": 1.3846153846153846,
    "playerStatus": "ok"
   }
  ],
