@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-27T20:01:07+0000",
+ "fetched_at": "2026-11-27T21:01:08+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -233,8 +233,8 @@
  ],
  "xi": {
   "formation": [
-   4,
    3,
+   4,
    3
   ],
   "goalkeeper": [
@@ -243,10 +243,10 @@
   "defender": [
    "77354588",
    "93815264",
-   "106505338",
    "116768974"
   ],
   "midfield": [
+   "71117586",
    "95452113",
    "119228365",
    "119544912"
@@ -315,7 +315,7 @@
    "positionId": 4,
    "marketValue": 906222,
    "points": 11,
-   "averagePoints": 0.8461538461538461,
+   "averagePoints": 0.7857142857142857,
    "playerStatus": "ok"
   },
   {
@@ -540,7 +540,7 @@
    "positionId": 4,
    "marketValue": 8625481,
    "points": 67,
-   "averagePoints": 5.583333333333333,
+   "averagePoints": 5.153846153846154,
    "playerStatus": "ok"
   },
   {
@@ -690,7 +690,7 @@
    "positionId": 2,
    "marketValue": 1192062,
    "points": 34,
-   "averagePoints": 3.090909090909091,
+   "averagePoints": 2.8333333333333335,
    "playerStatus": "ok"
   },
   {
@@ -1175,7 +1175,7 @@
   },
   {
    "position": 5,
-   "points": 534,
+   "points": 541,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 123699906
@@ -1189,7 +1189,7 @@
   },
   {
    "position": 7,
-   "points": 476,
+   "points": 480,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 223477541
