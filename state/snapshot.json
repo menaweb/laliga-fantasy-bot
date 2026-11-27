@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-27T21:01:08+0000",
+ "fetched_at": "2026-11-27T22:01:04+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -314,8 +314,8 @@
    "nickname": "Villalibre",
    "positionId": 4,
    "marketValue": 906222,
-   "points": 11,
-   "averagePoints": 0.7857142857142857,
+   "points": 12,
+   "averagePoints": 0.8571428571428571,
    "playerStatus": "ok"
   },
   {
@@ -1161,7 +1161,7 @@
   },
   {
    "position": 3,
-   "points": 665,
+   "points": 679,
    "team_id": "37678052",
    "manager": "olegwarrior",
    "teamValue": 241004330
@@ -1175,7 +1175,7 @@
   },
   {
    "position": 5,
-   "points": 541,
+   "points": 547,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 123699906
@@ -1189,7 +1189,7 @@
   },
   {
    "position": 7,
-   "points": 480,
+   "points": 489,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 223477541
