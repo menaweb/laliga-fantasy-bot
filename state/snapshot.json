@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-27T22:01:04+0000",
+ "fetched_at": "2026-11-27T23:01:07+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -539,8 +539,8 @@
    "nickname": "R. Brugué",
    "positionId": 4,
    "marketValue": 8625481,
-   "points": 67,
-   "averagePoints": 5.153846153846154,
+   "points": 68,
+   "averagePoints": 5.230769230769231,
    "playerStatus": "ok"
   },
   {
@@ -1154,28 +1154,28 @@
   },
   {
    "position": 2,
+   "points": 686,
+   "team_id": "37678052",
+   "manager": "olegwarrior",
+   "teamValue": 241004330
+  },
+  {
+   "position": 3,
    "points": 680,
    "team_id": "37664261",
    "manager": "Javi Cepas",
    "teamValue": 401265487
   },
   {
-   "position": 3,
-   "points": 679,
-   "team_id": "37678052",
-   "manager": "olegwarrior",
-   "teamValue": 241004330
-  },
-  {
    "position": 4,
-   "points": 575,
+   "points": 576,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 412783176
   },
   {
    "position": 5,
-   "points": 547,
+   "points": 552,
    "team_id": "37679249",
    "manager": "RamónBético",
    "teamValue": 123699906
@@ -1189,7 +1189,7 @@
   },
   {
    "position": 7,
-   "points": 489,
+   "points": 495,
    "team_id": "37667518",
    "manager": "Rcoba",
    "teamValue": 223477541
