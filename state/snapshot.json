@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-28T07:01:05+0000",
+ "fetched_at": "2026-11-28T08:01:05+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -634,21 +634,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "3227",
-   "discr": "marketPlayerTeam",
-   "salePrice": 1500000,
-   "expirationDate": "2026-11-29T21:14:00+01:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "Ifeanyi Ndukwe",
-   "positionId": 2,
-   "marketValue": 1176180,
-   "points": 34,
-   "averagePoints": 2.8333333333333335,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2385",
    "discr": "marketPlayerTeam",
    "salePrice": 1000000,
@@ -811,21 +796,6 @@
    "marketValue": 6598348,
    "points": 34,
    "averagePoints": 2.6153846153846154,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2074",
-   "discr": "marketPlayerTeam",
-   "salePrice": 7500000,
-   "expirationDate": "2026-11-29T21:14:26+01:00",
-   "numberOfBids": null,
-   "seller": "37664261",
-   "myBid": null,
-   "nickname": "Javi Rodríguez",
-   "positionId": 2,
-   "marketValue": 7180248,
-   "points": 41,
-   "averagePoints": 3.1538461538461537,
    "playerStatus": "ok"
   },
   {
@@ -1089,7 +1059,7 @@
    "points": 680,
    "team_id": "37664261",
    "manager": "Javi Cepas",
-   "teamValue": 400640264
+   "teamValue": 392283836
   },
   {
    "position": 4,
