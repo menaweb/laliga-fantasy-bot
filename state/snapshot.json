@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-28T12:01:05+0000",
+ "fetched_at": "2026-11-28T13:01:08+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -510,7 +510,7 @@
    "positionId": 2,
    "marketValue": 59932690,
    "points": 77,
-   "averagePoints": 5.923076923076923,
+   "averagePoints": 5.5,
    "playerStatus": "ok"
   },
   {
@@ -630,7 +630,7 @@
    "positionId": 2,
    "marketValue": 712217,
    "points": 9,
-   "averagePoints": 2.25,
+   "averagePoints": 1.8,
    "playerStatus": "ok"
   },
   {
@@ -645,7 +645,7 @@
    "positionId": 3,
    "marketValue": 765324,
    "points": 32,
-   "averagePoints": 2.4615384615384617,
+   "averagePoints": 2.2857142857142856,
    "playerStatus": "ok"
   },
   {
@@ -825,7 +825,7 @@
    "positionId": 3,
    "marketValue": 92336475,
    "points": 86,
-   "averagePoints": 6.615384615384615,
+   "averagePoints": 6.142857142857143,
    "playerStatus": "ok"
   },
   {
@@ -840,7 +840,7 @@
    "positionId": 2,
    "marketValue": 44516099,
    "points": 73,
-   "averagePoints": 5.615384615384615,
+   "averagePoints": 5.214285714285714,
    "playerStatus": "ok"
   },
   {
