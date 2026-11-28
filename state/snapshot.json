@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-28T06:01:09+0000",
+ "fetched_at": "2026-11-28T07:01:05+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -529,21 +529,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2302",
-   "discr": "marketPlayerTeam",
-   "salePrice": 45758526,
-   "expirationDate": "2026-11-28T07:06:02+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "R. Brugué",
-   "positionId": 4,
-   "marketValue": 8581324,
-   "points": 68,
-   "averagePoints": 5.230769230769231,
-   "playerStatus": "ok"
-  },
-  {
    "id": "68",
    "discr": "marketPlayerTeam",
    "salePrice": 354215467,
@@ -589,21 +574,6 @@
    "playerStatus": "injured"
   },
   {
-   "id": "3107",
-   "discr": "marketPlayerTeam",
-   "salePrice": 125412553,
-   "expirationDate": "2026-11-28T07:07:19+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Konaté",
-   "positionId": 2,
-   "marketValue": 52378432,
-   "points": 55,
-   "averagePoints": 4.230769230769231,
-   "playerStatus": "ok"
-  },
-  {
    "id": "2958",
    "discr": "marketPlayerTeam",
    "salePrice": 15430730,
@@ -631,21 +601,6 @@
    "marketValue": 151095221,
    "points": 131,
    "averagePoints": 10.076923076923077,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "3088",
-   "discr": "marketPlayerTeam",
-   "salePrice": 243152664,
-   "expirationDate": "2026-11-28T18:17:30+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Julián Alvarez",
-   "positionId": 4,
-   "marketValue": 85516500,
-   "points": 64,
-   "averagePoints": 7.111111111111111,
    "playerStatus": "ok"
   },
   {
@@ -799,21 +754,6 @@
    "playerStatus": "ok"
   },
   {
-   "id": "2418",
-   "discr": "marketPlayerTeam",
-   "salePrice": 215464874,
-   "expirationDate": "2026-11-28T18:17:07+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Marc Roca",
-   "positionId": 3,
-   "marketValue": 46079087,
-   "points": 65,
-   "averagePoints": 5.0,
-   "playerStatus": "ok"
-  },
-  {
    "id": "3262",
    "discr": "marketPlayerTeam",
    "salePrice": 163901440,
@@ -916,21 +856,6 @@
    "marketValue": 92336475,
    "points": 86,
    "averagePoints": 6.615384615384615,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "2384",
-   "discr": "marketPlayerTeam",
-   "salePrice": 85652236,
-   "expirationDate": "2026-11-28T07:07:38+01:00",
-   "numberOfBids": null,
-   "seller": "37668923",
-   "myBid": null,
-   "nickname": "Unai Lopez",
-   "positionId": 3,
-   "marketValue": 35835210,
-   "points": 70,
-   "averagePoints": 5.384615384615385,
    "playerStatus": "ok"
   },
   {
@@ -1171,7 +1096,7 @@
    "points": 576,
    "team_id": "37668923",
    "manager": "Paco!!",
-   "teamValue": 415912757
+   "teamValue": 284317170
   },
   {
    "position": 5,
