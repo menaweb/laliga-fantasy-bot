@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-28T10:14:38+0000",
+ "fetched_at": "2026-11-28T11:01:15+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -829,6 +829,51 @@
    "playerStatus": "ok"
   },
   {
+   "id": "121",
+   "discr": "marketPlayerTeam",
+   "salePrice": 445160990,
+   "expirationDate": "2026-12-01T11:40:59+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Bartra",
+   "positionId": 2,
+   "marketValue": 44516099,
+   "points": 73,
+   "averagePoints": 5.615384615384615,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "74",
+   "discr": "marketPlayerTeam",
+   "salePrice": 335400210,
+   "expirationDate": "2026-12-01T11:41:06+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Yuri",
+   "positionId": 2,
+   "marketValue": 33540021,
+   "points": 64,
+   "averagePoints": 5.333333333333333,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "1565",
+   "discr": "marketPlayerTeam",
+   "salePrice": 452931260,
+   "expirationDate": "2026-12-01T11:40:52+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Barrios",
+   "positionId": 3,
+   "marketValue": 45293126,
+   "points": 54,
+   "averagePoints": 5.4,
+   "playerStatus": "ok"
+  },
+  {
    "id": "3182",
    "discr": "marketPlayerTeam",
    "salePrice": 6016379,
@@ -991,6 +1036,21 @@
    "marketValue": 8173635,
    "points": 43,
    "averagePoints": 3.909090909090909,
+   "playerStatus": "ok"
+  },
+  {
+   "id": "2530",
+   "discr": "marketPlayerTeam",
+   "salePrice": 657609370,
+   "expirationDate": "2026-12-01T11:41:12+01:00",
+   "numberOfBids": null,
+   "seller": "37664721",
+   "myBid": null,
+   "nickname": "Huijsen",
+   "positionId": 2,
+   "marketValue": 65760937,
+   "points": 65,
+   "averagePoints": 5.416666666666667,
    "playerStatus": "ok"
   }
  ],
