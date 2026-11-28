@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-28T13:01:08+0000",
+ "fetched_at": "2026-11-28T14:01:01+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -27,8 +27,8 @@
    "positionId": 1,
    "teamId": "14",
    "marketValue": 4265042,
-   "points": 41,
-   "averagePoints": 4.555555555555555,
+   "points": 43,
+   "averagePoints": 4.3,
    "playerStatus": "ok",
    "buyoutClause": 5500000,
    "lockedEnd": "2026-12-04T11:41:19+0100",
@@ -70,7 +70,7 @@
    "teamId": "5",
    "marketValue": 4902812,
    "points": 45,
-   "averagePoints": 3.4615384615384617,
+   "averagePoints": 3.2142857142857144,
    "playerStatus": "ok",
    "buyoutClause": 6887943,
    "lockedEnd": "2026-11-08T16:02:09+0100",
@@ -141,7 +141,7 @@
    "marketValue": 10504433,
    "points": 49,
    "averagePoints": 4.9,
-   "playerStatus": "doubtful",
+   "playerStatus": "ok",
    "buyoutClause": 15500000,
    "lockedEnd": "2026-12-08T22:01:29+0100",
    "onSale": false
@@ -182,7 +182,7 @@
    "teamId": "14",
    "marketValue": 17290066,
    "points": 51,
-   "averagePoints": 4.636363636363637,
+   "averagePoints": 4.25,
    "playerStatus": "ok",
    "buyoutClause": 23486594,
    "lockedEnd": "2026-12-06T20:29:31+0100",
@@ -509,8 +509,8 @@
    "nickname": "Natan",
    "positionId": 2,
    "marketValue": 59932690,
-   "points": 77,
-   "averagePoints": 5.5,
+   "points": 79,
+   "averagePoints": 5.642857142857143,
    "playerStatus": "ok"
   },
   {
@@ -824,8 +824,8 @@
    "nickname": "Isco",
    "positionId": 3,
    "marketValue": 92336475,
-   "points": 86,
-   "averagePoints": 6.142857142857143,
+   "points": 88,
+   "averagePoints": 6.285714285714286,
    "playerStatus": "ok"
   },
   {
@@ -839,8 +839,8 @@
    "nickname": "Bartra",
    "positionId": 2,
    "marketValue": 44516099,
-   "points": 73,
-   "averagePoints": 5.214285714285714,
+   "points": 74,
+   "averagePoints": 5.285714285714286,
    "playerStatus": "ok"
   },
   {
@@ -1057,7 +1057,7 @@
  "standing": [
   {
    "position": 1,
-   "points": 751,
+   "points": 754,
    "team_id": "37664721",
    "manager": "enriqsuar",
    "teamValue": 554423562
@@ -1078,7 +1078,7 @@
   },
   {
    "position": 4,
-   "points": 576,
+   "points": 579,
    "team_id": "37668923",
    "manager": "Paco!!",
    "teamValue": 284317170
@@ -1106,7 +1106,7 @@
   },
   {
    "position": 8,
-   "points": 462,
+   "points": 464,
    "team_id": "37682094",
    "manager": "menaweb",
    "teamValue": 149785278
