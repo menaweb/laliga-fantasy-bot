@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-28T09:01:09+0000",
+ "fetched_at": "2026-11-28T10:01:14+0000",
  "league_id": "017900934",
  "team_id": "37682094",
  "manager_id": "11824032",
@@ -826,51 +826,6 @@
    "marketValue": 92336475,
    "points": 86,
    "averagePoints": 6.615384615384615,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "121",
-   "discr": "marketPlayerTeam",
-   "salePrice": 420700740,
-   "expirationDate": "2026-11-28T10:01:31+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Bartra",
-   "positionId": 2,
-   "marketValue": 44516099,
-   "points": 73,
-   "averagePoints": 5.615384615384615,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "74",
-   "discr": "marketPlayerTeam",
-   "salePrice": 327146930,
-   "expirationDate": "2026-11-28T10:01:39+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Yuri",
-   "positionId": 2,
-   "marketValue": 33540021,
-   "points": 64,
-   "averagePoints": 5.333333333333333,
-   "playerStatus": "ok"
-  },
-  {
-   "id": "1565",
-   "discr": "marketPlayerTeam",
-   "salePrice": 430392740,
-   "expirationDate": "2026-11-28T10:02:21+01:00",
-   "numberOfBids": null,
-   "seller": "37664721",
-   "myBid": null,
-   "nickname": "Barrios",
-   "positionId": 3,
-   "marketValue": 45293126,
-   "points": 54,
-   "averagePoints": 5.4,
    "playerStatus": "ok"
   },
   {
